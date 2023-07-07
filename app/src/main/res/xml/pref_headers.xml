@@ -5,11 +5,6 @@
         android:title="@string/settings_customization" />
 
     <header
-        android:fragment="com.ardently.love.delightgame.ui.settings.Settings$MenuPreferenceFragment"
-        android:summary="@string/settings_menu_description"
-        android:title="@string/settings_menu" />
-
-    <header
         android:summary="@string/settings_games_description"
         android:title="@string/settings_games">
 
@@ -17,16 +12,6 @@
             android:targetClass="com.ardently.love.delightgame.ui.settings.SettingsGames"
             android:targetPackage="com.ardently.love.delightgame" />
     </header>
-
-    <header
-        android:fragment="com.ardently.love.delightgame.ui.settings.Settings$SoundPreferenceFragment"
-        android:summary="@string/Settings_sounds_text"
-        android:title="@string/Settings_sounds_title" />
-
-    <header
-        android:fragment="com.ardently.love.delightgame.ui.settings.Settings$AdditionalMovementsPreferenceFragment"
-        android:summary="@string/settings_additional_movements_description"
-        android:title="@string/settings_additional_movements" />
 
     <header
         android:fragment="com.ardently.love.delightgame.ui.settings.Settings$OtherPreferenceFragment"

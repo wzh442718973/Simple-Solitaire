@@ -87,9 +87,9 @@ public class GameSelector extends CustomAppCompatActivity
             case R.id.item_settings:
                 startActivity(new Intent(getApplicationContext(), Settings.class));
                 break;
-            case R.id.item_manual:
-                startActivity(new Intent(getApplicationContext(), Manual.class));
-                break;
+//            case R.id.item_manual:
+//                startActivity(new Intent(getApplicationContext(), Manual.class));
+//                break;
             case R.id.item_about:
                 startActivity(new Intent(getApplicationContext(), AboutActivity.class));
                 break;

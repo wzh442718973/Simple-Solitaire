@@ -133,25 +133,25 @@ public class LoadGame {
     public void loadAllGames() {
         allGameInformation.clear();
 
-        allGameInformation.add(new AllGameInformation(R.string.games_AcesUp, "AcesUp", false, 40));
-        allGameInformation.add(new AllGameInformation(R.string.games_Calculation, "Calculation", false, 30));
-        allGameInformation.add(new AllGameInformation(R.string.games_Canfield, "Canfield", false, 40));
-        allGameInformation.add(new AllGameInformation(R.string.games_FortyEight, "FortyEight", false, 50));
+//        allGameInformation.add(new AllGameInformation(R.string.games_AcesUp, "AcesUp", false, 40));
+//        allGameInformation.add(new AllGameInformation(R.string.games_Calculation, "Calculation", false, 30));
+//        allGameInformation.add(new AllGameInformation(R.string.games_Canfield, "Canfield", false, 40));
+//        allGameInformation.add(new AllGameInformation(R.string.games_FortyEight, "FortyEight", false, 50));
         allGameInformation.add(new AllGameInformation(R.string.games_Freecell, "Freecell", false, 15));
-        allGameInformation.add(new AllGameInformation(R.string.games_Golf, "Golf", true, 40));
-        allGameInformation.add(new AllGameInformation(R.string.games_GrandfathersClock, "GrandfathersClock", true, 50));
-        allGameInformation.add(new AllGameInformation(R.string.games_Gypsy, "Gypsy", false, 80));
+//        allGameInformation.add(new AllGameInformation(R.string.games_Golf, "Golf", true, 40));
+//        allGameInformation.add(new AllGameInformation(R.string.games_GrandfathersClock, "GrandfathersClock", true, 50));
+//        allGameInformation.add(new AllGameInformation(R.string.games_Gypsy, "Gypsy", false, 80));
         allGameInformation.add(new AllGameInformation(R.string.games_Klondike, "Klondike", true, 30));
-        allGameInformation.add(new AllGameInformation(R.string.games_Maze, "Maze", false, 20));
-        allGameInformation.add(new AllGameInformation(R.string.games_mod3, "mod3", true, 70));
-        allGameInformation.add(new AllGameInformation(R.string.games_NapoleonsTomb, "NapoleonsTomb", false, 20));
+//        allGameInformation.add(new AllGameInformation(R.string.games_Maze, "Maze", false, 20));
+//        allGameInformation.add(new AllGameInformation(R.string.games_mod3, "mod3", true, 70));
+//        allGameInformation.add(new AllGameInformation(R.string.games_NapoleonsTomb, "NapoleonsTomb", false, 20));
         allGameInformation.add(new AllGameInformation(R.string.games_Pyramid, "Pyramid", true, 40));
         allGameInformation.add(new AllGameInformation(R.string.games_SimpleSimon, "SimpleSimon", false, 25));
         allGameInformation.add(new AllGameInformation(R.string.games_Spider, "Spider", false, 50));
         allGameInformation.add(new AllGameInformation(R.string.games_Spiderette, "Spiderette", false, 30));
-        allGameInformation.add(new AllGameInformation(R.string.games_TriPeaks, "TriPeaks", true, 40));
-        allGameInformation.add(new AllGameInformation(R.string.games_Vegas, "Vegas", false, 30));
-        allGameInformation.add(new AllGameInformation(R.string.games_Yukon, "Yukon", true, 80));
+//        allGameInformation.add(new AllGameInformation(R.string.games_TriPeaks, "TriPeaks", true, 40));
+//        allGameInformation.add(new AllGameInformation(R.string.games_Vegas, "Vegas", false, 30));
+//        allGameInformation.add(new AllGameInformation(R.string.games_Yukon, "Yukon", true, 80));
 
         GAME_COUNT = allGameInformation.size();
     }

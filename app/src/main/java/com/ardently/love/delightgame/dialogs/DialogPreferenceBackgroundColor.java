@@ -18,9 +18,9 @@
 
 package com.ardently.love.delightgame.dialogs;
 
+import android.app.AlertDialog;
 import android.content.Context;
 import android.os.Bundle;
-import androidx.appcompat.app.AlertDialog;
 import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;

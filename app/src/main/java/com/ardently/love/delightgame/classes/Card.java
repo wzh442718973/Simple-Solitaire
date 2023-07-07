@@ -149,8 +149,10 @@ public class Card {
      */
     public static void load() {
         List<Integer> list = prefs.getSavedCards();
-
         for (int i = 0; i < cards.length; i++) {
+            if(i >= list.size()){
+                continue;
+            }
             switch (list.get(i)) {
                 case STATE_FACED_UP:
                     cards[i].flipUp();

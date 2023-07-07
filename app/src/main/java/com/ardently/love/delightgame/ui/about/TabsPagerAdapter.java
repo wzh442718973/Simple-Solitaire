@@ -36,7 +36,7 @@ public class TabsPagerAdapter extends FragmentPagerAdapter {
 
     TabsPagerAdapter(FragmentManager fm, Context context) {
         super(fm);
-        TITLES = new String[]{context.getString(R.string.about_tab_1), context.getString(R.string.about_tab_2), context.getString(R.string.about_tab_3)};
+        TITLES = new String[]{context.getString(R.string.about_tab_1)};//, context.getString(R.string.about_tab_2), context.getString(R.string.about_tab_3)};
     }
 
     @Override
@@ -54,10 +54,10 @@ public class TabsPagerAdapter extends FragmentPagerAdapter {
         switch (index) {
             case 0:
                 return new InformationFragment();
-            case 1:
-                return new LicenseFragment();
-            case 2:
-                return new ChangeLogFragment();
+//            case 1:
+//                return new LicenseFragment();
+//            case 2:
+//                return new ChangeLogFragment();
         }
 
         return null;
