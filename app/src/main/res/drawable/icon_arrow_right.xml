@@ -1,10 +1,13 @@
-<!-- drawable/chevron_right.xml -->
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="vector"
     android:width="24dp"
     android:height="24dp"
     android:viewportWidth="24"
     android:viewportHeight="24">
     <path
-        android:fillColor="#000"
-        android:pathData="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" />
+        android:name="path"
+        android:pathData="M 16.3 13.1 L 8.9 20.6 C 8.5 21 8 21 7.6 20.6 C 7.4 20.4 7.3 20.2 7.3 19.9 L 7.3 5.1 C 7.3 4.6 7.7 4.2 8.2 4.2 C 8.4 4.2 8.7 4.3 8.8 4.5 L 16.2 11.9 C 16.7 12.2 16.7 12.8 16.3 13.1 Z"
+        android:fillColor="#2c2c2c"
+        android:strokeWidth="1"/>
 </vector>
