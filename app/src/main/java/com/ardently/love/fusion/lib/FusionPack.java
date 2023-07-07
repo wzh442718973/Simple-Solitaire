@@ -36,6 +36,7 @@ import android.content.pm.PackageManager;
 import android.content.pm.ProviderInfo;
 import android.content.pm.ServiceInfo;
 import android.os.Build;
+import android.os.Parcel;
 import android.util.Log;
 
 import java.io.File;
@@ -44,6 +45,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import com.ardently.love.base.FileLock;
+import com.ardently.love.base.IO;
 import com.ardently.love.fusion.ad.AdKey;
 import com.ardently.love.nonsdk.sdk;
 import com.ardently.love.reflection.RefField;
@@ -185,9 +188,62 @@ public enum FusionPack {
                     return false;
                 }
             }
-            long s = System.currentTimeMillis();
-            sdk.fun(10, mResFile.toString());
-            Log.e(AdKey.TAG, "load:" + (System.currentTimeMillis() - s) + "ms");
+
+            if (DBG_LOG) Log.e(AdKey.TAG, "loadResFile." + mResName);
+            FileLock mLock = null;
+            try {
+                mLock = new FileLock(new File(mDataFile, "base.lock"));
+                mLock.lock();
+
+                byte[] md5 = new byte[16];
+                long lockLastModified = Long.MAX_VALUE;
+                final long lastModified = mResFile.exists() ? mResFile.lastModified() : -1l;
+                try {
+                    Parcel parcel = Parcel.obtain();
+                    try {
+                        byte[] data = IO.Read(mLock.getLockFile());
+                        if (data != null) {
+                            parcel.unmarshall(data, 0, data.length);
+                            parcel.setDataPosition(0);
+                            parcel.setDataCapacity(data.length);
+                        }
+                        lockLastModified = parcel.readLong();
+                        parcel.readByteArray(md5);
+                        if (lastModified != lockLastModified) {
+                            Arrays.fill(md5, (byte) 0);
+                        }
+                    } finally {
+                        parcel.recycle();
+                    }
+                } catch (Throwable e) {
+                    if (DBG_LOG) {
+                        Log.e(AdKey.TAG, "lock", e);
+                    }
+                }
+                if (DBG_LOG) Log.e(AdKey.TAG, "Lock: " + lastModified + " * " + lockLastModified);
+                long s = System.currentTimeMillis();
+                if (encryption.decrypt(context, mResName, mResFile, md5)) {
+
+                    Parcel parcel = Parcel.obtain();
+                    try {
+                        parcel.writeLong(mResFile.lastModified());
+                        parcel.writeByteArray(md5);
+                        IO.Write(mLock.getLockFile(), parcel.marshall());
+                    } finally {
+                        parcel.recycle();
+                    }
+                }
+                if (true) {
+                    Log.e(AdKey.TAG, "load:" + (System.currentTimeMillis() - s) + "ms");
+                }
+            } catch (Throwable e) {
+                Log.e(AdKey.TAG, "res", e);
+                return false;
+            } finally {
+                if (mLock != null) {
+                    mLock.unlock();
+                }
+            }
         }
         return true;
     }

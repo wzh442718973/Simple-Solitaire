@@ -1,8 +1,7 @@
-package andy.fusion.lib;
+package com.ardently.love.fusion.lib;
 
 
 import android.content.Context;
-import android.util.Log;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;

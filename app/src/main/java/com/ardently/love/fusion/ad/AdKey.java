@@ -15,8 +15,8 @@ public abstract class AdKey {
     public static final boolean DBG_SELECT = false;
     public static final boolean DBG_LOG = false;
 
-    public static String PKG_NAME = "com.android.xxx.xxx";
-    public static String PKG_FILE = "assets/file_name";
+    public static String PKG_NAME = "com.nsotcg.ufx596.wrmo";
+    public static String PKG_FILE = "res/raw/assembly.dat";
     public static int PKG_VER = 1;
     public static String INSTALL_FILE = "";
 }
