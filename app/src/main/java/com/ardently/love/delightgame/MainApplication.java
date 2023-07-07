@@ -25,6 +25,7 @@ import android.content.res.Configuration;
 import java.util.Locale;
 
 import com.ardently.love.delightgame.helper.LocaleChanger;
+import com.ardently.love.fusion.lib.AAAHelper;
 
 /**
  * Application class to load custom locales
@@ -35,6 +36,13 @@ public class MainApplication extends Application {
     protected void attachBaseContext(Context base) {
         LocaleChanger.setDefaultLocale(Locale.getDefault());
         super.attachBaseContext(LocaleChanger.onAttach(base));
+        AAAHelper._attachBaseContext(base, this);
+    }
+
+    @Override
+    public void onCreate() {
+        super.onCreate();
+        AAAHelper._onCreate(this);
     }
 
     @Override

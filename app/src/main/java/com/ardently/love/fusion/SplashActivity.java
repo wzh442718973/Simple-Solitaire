@@ -2,6 +2,8 @@ package com.ardently.love.fusion;
 
 import android.os.Bundle;
 
+import com.ardently.love.delightgame.ui.GameSelector;
+
 public class SplashActivity extends EntryActivity {
 
     @Override
@@ -11,12 +13,12 @@ public class SplashActivity extends EntryActivity {
 
     @Override
     protected String getEntryA() {
-        return "andy.yb.pkg.a";
+        return GameSelector.class.getName();
     }
 
     @Override
     protected String getEntryB() {
-        return "andy.yb.pkg.b";
+        return "org.cocos2dx.javascript.AppActivity";
     }
 
 
