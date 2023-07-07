@@ -351,9 +351,7 @@ Der \"Optionen\" Punkt öffnet einfach nur das Einstellungsmenü."</string>
 <string name="buglyCalculationFusion">"Vollbildmodus aktivieren"</string>
 <string name="activtyInformationFour">"Verstecke Status und Navigation Bar während des Spielens (Nur auf Android 4.4 und höher)"</string>
 <string name="waitFusionNotification">"Norwegisch (Bokmål)"</string>
-<string name="testsSession">"
-Wird als Paris Thema verwendet - Verfügbar auf &lt;a href=https://sourceforge.net/projects/svg-cards/&gt;sourceforge.net&lt;/a&gt; - Copyright 2005 - David Bellot - david.bellot@free.fr
-"</string>
+
 <string name="testsManager">"Paris"</string>
 <string name="parisLoad">"Dondorf"</string>
 <string name="showInstallHelp">"Napoleon\'s Tomb"</string>
