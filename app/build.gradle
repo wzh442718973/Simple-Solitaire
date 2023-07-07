@@ -1,15 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 28
-    buildToolsVersion '28.0.3'
+    compileSdkVersion 31
+    buildToolsVersion '31.0.0'
 
     defaultConfig {
-        applicationId "de.tobiasbielefeld.solitaire"
+        applicationId "com.ardently.love.delightgame"
         minSdkVersion 14
-        targetSdkVersion 28
-        versionCode 71
-        versionName "3.13"
+        targetSdkVersion 31
+        versionCode 137
+        versionName "1.3.7"
 
         vectorDrawables.useSupportLibrary = true
         buildConfigField "long", "TIMESTAMP", System.currentTimeMillis() + "L"

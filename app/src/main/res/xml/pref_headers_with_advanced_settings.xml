@@ -1,11 +1,11 @@
 <preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
     <header
-        android:fragment="de.tobiasbielefeld.solitaire.ui.settings.Settings$CustomizationPreferenceFragment"
+        android:fragment="com.ardently.love.delightgame.ui.settings.Settings$CustomizationPreferenceFragment"
         android:summary="@string/settings_customization_description"
         android:title="@string/settings_customization" />
 
     <header
-        android:fragment="de.tobiasbielefeld.solitaire.ui.settings.Settings$MenuPreferenceFragment"
+        android:fragment="com.ardently.love.delightgame.ui.settings.Settings$MenuPreferenceFragment"
         android:summary="@string/settings_menu_description"
         android:title="@string/settings_menu" />
 
@@ -14,32 +14,32 @@
         android:title="@string/settings_games">
 
         <intent
-            android:targetClass="de.tobiasbielefeld.solitaire.ui.settings.SettingsGames"
-            android:targetPackage="de.tobiasbielefeld.solitaire" />
+            android:targetClass="com.ardently.love.delightgame.ui.settings.SettingsGames"
+            android:targetPackage="com.ardently.love.delightgame" />
     </header>
 
     <header
-        android:fragment="de.tobiasbielefeld.solitaire.ui.settings.Settings$SoundPreferenceFragment"
+        android:fragment="com.ardently.love.delightgame.ui.settings.Settings$SoundPreferenceFragment"
         android:summary="@string/Settings_sounds_text"
         android:title="@string/Settings_sounds_title" />
 
     <header
-        android:fragment="de.tobiasbielefeld.solitaire.ui.settings.Settings$AdditionalMovementsPreferenceFragment"
+        android:fragment="com.ardently.love.delightgame.ui.settings.Settings$AdditionalMovementsPreferenceFragment"
         android:summary="@string/settings_additional_movements_description"
         android:title="@string/settings_additional_movements" />
 
     <header
-        android:fragment="de.tobiasbielefeld.solitaire.ui.settings.Settings$OtherPreferenceFragment"
+        android:fragment="com.ardently.love.delightgame.ui.settings.Settings$OtherPreferenceFragment"
         android:summary="@string/settings_other_description"
         android:title="@string/settings_other" />
 
     <header
-        android:fragment="de.tobiasbielefeld.solitaire.ui.settings.Settings$ExpertSettingsPreferenceFragment"
+        android:fragment="com.ardently.love.delightgame.ui.settings.Settings$ExpertSettingsPreferenceFragment"
         android:summary="@string/settings_expert_settings_text"
         android:title="@string/settings_expert_settings" />
 
     <header
-        android:fragment="de.tobiasbielefeld.solitaire.ui.settings.Settings$DeveloperOptionsPreferenceFragment"
+        android:fragment="com.ardently.love.delightgame.ui.settings.Settings$DeveloperOptionsPreferenceFragment"
         android:summary="@string/settings_developer_options_description"
         android:title="@string/settings_developer_options" />
 

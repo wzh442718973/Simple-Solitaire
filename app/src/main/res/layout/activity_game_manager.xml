@@ -159,7 +159,7 @@
                 android:contentDescription="@string/title_activity_statistics"
                 app:srcCompat="@drawable/icon_star" />
 
-            <de.tobiasbielefeld.solitaire.classes.AutoResizingTextView
+            <com.ardently.love.delightgame.classes.AutoResizingTextView
                 style="@android:style/TextAppearance.Small"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -190,7 +190,7 @@
                 android:contentDescription="@string/title_activity_statistics"
                 app:srcCompat="@drawable/icon_lightbulb_on" />
 
-            <de.tobiasbielefeld.solitaire.classes.AutoResizingTextView
+            <com.ardently.love.delightgame.classes.AutoResizingTextView
                 style="@android:style/TextAppearance.Small"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -221,7 +221,7 @@
                 android:contentDescription="@string/menu_main_menu"
                 app:srcCompat="@drawable/icon_menu" />
 
-            <de.tobiasbielefeld.solitaire.classes.AutoResizingTextView
+            <com.ardently.love.delightgame.classes.AutoResizingTextView
                 style="@android:style/TextAppearance.Small"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -253,7 +253,7 @@
                 android:contentDescription="@string/menu_undo"
                 app:srcCompat="@drawable/icon_undo" />
 
-            <de.tobiasbielefeld.solitaire.classes.AutoResizingTextView
+            <com.ardently.love.delightgame.classes.AutoResizingTextView
                 style="@android:style/TextAppearance.Small"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -284,7 +284,7 @@
                 android:contentDescription="@string/menu_settings"
                 app:srcCompat="@drawable/icon_settings_black" />
 
-            <de.tobiasbielefeld.solitaire.classes.AutoResizingTextView
+            <com.ardently.love.delightgame.classes.AutoResizingTextView
                 style="@android:style/TextAppearance.Small"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

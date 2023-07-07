@@ -3,7 +3,7 @@
 
     <PreferenceCategory android:title="@string/settings_rules">
 
-        <de.tobiasbielefeld.solitaire.classes.ListPreferenceWithSummary
+        <com.ardently.love.delightgame.classes.ListPreferenceWithSummary
             android:defaultValue="1"
             android:entries="@array/pref_pyramid_difficulty_titles"
             android:entryValues="@array/pref_pyramid_difficulty_values"
@@ -17,7 +17,7 @@
 
     <PreferenceCategory android:title="@string/settings_support">
 
-        <de.tobiasbielefeld.solitaire.classes.CustomCheckBoxPreference
+        <com.ardently.love.delightgame.classes.CustomCheckBoxPreference
             android:defaultValue="@bool/default_pyramid_auto_move"
             android:key="@string/pref_key_pyramid_auto_move"
             android:summary="@string/settings_pyramid_auto_move_text"
@@ -27,13 +27,13 @@
 
     <PreferenceCategory android:title="@string/settings_cards">
 
-        <de.tobiasbielefeld.solitaire.classes.CustomCheckBoxPreference
+        <com.ardently.love.delightgame.classes.CustomCheckBoxPreference
             android:defaultValue="@bool/default_pyramid_limited_recycles"
             android:key="@string/pref_key_pyramid_limit_recycles"
             android:summary="@string/settings_limit_number_of_recycles_text"
             android:title="@string/settings_limit_number_of_recycles" />
 
-        <de.tobiasbielefeld.solitaire.classes.ListPreferenceWithSummary
+        <com.ardently.love.delightgame.classes.ListPreferenceWithSummary
             android:defaultValue="@string/default_pyramid_number_of_recycles"
             android:dependency="@string/pref_key_pyramid_limit_recycles"
             android:entries="@array/pref_number_of_recycles_values"

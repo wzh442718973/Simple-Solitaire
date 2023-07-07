@@ -2,7 +2,7 @@
 
     <PreferenceCategory android:key="@string/pref_cat_key_only_for_this_game">
 
-        <de.tobiasbielefeld.solitaire.dialogs.DialogPreferenceOnlyForThisGame
+        <com.ardently.love.delightgame.dialogs.DialogPreferenceOnlyForThisGame
             android:key="@string/pref_key_settings_only_for_this_game"
             android:negativeButtonText="@string/game_cancel"
             android:positiveButtonText="@string/game_confirm"
@@ -11,21 +11,21 @@
 
 
     <PreferenceCategory android:title="@string/manual_ui">
-        <de.tobiasbielefeld.solitaire.dialogs.DialogPreferenceMenuBarPosition
+        <com.ardently.love.delightgame.dialogs.DialogPreferenceMenuBarPosition
             android:key="@string/pref_key_menu_bar_position"
             android:negativeButtonText="@string/game_cancel"
             android:positiveButtonText="@string/game_confirm"
             android:summary="Portrait: Bottom, Landscape: Right"
             android:title="@string/settings_menu_bar_position" />
 
-        <de.tobiasbielefeld.solitaire.dialogs.DialogPreferenceGameLayoutMargins
+        <com.ardently.love.delightgame.dialogs.DialogPreferenceGameLayoutMargins
             android:key="@string/pref_key_game_layout_margins"
             android:negativeButtonText="@string/game_cancel"
             android:positiveButtonText="@string/game_confirm"
             android:summary="@string/settings_game_layout_margins_text"
             android:title="@string/settings_game_layout_margins_title" />
 
-        <de.tobiasbielefeld.solitaire.dialogs.DialogPreferenceBackgroundColor
+        <com.ardently.love.delightgame.dialogs.DialogPreferenceBackgroundColor
             android:key="@string/pref_key_background_color"
             android:negativeButtonText="@string/game_cancel"
             android:positiveButtonText="@string/settings_background_color_custom"
@@ -33,7 +33,7 @@
             android:title="@string/settings_background_color"
             android:widgetLayout="@layout/preference_widget_layout_color" />
 
-        <de.tobiasbielefeld.solitaire.dialogs.DialogPreferenceTextColor
+        <com.ardently.love.delightgame.dialogs.DialogPreferenceTextColor
             android:key="@string/pref_key_text_color"
             android:negativeButtonText="@string/game_cancel"
             android:positiveButtonText="@string/settings_background_color_custom"
@@ -42,25 +42,25 @@
             android:widgetLayout="@layout/preference_widget_layout_color" />
 
         <!-- use the dummy versions of the keys, explanation at the dummy key location -->
-        <de.tobiasbielefeld.solitaire.checkboxpreferences.CheckBoxPreferenceHideTime
+        <com.ardently.love.delightgame.checkboxpreferences.CheckBoxPreferenceHideTime
             android:defaultValue="@bool/default_hide_time"
             android:key="@string/dummy_pref_key_hide_time"
             android:title="@string/settings_hide_time" />
 
         <!-- use the dummy versions of the keys, explanation at the dummy key location -->
-        <de.tobiasbielefeld.solitaire.checkboxpreferences.CheckBoxPreferenceHideScore
+        <com.ardently.love.delightgame.checkboxpreferences.CheckBoxPreferenceHideScore
             android:defaultValue="@bool/default_hide_score"
             android:key="@string/dummy_pref_key_hide_score"
             android:title="@string/settings_hide_score" />
 
         <!-- use the dummy versions of the keys, explanation at the dummy key location -->
-        <de.tobiasbielefeld.solitaire.checkboxpreferences.CheckBoxPreferenceHideMenuButton
+        <com.ardently.love.delightgame.checkboxpreferences.CheckBoxPreferenceHideMenuButton
             android:defaultValue="@bool/default_hide_menu_button"
             android:key="@string/dummy_pref_key_hide_menu_button"
             android:title="@string/settings_hide_menu_button" />
 
         <!-- use the dummy versions of the keys, explanation at the dummy key location -->
-        <de.tobiasbielefeld.solitaire.checkboxpreferences.CheckBoxPreferenceHideAutoCompleteButton
+        <com.ardently.love.delightgame.checkboxpreferences.CheckBoxPreferenceHideAutoCompleteButton
             android:defaultValue="@bool/default_hide_auto_complete_button"
             android:key="@string/dummy_pref_key_hide_auto_complete_button"
             android:title="@string/settings_hide_auto_complete_button" />
@@ -69,7 +69,7 @@
 
     <PreferenceCategory android:title="@string/settings_cards">
 
-        <de.tobiasbielefeld.solitaire.dialogs.DialogPreferenceCards
+        <com.ardently.love.delightgame.dialogs.DialogPreferenceCards
             android:key="@string/pref_key_cards"
             android:negativeButtonText="@string/game_cancel"
             android:positiveButtonText="@null"
@@ -77,7 +77,7 @@
             android:title="@string/settings_cards"
             android:widgetLayout="@layout/preference_widget_layout_cards" />
 
-        <de.tobiasbielefeld.solitaire.dialogs.DialogPreferenceCardBackground
+        <com.ardently.love.delightgame.dialogs.DialogPreferenceCardBackground
             android:key="@string/pref_key_cards_background"
             android:negativeButtonText="@string/game_cancel"
             android:positiveButtonText="@string/game_confirm"
@@ -86,7 +86,7 @@
             android:widgetLayout="@layout/preference_widget_layout_cards_background" />
 
         <!-- use the dummy versions of the keys, explanation at the dummy key location -->
-        <de.tobiasbielefeld.solitaire.checkboxpreferences.CheckBoxPreferenceFourColorMode
+        <com.ardently.love.delightgame.checkboxpreferences.CheckBoxPreferenceFourColorMode
             android:defaultValue="@bool/default_4_color_mode"
             android:key="dummy_pref_key_4_color_mode"
             android:summary="@string/settings_4_color_mode_text"

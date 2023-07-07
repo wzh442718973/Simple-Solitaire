@@ -3,7 +3,7 @@
 
     <PreferenceCategory android:title="@string/settings_cards">
 
-        <de.tobiasbielefeld.solitaire.classes.ListPreferenceWithSummary
+        <com.ardently.love.delightgame.classes.ListPreferenceWithSummary
             android:defaultValue="@string/default_napoleons_tomb_number_of_recycles"
             android:entries="@array/pref_number_of_recycles_values"
             android:entryValues="@array/pref_number_of_recycles_values"

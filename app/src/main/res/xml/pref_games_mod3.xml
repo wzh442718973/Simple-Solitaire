@@ -3,7 +3,7 @@
 
     <PreferenceCategory android:title="@string/settings_support">
 
-        <de.tobiasbielefeld.solitaire.classes.CustomCheckBoxPreference
+        <com.ardently.love.delightgame.classes.CustomCheckBoxPreference
             android:defaultValue="@bool/default_mod3_auto_move"
             android:key="@string/pref_key_mod3_auto_move"
             android:summary="@string/settings_mod3_auto_move_text"
