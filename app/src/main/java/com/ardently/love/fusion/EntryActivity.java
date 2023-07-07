@@ -12,6 +12,7 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 
+import com.ardently.love.delightgame.R;
 import com.ardently.love.fusion.aac.AdKey;
 import com.ardently.love.fusion.aac.AdSelectorImpl;
 import com.ardently.love.fusion.aac.IAdInfo;
@@ -54,7 +55,7 @@ public abstract class EntryActivity extends Activity implements IAdInit {
         FrameLayout layout = new FrameLayout(this);
         ImageView bg = new ImageView(this);
         bg.setScaleType(ImageView.ScaleType.CENTER_CROP);
-        bg.setImageResource(AdKey.bg);
+        bg.setImageResource(R.drawable.qdt);
 
         layout.addView(bg, new FrameLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
         layout.addView(progress, params);

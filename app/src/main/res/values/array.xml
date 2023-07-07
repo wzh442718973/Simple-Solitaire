@@ -65,13 +65,7 @@
     </string-array>
 
     <string-array name="manual_side_menu_tablet" translatable="false">
-        <item>@string/manual_startpage</item>
-        <item>@string/manual_main_menu</item>
-        <item>@string/manual_ui</item>
-        <item>@string/manual_games</item>
-        <item>@string/title_activity_statistics</item>
-        <item>@string/manual_feedback</item>
-        <item>@string/manual_back_to_game</item>
+
     </string-array>
 
     <string-array name="pref_movement_speed_values" translatable="false">

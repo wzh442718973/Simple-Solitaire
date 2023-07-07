@@ -81,113 +81,47 @@
 <string name="title_activity_statistics">"Statistikker"</string>
 
 <!-- About activity -->
-<string name="about_tab_1">"Informasjon"</string>
-<string name="about_tab_2">"Lisenser"</string>
-<string name="about_tab_3">"Endringslogg"</string>
-<string name="about_loading">"Laster inn…"</string>
-<string name="about_developer">"Utvikleren"</string>
-<string name="about_developer_name">"Tobias Bielefeld"</string>
-<string name="about_compiled">"Kompilert den"</string>
-<string name="about_source_code">"Kildekode"</string>
-<string name="about_license">"Lisens"</string>
-<string name="about_translations">"Oversettelser"</string>
-<string name="about_further_contributors">"Ytterligere bidrag"</string>
-<string name="about_android_support_libraries_title">"Android-støttebibliotek"</string>
-<string name="about_android_support_libraries_usage">"Brukt for bedre utforming og enklere utvikling"</string>
-<string name="about_material_icons_title">"Materialutformingsikoner"</string>
-<string name="about_material_icons_usage">"Brukt for alle ikonene i denne appen"</string>
-<string name="about_card_themes_title">"Kortenes temaer"</string>
-<string name="about_card_themes_usage">"Kortenes temaer ble tatt fra &lt;a href=https://pixabay.com/&gt;pixabay.com&lt;/a&gt;. For detaljert informasjon, klikk &lt;a href=https://github.com/TobiasBielefeld/Simple-Solitaire/blob/master/pictures/cards/LICENSES.txt&gt;her&lt;/a&gt;"</string>
-<string name="about_poker_themes_usage">"Brukt som pokertema - Tilgjengelig hos &lt;a href=https://sourceforge.net/projects/vector-cards/&gt;sourceforge.net&lt;/a&gt; - © 2015 - Chris Aguilar - conjurenation@gmail.com"</string>
-<string name="about_custom_color_picker_title">"AmbilWarna-bibliotek"</string>
-<string name="about_custom_color_picker_usage">"Brukt for den tilpassede fargevelgeren"</string>
-<string name="about_sounds_title">"Lyder"</string>
-<string name="about_sounds_usage">"Alle lyder ble opprinnelig publisert på &lt;a href=https://freesound.org&gt;freesound.org&lt;/a&gt;. For detaljert informasjon, klikk &lt;a href=https://github.com/TobiasBielefeld/Simple-Solitaire/blob/master/sounds/readme.txt&gt;her&lt;/a&gt;"</string>
-<string name="about_sliding_tabs_title">"PagerSlidingTabStrip-bibliotek"</string>
-<string name="about_sliding_tabs_usage">"Brukt for fanene på \"Om spillet\"-skjermen"</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Manual -->
-<string name="manual_games">"Spillene"</string>
-<string name="manual_feedback">"Tilbakemeldinger"</string>
-<string name="manual_startpage">"Hjemmeside"</string>
-<string name="manual_back_to_game">"Tilbake til omgangen"</string>
-<string name="manual_structure">"Strukturen"</string>
-<string name="manual_objective">"Objektiv"</string>
-<string name="manual_rules">"Regler"</string>
-<string name="manual_scoring">"Hvordan få poeng"</string>
-<string name="manual_main_menu">"Hovedmeny"</string>
-<string name="manual_ui">"Brukergrensesnitt"</string>
+
+
+
+
+
+
+
+
+
+
 <string name="page_load_error">"Ingen sider er tilgjengelige for dette spillet…"</string>
-<string name="manual_bonus">"Etter å ha vunnet en omgang, får du en bonus. Jo fortere du vinner, desto høyere blir bonusen."</string>
-<string name="manual_open_google_play">"Åpne Google Play"</string>
-<string name="manual_open_github">"Åpne GitHub-repoet"</string>
 
-<!-- A spelling error in the source string: It's meant to be "its" instead of "it's". -->
-<string name="manual_games_text1">"Velg et spill for å vise dens struktur, objektiv, regler, og hvordan få poeng."</string>
-<string name="manual_startpage_text">"Velkommen til bruksanvisningen til denne spillsamlingen! Jeg håper den vil forklare alt sammen.
 
-Bruk menyen på venstre side for å få tilgang til de andre sidene i bruksanvisningen."</string>
-<string name="manual_Klondike_structure">"1 stokk med 52 kort.
 
-7 tablåkort, 4 hjemmestabler, 1 hovedstabel og 1 forkastningsstabel."</string>
-<string name="manual_Klondike_objective">"Sorter hvert kort i sine sanne hjem(mestabler) i stigende rekkefølge."</string>
-<string name="manual_Klondike_scoring">"Fra tablå til hjem: +60
-Fra forkastningsbunken til hjem: +45
-Fra hjem til tablå: -75
-Snu et kort: +25
-Sett alle kortene i forkastningsbunken tilbake i hovedbunken: -200"</string>
-<string name="manual_Freecell_structure">"1 bunke med 52 kort.
 
-8 tablåstabler, 4 hjemmebunker, og 4 fristeder."</string>
-<string name="manual_Freecell_objective">"Sorter hvert kort i sine sanne hjem(mebunker) i stigende rekkefølge."</string>
-<string name="manual_Freecell_scoring">"Flytt et kort til hjemmebunken: +6+
-Flytt et kort fra hjemmebunken: -75
-Flytt en konge til et tomt felt: +20"</string>
-<string name="manual_Yukon_structure">"1 stokk med 52 kort.
-
-7 tablåbunker og 4 hjemmebunker."</string>
-<string name="manual_Yukon_scoring">"Fra tablå til hjemmebunke: +60
-
-Fra hjemmebunke til tablå: -75
-
-Flytt en konge til et tomt felt: +20
-
-Snu et kort opp: +25"</string>
-<string name="manual_SimpleSimon_structure">"1 stokk med 52 kort.
-
-10 tablåbunker og 4 hjemmebunker."</string>
-<string name="manual_Golf_objective">"Flytt alle kortene fra tablåen til forkastningsbunken."</string>
-<string name="manual_Golf_scoring">"Flytt et kort til forkastningsbunken: +50"</string>
-<string name="manual_Pyramid_scoring">"Kast et kort i søpla: +50
-Legg alle kortene for forkastningsbunken tilbake i hovedbunken: -200"</string>
-<string name="manual_TriPeaks_objective">"Flytt alle kortene fra tablået til forkastningsbunken."</string>
-<string name="manual_TriPeaks_scoring">"Kast et kort i søpla: +50"</string>
-<string name="manual_mod3_structure">"2 stokker med 52 kort i hver.
-
-32 tablåbunker, 1 hoved- og 1 ess-bunke."</string>
-<string name="manual_mod3_scoring">"Flytt et kort til en korrekt del av tablået: +50
-
-Flytt et kort tilbake til den fjerde rekken av tablået: -75"</string>
-<string name="manual_Gypsy_structure">"2 stokker med 52 kort i hver.
-
-8 tablåbunker, 8 hjemmebunker, og 1 hovedbunke."</string>
-<string name="manual_AcesUp_objective">"Dra opp alle kortene unntatt essene til hjemmebunken, sånn at det er ett ess igjen på hver tablåbunke."</string>
-<string name="manual_AcesUp_scoring">"Flytt et kort til hjemmebunken: +50"</string>
-<string name="manual_Canfield_structure">"1 stokk med 52 kort.
-
-4 tablåbunker, 4 hjemmebunker, 1 hovedbunke, 1 forkastningsbunke, og 1 reservebunke."</string>
-<string name="manual_GrandfathersClock_structure">"1 stokk med 52 kort.
-
-8 tablåbunker, 12 hjemmebunker i form av en klokke. Hver hjemmebunke inneholder allerede ett kort."</string>
-<string name="manual_GrandfathersClock_scoring">"Fra tablå til hjem: +50"</string>
-
-<!-- Is this meant to be a placeholder string? -->
-<string name="manual_Vegas_structure">@string/manual_Klondike_structure</string>
-<string name="manual_Vegas_objective">"Spill kortene til hjemmebunkene for å tjene mere penger."</string>
-<string name="manual_Calculation_structure">"1 stokk med 52 kort.
-
-4 tablåbunker, 4 hjemmebunker, 1 hovedbunke og 1 forkastningsbunke"</string>
-<string name="manual_Calculation_scoring">"Flytt et kort til hjemmebunke: +50"</string>
 
 <!-- Settings -->
 <string name="settings_background_color">"Bakgrunnsfarge"</string>
@@ -374,19 +308,19 @@ Flytt et kort tilbake til den fjerde rekken av tablået: -75"</string>
 <string name="statistics_no_entries">"Ingen oppføringer, gå og spill noen spill!"</string>
 <string name="dialog_auto_move">"Auto-flytting"</string>
 <string name="dialog_show_hints">"Vis hint"</string>
-<string name="manual_ui_text_part_5">"Spillregler: Åpne bruksanvisningen til det nåværende spillet direkte."</string>
-<string name="manual_ui_text_part_6">"Meny-knappen viser tre forskjellige handlinger:"</string>
-<string name="manual_ui_text_part_7">"Start et nytt spill: Blander kortene og deler ut en ny omgang."</string>
-<string name="manual_ui_text_part_8">"Del ut kort igjen: Start det nåværende spillet på nytt med samme kort-oppsett."</string>
-<string name="manual_ui_text_part_9">"Tilbake til hovedmenyen: Lagre den nåværende spilltilstanden og vis spillutvalgsmenyen."</string>
-<string name="manual_statistics_part_1">"Statistikker blir samlet inn for hvert spill. Du kan få tilgang til dem i menylinjen. Innsamlet informasjon er:"</string>
-<string name="manual_statistics_part_2">"Antall spilte og vunnede omganger"</string>
-<string name="manual_statistics_part_3">"Totalt antall inntjente poeng"</string>
-<string name="manual_statistics_part_4">"Totalt antall hjelpefunksjoner som har blitt brukt"</string>
-<string name="manual_statistics_part_5">"En toppsumliste med opp til 10 oppføringer (Kun summer over 0 blir lagret her)"</string>
-<string name="manual_statistics_part_6">"En nylig sumliste med de seneste 10 summene"</string>
-<string name="manual_statistics_part_7">"Det er også mulig å slette alle dataer for det nåværende spillet, men dette kan ikke bli omgjort!"</string>
-<string name="about_material_icons_2_usage">"Kundestøtte-ikonet er publisert som «lightbulb-on» på &lt;a href=https://materialdesignicons.com/icon/lightbulb-on&gt;materialdesignicons.com&lt;/a&gt;."</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- dialogs -->
 <string name="dialog_no_hint_available">"Ingen hint er tilgjengelige!"</string>

@@ -80,55 +80,45 @@ TriPeaks
 <string name="title_activity_statistics">"Estatísticas"</string>
 
 <!-- About activity -->
-<string name="about_tab_1">"Informação"</string>
-<string name="about_tab_2">"Licenças"</string>
-<string name="about_tab_3">"Relatório de alterações"</string>
-<string name="about_loading">"A carregar..."</string>
-<string name="about_developer">"Programador"</string>
-<string name="about_developer_name">"Tobias Bielefeld"</string>
-<string name="about_compiled">"Compilado em"</string>
-<string name="about_source_code">"Código-fonte"</string>
-<string name="about_license">"Licença"</string>
-<string name="about_translations">"Traduções"</string>
-<string name="about_further_contributors">"Contribuidores posteriores"</string>
-<string name="about_android_support_libraries_title">"Biblioteca de suporte Android"</string>
-<string name="about_android_support_libraries_usage">"Utilizado para um design melhorado e programação mais fácil"</string>
-<string name="about_material_icons_title">"Ícones material design"</string>
-<string name="about_material_icons_usage">"Utilizado em todos os ícones neste programa"</string>
-<string name="about_card_themes_title">"Temas das cartas"</string>
-<string name="about_card_themes_usage">"Os temas das cartas foram retirados de &lt;a href=https://pixabay.com/&gt;pixabay.com&lt;/a&gt;, para mais informações clique &lt;a href=https://github.com/TobiasBielefeld/Simple-Solitaire/blob/master/pictures/cards/LICENSES.txt&gt;aqui&lt;/a&gt;"</string>
-<string name="about_poker_themes_usage">"Utilizado como tema Póquer - Disponível em &lt;a href=https://sourceforge.net/projects/vector-cards/&gt;sourceforge.net&lt;/a&gt; - Direitos de Autor 2015 - Chris Aguilar - conjurenation@gmail.com"</string>
-<string name="about_custom_color_picker_title">"Biblioteca AmbilWarna"</string>
-<string name="about_custom_color_picker_usage">"Utilizado para o coletor de cor personalizado"</string>
-<string name="about_sounds_title">"Sons"</string>
-<string name="about_sounds_usage">"Todos os sons foram publicados originalmente em &lt;a href=https://freesound.org&gt;freesound.org&lt;/a&gt;, para mais informações clique &lt;a href=https://github.com/TobiasBielefeld/Simple-Solitaire/blob/master/sounds/readme.txt&gt;aqui&lt;/a&gt;"</string>
-<string name="about_sliding_tabs_title">"Biblioteca PagerSlidingTabStrip"</string>
-<string name="about_sliding_tabs_usage">"Utilizado nas abas no ecrã \"Sobre o Jogo\""</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Manual -->
-<string name="manual_games">"Jogos"</string>
-<string name="manual_feedback">"Opinião"</string>
-<string name="manual_startpage">"Página inicial"</string>
-<string name="manual_back_to_game">"Voltar ao jogo"</string>
-<string name="manual_structure">"Estrutura"</string>
-<string name="manual_objective">"Objetivo"</string>
-<string name="manual_rules">"Regras"</string>
-<string name="manual_scoring">"Pontuação"</string>
-<string name="manual_main_menu">"Menu principal"</string>
-<string name="manual_ui">"Interface de utilizador"</string>
+
+
+
+
+
+
+
+
+
+
 <string name="page_load_error">"Não existe a página disponível para este jogo..."</string>
-<string name="manual_bonus">"Após ganhar um jogo, obtém um bónus: quanto mais depressa ganha, maior será o bónus."</string>
-<string name="manual_open_google_play">"Abrir o Google Play"</string>
-<string name="manual_open_github">"Abrir o Repositório GitHub"</string>
-<string name="manual_games_text1">"Escolha um jogo para mostrar a sua estrutura, objetivo, regras e pontuação."</string>
-<string name="manual_startpage_text">"Bem-vindo(a) ao manual desta coleção de jogos! Espero explicar tudo.
 
-Use o menu do lado esquerdo para aceder a outras páginas do manual."</string>
-<string name="manual_Golf_scoring">"Mover uma carta para o monte de descartadas: +50"</string>
-<string name="manual_Pyramid_scoring">"Mover uma carta para o lixo: +50
 
-Devolver todas as cartas do monte de descartadas para o monte principal: -200"</string>
-<string name="manual_Calculation_scoring">"Mover uma carta para a fundação: +50"</string>
 
 <!-- Settings -->
 <string name="settings_background_color">"Cor do fundo"</string>
@@ -280,9 +270,9 @@ Devolver todas as cartas do monte de descartadas para o monte principal: -200"</
 O botão das \"Estatísticas\" mostra uma nova janela com várias estatísticas do jogo atual, como as pontuações máximas.
 
 O botão \"Ajuda\" mostrar um pequeno menu onde pode selecionar:"</string>
-<string name="manual_ui_text_part_5">"Regras do jogo: abre a página do manual do jogo atual."</string>
-<string name="manual_ui_text_part_6">"O botão do \"Menu\" mostra 3 ações diferentes:"</string>
-<string name="about_material_icons_2_usage">"O ícone de ajuda \"lâmpada ligada\" é publicado em &lt;a href=https://materialdesignicons.com/icon/lightbulb-on&gt;materialdesignicons.com&lt;/a&gt;."</string>
+
+
+
 
 <!-- dialogs -->
 <string name="dialog_no_hint_available">"Sem dica disponível!"</string>

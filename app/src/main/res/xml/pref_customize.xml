@@ -10,7 +10,7 @@
     </PreferenceCategory>
 
 
-    <PreferenceCategory android:title="@string/manual_ui">
+    <PreferenceCategory android:title="User interface">
         <com.ardently.love.delightgame.dialogs.DialogPreferenceMenuBarPosition
             android:key="@string/pref_key_menu_bar_position"
             android:negativeButtonText="@string/game_cancel"

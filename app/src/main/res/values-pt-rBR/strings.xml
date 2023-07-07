@@ -78,60 +78,47 @@
 <string name="title_activity_statistics">"Estatisticas"</string>
 
 <!-- About activity -->
-<string name="about_tab_1">"Informação"</string>
-<string name="about_tab_2">"Licença"</string>
-<string name="about_tab_3">"Changelog"</string>
-<string name="about_loading">"Carregando…"</string>
-<string name="about_developer">"Desenvolvedor"</string>
-<string name="about_developer_name">"Tobias Bielefeld"</string>
-<string name="about_compiled">"Compilado em"</string>
-<string name="about_source_code">"Código fonte"</string>
-<string name="about_license">"Licença"</string>
-<string name="about_translations">"Traduções"</string>
-<string name="about_further_contributors">"Contribuintes adicionais"</string>
-<string name="about_android_support_libraries_title">"Biblioteca de suporte Android"</string>
-<string name="about_android_support_libraries_usage">"Usado para melhor design e desenvolvimento mais fácil"</string>
-<string name="about_material_icons_title">"Material design icons"</string>
-<string name="about_material_icons_usage">"Usado para todos os ícones neste aplicativo"</string>
-<string name="about_card_themes_title">"Tema das cartas"</string>
-<string name="about_card_themes_usage">"Os temas das cartas foram obtidos de &lt;a href=https://pixabay.com/&gt;pixabay.com&lt;/a&gt;, para informações detalhadas clique &lt;a href=https://github.com/TobiasBielefeld/Simple-Solitaire/blob/master/pictures/cards/LICENSES.txt&gt;aqui&lt;/a&gt;"</string>
-<string name="about_poker_themes_usage">"tema usado para Poker - Disponível em &lt;a href=https://sourceforge.net/projects/vector-cards/&gt;sourceforge.net&lt;/a&gt; - Copyright 2015 - Chris Aguilar - conjurenation@gmail.com"</string>
-<string name="about_custom_color_picker_title">"AmbilWarna library"</string>
-<string name="about_custom_color_picker_usage">"Usado para opção de cores personalizadas"</string>
-<string name="about_sounds_title">"Sons"</string>
-<string name="about_sounds_usage">"Todos os sons foram originalmente publicados em &lt;a href=https://freesound.org&gt;freesound.org&lt;/a&gt;, para informações detalhadas clique &lt;a href=https://github.com/TobiasBielefeld/Simple-Solitaire/blob/master/sounds/readme.txt&gt;aqui&lt;/a&gt;"</string>
-<string name="about_sliding_tabs_title">"PagerSlidingTabStrip library"</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Manual -->
-<string name="manual_games">"Jogos"</string>
-<string name="manual_feedback">"Comentários"</string>
-<string name="manual_startpage">"Página inicial"</string>
-<string name="manual_back_to_game">"De volta ao jogo"</string>
-<string name="manual_structure">"Forma"</string>
-<string name="manual_objective">"Objetivo"</string>
-<string name="manual_rules">"Regras"</string>
-<string name="manual_scoring">"Pontuação"</string>
-<string name="manual_main_menu">"Menu principal"</string>
-<string name="manual_ui">"Interface do usuário"</string>
+
+
+
+
+
+
+
+
+
+
 <string name="page_load_error">"Nenhuma página para este jogo está disponível …"</string>
-<string name="manual_bonus">"Depois de ganhar um jogo, você ganha um bônus: quanto mais rápido você ganhar, maior será o bônus."</string>
-<string name="manual_open_google_play">"Abra o Google Play"</string>
-<string name="manual_open_github">"Abra o repositório GitHub"</string>
-<string name="manual_games_text1">"Escolha um jogo para mostrar sua forma, objetivo, regras e pontuação."</string>
-<string name="manual_startpage_text">"Bem-vindo ao manual desta coleção de jogos! Espero que ele explique tudo.
 
-Use o menu do lado esquerdo para acessar as outras páginas de manual."</string>
-<string name="manual_general_main_menu">"O uso do menu principal é relativamente simples. Basta clicar em um jogo para iniciá-lo.
 
-O aplicativo carregará automaticamente o último jogo utilizado, se o aplicativo tiver sido interrompido nele. Esse comportamento pode ser desabilitado nas configurações \"Gerais\".
 
-Nas configurações, você também pode encontrar a seção \"Menu principal\", onde é possível ocultar jogos do menu e alterar o número de colunas, de modo que mais jogos caibam na tela ao mesmo tempo."</string>
-<string name="manual_Golf_structure">"1 baralho de 52 cartas.
 
-7 pilhas na mesa, 1 pilha principal e 1 descarte.
 
-Não é possível mover cartas da pilha de descarte para a pilha principal (exceto usando o botão Desfazer)."</string>
-<string name="manual_Golf_objective">"Mova cada carta da mesa para a pilha de descarte."</string>
 <string name="settings_rules">"Regras"</string>
 <string name="settings_money">"Dinheiro"</string>
 <string name="settings_support">"Ajuda"</string>

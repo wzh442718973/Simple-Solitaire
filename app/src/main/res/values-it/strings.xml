@@ -79,66 +79,47 @@
 <string name="title_activity_statistics">"Statistiche"</string>
 
 <!-- About activity -->
-<string name="about_tab_1">"Informazioni"</string>
-<string name="about_tab_2">"Licenze"</string>
-<string name="about_tab_3">"Changelog"</string>
-<string name="about_loading">"Caricamento…"</string>
-<string name="about_developer">"Sviluppatore"</string>
-<string name="about_developer_name">"Tobias Bielefeld"</string>
-<string name="about_compiled">"Compilato su"</string>
-<string name="about_source_code">"Cordice sorgente"</string>
-<string name="about_license">"Licenza"</string>
-<string name="about_translations">"Traduzioni"</string>
-<string name="about_further_contributors">"Altre contribuzioni"</string>
-<string name="about_android_support_libraries_title">"Android support library"</string>
-<string name="about_android_support_libraries_usage">"Usata per un design migliore e uno sviluppo più semplice"</string>
-<string name="about_material_icons_title">"Material design icons"</string>
-<string name="about_material_icons_usage">"Usata per tutte le icone in questa applicazione"</string>
-<string name="about_card_themes_title">"Card themes"</string>
-<string name="about_card_themes_usage">"I temi dei mazzi di carte sono presi da &lt;a href=https://pixabay.com/&gt;pixabay.com&lt;/a&gt;, per informazioni dettagliate clicca &lt;a href=https://github.com/TobiasBielefeld/Simple-Solitaire/blob/master/pictures/cards/LICENSES.txt&gt;qui&lt;/a&gt;"</string>
-<string name="about_poker_themes_usage">"Usato come tema per il Poker - Disponibile su &lt;a href=https://sourceforge.net/projects/vector-cards/&gt;sourceforge.net&lt;/a&gt; - Copyright 2015 - Chris Aguilar - conjurenation@gmail.com"</string>
-<string name="about_custom_color_picker_title">"AmbilWarna library"</string>
-<string name="about_custom_color_picker_usage">"Usata per il color picker personalizzato"</string>
-<string name="about_sounds_title">"Suoni"</string>
-<string name="about_sounds_usage">"Tutti i suoni sono stati pubblicati inizialmente su &lt;a href=https://freesound.org&gt;freesound.org&lt;/a&gt;, per informazioni dettagliate clicca &lt;a href=https://github.com/TobiasBielefeld/Simple-Solitaire/blob/master/sounds/readme.txt&gt;qui&lt;/a&gt;"</string>
-<string name="about_sliding_tabs_title">"PagerSlidingTabStrip library"</string>
-<string name="about_sliding_tabs_usage">"Usata per le tab nella schermata \"Sul Gioco\""</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Manual -->
-<string name="manual_games">"Giochi"</string>
-<string name="manual_feedback">"Commenti"</string>
-<string name="manual_startpage">"Pagina iniziale"</string>
-<string name="manual_back_to_game">"Torna al gioco"</string>
-<string name="manual_structure">"Struttura"</string>
-<string name="manual_objective">"Obiettivo"</string>
-<string name="manual_rules">"Regole"</string>
-<string name="manual_scoring">"Attribuzione del punteggio"</string>
-<string name="manual_main_menu">"Menu principale"</string>
-<string name="manual_ui">"Interfaccia grafica"</string>
+
+
+
+
+
+
+
+
+
+
 <string name="page_load_error">"Nessuna pagina disponibile per questo gioco…"</string>
-<string name="manual_bonus">"Dopo aver vinto il gioco, ottieni un bonus: più veloce vinci, maggiore sarà il bonus."</string>
-<string name="manual_open_google_play">"Apri Google Play"</string>
-<string name="manual_open_github">"Apri Repo GitHub"</string>
-<string name="manual_games_text1">"Scegli un gioco per mostrare struttura, obiettivo, regole e attribuzione del punteggio."</string>
-<string name="manual_startpage_text">"Benvenuto nel manuale di questa collezione di giochi! Spero che chiarirà tutto.
 
-Usa il menu sulla sinistra per accedere alle altre pagine del manuale."</string>
-<string name="manual_general_main_menu">"L'uso del menu principale è relativamente semplice. Premi su un gioco per iniziarlo.
 
-Se rifatta partire, l'applicazione caricherà automaticamente l'ultima partita giocata, se la partita è stata messa in pausa. Questo comportamento può essere disabilitato nelle impostazioni sotto \"Generali\".
 
-Nelle impostazioni si può trovare la sezione \"Menu principale\", dove è possibile nascondere i giochi dal menu e cambiare il numero di colonne, cosicché più giochi stiano sulllo schermo."</string>
-<string name="manual_ui_text">"In una partita verrà sempre visualizzato un menu nella parte bassa dello schermo (Modalità verticale) o nella parte destra (Modalità orizzontale). Sarà inoltre visualizzato il punteggio corrente e il tempo trascorso in partita. Se possibile, questi due valori saranno salvati nella lista dei punteggi più alti. Il menu contiene 5 elementi, che hanno i seguenti effetti (bottoni da sinistra a destra):
 
-Il bottone \"Punteggi\" mostrerà una nuova finestra con i punteggi più alti e il numeri delle partite vinte del gioco corrente.
-
-Il bottone \"Aiuto\" ti aiuterà mostrandoti fino a tre movimenti possibili alla volta. Ma questo diminuirà il punteggio corrente di 25. Nota che movimenti semplici come spostare ogni carta in un campo vuoto o premere sul mazzo principale non sono mostrati come aiuti. Se non viene mostrato nessun aiuto, il punteggio non diminuisce.
-
-Il bottone \"Menu\" mostra tre azioni differenti: Comincia una nuova partita mischiando le carte ed estraendo una nuova mano. Ridai le carte fa lo stesso, ma senza mischiare. È come se ricominciasse la partita corrente. L'ultima opzione terminerà il gioco corrente e riporterà l'app al menu principale.
-
-Il bottone \"Annulla\" annullerà l'ultimo movimento, ma ti costerà 25 punti. Può essere usato per annullare fino a 20 movimenti.
-
-Il bottone \"Impostazioni\" aprirà semplicemente il menu delle impostazioni."</string>
 
 <!-- Settings -->
 <string name="settings_background_color">"Colore di sfondo"</string>
