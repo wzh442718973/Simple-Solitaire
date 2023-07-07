@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/settings_max_number_undos_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="numberSigned" />
+<LinearLayout
+android:background="#F7D7BC"
+android:layout_width="0dp"
+android:orientation="vertical"
+android:paddingRight="78dp"
+android:layout_height="0dp">
+<View
+android:layout_height="0dp"
+android:background="#D604E5"
+android:paddingLeft="30dp"
+android:layout_margin="60dp"
+android:layout_width="0dp"
+android:visibility="visible"/>
+<ScrollView
+android:layout_width="0dp"
+android:padding="83dp"
+android:layout_height="0dp"
+android:visibility="invisible"
+android:orientation="horizontal">
+<LinearLayout
+android:orientation="vertical"
+android:paddingBottom="13dp"
+android:visibility="visible"
+android:background="#8DE2FF"
+android:layout_height="0dp"
+android:layout_width="0dp">
+<LinearLayout
+android:layout_height="118dp"
+android:paddingLeft="41dp"
+android:background="#FDF63E"
+android:visibility="gone"
+android:orientation="vertical"
+android:layout_width="105dp">
+</LinearLayout>
+<EditText
+android:text="enumerateEncode"
+android:visibility="gone"
+android:gravity="bottom"
+android:layout_height="0dp"
+android:background="#7E04CD"
+android:lines="3"
+android:layout_width="0dp"
+android:hint="recenterStage"
+android:textColor="#B062DC"/>
+<ScrollView
+android:background="#EAF240"
+android:layout_height="wrap_content"
+android:visibility="gone"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:paddingTop="35dp">
+<LinearLayout
+android:paddingBottom="77dp"
+android:layout_height="match_parent"
+android:layout_width="wrap_content"
+android:visibility="gone"
+android:orientation="horizontal"
+android:background="#C2DC36">
+</LinearLayout>
+</ScrollView>
+</LinearLayout>
+</ScrollView>
+<TextView
+android:layout_width="0dp"
+android:text="nativeEvrpc"
+android:layout_height="0dp"
+android:textSize="19sp"
+android:visibility="gone"
+android:background="#53F6B9"
+android:paddingTop="33dp"/>
+<View
+android:paddingRight="67dp"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_marginBottom="94dp"
+android:background="#D95ABC"/>
+</LinearLayout>
+
+</LinearLayout>

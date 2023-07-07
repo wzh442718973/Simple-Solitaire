@@ -1,0 +1,37 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.ardently.love.delightgame.dialogs.XNFreecell
+        android:key="@string/pref_key_max_number_undos"
+        android:negativeButtonText="@string/billingTaskMoves"
+        android:positiveButtonText="@string/poolTaskCustomize"
+        android:summary=""
+        android:title="@string/amountNews" />
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="@bool/default_show_advaced_settings"
+        android:key="@string/pref_key_show_advanced_settings"
+        android:title="@string/loginYellow" />
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="@bool/default_disable_undo_costs"
+        android:key="@string/pref_key_disable_undo_costs"
+        android:title="@string/rulesPackAnimation" />
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="@bool/default_disable_hint_costs"
+        android:key="@string/pref_key_disable_hint_costs"
+        android:title="@string/blackMoving" />
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="@bool/default_force_tablet_layout"
+        android:key="@string/pref_key_force_tablet_layout"
+        android:summary="@string/installBrokerSide"
+        android:title="@string/statsImage" />
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="@bool/default_use_true_randomisation"
+        android:key="@string/pref_key_use_true_randomisation"
+        android:summary="@string/libgtcoreFromSounds"
+        android:title="@string/screenBottom" />
+
+</PreferenceScreen>

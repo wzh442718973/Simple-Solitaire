@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/settingsLoad">
+
+        <com.ardently.love.delightgame.classes.LRStacks
+            android:defaultValue="3"
+            android:entries="@array/pref_draw_titles"
+            android:entryValues="@array/pref_draw_values"
+            android:key="@string/pref_key_canfield_draw"
+            android:negativeButtonText="@string/billingTaskMoves"
+            android:positiveButtonText="@null"
+            android:summary="%s"
+            android:title="@string/movingMovabilityBroker" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/wifiImpl">
+
+        <com.ardently.love.delightgame.classes.LRStacks
+            android:defaultValue="@string/default_canfield_size_of_reserve"
+            android:entries="@array/pref_canfield_size_of_reserve_titles"
+            android:entryValues="@array/pref_canfield_size_of_reserve_values"
+            android:key="@string/pref_key_canfield_size_of_reserve"
+            android:negativeButtonText="@string/billingTaskMoves"
+            android:positiveButtonText="@null"
+            android:summary="%s"
+            android:title="@string/register_2LockHint" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

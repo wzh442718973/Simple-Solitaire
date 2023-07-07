@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_version">"Version"</string>
-<string name="settings">"Einstellungen"</string>
-<string name="game_manual">"Handbuch"</string>
-<string name="game_score">"Score"</string>
-<string name="game_time">"Zeit"</string>
-<string name="game_cancel">"Abbrechen"</string>
-<string name="game_confirm">"Bestätigen"</string>
-<string name="game_auto_complete_text">"Autovervollständigen"</string>
-<string name="game_press_again">"Zum Beenden erneut drücken"</string>
-<string name="game_load_error">"Laden der Daten ist fehlgeschlagen, starte neues Spiel…"</string>
-<string name="game_close">"Spiel beenden"</string>
-<string name="game_main_menu">"Hauptmenü"</string>
-<string name="item_game_rules">"Spielregeln"</string>
-<string name="item_return_to_main_menu">"Zurück zum Hauptmenü"</string>
+<string name="purpleInput">"Version"</string>
+<string name="gypsyPreviews">"Einstellungen"</string>
+<string name="moveShared">"Handbuch"</string>
+<string name="backgroundsFortyMove">"Score"</string>
+<string name="starThis_5r">"Zeit"</string>
+<string name="billingTaskMoves">"Abbrechen"</string>
+<string name="poolTaskCustomize">"Bestätigen"</string>
+<string name="serviceExpertVolume">"Autovervollständigen"</string>
+<string name="mainBorderAces">"Zum Beenden erneut drücken"</string>
+<string name="phoneReferrerOxygen">"Laden der Daten ist fehlgeschlagen, starte neues Spiel…"</string>
+<string name="sensorPurple">"Spiel beenden"</string>
+<string name="libmplameIntent">"Hauptmenü"</string>
+<string name="leftEntry">"Spielregeln"</string>
+<string name="tombDummy">"Zurück zum Hauptmenü"</string>
 
 <!-- Menu -->
-<string name="menu_undo">"Zurück"</string>
-<string name="menu_main_menu">"Menü"</string>
-<string name="menu_settings">"Optionen"</string>
+<string name="rulesMoves">"Zurück"</string>
+<string name="eightEncryption">"Menü"</string>
+<string name="animationFrom">"Optionen"</string>
 
 <!-- game names 
 
      - if you want to translate names and a name gets very long, use spaces, so they can be displayed
      - in two rows in the main menu. But eg. GrandfathersClock is still short enough to display it in
      - a single line -->
-<string name="games_Klondike">"Klondike"</string>
-<string name="games_Freecell">"FreeCell"</string>
-<string name="games_Yukon">"Yukon"</string>
-<string name="games_Spider">"Spider"</string>
-<string name="games_SimpleSimon">"Simple Simon"</string>
-<string name="games_Golf">"Golf"</string>
-<string name="games_Pyramid">"Pyramid"</string>
-<string name="games_TriPeaks">"TriPeaks"</string>
-<string name="games_FortyEight">"Forty &amp; Eight"</string>
-<string name="games_AcesUp">"Aces Up"</string>
-<string name="games_Gypsy">"Gypsy"</string>
-<string name="games_mod3">"Mod3"</string>
-<string name="games_Canfield">"Canfield"</string>
-<string name="games_GrandfathersClock">"Grandfather\'s Clock"</string>
-<string name="games_Vegas">"Vegas"</string>
-<string name="games_Calculation">"Calculation"</string>
+<string name="informationMazeTrack">"Klondike"</string>
+<string name="previewDummyMaze">"FreeCell"</string>
+<string name="compatAuto_moStrings">"Yukon"</string>
+<string name="networkCalculation">"Spider"</string>
+<string name="cardAces">"Simple Simon"</string>
+<string name="settingsRouterMusic">"Golf"</string>
+<string name="availableDark">"Pyramid"</string>
+<string name="bitmapsStrings">"TriPeaks"</string>
+<string name="aboutNews">"Forty &amp; Eight"</string>
+<string name="layoutClipboardGrandfathers">"Aces Up"</string>
+<string name="sharedListPref">"Gypsy"</string>
+<string name="movementOrangeVolume">"Mod3"</string>
+<string name="eightServiceCard">"Canfield"</string>
+<string name="resizingMatch">"Grandfather\'s Clock"</string>
+<string name="local_1lRight">"Vegas"</string>
+<string name="abstract_h6Available">"Calculation"</string>
 
 <!-- colors -->
-<string name="blue">"Blau"</string>
-<string name="green">"Grün"</string>
-<string name="red">"Rot"</string>
-<string name="yellow">"Gelb"</string>
-<string name="orange">"Orange"</string>
-<string name="purple">"Violett"</string>
+<string name="dialogShared">"Blau"</string>
+<string name="scoreModern">"Grün"</string>
+<string name="pyramidLibmplameBasic">"Rot"</string>
+<string name="drawerDondorfManager">"Gelb"</string>
+<string name="stackAssembly">"Orange"</string>
+<string name="routerScoreCustom">"Violett"</string>
 
 <!-- game stuff -->
-<string name="game_longest_run">"Längste Kartenfolge:"</string>
+<string name="dataUndo">"Längste Kartenfolge:"</string>
 
 <!-- dialog won -->
-<string name="dialog_win_titel">"Glückwunsch!"</string>
-<string name="dialog_win_score">"Score: %1$d"</string>
-<string name="dialog_win_bonus">"Bonus: %1$d"</string>
-<string name="dialog_win_total">"Gesamt: %1$d"</string>
+<string name="centerBase">"Glückwunsch!"</string>
+<string name="activtyChangerMoving">"Score: %1$d"</string>
+<string name="sessionHeaderImage">"Bonus: %1$d"</string>
+<string name="volumeSpiderTabs">"Gesamt: %1$d"</string>
 
 <!-- dialog mix cards -->
-<string name="dialog_mix_cards_title">"Karten mischen"</string>
-<string name="dialog_mix_cards_text">"Dies wird alle Karten mischen, bis auf korrekte Sequenzen und Karten auf der Foundation."</string>
-<string name="dialog_mix_cards_not_available">"Es sind noch Bewegungen möglich!"</string>
+<string name="gypsyClose">"Karten mischen"</string>
+<string name="homeBottomLoad">"Dies wird alle Karten mischen, bis auf korrekte Sequenzen und Karten auf der Foundation."</string>
+<string name="baseAnimationRules">"Es sind noch Bewegungen möglich!"</string>
 
 <!-- dialog start new game -->
-<string name="dialog_start_new_game_title">"Neues Spiel starten"</string>
-<string name="dialog_start_new_game_text">"Dein aktueller Fortschritt geht verloren und ein neues zufälliges Spiel wird ausgegeben."</string>
+<string name="brokerUsageLogic">"Neues Spiel starten"</string>
+<string name="clockModernStar">"Dein aktueller Fortschritt geht verloren und ein neues zufälliges Spiel wird ausgegeben."</string>
 
 <!-- dialog redeal -->
-<string name="dialog_redeal_title">"Spiel wiederholen"</string>
-<string name="dialog_redeal_text">"Dein aktueller Fortschritt geht verloren, aber die Karten werden wie im aktuellen Spiel ausgegeben."</string>
+<string name="managerBuildPoker">"Spiel wiederholen"</string>
+<string name="blueReferrer">"Dein aktueller Fortschritt geht verloren, aber die Karten werden wie im aktuellen Spiel ausgegeben."</string>
 
 <!-- If you want to help with translations, please use this site: https://poeditor.com/join/project/PYX4vcwTjA -->
-<string name="title_activity_manual">"Handbuch"</string>
-<string name="title_activity_settings">"Einstellungen"</string>
-<string name="title_activity_about">"Über das Spiel"</string>
-<string name="title_activity_statistics">"Statistiken"</string>
+<string name="local_ecFade">"Handbuch"</string>
+<string name="newsRulesCenter">"Einstellungen"</string>
+<string name="movingLoadRely">"Über das Spiel"</string>
+<string name="stylesLockFrom">"Statistiken"</string>
 
 <!-- About activity -->
 
@@ -115,201 +115,201 @@
 
 
 
-<string name="page_load_error">"Keine Seite für dieses Spiel verfügbar…"</string>
+<string name="activtyPackBuild">"Keine Seite für dieses Spiel verfügbar…"</string>
 
 
 
 
 
 <!-- Settings -->
-<string name="settings_background_color">"Hintergrundfarbe"</string>
-<string name="settings_hide_status_bar">"Statusleiste verbergen"</string>
-<string name="settings_left_handed_mode">"Linkshänder Modus"</string>
-<string name="settings_left_handed_mode_description">"Spiegelt die Karten und Stapel Positionen zur linken Seite"</string>
-<string name="settings_back_press">"Beenden des Spiels bestätigen"</string>
-<string name="settings_back_press_description">"Zum Beenden Zurück Taste zwei mal drücken"</string>
-<string name="settings_orientation">"Bildschirmausrichtung"</string>
-<string name="settings_cards">"Karten"</string>
-<string name="settings_classic">"Klassisch"</string>
-<string name="settings_simple">"Einfach"</string>
-<string name="settings_cards_back">"Kartenhintergrund"</string>
-<string name="settings_modern">"Modern"</string>
-<string name="settings_abstract">"Abstrakt"</string>
-<string name="settings_basic">"Basic"</string>
-<string name="settings_oxygen_dark">"Oxygen Dark"</string>
-<string name="settings_oxygen_light">"Oxygen Light"</string>
-<string name="settings_poker">"Poker"</string>
-<string name="settings_background">"Hintergrund Nummer"</string>
-<string name="settings_customization">"Aussehen"</string>
-<string name="settings_other">"Allgemein"</string>
-<string name="settings_other_description">"Nehme alle anderen Einstellungen vor"</string>
-<string name="settings_games">"Spiele"</string>
-<string name="settings_games_description">"Nehme Einstellungen der Spielvarianten vor"</string>
-<string name="settings_spider_difficulty">"Anzahl verschiedener Karten Familien"</string>
-<string name="settings_klondike_draw">"Anzahl der zu ziehenden Karten"</string>
-<string name="settings_canfield_draw">"Anzahl der zu ziehenden Karten"</string>
-<string name="settings_show_main_menu">"Mit Hauptmenü starten"</string>
-<string name="settings_show_main_menu_description">"Beim Starten nicht das zuletzt gespielte Spiel öffnen"</string>
-<string name="settings_golf_easy">"Zyklische Bewegungen (Einfacher)"</string>
-<string name="settings_golf_easy_description">"Erlaube das Setzen von Assen auf Könige und umgekehrt"</string>
-<string name="settings_menu">"Hauptmenü"</string>
-<string name="settings_menu_description">"Ändere Anzahl der Spalten, zeige und verstecke Spiele"</string>
-<string name="settings_pyramid_difficulty">"Schwierigkeit"</string>
-<string name="settings_menu_columns">"Anzahl der Spalten"</string>
-<string name="settings_menu_games">"Zeige und verstecke Spiele"</string>
-<string name="settings_menu_games_description">"Wähle aus, welche Spiele im Menü angezeigt werden"</string>
-<string name="settings_about_description">"Zeige Informationen über das Spiel wie Lizenzen und Änderungen"</string>
-<string name="settings_change_language">"Sprache ändern"</string>
-<string name="settings_yukon_rules">"Lege Karten auf…"</string>
-<string name="settings_icon_theme">"Symbol Thema"</string>
-<string name="settings_menu_bar_position">"Menüleistenposition"</string>
-<string name="settings_menu_bar_position_top">"Oben"</string>
-<string name="settings_menu_bar_position_bottom">"Unten"</string>
-<string name="settings_menu_bar_position_left">"Links"</string>
-<string name="settings_menu_bar_position_right">"Rechts"</string>
-<string name="settings_4_color_mode_title">"4 Farben Decks"</string>
-<string name="settings_4_color_mode_text">"Ändere die Farben von Kreuz zu Grün und von Karo zu Blau"</string>
-<string name="settings_additional_movements">"Weitere Karten Bewegungen"</string>
-<string name="settings_additional_movements_description">"Aktiviere und deaktiviere Doppeltipp- und weitere Bewegungsmöglichkeiten"</string>
-<string name="settings_double_tap">"Doppeltippen"</string>
-<string name="settings_double_tap_enable">"Erlaube Doppeltipp-Bewegungen"</string>
-<string name="settings_double_tap_enable_text">"Tippe eine Karte zweimal an, um sie zum nächstbesten Stapel zu bewegen"</string>
-<string name="settings_double_tap_all_cards">"Bewege alle Karten"</string>
-<string name="settings_double_tap_all_cards_text">"Bewege so viele Karten wie möglich vom Stapel, nicht nur die berührte Karte"</string>
-<string name="settings_tap_to_select">"Zur Auswahl antippen"</string>
-<string name="settings_tap_to_select_enable">"Erlaube Auswahl-Bewegungen"</string>
-<string name="settings_tap_to_select_enable_text">"Tippe eine Karte an um sie auszuwählen. Anschließend tippe auf einen Stapel um sie dorthin zu bewegen."</string>
-<string name="settings_single_tap">"Einmaltippen"</string>
-<string name="settings_single_tap_enable_text">"Nur für Golf und TriPeaks: Tippe Karten einmal an, um sie zum Ablagestapel zu bewegen."</string>
-<string name="settings_double_tap_foundation_first">"Zuerst zur Foundation bewegen"</string>
-<string name="settings_double_tap_foundation_first_text">"Versuche die oberste Karte des angetippten Stapels zur Foundation zu bewegen, bevor die anderen Karten bewegt werden"</string>
-<string name="settings_movement_speed">"Kartenbewegungsgeschwindigkeit"</string>
-<string name="Settings_sound">"Ton im Spiel erlauben"</string>
-<string name="Settings_sounds_title">"Töne"</string>
-<string name="Settings_sounds_text">"Aktivere Töne, ändere Effekte"</string>
-<string name="Settings_win_sound_title">"Gewinn Ton"</string>
-<string name="Settings_background_music">"Hintergrundmusik"</string>
-<string name="settings_background_color_custom">"Benutzerdefiniert"</string>
-<string name="Settings_background_volume">"Hintergrundmusik Lautstärke"</string>
-<string name="settings_limit_number_of_recycles">"Begrenzte Kartenrückgabe"</string>
-<string name="settings_limit_number_of_recycles_text">"Das Zurücklegen der Karten zum Hauptstapel ist limitiert"</string>
-<string name="settings_number_of_recycles">"Anzahl der Rückgaben"</string>
-<string name="settings_vegas_bet_amount">"Höhe des Einsatzes"</string>
-<string name="settings_menu_order_title">"Menü Reihenfolge"</string>
-<string name="settings_menu_order_summary">"Halte einen Eintrag gedrückt, nutze dann Drag and Drop um die Reihenfolge zu ändern"</string>
-<string name="settings_menu_order_set_default">"Setze Reihenfolge zurück"</string>
-<string name="settings_auto_start_new_game_title">"Starte ein neues Spiel"</string>
-<string name="settings_auto_start_new_game_text">"Falls zu einem bereits gewonnenen Spiel zurückgekehrt wird, starte ein neues Spiel"</string>
-<string name="settings_customization_description">"Passe Karten, Hintergründe und Benutzeroberfläche an"</string>
-<string name="settings_force_tablet_layout_title">"Erzwinge Tablet Layout"</string>
-<string name="settings_force_tablet_layout_text">"Zeige die Anwendung wie auf großen Bildschirmen (≥7\")"</string>
-<string name="settings_calculation_alternative_title">"Behalte Karten"</string>
-<string name="settings_calculation_alternative_text">"Beim Drücken auf dem Haupt-Stapel: Bewege Karten vom Ablage-Stapel nicht zum Tableau, behalte sie auf dem Ablage-Stapel"</string>
-<string name="settings_vegas_money_enabled">"Behalte aktuellen Kontostand"</string>
-<string name="settings_vegas_money_enabled_text">"Das Geld wird zu den nachfolgenden Vegas Spielen übertragen, aber man muss den Kontostand zurücksetzen und ein neues Spiel starten, damit Highscores gespeichert werden"</string>
-<string name="settings_vegas_money_reset">"Setze Kontostand zurück"</string>
-<string name="settings_vegas_money_reset_text">"Das nächste Vegas Spiel startet mit 0$"</string>
-<string name="settings_vegas_money_reset_confirm">"Möchtest du wirklich deinen Kontostand zurücksetzen? Dies kann nicht rückgängig gemacht werden."</string>
-<string name="settings_auto_move_title">"Automatische Bewegung"</string>
-<string name="settings_mod3_auto_move_text">"Bewege falls möglich Asse automatisch zum Ablage-Stapel"</string>
-<string name="settings_pyramid_auto_move_text">"Bewege falls möglich Könige automatisch zum Foundation-Stapel"</string>
-<string name="settings_rules">"Regeln"</string>
-<string name="settings_money">"Geld"</string>
-<string name="settings_support">"Hilfe"</string>
-<string name="settings_hide_time">"Verstecke Zeit"</string>
-<string name="settings_hide_score">"Verstecke Score"</string>
-<string name="settings_single_tap_enable">"Erlaube Einmaltipp-Bewegungen"</string>
-<string name="settings_vegas_bet_amount_text_1">"Ein Spiel kostet:"</string>
-<string name="settings_vegas_bet_amount_text_2">"Jede Karte, die zur Foundation gespielt wird, bringt:"</string>
-<string name="settings_vegas_bet_amount_summary">"Spielkosten: -%1$d$, Karte zur Foundation: +%2$d$"</string>
-<string name="settings_single_tap_all_games_text">"Tippe eine Karte einmal an, um sie zum nächstbesten Stapel zu bewegen. Dies folgt denselben Einstellungen wie Doppeltipp-Bewegungen. Außerdem werden Auswahl-Bewegungen deaktivert."</string>
-<string name="settings_canfield_size_of_reserve_title">"Ändere Größe der Reserve (Einfacher)"</string>
-<string name="settings_use_true_randomisation_title">"Benutze echten Zufall"</string>
-<string name="settings_use_true_randomisation_text">"Die Standard Randomisierung vermeidet ähnliche Karten übereinander. Setze das Häkchen, um eine uniforme Randomisierung zu nutzen."</string>
-<string name="settings_developer_options">"Entwickler Optionen"</string>
-<string name="settings_developer_options_description">"Spiele mit verrückten Einstellungen herum!"</string>
-<string name="settings_developer_options_move_card_everwhere_title">"Bewege Karten überall hin"</string>
-<string name="settings_developer_options_move_card_everwhere_text">"Man kann Karten auf jeden Stapel platzieren"</string>
-<string name="settings_developer_options_lock_text">"Diese Einstellungen sind nur für Testzwecke gedacht, die Verwendung kann zu merkwürdigem Verhalten und Abstürzen führen!"</string>
-<string name="settings_developer_options_play_every_card_title">"Spiele jede Karte"</string>
-<string name="settings_developer_options_play_every_card_text">"Man kann jede aufgedeckte Karte spielen"</string>
-<string name="settings_developer_options_instant_win_title">"Sofortiger Gewinn"</string>
-<string name="settings_developer_options_instant_win_text">"Gewinne jedes Spiel nach einer Kartenbewegung"</string>
-<string name="settings_developer_options_no_saving_title">"Deaktiviere Spielstand Speicherung"</string>
-<string name="settings_developer_options_no_saving_text">"Bewegungen in den Spielen werden nicht mehr gespeichert"</string>
-<string name="settings_developer_options_deal_correct_sequences_title">"Gebe korrekte Sequenzen aus"</string>
-<string name="settings_max_number_undos">"Anzahl der umkehrbaren Bewegungen"</string>
-<string name="settings_expert_settings">"Experten Einstellungen"</string>
-<string name="settings_expert_settings_text">"Könnten für Einige nützlich sein"</string>
-<string name="settings_follow_system_settings">"System Einstellungen folgen"</string>
-<string name="settings_portrait">"Hochformat"</string>
-<string name="settings_landscape">"Querformat"</string>
-<string name="settings_landscape_upside_down">"Querformat umgedreht"</string>
-<string name="settings_spider_difficultiy_1">"1 (Einfach)"</string>
-<string name="settings_spider_difficultiy_2">"2 (Mittel)"</string>
-<string name="settings_spider_difficultiy_3">"4 (Schwer)"</string>
-<string name="settings_draw_1">"Draw 1"</string>
-<string name="settings_draw_3">"Draw 3"</string>
-<string name="settings_pyramid_difficulty_1">"Leicht: Spiel ist gewonnen, falls das Tableau leer ist"</string>
-<string name="settings_pyramid_difficulty_2">"Schwer: Spiel ist gewonnen, falls Tableau und Haupt-Stapel leer sind"</string>
-<string name="settings_language_default">"Standard Sprache"</string>
-<string name="settings_language_english">"Englisch"</string>
-<string name="settings_language_esperanto">"Esperanto"</string>
-<string name="settings_language_finnish">"Finnisch"</string>
-<string name="settings_language_french">"Französisch"</string>
-<string name="settings_language_german">"Deutsch"</string>
-<string name="settings_language_japanese">"Japanisch"</string>
-<string name="settings_language_polish">"Polnisch"</string>
-<string name="settings_language_turkish">"Türkisch"</string>
-<string name="settings_yukon_rules_1">"unterschiedliche Farben (Standard)"</string>
-<string name="settings_yukon_rules_2">"selbe Familie (Russian Solitare)"</string>
-<string name="settings_movement_speed_1">"Sehr langsam"</string>
-<string name="settings_movement_speed_2">"Langsam"</string>
-<string name="settings_movement_speed_3">"Normal"</string>
-<string name="settings_movement_speed_4">"Schnell"</string>
-<string name="settings_win_sounds_1">"Standard"</string>
-<string name="settings_win_sounds_2">"Piano"</string>
-<string name="settings_win_sounds_3">"8-Bit Stimme \"You win\""</string>
-<string name="settings_win_sounds_4">"Jubelnde Menge"</string>
-<string name="settings_background_music_1">"Deaktiviert"</string>
-<string name="settings_background_music_2">"Melodie 1"</string>
-<string name="settings_background_music_3">"Melodie 2"</string>
-<string name="settings_background_music_4">"Melodie 3"</string>
-<string name="settings_background_music_5">"Musikbox"</string>
-<string name="settings_canfield_size_of_reserve_1">"13 Karten (Standard)"</string>
-<string name="settings_canfield_size_of_reserve_2">"10 Karten"</string>
-<string name="settings_canfield_size_of_reserve_3">"7 Karten"</string>
-<string name="settings_canfield_size_of_reserve_4">"4 Karten"</string>
-<string name="settings_developer_option_deal_correct_sequences_1">"Deaktiviert"</string>
-<string name="settings_developer_option_deal_correct_sequences_2">"Abwechselnde Farbe"</string>
-<string name="settings_developer_option_deal_correct_sequences_3">"Gleiche Familie"</string>
-<string name="settings_developer_option_deal_correct_sequences_4">"Umgekehrt abwechselnde Farbe"</string>
-<string name="settings_developer_option_deal_correct_sequences_5">"Umgekehrt gleiche Familie"</string>
+<string name="securityInit_mpNews">"Hintergrundfarbe"</string>
+<string name="init_aSelector">"Statusleiste verbergen"</string>
+<string name="drawerActivity">"Linkshänder Modus"</string>
+<string name="dummyMaze">"Spiegelt die Karten und Stapel Positionen zur linken Seite"</string>
+<string name="packSensorFour">"Beenden des Spiels bestätigen"</string>
+<string name="hintMargins">"Zum Beenden Zurück Taste zwei mal drücken"</string>
+<string name="connectivityFreecell">"Bildschirmausrichtung"</string>
+<string name="settingsLoad">"Karten"</string>
+<string name="googleMiddle">"Klassisch"</string>
+<string name="listMatchMode">"Einfach"</string>
+<string name="lightGraphics">"Kartenhintergrund"</string>
+<string name="installSimple">"Modern"</string>
+<string name="bitmapsDownloadText">"Abstrakt"</string>
+<string name="matchClose">"Basic"</string>
+<string name="modityPref">"Oxygen Dark"</string>
+<string name="abstract_dField">"Oxygen Light"</string>
+<string name="mediaSensorNumber">"Poker"</string>
+<string name="resetBitmaps">"Hintergrund Nummer"</string>
+<string name="helpMaze">"Aussehen"</string>
+<string name="pokerStacks">"Allgemein"</string>
+<string name="buttonRulesHeader">"Nehme alle anderen Einstellungen vor"</string>
+<string name="movesEmptyPref">"Spiele"</string>
+<string name="completeAudio">"Nehme Einstellungen der Spielvarianten vor"</string>
+<string name="loginCardMoves">"Anzahl verschiedener Karten Familien"</string>
+<string name="customBuglyLibgtcore">"Anzahl der zu ziehenden Karten"</string>
+<string name="movingMovabilityBroker">"Anzahl der zu ziehenden Karten"</string>
+<string name="observerMatch">"Mit Hauptmenü starten"</string>
+<string name="userClassic">"Beim Starten nicht das zuletzt gespielte Spiel öffnen"</string>
+<string name="fourSensor">"Zyklische Bewegungen (Einfacher)"</string>
+<string name="movementApplication">"Erlaube das Setzen von Assen auf Könige und umgekehrt"</string>
+<string name="textGradleCanfield">"Hauptmenü"</string>
+<string name="darkRegistryTimer">"Ändere Anzahl der Spalten, zeige und verstecke Spiele"</string>
+<string name="bitmapsList">"Schwierigkeit"</string>
+<string name="shellLogin">"Anzahl der Spalten"</string>
+<string name="starAnimateDownload">"Zeige und verstecke Spiele"</string>
+<string name="recentAdapter">"Wähle aus, welche Spiele im Menü angezeigt werden"</string>
+<string name="editInterfacePurple">"Zeige Informationen über das Spiel wie Lizenzen und Änderungen"</string>
+<string name="loadConnectivity">"Sprache ändern"</string>
+<string name="mountFragmentHelp">"Lege Karten auf…"</string>
+<string name="stableAutofill">"Symbol Thema"</string>
+<string name="contentService">"Menüleistenposition"</string>
+<string name="mediaLocal_r">"Oben"</string>
+<string name="this_hgFusionPack">"Unten"</string>
+<string name="starSoundsClass_no">"Links"</string>
+<string name="cardsPage">"Rechts"</string>
+<string name="drawerIntent">"4 Farben Decks"</string>
+<string name="stylesBooleans">"Ändere die Farben von Kreuz zu Grün und von Karo zu Blau"</string>
+<string name="checkYukonYellow">"Weitere Karten Bewegungen"</string>
+<string name="colorIntegers">"Aktiviere und deaktiviere Doppeltipp- und weitere Bewegungsmöglichkeiten"</string>
+<string name="mountHideSummary">"Doppeltippen"</string>
+<string name="local_9gMethodsPower">"Erlaube Doppeltipp-Bewegungen"</string>
+<string name="homeObjectMargins">"Tippe eine Karte zweimal an, um sie zum nächstbesten Stapel zu bewegen"</string>
+<string name="userGamesRows">"Bewege alle Karten"</string>
+<string name="objectService">"Bewege so viele Karten wie möglich vom Stapel, nicht nur die berührte Karte"</string>
+<string name="waitClose">"Zur Auswahl antippen"</string>
+<string name="iconIntentCustom">"Erlaube Auswahl-Bewegungen"</string>
+<string name="headerRightDelete_s">"Tippe eine Karte an um sie auszuwählen. Anschließend tippe auf einen Stapel um sie dorthin zu bewegen."</string>
+<string name="bottomTestsDownload">"Einmaltippen"</string>
+<string name="connectivityObserverMode">"Nur für Golf und TriPeaks: Tippe Karten einmal an, um sie zum Ablagestapel zu bewegen."</string>
+<string name="objectRegister_ruAdapter">"Zuerst zur Foundation bewegen"</string>
+<string name="aboutManual">"Versuche die oberste Karte des angetippten Stapels zur Foundation zu bewegen, bevor die anderen Karten bewegt werden"</string>
+<string name="showReturn_rjRedeal">"Kartenbewegungsgeschwindigkeit"</string>
+<string name="fileNapoleons">"Ton im Spiel erlauben"</string>
+<string name="movesMusic">"Töne"</string>
+<string name="dialogPreviews">"Aktivere Töne, ändere Effekte"</string>
+<string name="dondorfAccountAmount">"Gewinn Ton"</string>
+<string name="timerMatch">"Hintergrundmusik"</string>
+<string name="activtyRows">"Benutzerdefiniert"</string>
+<string name="libcocosdjsConstructorYukon">"Hintergrundmusik Lautstärke"</string>
+<string name="pageIntegersStats">"Begrenzte Kartenrückgabe"</string>
+<string name="referrerImpl">"Das Zurücklegen der Karten zum Hauptstapel ist limitiert"</string>
+<string name="brokerDummyConfig">"Anzahl der Rückgaben"</string>
+<string name="recentLocalePyramid">"Höhe des Einsatzes"</string>
+<string name="drawerCompat">"Menü Reihenfolge"</string>
+<string name="stacksWait">"Halte einen Eintrag gedrückt, nutze dann Drag and Drop um die Reihenfolge zu ändern"</string>
+<string name="ensurePurpleMethod_3">"Setze Reihenfolge zurück"</string>
+<string name="textConfigField">"Starte ein neues Spiel"</string>
+<string name="changerStableCheck">"Falls zu einem bereits gewonnenen Spiel zurückgekehrt wird, starte ein neues Spiel"</string>
+<string name="imagePath">"Passe Karten, Hintergründe und Benutzeroberfläche an"</string>
+<string name="statsImage">"Erzwinge Tablet Layout"</string>
+<string name="installBrokerSide">"Zeige die Anwendung wie auf großen Bildschirmen (≥7\")"</string>
+<string name="animationUserNotification">"Behalte Karten"</string>
+<string name="parisThis_ofUsage">"Beim Drücken auf dem Haupt-Stapel: Bewege Karten vom Ablage-Stapel nicht zum Tableau, behalte sie auf dem Ablage-Stapel"</string>
+<string name="napoleonsPyramid">"Behalte aktuellen Kontostand"</string>
+<string name="method_lBackupFusion">"Das Geld wird zu den nachfolgenden Vegas Spielen übertragen, aber man muss den Kontostand zurücksetzen und ein neues Spiel starten, damit Highscores gespeichert werden"</string>
+<string name="moveRecent">"Setze Kontostand zurück"</string>
+<string name="modernLogin">"Das nächste Vegas Spiel startet mit 0$"</string>
+<string name="drawerReferrerFile">"Möchtest du wirklich deinen Kontostand zurücksetzen? Dies kann nicht rückgängig gemacht werden."</string>
+<string name="matchNapoleons">"Automatische Bewegung"</string>
+<string name="showYukonBugly">"Bewege falls möglich Asse automatisch zum Ablage-Stapel"</string>
+<string name="pathAdvancedFour">"Bewege falls möglich Könige automatisch zum Foundation-Stapel"</string>
+<string name="wifiImpl">"Regeln"</string>
+<string name="pathSplash">"Geld"</string>
+<string name="networkRegistryLibgtcore">"Hilfe"</string>
+<string name="androidStringsBuild">"Verstecke Zeit"</string>
+<string name="textDummyWith_g6">"Verstecke Score"</string>
+<string name="rulesPyramid">"Erlaube Einmaltipp-Bewegungen"</string>
+<string name="fortyTimerCenter">"Ein Spiel kostet:"</string>
+<string name="centerEnsure">"Jede Karte, die zur Foundation gespielt wird, bringt:"</string>
+<string name="configSideColors">"Spielkosten: -%1$d$, Karte zur Foundation: +%2$d$"</string>
+<string name="golfStyles">"Tippe eine Karte einmal an, um sie zum nächstbesten Stapel zu bewegen. Dies folgt denselben Einstellungen wie Doppeltipp-Bewegungen. Außerdem werden Auswahl-Bewegungen deaktivert."</string>
+<string name="register_2LockHint">"Ändere Größe der Reserve (Einfacher)"</string>
+<string name="screenBottom">"Benutze echten Zufall"</string>
+<string name="libgtcoreFromSounds">"Die Standard Randomisierung vermeidet ähnliche Karten übereinander. Setze das Häkchen, um eine uniforme Randomisierung zu nutzen."</string>
+<string name="billingUndosAutofill">"Entwickler Optionen"</string>
+<string name="classicResetLoad">"Spiele mit verrückten Einstellungen herum!"</string>
+<string name="gameFreecellHeaders">"Bewege Karten überall hin"</string>
+<string name="register__OxygenLibcocosdjs">"Man kann Karten auf jeden Stapel platzieren"</string>
+<string name="dondorfBluePeaks">"Diese Einstellungen sind nur für Testzwecke gedacht, die Verwendung kann zu merkwürdigem Verhalten und Abstürzen führen!"</string>
+<string name="classicBooleansDownload">"Spiele jede Karte"</string>
+<string name="compatTime_bb">"Man kann jede aufgedeckte Karte spielen"</string>
+<string name="buildLocaleBugly">"Sofortiger Gewinn"</string>
+<string name="backgroundsDummyLauncher">"Gewinne jedes Spiel nach einer Kartenbewegung"</string>
+<string name="libjcoreAudioData">"Deaktiviere Spielstand Speicherung"</string>
+<string name="cardsBlueScore">"Bewegungen in den Spielen werden nicht mehr gespeichert"</string>
+<string name="launcherNumber">"Gebe korrekte Sequenzen aus"</string>
+<string name="amountNews">"Anzahl der umkehrbaren Bewegungen"</string>
+<string name="routerBorder">"Experten Einstellungen"</string>
+<string name="grandfathersLibjcore">"Könnten für Einige nützlich sein"</string>
+<string name="downObjectMovement">"System Einstellungen folgen"</string>
+<string name="registryStylesStatistics">"Hochformat"</string>
+<string name="brokerCenterGypsy">"Querformat"</string>
+<string name="modeManager">"Querformat umgedreht"</string>
+<string name="sensorDark">"1 (Einfach)"</string>
+<string name="assemblyTextSide">"2 (Mittel)"</string>
+<string name="columnsThis_fxHelp">"4 (Schwer)"</string>
+<string name="constructorFusion">"Draw 1"</string>
+<string name="iconReturn_jAssembly">"Draw 3"</string>
+<string name="fourNewsTask">"Leicht: Spiel ist gewonnen, falls das Tableau leer ist"</string>
+<string name="accountInterfaceClassic">"Schwer: Spiel ist gewonnen, falls Tableau und Haupt-Stapel leer sind"</string>
+<string name="completeEncryption">"Standard Sprache"</string>
+<string name="dataBasic">"Englisch"</string>
+<string name="editBuffer">"Esperanto"</string>
+<string name="scoreScore">"Finnisch"</string>
+<string name="tabsLogic">"Französisch"</string>
+<string name="classicPokerAbout">"Deutsch"</string>
+<string name="register_1ResetBlack">"Japanisch"</string>
+<string name="booleansIntent">"Polnisch"</string>
+<string name="wifiLocale">"Türkisch"</string>
+<string name="waitTime_2tNotification">"unterschiedliche Farben (Standard)"</string>
+<string name="headersDummy">"selbe Familie (Russian Solitare)"</string>
+<string name="golfCardButton">"Sehr langsam"</string>
+<string name="closeSpiderLauncher">"Langsam"</string>
+<string name="stablePref">"Normal"</string>
+<string name="loginSession">"Schnell"</string>
+<string name="eightNews">"Standard"</string>
+<string name="gypsyMountRules">"Piano"</string>
+<string name="textStableRecent">"8-Bit Stimme \"You win\""</string>
+<string name="customizeOrangeAudio">"Jubelnde Menge"</string>
+<string name="splashResizingDown">"Deaktiviert"</string>
+<string name="borderMovement">"Melodie 1"</string>
+<string name="clipboardResizing">"Melodie 2"</string>
+<string name="installArray">"Melodie 3"</string>
+<string name="testsManualCircle">"Musikbox"</string>
+<string name="modeHelperAnimation">"13 Karten (Standard)"</string>
+<string name="classicArrow">"10 Karten"</string>
+<string name="optionsAnimationAlarm">"7 Karten"</string>
+<string name="movesClipboardActivty">"4 Karten"</string>
+<string name="providerMenuNetwork">"Deaktiviert"</string>
+<string name="sensorDownloadColors">"Abwechselnde Farbe"</string>
+<string name="shellGreen">"Gleiche Familie"</string>
+<string name="lightbulbTrackGolf">"Umgekehrt abwechselnde Farbe"</string>
+<string name="animationBackupInput">"Umgekehrt gleiche Familie"</string>
 
 <!-- Statistics -->
-<string name="statistics_text_won_games">"%1$d aus %2$d Spiele gewonnen"</string>
+<string name="with_eCheck">"%1$d aus %2$d Spiele gewonnen"</string>
 
 <!-- %1$d and %2$d are placeholders for the values -->
-<string name="statistics_win_percentage">"Deine Gewinnrate: %1$.0f%%"</string>
+<string name="stringsTomb">"Deine Gewinnrate: %1$.0f%%"</string>
 
 <!-- %1$.0f is a placeholder and the following two "%%" symbols will be printed as a single "%" -->
-<string name="statistics_button_delete">"Alle Einträge löschen!"</string>
-<string name="statistics_button_delete_text">"Alle Einträge für dieses Spiel löschen! Bist du dir sicher?"</string>
-<string name="statistics_button_deleted_all_entries">"Alle Einträge gelöscht"</string>
-<string name="statistics_time_of_day">"Uhrzeit"</string>
-<string name="statistics_date">"Datum"</string>
-<string name="settings_diable_undo_costs">"Keine Strafpunkte für Zurücknehmen"</string>
-<string name="settings_diable_hint_costs">"Keine Strafpunkte für Hinweise"</string>
-<string name="statistics_high_scores">"High Scores"</string>
-<string name="statistics_recent_scores">"letzte Scores"</string>
-<string name="statistics_total_time">"Gespielte Zeit"</string>
-<string name="statistics_total_hints_shown">"Gezeigte Hinweise"</string>
-<string name="statistics_total_number_undos">"Zurückgenommene Bewegungen"</string>
-<string name="statistics_total_points_earned">"Erspielte Punkte"</string>
-<string name="statistics_no_entries">"Keine Einträge, spiele ein paar Runden!"</string>
-<string name="dialog_auto_move">"Automatisch Bewegen"</string>
-<string name="dialog_show_hints">"Zeige Hinweise"</string>
-<string name="manual_ui_text_part_1">"Ein Spiel zeigt immer ein kleines Menü auf der Unterseite des Bildschirms (Portrait Modus) oder am rechten Rand (Landscape Modus) an. Es werden auch der aktuelle Punktestand und die aktuelle Spielzeit angezeigt. Diese beiden Werte werden falls möglich für die Highscore Liste gespeichert. Das Menü enthält 5 Punkte, die folgendenen Zwecke erfüllen (Punkte von links nach rechts):
+<string name="advertisingCenter">"Alle Einträge löschen!"</string>
+<string name="soundsTomb">"Alle Einträge für dieses Spiel löschen! Bist du dir sicher?"</string>
+<string name="hideCloseGradle">"Alle Einträge gelöscht"</string>
+<string name="entrySummaryCalculation">"Uhrzeit"</string>
+<string name="blackVolume">"Datum"</string>
+<string name="rulesPackAnimation">"Keine Strafpunkte für Zurücknehmen"</string>
+<string name="blackMoving">"Keine Strafpunkte für Hinweise"</string>
+<string name="bitmapsHideMargins">"High Scores"</string>
+<string name="changerCheck">"letzte Scores"</string>
+<string name="observerLibmplameRegistry">"Gespielte Zeit"</string>
+<string name="billingYellow">"Gezeigte Hinweise"</string>
+<string name="libnonLibgtcore">"Zurückgenommene Bewegungen"</string>
+<string name="columnsHelp">"Erspielte Punkte"</string>
+<string name="newsLight">"Keine Einträge, spiele ein paar Runden!"</string>
+<string name="rightMove">"Automatisch Bewegen"</string>
+<string name="recentHelperBooleans">"Zeige Hinweise"</string>
+<string name="lightList">"Ein Spiel zeigt immer ein kleines Menü auf der Unterseite des Bildschirms (Portrait Modus) oder am rechten Rand (Landscape Modus) an. Es werden auch der aktuelle Punktestand und die aktuelle Spielzeit angezeigt. Diese beiden Werte werden falls möglich für die Highscore Liste gespeichert. Das Menü enthält 5 Punkte, die folgendenen Zwecke erfüllen (Punkte von links nach rechts):
 
 Der \"Statistiken\" Punkt zeigt ein neues Fenster mit verschiedenen Statistiken zum aktuellen Spiel an, zum Beispiel die High Scores.
 
@@ -322,7 +322,7 @@ Der \"Hilfe\" Punkt wird ein kleines Hilfsmenü anzeigen. Hier kann ausgewählt 
 
 
 
-<string name="manual_ui_text_part_10">"Der \"Zurück\" Punkt wird die letzte Kartenbewegung rückgängig machen, aber dies wird 25 Punkte kosten. Diese Aktion kann für die letzten 20 Kartenbewegungen genutzt werden. (Die Anzahl kann in den Experten Einstellungen vergrößert werden)
+<string name="dynamic_bAndroidOrder">"Der \"Zurück\" Punkt wird die letzte Kartenbewegung rückgängig machen, aber dies wird 25 Punkte kosten. Diese Aktion kann für die letzten 20 Kartenbewegungen genutzt werden. (Die Anzahl kann in den Experten Einstellungen vergrößert werden)
 
 Der \"Optionen\" Punkt öffnet einfach nur das Einstellungsmenü."</string>
 
@@ -335,35 +335,35 @@ Der \"Optionen\" Punkt öffnet einfach nur das Einstellungsmenü."</string>
 
 
 <!-- dialogs -->
-<string name="dialog_no_hint_available">"Keine Hinweise verfügbar!"</string>
-<string name="dialog_no_movement_possible">"Keine Bewegungen zu zeigen!"</string>
-<string name="settings_show_advanced_settings_title">"Schalte Entwickler Kategorien frei"</string>
-<string name="settings_language_italian">"Italienisch"</string>
-<string name="settings_language_portuguese_brazil">"Portugiesisch (Brasilien)"</string>
-<string name="settings_language_ukrainian">"Ukrainisch"</string>
-<string name="settings_game_layout_margins_title">"Spielfeld Ränder"</string>
-<string name="settings_game_layout_margins_text">"Füge Ränder zur linken und rechten Seite des Spielfelds hinzu. Die Karten werden dadurch kleiner, aber werden weniger überlappen!"</string>
-<string name="settings_game_layout_margins_none">"Ohne"</string>
-<string name="settings_game_layout_margins_small">"Klein"</string>
-<string name="settings_game_layout_margins_medium">"Medium"</string>
-<string name="settings_game_layout_margins_large">"Groß"</string>
-<string name="settings_hide_menu_button">"Verstecke Menü Button"</string>
-<string name="settings_immersive_mode_title">"Vollbildmodus aktivieren"</string>
-<string name="settings_immersive_mode_text">"Verstecke Status und Navigation Bar während des Spielens (Nur auf Android 4.4 und höher)"</string>
-<string name="settings_language_norwegian">"Norwegisch (Bokmål)"</string>
-<string name="about_paris_themes_usage">"
+<string name="notificationConfig">"Keine Hinweise verfügbar!"</string>
+<string name="launcherMenuReset">"Keine Bewegungen zu zeigen!"</string>
+<string name="loginYellow">"Schalte Entwickler Kategorien frei"</string>
+<string name="phoneTask">"Italienisch"</string>
+<string name="downloadDialog">"Portugiesisch (Brasilien)"</string>
+<string name="gypsyBackground">"Ukrainisch"</string>
+<string name="stackLocale">"Spielfeld Ränder"</string>
+<string name="poolAvailable">"Füge Ränder zur linken und rechten Seite des Spielfelds hinzu. Die Karten werden dadurch kleiner, aber werden weniger überlappen!"</string>
+<string name="managerStar">"Ohne"</string>
+<string name="resetNotification">"Klein"</string>
+<string name="clipboardBuglyDeal">"Medium"</string>
+<string name="showCenter">"Groß"</string>
+<string name="time_tjGamesMode">"Verstecke Menü Button"</string>
+<string name="buglyCalculationFusion">"Vollbildmodus aktivieren"</string>
+<string name="activtyInformationFour">"Verstecke Status und Navigation Bar während des Spielens (Nur auf Android 4.4 und höher)"</string>
+<string name="waitFusionNotification">"Norwegisch (Bokmål)"</string>
+<string name="testsSession">"
 Wird als Paris Thema verwendet - Verfügbar auf &lt;a href=https://sourceforge.net/projects/svg-cards/&gt;sourceforge.net&lt;/a&gt; - Copyright 2005 - David Bellot - david.bellot@free.fr
 "</string>
-<string name="settings_cards_paris">"Paris"</string>
-<string name="settings_cards_dondorf">"Dondorf"</string>
-<string name="games_NapoleonsTomb">"Napoleon\'s Tomb"</string>
-<string name="manual_NapoleonsTomb_structure">"1 Deck aus 52 Karten.
+<string name="testsManager">"Paris"</string>
+<string name="parisLoad">"Dondorf"</string>
+<string name="showInstallHelp">"Napoleon\'s Tomb"</string>
+<string name="dondorfImage">"1 Deck aus 52 Karten.
 
 4 Tableau Stapel, 5 Foundation Stapel, 1 Haupt- und 1 Ablage Stapel
 
 Die 4 Stapel in den Ecken mit einer \"7\" und der Stapel in der Mitte sind Foundation Stapel. Die Stapel dazwischen gehören zum Tableau."</string>
 
-<string name="manual_NapoleonsTomb_rules">"Die 4 Foundation-Stapel in den Ecken starten mit einer 7 und müssen in aufsteigender Reihenfolge bis zu einem König gestapelt werden. Der zentrale Foundation-Stapel startet mit einer 6 und muss in absteigender Reihenfolge 4 mal bis zu einem Ass gestapelt werden. Dies führt zur folgenden Reihenfolge:
+<string name="blueNotificationBackgrounds">"Die 4 Foundation-Stapel in den Ecken starten mit einer 7 und müssen in aufsteigender Reihenfolge bis zu einem König gestapelt werden. Der zentrale Foundation-Stapel startet mit einer 6 und muss in absteigender Reihenfolge 4 mal bis zu einem Ass gestapelt werden. Dies führt zur folgenden Reihenfolge:
 
 6, 5, 4, 3, 2, A - 6, 5, 4, 3, 2, A - 6, 5, 4, 3, 2, A - 6, 5, 4, 3, 2, A
 
@@ -372,52 +372,52 @@ Die nächste Karte der Sequenz wird auch über dem Stapel gezeigt.
 Das Drücken auf dem Haupt-Stapel wird eine Karte zum Ablage-Stapel bewegen. In den Spieleinstellungen aktivierbar: Falls der Haupt-Stapel leer ist, tippe drauf um jede Karte vom Ablage-Stapel zurück auf den Haupt-Stapel zu bewegen.
 
 Jede Karte darf auf jeden Tableau-Stapel gespielt werden, aber die Stapel dürfen jeweils nur eine Karte enthalten."</string>
-<string name="manual_NapoleonsTomb_scoring">"Bewege eine Karte zur Foundation: +60
+<string name="moveStableSummary">"Bewege eine Karte zur Foundation: +60
 
 Bewege alle Karten vom Ablage-Stapel zurück zum Haupt-Stapel: -200"</string>
-<string name="settings_language_spanish_argentina">"Spanisch (Argentinien)"</string>
-<string name="settings_language_spanish">"Spanisch"</string>
-<string name="settings_language_hungarian">"Ungarisch"</string>
+<string name="circleLogic">"Spanisch (Argentinien)"</string>
+<string name="networkBlackDump">"Spanisch"</string>
+<string name="volumeField">"Ungarisch"</string>
 
 <!-- Settings -->
-<string name="settings_apply_only_for_this_game">"Wende Änderungen nur für %1$s an"</string>
-<string name="settings_hide_auto_complete_button">"Deaktivere Autovervollständigen Button"</string>
-<string name="settings_dialog_only_for_this_game_enable_1">"Alle weiteren hier vorgenommenen Änderungen werden nur auf das aktuelle Spiel angewendet. Wenn Sie dann Einstellungen für andere Spiele ändern möchten, haben Sie die folgenden Möglichkeiten:"</string>
-<string name="settings_dialog_only_for_this_game_enable_3">"Kehren Sie zum Hauptmenü zurück und öffnen Sie von dort aus die Einstellungen."</string>
-<string name="settings_dialog_only_for_this_game_enable_2">"Deaktivieren Sie diese Option"</string>
-<string name="settings_dialog_only_for_this_game_enable_4">"Öffnen Sie die Einstellungen in einem Spiel, in dem diese Option nicht aktiviert ist"</string>
-<string name="settings_dialog_only_for_this_game_enable_5">"Das Deaktivieren dieser Option stellt die vorherigen geteilten Einstellungen wieder her."</string>
-<string name="settings_dialog_only_for_this_game_disable">"Die individuellen Einstellungen für dieses Spiel werden nun entfernt und die geteilten Einstellungen werden übernommen."</string>
-<string name="settings_dialog_only_for_this_game_information_1">"Änderungen wirken sich nicht auf alle Spiele aus. Hier für weitere Informationen klicken"</string>
-<string name="settings_dialog_only_for_this_game_information_2">"Die folgenden Spiele haben individuelle Einstellungen ermöglicht:"</string>
-<string name="settings_dialog_only_for_this_game_information_3">"Diese Spiele sind von den hier vorgenommenen Änderungen nicht betroffen.
+<string name="customizeRegistryDeal">"Wende Änderungen nur für %1$s an"</string>
+<string name="backgroundWith__yPurple">"Deaktivere Autovervollständigen Button"</string>
+<string name="implGamesWifi">"Alle weiteren hier vorgenommenen Änderungen werden nur auf das aktuelle Spiel angewendet. Wenn Sie dann Einstellungen für andere Spiele ändern möchten, haben Sie die folgenden Möglichkeiten:"</string>
+<string name="fileStringsEight">"Kehren Sie zum Hauptmenü zurück und öffnen Sie von dort aus die Einstellungen."</string>
+<string name="gameLibcocosdjs">"Deaktivieren Sie diese Option"</string>
+<string name="numberField">"Öffnen Sie die Einstellungen in einem Spiel, in dem diese Option nicht aktiviert ist"</string>
+<string name="widget_gTrack">"Das Deaktivieren dieser Option stellt die vorherigen geteilten Einstellungen wieder her."</string>
+<string name="gradleMoveBooleans">"Die individuellen Einstellungen für dieses Spiel werden nun entfernt und die geteilten Einstellungen werden übernommen."</string>
+<string name="manifestEnsureManifest">"Änderungen wirken sich nicht auf alle Spiele aus. Hier für weitere Informationen klicken"</string>
+<string name="positionLightbulbRight">"Die folgenden Spiele haben individuelle Einstellungen ermöglicht:"</string>
+<string name="timerPageHandler">"Diese Spiele sind von den hier vorgenommenen Änderungen nicht betroffen.
 
 Möchten Sie die individuellen Einstellungen für alle aufgeführten Spiele entfernen?"</string>
-<string name="settings_dialog_only_for_this_game_removed_all">"Alle individuellen Einstellungen entfernt"</string>
-<string name="settings_ensure_movability_title">"Garantierte Anzahl der Bewegungen"</string>
-<string name="settings_ensure_movability_searching_games">"Suche nach einem geeigneten Spiel…"</string>
-<string name="settings_ensure_movability_text">"Stelle sicher, dass eine bestimmte Anzahl von Bewegungen in einem Spiel möglich sind, bevor es gestartet wird"</string>
-<string name="settings_ensure_movability_min_moves_title">"Anzahl der Bewegungen ändern"</string>
-<string name="settings_ensure_movability_min_moves_warning">"Vorsicht: Das Erhöhen der Beträge führt zu längeren Wartezeiten vor Spielbeginn. Änderungen der Spielregeln wirken sich auch auf die Wartezeit aus!"</string>
-<string name="settings_ensure_movability_min_moves_text">"Ändere die Anzahl der Bewegungen, die jedes Spiel mindestens haben muss, wenn es gestartet wird."</string>
-<string name="settings_number_input_error">"Kann diese Zahlen nicht speichern!"</string>
-<string name="settings_developer_option_improve_auto_move_title">"Automatische Bewegung verbessern"</string>
-<string name="settings_developer_option_improve_auto_move_text">"Die Automatische Bewegung wird versuchen das Spiel zu gewinnen, in dem es den Hauptstapel mitbenutzt"</string>
-<string name="black">"Schwarz"</string>
-<string name="white">"Weiß"</string>
-<string name="settings_ensure_movability_make_game_winnable_button_title">"Bestimmte Spiele gewinnbar machen"</string>
-<string name="settings_ensure_movability_make_game_winnable_text">"Der Betrag für einige Spiele kann hoch genug eingestellt werden, um sie immer gewinnbar zu machen, ohne die Wartezeit deutlich zu erhöhen."</string>
-<string name="settings_ensure_movability_winnable">"Gewinnbar"</string>
-<string name="settings_reset_to_defaults">"Auf Standardwerte zurücksetzen"</string>
-<string name="settings_text_color">"Text- und Stapelfarbe"</string>
-<string name="settings_language_chinese_simplified">"Chinesisch (Vereinfacht)"</string>
-<string name="settings_ensure_movability_cancle_search">"Abbrechen und sofort starten"</string>
-<string name="games_Maze">"Maze"</string>
-<string name="games_Spiderette">"Spiderette"</string>
-<string name="manual_Spiderette_scoring">"Eine Karte zur Foundation bewegen: +200
+<string name="movesPreferences">"Alle individuellen Einstellungen entfernt"</string>
+<string name="buildPackHelp">"Garantierte Anzahl der Bewegungen"</string>
+<string name="telephonyEncryptionCircle">"Suche nach einem geeigneten Spiel…"</string>
+<string name="contentAdapterIntegers">"Stelle sicher, dass eine bestimmte Anzahl von Bewegungen in einem Spiel möglich sind, bevor es gestartet wird"</string>
+<string name="preferenceMarginsMoves">"Anzahl der Bewegungen ändern"</string>
+<string name="interfaceAdvertising">"Vorsicht: Das Erhöhen der Beträge führt zu längeren Wartezeiten vor Spielbeginn. Änderungen der Spielregeln wirken sich auch auf die Wartezeit aus!"</string>
+<string name="return_bPyramidTests">"Ändere die Anzahl der Bewegungen, die jedes Spiel mindestens haben muss, wenn es gestartet wird."</string>
+<string name="usageIntentActivty">"Kann diese Zahlen nicht speichern!"</string>
+<string name="colorGradlew">"Automatische Bewegung verbessern"</string>
+<string name="dynamic_aRouter">"Die Automatische Bewegung wird versuchen das Spiel zu gewinnen, in dem es den Hauptstapel mitbenutzt"</string>
+<string name="installReferrer">"Schwarz"</string>
+<string name="headersTask">"Weiß"</string>
+<string name="applicationList">"Bestimmte Spiele gewinnbar machen"</string>
+<string name="animationInputStatistics">"Der Betrag für einige Spiele kann hoch genug eingestellt werden, um sie immer gewinnbar zu machen, ohne die Wartezeit deutlich zu erhöhen."</string>
+<string name="movementNetwork">"Gewinnbar"</string>
+<string name="usageMain">"Auf Standardwerte zurücksetzen"</string>
+<string name="rightRows">"Text- und Stapelfarbe"</string>
+<string name="modityInfoRely">"Chinesisch (Vereinfacht)"</string>
+<string name="customLibcocosdjs">"Abbrechen und sofort starten"</string>
+<string name="yukonCalculation">"Maze"</string>
+<string name="textResizingMatch">"Spiderette"</string>
+<string name="expertPack">"Eine Karte zur Foundation bewegen: +200
 
 Eine Karte aufdecken: +25"</string>
-<string name="settings_language_portuguese">"Portugiesisch"</string>
-<string name="statistics_hide_win_percentage">"Gewinnanteil verstecken"</string>
-<string name="settings_restart_game">"Starte ein neues %1$s Spiel um die Änderung anzuwenden"</string>
+<string name="prefObserverBackup">"Portugiesisch"</string>
+<string name="routerOxygenGradlew">"Gewinnanteil verstecken"</string>
+<string name="fourLogic">"Starte ein neues %1$s Spiel um die Änderung anzuwenden"</string>
 </resources>

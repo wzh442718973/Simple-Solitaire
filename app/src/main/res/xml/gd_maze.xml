@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/settingsLoad">
+
+        <com.ardently.love.delightgame.classes.FUndos
+            android:defaultValue="@bool/default_fortyeight_limited_recycles"
+            android:key="@string/pref_key_fortyeight_limit_recycles"
+            android:summary="@string/referrerImpl"
+            android:title="@string/pageIntegersStats" />
+
+        <com.ardently.love.delightgame.classes.LRStacks
+            android:defaultValue="@string/default_fortyeight_number_of_recycles"
+            android:dependency="@string/pref_key_fortyeight_limit_recycles"
+            android:entries="@array/pref_number_of_recycles_values"
+            android:entryValues="@array/pref_number_of_recycles_values"
+            android:key="@string/pref_key_fortyeight_number_of_recycles"
+            android:negativeButtonText="@string/billingTaskMoves"
+            android:positiveButtonText="@null"
+            android:summary="%s"
+            android:title="@string/brokerDummyConfig" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

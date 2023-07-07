@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_version">"Versio"</string>
-<string name="settings">"Agordoj"</string>
-<string name="game_manual">"Manlibro"</string>
-<string name="game_score">"Poentaro"</string>
-<string name="game_time">"Tempo"</string>
-<string name="game_cancel">"Nuligi"</string>
-<string name="game_confirm">"Konfirmi"</string>
-<string name="game_auto_complete_text">"Mem-kompletiĝo"</string>
-<string name="game_press_again">"Repremu por eliri"</string>
-<string name="game_load_error">"Malsukcesis ŝargi lud-datumojn, ekigante novan ludon…"</string>
-<string name="game_close">"Fermi la ludon"</string>
-<string name="game_main_menu">"Ĉefmenuo"</string>
-<string name="item_game_rules">"Reguloj de ludo"</string>
-<string name="item_return_to_main_menu">"Reveni al ĉefmenuo"</string>
+<string name="purpleInput">"Versio"</string>
+<string name="gypsyPreviews">"Agordoj"</string>
+<string name="moveShared">"Manlibro"</string>
+<string name="backgroundsFortyMove">"Poentaro"</string>
+<string name="starThis_5r">"Tempo"</string>
+<string name="billingTaskMoves">"Nuligi"</string>
+<string name="poolTaskCustomize">"Konfirmi"</string>
+<string name="serviceExpertVolume">"Mem-kompletiĝo"</string>
+<string name="mainBorderAces">"Repremu por eliri"</string>
+<string name="phoneReferrerOxygen">"Malsukcesis ŝargi lud-datumojn, ekigante novan ludon…"</string>
+<string name="sensorPurple">"Fermi la ludon"</string>
+<string name="libmplameIntent">"Ĉefmenuo"</string>
+<string name="leftEntry">"Reguloj de ludo"</string>
+<string name="tombDummy">"Reveni al ĉefmenuo"</string>
 
 <!-- Menu -->
-<string name="menu_undo">"Malfari"</string>
-<string name="menu_main_menu">"Menuo"</string>
-<string name="menu_settings">"Agordoj"</string>
+<string name="rulesMoves">"Malfari"</string>
+<string name="eightEncryption">"Menuo"</string>
+<string name="animationFrom">"Agordoj"</string>
 
 <!-- game names 
 
      - if you want to translate names and a name gets very long, use spaces, so they can be displayed
      - in two rows in the main menu. But eg. GrandfathersClock is still short enough to display it in
      - a single line -->
-<string name="games_Klondike">"Klondiko"</string>
-<string name="games_Freecell">"FreeCell"</string>
-<string name="games_Yukon">"Jukono"</string>
-<string name="games_Spider">"Araneo"</string>
-<string name="games_SimpleSimon">"Simpla Simono"</string>
-<string name="games_Golf">"Golfo"</string>
-<string name="games_Pyramid">"Piramido"</string>
-<string name="games_TriPeaks">"TriPintoj"</string>
-<string name="games_FortyEight">"Kvardek &amp; Ok"</string>
-<string name="games_AcesUp">"Kvar Asoj"</string>
-<string name="games_Gypsy">"Cigano"</string>
-<string name="games_mod3">"Mod3"</string>
-<string name="games_Canfield">"Canfield"</string>
-<string name="games_GrandfathersClock">"Ava Horloĝo"</string>
-<string name="games_Vegas">"Vegaso"</string>
-<string name="games_Calculation">"Calculation"</string>
+<string name="informationMazeTrack">"Klondiko"</string>
+<string name="previewDummyMaze">"FreeCell"</string>
+<string name="compatAuto_moStrings">"Jukono"</string>
+<string name="networkCalculation">"Araneo"</string>
+<string name="cardAces">"Simpla Simono"</string>
+<string name="settingsRouterMusic">"Golfo"</string>
+<string name="availableDark">"Piramido"</string>
+<string name="bitmapsStrings">"TriPintoj"</string>
+<string name="aboutNews">"Kvardek &amp; Ok"</string>
+<string name="layoutClipboardGrandfathers">"Kvar Asoj"</string>
+<string name="sharedListPref">"Cigano"</string>
+<string name="movementOrangeVolume">"Mod3"</string>
+<string name="eightServiceCard">"Canfield"</string>
+<string name="resizingMatch">"Ava Horloĝo"</string>
+<string name="local_1lRight">"Vegaso"</string>
+<string name="abstract_h6Available">"Calculation"</string>
 
 <!-- colors -->
-<string name="blue">"Blua"</string>
-<string name="green">"Verda"</string>
-<string name="red">"Ruĝa"</string>
-<string name="yellow">"Flava"</string>
-<string name="orange">"Oranĝkolora"</string>
-<string name="purple">"Purpura"</string>
+<string name="dialogShared">"Blua"</string>
+<string name="scoreModern">"Verda"</string>
+<string name="pyramidLibmplameBasic">"Ruĝa"</string>
+<string name="drawerDondorfManager">"Flava"</string>
+<string name="stackAssembly">"Oranĝkolora"</string>
+<string name="routerScoreCustom">"Purpura"</string>
 
 <!-- game stuff -->
-<string name="game_longest_run">"Plej longa serio:"</string>
+<string name="dataUndo">"Plej longa serio:"</string>
 
 <!-- dialog won -->
-<string name="dialog_win_titel">"Gratulon!!"</string>
-<string name="dialog_win_score">"Poentaro: %1$d"</string>
-<string name="dialog_win_bonus">"Premio: %1$d"</string>
-<string name="dialog_win_total">"Tute: %1$d"</string>
+<string name="centerBase">"Gratulon!!"</string>
+<string name="activtyChangerMoving">"Poentaro: %1$d"</string>
+<string name="sessionHeaderImage">"Premio: %1$d"</string>
+<string name="volumeSpiderTabs">"Tute: %1$d"</string>
 
 <!-- dialog mix cards -->
-<string name="dialog_mix_cards_title">"Miksi kartojn"</string>
-<string name="dialog_mix_cards_text">"Tio ĉi miksos ĉiujn kartojn, ekspektu ĝustajn kart-vicojn kaj kartojn sur la fundamentaj stakoj."</string>
-<string name="dialog_mix_cards_not_available">"Plue eblaj movoj ekzistas!"</string>
+<string name="gypsyClose">"Miksi kartojn"</string>
+<string name="homeBottomLoad">"Tio ĉi miksos ĉiujn kartojn, ekspektu ĝustajn kart-vicojn kaj kartojn sur la fundamentaj stakoj."</string>
+<string name="baseAnimationRules">"Plue eblaj movoj ekzistas!"</string>
 
 <!-- dialog start new game -->
-<string name="dialog_start_new_game_title">"Komenci novan ludon"</string>
-<string name="dialog_start_new_game_text">"Via nuna progreso forviŝos kaj nova hazarda ludo estos disdonita."</string>
+<string name="brokerUsageLogic">"Komenci novan ludon"</string>
+<string name="clockModernStar">"Via nuna progreso forviŝos kaj nova hazarda ludo estos disdonita."</string>
 
 <!-- dialog redeal -->
-<string name="dialog_redeal_title">"Disdoni kartojn ree"</string>
-<string name="dialog_redeal_text">"Via nuna progreso forviŝos kaj kartoj estos disdonitaj same kiel en tiu ĉi ludo."</string>
+<string name="managerBuildPoker">"Disdoni kartojn ree"</string>
+<string name="blueReferrer">"Via nuna progreso forviŝos kaj kartoj estos disdonitaj same kiel en tiu ĉi ludo."</string>
 
 <!-- If you want to help with translations, please use this site: https://poeditor.com/join/project/PYX4vcwTjA -->
-<string name="title_activity_manual">"Manlibro"</string>
-<string name="title_activity_settings">"Agordoj"</string>
-<string name="title_activity_about">"Pri la ludo"</string>
-<string name="title_activity_statistics">"Statistikoj"</string>
+<string name="local_ecFade">"Manlibro"</string>
+<string name="newsRulesCenter">"Agordoj"</string>
+<string name="movingLoadRely">"Pri la ludo"</string>
+<string name="stylesLockFrom">"Statistikoj"</string>
 
 <!-- About activity -->
 
@@ -115,200 +115,200 @@
 
 
 
-<string name="page_load_error">"Paĝo pri tiu ĉi ludo ne estas disponebla…"</string>
+<string name="activtyPackBuild">"Paĝo pri tiu ĉi ludo ne estas disponebla…"</string>
 
 
 
 
 <!-- Settings -->
-<string name="settings_background_color">"Fona koloro"</string>
-<string name="settings_hide_status_bar">"Kaŝi statan breton"</string>
-<string name="settings_left_handed_mode">"Maldekstrmana reĝimo"</string>
-<string name="settings_left_handed_mode_description">"Inversigi poziciojn de kartoj kaj stakoj al maldekstra flanko"</string>
-<string name="settings_back_press">"Konfirmi fermi la ludon"</string>
-<string name="settings_back_press_description">"Premu duoble reen-butonon por fermi ludon"</string>
-<string name="settings_orientation">"Ekrana orientiĝo"</string>
-<string name="settings_cards">"Kartoj"</string>
-<string name="settings_classic">"Klasikaj"</string>
-<string name="settings_simple">"Simplaj"</string>
-<string name="settings_cards_back">"Kartaj malantaŭoj"</string>
-<string name="settings_modern">"Modernaj"</string>
-<string name="settings_abstract">"Abstraktaj"</string>
-<string name="settings_basic">"Normaj"</string>
-<string name="settings_oxygen_dark">"Oxygen Malhela"</string>
-<string name="settings_oxygen_light">"Oxygen Hela"</string>
-<string name="settings_poker">"Pokero"</string>
-<string name="settings_background">"Malantaŭo numero"</string>
-<string name="settings_customization">"Aspekto"</string>
-<string name="settings_other">"Ĝeneralaj"</string>
-<string name="settings_other_description">"Agordi ĉion alian"</string>
-<string name="settings_games">"Ludoj"</string>
-<string name="settings_games_description">"Alĝustigi agordojn de ludaj variaĵoj"</string>
-<string name="settings_spider_difficulty">"Kiom da diversaj emblemoj de kartoj"</string>
-<string name="settings_klondike_draw">"Kiom da kartoj depreni"</string>
-<string name="settings_canfield_draw">"Kiom da kartoj depreni"</string>
-<string name="settings_show_main_menu">"Eki en ĉefmenuo"</string>
-<string name="settings_show_main_menu_description">"Ne malfermi laste malfermitan ludon dum starto"</string>
-<string name="settings_golf_easy">"Ciklaj movoj (pli facile)"</string>
-<string name="settings_golf_easy_description">"Permesi meti asojn sur reĝojn kaj inverse"</string>
-<string name="settings_menu">"Ĉefmenuo"</string>
-<string name="settings_menu_description">"Ŝanĝi nombron da kolumnoj, montri kaj kaŝu ludojn"</string>
-<string name="settings_pyramid_difficulty">"Facileco"</string>
-<string name="settings_menu_columns">"Nombro da kolumnoj"</string>
-<string name="settings_menu_games">"Montri kaj kaŝi ludojn"</string>
-<string name="settings_menu_games_description">"Elekti kiujn ludojn estas videblaj en menuo"</string>
-<string name="settings_about_description">"Montri informojn pri la ludo kiel permesilojn kaj ŝanĝoprotokolon"</string>
-<string name="settings_change_language">"Ŝanĝi lingvon"</string>
-<string name="settings_yukon_rules">"Meti kartojn sur…"</string>
-<string name="settings_icon_theme">"Piktograma etoso"</string>
-<string name="settings_menu_bar_position">"Pozicio de menua breto"</string>
-<string name="settings_menu_bar_position_top">"supre"</string>
-<string name="settings_menu_bar_position_bottom">"sube"</string>
-<string name="settings_menu_bar_position_left">"maldekstre"</string>
-<string name="settings_menu_bar_position_right">"dekstre"</string>
-<string name="settings_4_color_mode_title">"4 ludkartaj emblemoj"</string>
-<string name="settings_4_color_mode_text">"Kolorigi trefojn verde kaj karoojn blue"</string>
-<string name="settings_additional_movements">"Ekstraj kart-movoj"</string>
-<string name="settings_additional_movements_description">"Aktivigi aŭ malaktivigi eblon por movi per doubla frapeto kaj aliaj"</string>
-<string name="settings_double_tap">"Duobla frapeto"</string>
-<string name="settings_double_tap_enable">"Aktivigi agojn pri duoblaj frapetoj"</string>
-<string name="settings_double_tap_enable_text">"Duoble frapetu karton por movi ĝin sur la sekvan eblan stakon"</string>
-<string name="settings_double_tap_all_cards">"Movi ĉiujn eblajn kartojn"</string>
-<string name="settings_double_tap_all_cards_text">"Movi kiel eble plej kartojn de stako, ne nur tuŝatan karton"</string>
-<string name="settings_tap_to_select">"Elekti-per-frapeto"</string>
-<string name="settings_tap_to_select_enable">"Aktivigi movojn elekti-per-frapeto"</string>
-<string name="settings_tap_to_select_enable_text">"Frapetu karton por ĝin elekti, kaj sekve frapetu alcelan stakon por movi ĝin tien"</string>
-<string name="settings_single_tap">"Unuobla frapeto"</string>
-<string name="settings_single_tap_enable_text">"Nur por Golfo kaj TriPintoj: unuoble frapetu karton por movi ĝin sur forĵetan stakon"</string>
-<string name="settings_double_tap_foundation_first">"Unue movi sur fundamentan stakon"</string>
-<string name="settings_double_tap_foundation_first_text">"Provi movi la plej supran karton de frapetata stako sur fundamentan stakon antaŭ movi aliajn kartojn"</string>
-<string name="settings_movement_speed">"Mov-rapido de kartoj"</string>
-<string name="Settings_sound">"Aktivigi sonojn en ludo"</string>
-<string name="Settings_sounds_title">"Sonoj"</string>
-<string name="Settings_sounds_text">"Aktivigi sonojn, agordi diversajn sonefektojn"</string>
-<string name="Settings_win_sound_title">"Sonefekto de venko"</string>
-<string name="Settings_background_music">"Fona muziko"</string>
-<string name="settings_background_color_custom">"Propra"</string>
-<string name="Settings_background_volume">"Sonforteco de fona muziko"</string>
-<string name="settings_limit_number_of_recycles">"Limigi nombron da redisdonoj"</string>
-<string name="settings_limit_number_of_recycles_text">"Movado de forĵeta stako al ĉefa stako estas limigita"</string>
-<string name="settings_number_of_recycles">"Nombro de reuzoj"</string>
-<string name="settings_vegas_bet_amount">"Vetluda monsumo"</string>
-<string name="settings_menu_order_title">"Ordo de menuo"</string>
-<string name="settings_menu_order_summary">"Frapetadu eron kaj poste ŝovu kaj demetu ĝin por reordigi menuon"</string>
-<string name="settings_menu_order_set_default">"Restarigi ordon"</string>
-<string name="settings_auto_start_new_game_title">"Komenci novan ludon post venko"</string>
-<string name="settings_auto_start_new_game_text">"Je reveno al ĵus-venkita ludo, aŭtomate komenci novan ludon"</string>
-<string name="settings_customization_description">"Alĝustigi kartojn, fonojn kaj fasadon"</string>
-<string name="settings_force_tablet_layout_title">"Devigi tabulkomputilan reĝimon"</string>
-<string name="settings_force_tablet_layout_text">"Vidigi la aplikaĵon same kiel sur grandaj ekranoj (≥7\")"</string>
-<string name="settings_calculation_alternative_title">"Teni kartojn"</string>
-<string name="settings_calculation_alternative_text">"Je premado sur ĉefa stako: anstataŭ movi karton de forĵeta stako al tablamasa stako, teni ĝin sur la forĵeta stako."</string>
-<string name="settings_vegas_money_enabled">"Konservi nunan monstaton"</string>
-<string name="settings_vegas_money_enabled_text">"La monstato estos konservata tra sekvaj redisdonoj de Vegaso, tamen vi devu rekomencigi la mon-staton kaj komenci novan ludon por konservi rekordojn"</string>
-<string name="settings_vegas_money_reset">"Rekomencigi monstaton"</string>
-<string name="settings_vegas_money_reset_text">"La sekva redisdono de Vegas komenciĝos kun 0$"</string>
-<string name="settings_vegas_money_reset_confirm">"Ĉu vi certe volas rekomencigi vian monstaton? Tio ĉi estas neinversigebla."</string>
-<string name="settings_auto_move_title">"Aŭtomataj movoj"</string>
-<string name="settings_mod3_auto_move_text">"Aŭtomate movi asojn al la forĵeta stako, kiam tio eblas"</string>
-<string name="settings_pyramid_auto_move_text">"Aŭtomate movi reĝojn al la ruba stako, kiam tio eblas"</string>
-<string name="settings_rules">"Reguloj"</string>
-<string name="settings_money">"Mono"</string>
-<string name="settings_support">"Subteno"</string>
-<string name="settings_hide_time">"Kaŝi tempon"</string>
-<string name="settings_hide_score">"Kaŝi poentaron"</string>
-<string name="settings_single_tap_enable">"Aktivigi agojn pri unuoblaj frapetoj"</string>
-<string name="settings_vegas_bet_amount_text_1">"Unua redisdono kostas:"</string>
-<string name="settings_vegas_bet_amount_text_2">"Por movi karton al fundamenta stako gajnas:"</string>
-<string name="settings_vegas_bet_amount_summary">"Redisdono: -%1$d$, karto al fundamenta stako: +%2$d$"</string>
-<string name="settings_single_tap_all_games_text">"Unuoble frapetu karton por movi ĝin al la sekva ebla stako. Samaj agordoj kiel por duobla frapeto. Tio ĉi malaktivigos movojn “elekti-per-frapeto”."</string>
-<string name="settings_canfield_size_of_reserve_title">"Ŝanĝi amplekson da rezerva stako (pli facile)"</string>
-<string name="settings_use_true_randomisation_title">"Uzi veran hazardecon"</string>
-<string name="settings_use_true_randomisation_text">"Implicita hazardeco evitas similajn kartojn apude. Marku tio ĉi por aktivigi vere egalan hazardecon."</string>
-<string name="settings_developer_options">"Programistaj agoroj"</string>
-<string name="settings_developer_options_description">"Ludi kun vere frenezaj agordoj!"</string>
-<string name="settings_developer_options_move_card_everwhere_title">"Movi kartojn ie ajn"</string>
-<string name="settings_developer_options_move_card_everwhere_text">"Vi povas movi kartojn al ĉiu stako"</string>
-<string name="settings_developer_options_lock_text">"Tiuj ĉi agoroj estas destinitaj nur por testado, uzi ilin povas rezultigi strangajn efikojn kaj paneojn!"</string>
-<string name="settings_developer_options_play_every_card_title">"Ludi per iu ĉiu karto"</string>
-<string name="settings_developer_options_play_every_card_text">"Vi povas ludi per iu ajn malkovrita karto"</string>
-<string name="settings_developer_options_instant_win_title">"Tuja venko"</string>
-<string name="settings_developer_options_instant_win_text">"Venki ĉiun ludon post movi karton"</string>
-<string name="settings_developer_options_no_saving_title">"Ne konservi staton de ludo"</string>
-<string name="settings_developer_options_no_saving_text">"Movoj dum ludado ne estos konservitaj"</string>
-<string name="settings_developer_options_deal_correct_sequences_title">"Disdoni en fina ordo"</string>
-<string name="settings_max_number_undos">"Maksimuma nombro da movoj malfari"</string>
-<string name="settings_expert_settings">"Altnivelaj agordoj"</string>
-<string name="settings_expert_settings_text">"Eble uzeblaj por iuj homoj"</string>
-<string name="settings_follow_system_settings">"Laŭ sistema agordo"</string>
-<string name="settings_portrait">"Vertikale"</string>
-<string name="settings_landscape">"Horizontale"</string>
-<string name="settings_landscape_upside_down">"Horizontala inversa"</string>
-<string name="settings_spider_difficultiy_1">"1 (facila)"</string>
-<string name="settings_spider_difficultiy_2">"2 (meza)"</string>
-<string name="settings_spider_difficultiy_3">"4 (malfacila)"</string>
-<string name="settings_draw_1">"Depreni 1"</string>
-<string name="settings_draw_3">"Depreni 3"</string>
-<string name="settings_pyramid_difficulty_1">"Facila: ludo estas venkita kiam tablamaso estas malplena"</string>
-<string name="settings_pyramid_difficulty_2">"Malfacila: ludo estas venkita kiam tablamaso kaj stako estas malplenaj"</string>
-<string name="settings_language_default">"Implicita"</string>
-<string name="settings_language_english">"Angla"</string>
-<string name="settings_language_esperanto">"Esperanto"</string>
-<string name="settings_language_finnish">"Suoma"</string>
-<string name="settings_language_french">"Franca"</string>
-<string name="settings_language_german">"Germana"</string>
-<string name="settings_language_japanese">"Japana"</string>
-<string name="settings_language_polish">"Pola"</string>
-<string name="settings_language_turkish">"Turka"</string>
-<string name="settings_yukon_rules_1">"Diferencaj koloroj (implicite)"</string>
-<string name="settings_yukon_rules_2">"Sama emblemo (rusa paciencoludo)"</string>
-<string name="settings_movement_speed_1">"Tre malrapida"</string>
-<string name="settings_movement_speed_2">"Malrapida"</string>
-<string name="settings_movement_speed_3">"Meza"</string>
-<string name="settings_movement_speed_4">"Rapida"</string>
-<string name="settings_win_sounds_1">"Implicita"</string>
-<string name="settings_win_sounds_2">"Piano"</string>
-<string name="settings_win_sounds_3">"8-bitoka voĉo “You win”"</string>
-<string name="settings_win_sounds_4">"Aplaŭdo"</string>
-<string name="settings_background_music_1">"Malaktiva"</string>
-<string name="settings_background_music_2">"Muzikaĵo 1"</string>
-<string name="settings_background_music_3">"Muzikaĵo 2"</string>
-<string name="settings_background_music_4">"Muzikaĵo 3"</string>
-<string name="settings_background_music_5">"Muzikskatolo"</string>
-<string name="settings_canfield_size_of_reserve_1">"13 kartoj (implicite)"</string>
-<string name="settings_canfield_size_of_reserve_2">"10 kartoj"</string>
-<string name="settings_canfield_size_of_reserve_3">"7 kartoj"</string>
-<string name="settings_canfield_size_of_reserve_4">"4 kartoj"</string>
-<string name="settings_developer_option_deal_correct_sequences_1">"Malaktiva"</string>
-<string name="settings_developer_option_deal_correct_sequences_2">"Alterna koloro"</string>
-<string name="settings_developer_option_deal_correct_sequences_3">"Sama familio"</string>
-<string name="settings_developer_option_deal_correct_sequences_4">"Inverse altern-kolora"</string>
-<string name="settings_developer_option_deal_correct_sequences_5">"Inverse sam-familia"</string>
+<string name="securityInit_mpNews">"Fona koloro"</string>
+<string name="init_aSelector">"Kaŝi statan breton"</string>
+<string name="drawerActivity">"Maldekstrmana reĝimo"</string>
+<string name="dummyMaze">"Inversigi poziciojn de kartoj kaj stakoj al maldekstra flanko"</string>
+<string name="packSensorFour">"Konfirmi fermi la ludon"</string>
+<string name="hintMargins">"Premu duoble reen-butonon por fermi ludon"</string>
+<string name="connectivityFreecell">"Ekrana orientiĝo"</string>
+<string name="settingsLoad">"Kartoj"</string>
+<string name="googleMiddle">"Klasikaj"</string>
+<string name="listMatchMode">"Simplaj"</string>
+<string name="lightGraphics">"Kartaj malantaŭoj"</string>
+<string name="installSimple">"Modernaj"</string>
+<string name="bitmapsDownloadText">"Abstraktaj"</string>
+<string name="matchClose">"Normaj"</string>
+<string name="modityPref">"Oxygen Malhela"</string>
+<string name="abstract_dField">"Oxygen Hela"</string>
+<string name="mediaSensorNumber">"Pokero"</string>
+<string name="resetBitmaps">"Malantaŭo numero"</string>
+<string name="helpMaze">"Aspekto"</string>
+<string name="pokerStacks">"Ĝeneralaj"</string>
+<string name="buttonRulesHeader">"Agordi ĉion alian"</string>
+<string name="movesEmptyPref">"Ludoj"</string>
+<string name="completeAudio">"Alĝustigi agordojn de ludaj variaĵoj"</string>
+<string name="loginCardMoves">"Kiom da diversaj emblemoj de kartoj"</string>
+<string name="customBuglyLibgtcore">"Kiom da kartoj depreni"</string>
+<string name="movingMovabilityBroker">"Kiom da kartoj depreni"</string>
+<string name="observerMatch">"Eki en ĉefmenuo"</string>
+<string name="userClassic">"Ne malfermi laste malfermitan ludon dum starto"</string>
+<string name="fourSensor">"Ciklaj movoj (pli facile)"</string>
+<string name="movementApplication">"Permesi meti asojn sur reĝojn kaj inverse"</string>
+<string name="textGradleCanfield">"Ĉefmenuo"</string>
+<string name="darkRegistryTimer">"Ŝanĝi nombron da kolumnoj, montri kaj kaŝu ludojn"</string>
+<string name="bitmapsList">"Facileco"</string>
+<string name="shellLogin">"Nombro da kolumnoj"</string>
+<string name="starAnimateDownload">"Montri kaj kaŝi ludojn"</string>
+<string name="recentAdapter">"Elekti kiujn ludojn estas videblaj en menuo"</string>
+<string name="editInterfacePurple">"Montri informojn pri la ludo kiel permesilojn kaj ŝanĝoprotokolon"</string>
+<string name="loadConnectivity">"Ŝanĝi lingvon"</string>
+<string name="mountFragmentHelp">"Meti kartojn sur…"</string>
+<string name="stableAutofill">"Piktograma etoso"</string>
+<string name="contentService">"Pozicio de menua breto"</string>
+<string name="mediaLocal_r">"supre"</string>
+<string name="this_hgFusionPack">"sube"</string>
+<string name="starSoundsClass_no">"maldekstre"</string>
+<string name="cardsPage">"dekstre"</string>
+<string name="drawerIntent">"4 ludkartaj emblemoj"</string>
+<string name="stylesBooleans">"Kolorigi trefojn verde kaj karoojn blue"</string>
+<string name="checkYukonYellow">"Ekstraj kart-movoj"</string>
+<string name="colorIntegers">"Aktivigi aŭ malaktivigi eblon por movi per doubla frapeto kaj aliaj"</string>
+<string name="mountHideSummary">"Duobla frapeto"</string>
+<string name="local_9gMethodsPower">"Aktivigi agojn pri duoblaj frapetoj"</string>
+<string name="homeObjectMargins">"Duoble frapetu karton por movi ĝin sur la sekvan eblan stakon"</string>
+<string name="userGamesRows">"Movi ĉiujn eblajn kartojn"</string>
+<string name="objectService">"Movi kiel eble plej kartojn de stako, ne nur tuŝatan karton"</string>
+<string name="waitClose">"Elekti-per-frapeto"</string>
+<string name="iconIntentCustom">"Aktivigi movojn elekti-per-frapeto"</string>
+<string name="headerRightDelete_s">"Frapetu karton por ĝin elekti, kaj sekve frapetu alcelan stakon por movi ĝin tien"</string>
+<string name="bottomTestsDownload">"Unuobla frapeto"</string>
+<string name="connectivityObserverMode">"Nur por Golfo kaj TriPintoj: unuoble frapetu karton por movi ĝin sur forĵetan stakon"</string>
+<string name="objectRegister_ruAdapter">"Unue movi sur fundamentan stakon"</string>
+<string name="aboutManual">"Provi movi la plej supran karton de frapetata stako sur fundamentan stakon antaŭ movi aliajn kartojn"</string>
+<string name="showReturn_rjRedeal">"Mov-rapido de kartoj"</string>
+<string name="fileNapoleons">"Aktivigi sonojn en ludo"</string>
+<string name="movesMusic">"Sonoj"</string>
+<string name="dialogPreviews">"Aktivigi sonojn, agordi diversajn sonefektojn"</string>
+<string name="dondorfAccountAmount">"Sonefekto de venko"</string>
+<string name="timerMatch">"Fona muziko"</string>
+<string name="activtyRows">"Propra"</string>
+<string name="libcocosdjsConstructorYukon">"Sonforteco de fona muziko"</string>
+<string name="pageIntegersStats">"Limigi nombron da redisdonoj"</string>
+<string name="referrerImpl">"Movado de forĵeta stako al ĉefa stako estas limigita"</string>
+<string name="brokerDummyConfig">"Nombro de reuzoj"</string>
+<string name="recentLocalePyramid">"Vetluda monsumo"</string>
+<string name="drawerCompat">"Ordo de menuo"</string>
+<string name="stacksWait">"Frapetadu eron kaj poste ŝovu kaj demetu ĝin por reordigi menuon"</string>
+<string name="ensurePurpleMethod_3">"Restarigi ordon"</string>
+<string name="textConfigField">"Komenci novan ludon post venko"</string>
+<string name="changerStableCheck">"Je reveno al ĵus-venkita ludo, aŭtomate komenci novan ludon"</string>
+<string name="imagePath">"Alĝustigi kartojn, fonojn kaj fasadon"</string>
+<string name="statsImage">"Devigi tabulkomputilan reĝimon"</string>
+<string name="installBrokerSide">"Vidigi la aplikaĵon same kiel sur grandaj ekranoj (≥7\")"</string>
+<string name="animationUserNotification">"Teni kartojn"</string>
+<string name="parisThis_ofUsage">"Je premado sur ĉefa stako: anstataŭ movi karton de forĵeta stako al tablamasa stako, teni ĝin sur la forĵeta stako."</string>
+<string name="napoleonsPyramid">"Konservi nunan monstaton"</string>
+<string name="method_lBackupFusion">"La monstato estos konservata tra sekvaj redisdonoj de Vegaso, tamen vi devu rekomencigi la mon-staton kaj komenci novan ludon por konservi rekordojn"</string>
+<string name="moveRecent">"Rekomencigi monstaton"</string>
+<string name="modernLogin">"La sekva redisdono de Vegas komenciĝos kun 0$"</string>
+<string name="drawerReferrerFile">"Ĉu vi certe volas rekomencigi vian monstaton? Tio ĉi estas neinversigebla."</string>
+<string name="matchNapoleons">"Aŭtomataj movoj"</string>
+<string name="showYukonBugly">"Aŭtomate movi asojn al la forĵeta stako, kiam tio eblas"</string>
+<string name="pathAdvancedFour">"Aŭtomate movi reĝojn al la ruba stako, kiam tio eblas"</string>
+<string name="wifiImpl">"Reguloj"</string>
+<string name="pathSplash">"Mono"</string>
+<string name="networkRegistryLibgtcore">"Subteno"</string>
+<string name="androidStringsBuild">"Kaŝi tempon"</string>
+<string name="textDummyWith_g6">"Kaŝi poentaron"</string>
+<string name="rulesPyramid">"Aktivigi agojn pri unuoblaj frapetoj"</string>
+<string name="fortyTimerCenter">"Unua redisdono kostas:"</string>
+<string name="centerEnsure">"Por movi karton al fundamenta stako gajnas:"</string>
+<string name="configSideColors">"Redisdono: -%1$d$, karto al fundamenta stako: +%2$d$"</string>
+<string name="golfStyles">"Unuoble frapetu karton por movi ĝin al la sekva ebla stako. Samaj agordoj kiel por duobla frapeto. Tio ĉi malaktivigos movojn “elekti-per-frapeto”."</string>
+<string name="register_2LockHint">"Ŝanĝi amplekson da rezerva stako (pli facile)"</string>
+<string name="screenBottom">"Uzi veran hazardecon"</string>
+<string name="libgtcoreFromSounds">"Implicita hazardeco evitas similajn kartojn apude. Marku tio ĉi por aktivigi vere egalan hazardecon."</string>
+<string name="billingUndosAutofill">"Programistaj agoroj"</string>
+<string name="classicResetLoad">"Ludi kun vere frenezaj agordoj!"</string>
+<string name="gameFreecellHeaders">"Movi kartojn ie ajn"</string>
+<string name="register__OxygenLibcocosdjs">"Vi povas movi kartojn al ĉiu stako"</string>
+<string name="dondorfBluePeaks">"Tiuj ĉi agoroj estas destinitaj nur por testado, uzi ilin povas rezultigi strangajn efikojn kaj paneojn!"</string>
+<string name="classicBooleansDownload">"Ludi per iu ĉiu karto"</string>
+<string name="compatTime_bb">"Vi povas ludi per iu ajn malkovrita karto"</string>
+<string name="buildLocaleBugly">"Tuja venko"</string>
+<string name="backgroundsDummyLauncher">"Venki ĉiun ludon post movi karton"</string>
+<string name="libjcoreAudioData">"Ne konservi staton de ludo"</string>
+<string name="cardsBlueScore">"Movoj dum ludado ne estos konservitaj"</string>
+<string name="launcherNumber">"Disdoni en fina ordo"</string>
+<string name="amountNews">"Maksimuma nombro da movoj malfari"</string>
+<string name="routerBorder">"Altnivelaj agordoj"</string>
+<string name="grandfathersLibjcore">"Eble uzeblaj por iuj homoj"</string>
+<string name="downObjectMovement">"Laŭ sistema agordo"</string>
+<string name="registryStylesStatistics">"Vertikale"</string>
+<string name="brokerCenterGypsy">"Horizontale"</string>
+<string name="modeManager">"Horizontala inversa"</string>
+<string name="sensorDark">"1 (facila)"</string>
+<string name="assemblyTextSide">"2 (meza)"</string>
+<string name="columnsThis_fxHelp">"4 (malfacila)"</string>
+<string name="constructorFusion">"Depreni 1"</string>
+<string name="iconReturn_jAssembly">"Depreni 3"</string>
+<string name="fourNewsTask">"Facila: ludo estas venkita kiam tablamaso estas malplena"</string>
+<string name="accountInterfaceClassic">"Malfacila: ludo estas venkita kiam tablamaso kaj stako estas malplenaj"</string>
+<string name="completeEncryption">"Implicita"</string>
+<string name="dataBasic">"Angla"</string>
+<string name="editBuffer">"Esperanto"</string>
+<string name="scoreScore">"Suoma"</string>
+<string name="tabsLogic">"Franca"</string>
+<string name="classicPokerAbout">"Germana"</string>
+<string name="register_1ResetBlack">"Japana"</string>
+<string name="booleansIntent">"Pola"</string>
+<string name="wifiLocale">"Turka"</string>
+<string name="waitTime_2tNotification">"Diferencaj koloroj (implicite)"</string>
+<string name="headersDummy">"Sama emblemo (rusa paciencoludo)"</string>
+<string name="golfCardButton">"Tre malrapida"</string>
+<string name="closeSpiderLauncher">"Malrapida"</string>
+<string name="stablePref">"Meza"</string>
+<string name="loginSession">"Rapida"</string>
+<string name="eightNews">"Implicita"</string>
+<string name="gypsyMountRules">"Piano"</string>
+<string name="textStableRecent">"8-bitoka voĉo “You win”"</string>
+<string name="customizeOrangeAudio">"Aplaŭdo"</string>
+<string name="splashResizingDown">"Malaktiva"</string>
+<string name="borderMovement">"Muzikaĵo 1"</string>
+<string name="clipboardResizing">"Muzikaĵo 2"</string>
+<string name="installArray">"Muzikaĵo 3"</string>
+<string name="testsManualCircle">"Muzikskatolo"</string>
+<string name="modeHelperAnimation">"13 kartoj (implicite)"</string>
+<string name="classicArrow">"10 kartoj"</string>
+<string name="optionsAnimationAlarm">"7 kartoj"</string>
+<string name="movesClipboardActivty">"4 kartoj"</string>
+<string name="providerMenuNetwork">"Malaktiva"</string>
+<string name="sensorDownloadColors">"Alterna koloro"</string>
+<string name="shellGreen">"Sama familio"</string>
+<string name="lightbulbTrackGolf">"Inverse altern-kolora"</string>
+<string name="animationBackupInput">"Inverse sam-familia"</string>
 
 <!-- Statistics -->
-<string name="statistics_text_won_games">"Vi venkis %1$d el %2$d ludoj."</string>
+<string name="with_eCheck">"Vi venkis %1$d el %2$d ludoj."</string>
 
 <!-- %1$d and %2$d are placeholders for the values -->
-<string name="statistics_win_percentage">"Elcento da venkoj: %1$.0f%%"</string>
+<string name="stringsTomb">"Elcento da venkoj: %1$.0f%%"</string>
 
 <!-- %1$.0f is a placeholder and the following two "%%" symbols will be printed as a single "%" -->
-<string name="statistics_button_delete">"Forigi ĉiujn rezultojn"</string>
-<string name="statistics_button_delete_text">"Forigos ĉiujn rezultojn de tiu ĉi ludo! Ĉu vi certas?"</string>
-<string name="statistics_button_deleted_all_entries">"Ĉiuj rezultoj forigitaj"</string>
-<string name="statistics_time_of_day">"Horo"</string>
-<string name="statistics_date">"Dato"</string>
-<string name="settings_diable_undo_costs">"Malaktivigi punpoentoj por malfari movon"</string>
-<string name="settings_diable_hint_costs">"Malaktivigi punpoentoj por montri konsilon"</string>
-<string name="statistics_high_scores">"Plej bonaj rezultoj"</string>
-<string name="statistics_recent_scores">"Lastaj rezultoj"</string>
-<string name="statistics_total_time">"Tuta luda tempo"</string>
-<string name="statistics_total_hints_shown">"Tutaj montritaj konsiloj"</string>
-<string name="statistics_total_number_undos">"Tutaj movoj malfari"</string>
-<string name="statistics_total_points_earned">"Tutaj atingitaj poentoj"</string>
-<string name="statistics_no_entries">"Neniuj rezultoj, ludu iom da ludoj!"</string>
-<string name="dialog_auto_move">"Memmovoj"</string>
-<string name="dialog_show_hints">"Montri konsilojn"</string>
-<string name="manual_ui_text_part_1">"La ludo ĉiam montras etan menuon ĉe sube de la ekrano (vertikala reĝimo) aŭ ĉe dekstre (horizontala reĝimo). Ĝia ankaŭ montras la nunan poentaron kaj tempon de ludado. La menuo enhavas 5 elementojn, kiuj havas la jenajn efikojn (butonoj de maldekstre al dekstre):
+<string name="advertisingCenter">"Forigi ĉiujn rezultojn"</string>
+<string name="soundsTomb">"Forigos ĉiujn rezultojn de tiu ĉi ludo! Ĉu vi certas?"</string>
+<string name="hideCloseGradle">"Ĉiuj rezultoj forigitaj"</string>
+<string name="entrySummaryCalculation">"Horo"</string>
+<string name="blackVolume">"Dato"</string>
+<string name="rulesPackAnimation">"Malaktivigi punpoentoj por malfari movon"</string>
+<string name="blackMoving">"Malaktivigi punpoentoj por montri konsilon"</string>
+<string name="bitmapsHideMargins">"Plej bonaj rezultoj"</string>
+<string name="changerCheck">"Lastaj rezultoj"</string>
+<string name="observerLibmplameRegistry">"Tuta luda tempo"</string>
+<string name="billingYellow">"Tutaj montritaj konsiloj"</string>
+<string name="libnonLibgtcore">"Tutaj movoj malfari"</string>
+<string name="columnsHelp">"Tutaj atingitaj poentoj"</string>
+<string name="newsLight">"Neniuj rezultoj, ludu iom da ludoj!"</string>
+<string name="rightMove">"Memmovoj"</string>
+<string name="recentHelperBooleans">"Montri konsilojn"</string>
+<string name="lightList">"La ludo ĉiam montras etan menuon ĉe sube de la ekrano (vertikala reĝimo) aŭ ĉe dekstre (horizontala reĝimo). Ĝia ankaŭ montras la nunan poentaron kaj tempon de ludado. La menuo enhavas 5 elementojn, kiuj havas la jenajn efikojn (butonoj de maldekstre al dekstre):
 
 La butono “statistikoj” malfermos novan langeton kun diversaj statistikoj pri la ludata ludo, ekzemple plej altan poentaron.
 
@@ -321,7 +321,7 @@ La butono “subteno” malfermos etan helpan menuon. Tie vi povos elekti:"</str
 
 
 
-<string name="manual_ui_text_part_10">"La butono “malfari” malfaros la lastan movon, sed tio ĉi kostos 25 poentojn. Oni povas ĝin uzi por maksimume 20 lastaj movoj. (pliigebla en altnivelaj agordoj)
+<string name="dynamic_bAndroidOrder">"La butono “malfari” malfaros la lastan movon, sed tio ĉi kostos 25 poentojn. Oni povas ĝin uzi por maksimume 20 lastaj movoj. (pliigebla en altnivelaj agordoj)
 
 La butono “agordoj” simple malfermos la menuon de preferoj."</string>
 
@@ -334,33 +334,33 @@ La butono “agordoj” simple malfermos la menuon de preferoj."</string>
 
 
 <!-- dialogs -->
-<string name="dialog_no_hint_available">"Neniu ebla konsilo!"</string>
-<string name="dialog_no_movement_possible">"Neniu movo por montri!"</string>
-<string name="settings_show_advanced_settings_title">"Malŝlosi programistajn agordojn"</string>
-<string name="settings_language_italian">"Itala"</string>
-<string name="settings_language_portuguese_brazil">"Portugala (Brazila)"</string>
-<string name="settings_language_ukrainian">"Ukraina"</string>
-<string name="settings_game_layout_margins_title">"Lud-aranĝaj marĝenoj"</string>
-<string name="settings_game_layout_margins_text">"Aldoni marĝenojn al dekstra kaj maldekstra flanko de lud-aranĝo. Kartoj aspektos malpli grandaj, sed surmeteco estos malpliigita!"</string>
-<string name="settings_game_layout_margins_none">"Neniuj"</string>
-<string name="settings_game_layout_margins_small">"Mallarĝaj"</string>
-<string name="settings_game_layout_margins_medium">"Mezaj"</string>
-<string name="settings_game_layout_margins_large">"Larĝaj"</string>
-<string name="settings_hide_menu_button">"Kaŝi menu-butonon"</string>
-<string name="settings_immersive_mode_title">"Aktivigi plenekranan reĝimon"</string>
-<string name="settings_immersive_mode_text">"Kaŝi statan kaj navigan bretojn dum ludado (nur ĉe Androido 4.4 aŭ pli nova)"</string>
-<string name="settings_language_norwegian">"Norvega (Bokmål)"</string>
+<string name="notificationConfig">"Neniu ebla konsilo!"</string>
+<string name="launcherMenuReset">"Neniu movo por montri!"</string>
+<string name="loginYellow">"Malŝlosi programistajn agordojn"</string>
+<string name="phoneTask">"Itala"</string>
+<string name="downloadDialog">"Portugala (Brazila)"</string>
+<string name="gypsyBackground">"Ukraina"</string>
+<string name="stackLocale">"Lud-aranĝaj marĝenoj"</string>
+<string name="poolAvailable">"Aldoni marĝenojn al dekstra kaj maldekstra flanko de lud-aranĝo. Kartoj aspektos malpli grandaj, sed surmeteco estos malpliigita!"</string>
+<string name="managerStar">"Neniuj"</string>
+<string name="resetNotification">"Mallarĝaj"</string>
+<string name="clipboardBuglyDeal">"Mezaj"</string>
+<string name="showCenter">"Larĝaj"</string>
+<string name="time_tjGamesMode">"Kaŝi menu-butonon"</string>
+<string name="buglyCalculationFusion">"Aktivigi plenekranan reĝimon"</string>
+<string name="activtyInformationFour">"Kaŝi statan kaj navigan bretojn dum ludado (nur ĉe Androido 4.4 aŭ pli nova)"</string>
+<string name="waitFusionNotification">"Norvega (Bokmål)"</string>
 
-<string name="settings_cards_paris">"Paris"</string>
-<string name="settings_cards_dondorf">"Dondorf"</string>
-<string name="games_NapoleonsTomb">"Tombo de Napoleono"</string>
-<string name="manual_NapoleonsTomb_structure">"1 kartaro po 52 kartoj.
+<string name="testsManager">"Paris"</string>
+<string name="parisLoad">"Dondorf"</string>
+<string name="showInstallHelp">"Tombo de Napoleono"</string>
+<string name="dondorfImage">"1 kartaro po 52 kartoj.
 
 4 tablamasoj, 5 fundamentaj stakoj, 1 ĉefa kaj 1 forĵeta stakoj.
 
 4 stakoj en anguloj kun “7” kaj unu en la centro estas fundamentaj stakoj. La stakoj inter ili estas tablamasaj stakoj."</string>
 
-<string name="manual_NapoleonsTomb_rules">"La angulaj stakoj komenciĝas 7 kaj oni metas tien kartojn kreskante ĝis reĝoj. La centra stako komenciĝas kun 6 kaj oni metas tien kartojn malkreskante ĝis aso kvarfoje. Jen la rezulto:
+<string name="blueNotificationBackgrounds">"La angulaj stakoj komenciĝas 7 kaj oni metas tien kartojn kreskante ĝis reĝoj. La centra stako komenciĝas kun 6 kaj oni metas tien kartojn malkreskante ĝis aso kvarfoje. Jen la rezulto:
 
 6, 5, 4, 3, 2, A - 6, 5, 4, 3, 2, A - 6, 5, 4, 3, 2, A - 6, 5, 4, 3, 2, A
 
@@ -369,50 +369,50 @@ La sekva karto de la ordo estos montrata supre de la stako.
 Frapetu la ĉefan stakon por malkovri kaj movi unu karton al la forĵeta stako. Ŝanĝebla en agordoj:  Se la ĉefa stako malpleniĝos, frapetu denove por movi reen ĉiujn kartojn de forĵeta stako al ĉefa stako.
 
 Ĉiun karton oni povas meti sur malplenan tablamasan stakon, sed ĉiu stako povas enhavi nur unu karton samtempe."</string>
-<string name="manual_NapoleonsTomb_scoring">"Movi karton al fundamenta stako: +60
+<string name="moveStableSummary">"Movi karton al fundamenta stako: +60
 
 Transmeti ĉiujn kartojn de forĵeta stako al ĉefa stako: -200"</string>
-<string name="settings_language_spanish_argentina">"Hispana (Argentina)"</string>
-<string name="settings_language_spanish">"Hispana"</string>
+<string name="circleLogic">"Hispana (Argentina)"</string>
+<string name="networkBlackDump">"Hispana"</string>
 
 <!-- Settings -->
-<string name="settings_apply_only_for_this_game">"Apliki ŝanĝojn nur por %1$s"</string>
-<string name="settings_hide_auto_complete_button">"Kaŝi la butonon “mem-kompletiĝo”"</string>
-<string name="settings_dialog_only_for_this_game_enable_1">"Ĉiuj pluaj ŝanĝoj estos aplikitaj nur por la nuna ludo. Jen manieroj por ŝanĝi agordojn de aliaj ludoj:"</string>
+<string name="customizeRegistryDeal">"Apliki ŝanĝojn nur por %1$s"</string>
+<string name="backgroundWith__yPurple">"Kaŝi la butonon “mem-kompletiĝo”"</string>
+<string name="implGamesWifi">"Ĉiuj pluaj ŝanĝoj estos aplikitaj nur por la nuna ludo. Jen manieroj por ŝanĝi agordojn de aliaj ludoj:"</string>
 
 <!-- When I add a new line, POEditor complains, that "the number of newlines at the end doesn't match", should I still add a new line, or let POEditor decide? -->
-<string name="settings_dialog_only_for_this_game_enable_3">"Revenu al la ĉefmenuo kaj malfermi agordoj de tie"</string>
-<string name="settings_dialog_only_for_this_game_enable_2">"Malaktivigu tiun ĉi agordon"</string>
-<string name="settings_dialog_only_for_this_game_enable_4">"Malfermu agordojn de ludo, kiu ne havas tiun ĉi agordon ŝaltitan"</string>
-<string name="settings_dialog_only_for_this_game_enable_5">"Malaktivigu tiun ĉi agordon por restarigi antaŭajn komunajn agordojn."</string>
-<string name="settings_dialog_only_for_this_game_disable">"Apartaj agordoj por tiu ĉi ludo estos forigitaj kaj komunaj agordoj estos aplikitaj."</string>
-<string name="settings_dialog_only_for_this_game_information_1">"Ŝanĝoj ne aplikiĝos por ĉiuj ludoj. Frapetu tien ĉi por pli da informoj."</string>
-<string name="settings_dialog_only_for_this_game_information_2">"Por la jenaj ludoj estas aktivigitaj apartaj agordoj:"</string>
-<string name="settings_dialog_only_for_this_game_information_3">"Por tiuj ĉi ludoj ŝanĝoj faritaj ĉi tie ne aplikiĝos.
+<string name="fileStringsEight">"Revenu al la ĉefmenuo kaj malfermi agordoj de tie"</string>
+<string name="gameLibcocosdjs">"Malaktivigu tiun ĉi agordon"</string>
+<string name="numberField">"Malfermu agordojn de ludo, kiu ne havas tiun ĉi agordon ŝaltitan"</string>
+<string name="widget_gTrack">"Malaktivigu tiun ĉi agordon por restarigi antaŭajn komunajn agordojn."</string>
+<string name="gradleMoveBooleans">"Apartaj agordoj por tiu ĉi ludo estos forigitaj kaj komunaj agordoj estos aplikitaj."</string>
+<string name="manifestEnsureManifest">"Ŝanĝoj ne aplikiĝos por ĉiuj ludoj. Frapetu tien ĉi por pli da informoj."</string>
+<string name="positionLightbulbRight">"Por la jenaj ludoj estas aktivigitaj apartaj agordoj:"</string>
+<string name="timerPageHandler">"Por tiuj ĉi ludoj ŝanĝoj faritaj ĉi tie ne aplikiĝos.
 
 Ĉu vi volas forigi apartajn agordojn por ĉiuj enlistigitaj ludoj?"</string>
-<string name="settings_dialog_only_for_this_game_removed_all">"Forigi ĉiujn apartajn agordojn"</string>
-<string name="settings_ensure_movability_title">"Garantii movojn"</string>
-<string name="settings_ensure_movability_searching_games">"Serĉado de ludebla ludo…"</string>
-<string name="settings_ensure_movability_text">"Garantii, ke povas fari la elektitan nombron da movoj antaŭ komenci ludon"</string>
-<string name="settings_ensure_movability_min_moves_title">"Garantii movojn: nombro da movoj"</string>
-<string name="settings_ensure_movability_min_moves_warning">"Averto: pliigo de tiu ĉi agordo rezultigos pli longan atendan tempon antaŭ komenco de ludo! Ŝanĝi ludajn regulojn ankaŭ influos la atendantan tempon!"</string>
-<string name="settings_ensure_movability_min_moves_text">"Ŝanĝi minimuman nombron da eblaj movoj por ludo antaŭ komenci ĝin."</string>
-<string name="settings_number_input_error">"Ne povas konservi numerojn!"</string>
-<string name="settings_developer_option_improve_auto_move_title">"Plibonigita mem-kompletiĝo"</string>
-<string name="settings_developer_option_improve_auto_move_text">"Mem-kompletiĝo provos venki ludon ankaŭ per uzi la ĉefan stakon"</string>
-<string name="black">"Nigra"</string>
-<string name="white">"Blanka"</string>
-<string name="settings_ensure_movability_make_game_winnable_button_title">"Igi iomajn ludojn venkeblaj"</string>
-<string name="settings_ensure_movability_make_game_winnable_text">"Kvanto da ludoj por agordi ilin ĉiam venkeblaj, sen signifa pliigo de atenda tempo."</string>
-<string name="settings_ensure_movability_winnable">"Venkeblaj"</string>
-<string name="settings_reset_to_defaults">"Restarigi implicitajn valorojn"</string>
-<string name="settings_text_color">"Koloro de teksto kaj stakoj"</string>
-<string name="settings_language_chinese_simplified">"Ĉina (simpligita)"</string>
-<string name="settings_ensure_movability_cancle_search">"Nuligi kaj senprokraste ekigi"</string>
-<string name="games_Maze">"Labirinto"</string>
-<string name="games_Spiderette">"Araneeto"</string>
-<string name="manual_Spiderette_structure">"1 kartaro po 52 kartoj.
+<string name="movesPreferences">"Forigi ĉiujn apartajn agordojn"</string>
+<string name="buildPackHelp">"Garantii movojn"</string>
+<string name="telephonyEncryptionCircle">"Serĉado de ludebla ludo…"</string>
+<string name="contentAdapterIntegers">"Garantii, ke povas fari la elektitan nombron da movoj antaŭ komenci ludon"</string>
+<string name="preferenceMarginsMoves">"Garantii movojn: nombro da movoj"</string>
+<string name="interfaceAdvertising">"Averto: pliigo de tiu ĉi agordo rezultigos pli longan atendan tempon antaŭ komenco de ludo! Ŝanĝi ludajn regulojn ankaŭ influos la atendantan tempon!"</string>
+<string name="return_bPyramidTests">"Ŝanĝi minimuman nombron da eblaj movoj por ludo antaŭ komenci ĝin."</string>
+<string name="usageIntentActivty">"Ne povas konservi numerojn!"</string>
+<string name="colorGradlew">"Plibonigita mem-kompletiĝo"</string>
+<string name="dynamic_aRouter">"Mem-kompletiĝo provos venki ludon ankaŭ per uzi la ĉefan stakon"</string>
+<string name="installReferrer">"Nigra"</string>
+<string name="headersTask">"Blanka"</string>
+<string name="applicationList">"Igi iomajn ludojn venkeblaj"</string>
+<string name="animationInputStatistics">"Kvanto da ludoj por agordi ilin ĉiam venkeblaj, sen signifa pliigo de atenda tempo."</string>
+<string name="movementNetwork">"Venkeblaj"</string>
+<string name="usageMain">"Restarigi implicitajn valorojn"</string>
+<string name="rightRows">"Koloro de teksto kaj stakoj"</string>
+<string name="modityInfoRely">"Ĉina (simpligita)"</string>
+<string name="customLibcocosdjs">"Nuligi kaj senprokraste ekigi"</string>
+<string name="yukonCalculation">"Labirinto"</string>
+<string name="textResizingMatch">"Araneeto"</string>
+<string name="purpleField">"1 kartaro po 52 kartoj.
 
 7 tablamasaj stakoj kaj 4 fundamentaj stakoj.
 
@@ -420,15 +420,15 @@ Transmeti ĉiujn kartojn de forĵeta stako al ĉefa stako: -200"</string>
 
 Depende de agordoj: 1, 2 aŭ 4 diversaj kartaj emblemoj."</string>
 
-<string name="manual_Spiderette_rules">"Kartojn oni povas meti sur iun ajn karton en malkreskanta ordo. Tamen nur serioj de samaj kartaj emblemoj povas esti movitaj per unu fojo.
+<string name="libmplameSplash">"Kartojn oni povas meti sur iun ajn karton en malkreskanta ordo. Tamen nur serioj de samaj kartaj emblemoj povas esti movitaj per unu fojo.
 
 Ĉiun karton oni povas meti sur malplenan tablamasan kampon.
 
 Frapetu la ĉefan stakon por dsdoni po unu karto por ĉiu tablamasa stako samtempe."</string>
-<string name="manual_Spiderette_scoring">"Movi kartan familion al fundamenta stako: +200
+<string name="expertPack">"Movi kartan familion al fundamenta stako: +200
 
 Malkovri karton: +25"</string>
-<string name="settings_language_portuguese">"Portugala"</string>
-<string name="statistics_hide_win_percentage">"Kaŝi elcenton da venkoj"</string>
-<string name="settings_restart_game">"Komencu novan ludon %1$s por apliki ŝanĝojn"</string>
+<string name="prefObserverBackup">"Portugala"</string>
+<string name="routerOxygenGradlew">"Kaŝi elcenton da venkoj"</string>
+<string name="fourLogic">"Komencu novan ludon %1$s por apliki ŝanĝojn"</string>
 </resources>

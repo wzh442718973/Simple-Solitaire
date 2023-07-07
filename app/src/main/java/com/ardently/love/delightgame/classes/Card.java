@@ -1,22 +1,18 @@
-/*
- * Copyright (C) 2016  Tobias Bielefeld
- * This program is free software: you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation, either version 3 of the License, or
- * any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
- *
- * If you want to contact me, send me an e-mail at tobias.bielefeld@gmail.com
- */
+ 
 
 package com.ardently.love.delightgame.classes;
+import android.widget.TextView;
+
+
+import android.widget.ImageView;
+
+
+import java.util.Random;
+
+
+import java.util.HashMap;
+
+
 
 import android.graphics.Bitmap;
 import android.graphics.PointF;
@@ -25,48 +21,46 @@ import android.view.View;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.ardently.love.delightgame.SharedData.*;
+import static com.ardently.love.delightgame.TAbstractHeader.*;
 
-/**
- * Contains everything related to cards. The view is a custom image view, which overrides some
- * methods for animations. The drawable files are also updated here
- */
+
+
+
+
+ 
 
 public class Card {
+int relyMobilePurpleFlag = 0;
+ArrayList<Integer> installColorsTablet_list;
 
-    public enum movements {INSTANT, NONE, DEFAULT}
 
-    public static int width, height;                      //width and height calculated in relation of the screen dimensions in Main activity
+
+
+    public enum FMove {INSTANT, NONE, DEFAULT}
+
+    public static int width, height;                      
     public static Bitmap background;
     private static Bitmap[] drawables = new Bitmap[52];
-    public CustomImageView view;                          //the image view of the card, for easier code not private
-    private int color;                                    //1=clubs 2=hearts 3=Spades 4=diamonds
-    private int value;                                    //1=ace 2,3,4,5,6,7,8,9,10, 11=joker 12=queen 13=king
-    private Stack stack;                                  //saves the stack where the card is placed
-    private int id;                                       //internal id
-    private boolean isUp;                                 //indicates if the card is placed upwards or backwards
+    public JQGBaseView view;                          
+    private int color;                                    
+    private int value;                                    
+    private MAHResizingLibjcore stack;                                  
+    private int id;                                       
+    private boolean isUp;                                 
     private boolean isInvisible;
-    private PointF oldLocation = new PointF();            //old location so cards can be moved back if they can't placed on a new stack
+    private PointF oldLocation = new PointF();            
 
     public static int ACE = 1;
     public static int JOKER = 11;
     public static int QUEEN = 12;
     public static int KING = 13;
 
-    //no enum, I want to explicitly set the values, because they are saved in the sharedPref and
+    
     private static final int STATE_FACED_DOWN = 0;
     public static final int STATE_FACED_UP = 1;
     public static final int STATE_INVISIBLE = 2;
 
-    /**
-     * Sets id, color and value. The cards are initialized at game start with a for loop.
-     * <p>
-     * The color range is 1 to 4 and depends on the cardDrawableOrder, which is set to
-     * 1 for the first 13 cards, 2 for the following 13 cards and so on.
-     * After 52 cards (= one deck) it repeats. The value range is from 1 to 13 (= Ace to King).
-     *
-     * @param id The position in the cards array
-     */
+     
     public Card(int id) {
         this.id = id;
         color = currentGame.cardDrawablesOrder[(id % 52) / 13];
@@ -76,15 +70,12 @@ public class Card {
     public void setImageBitmap(Bitmap bitmap) {
         if (!stopUiUpdates) {
             view.setImageBitmap(bitmap);
+            double callQ = 7524.0;
+             while (callQ < 152) { break; }
         }
     }
 
-    /**
-     * Sets the card drawables according to set preferences. Each card theme has one drawable file
-     * with 52 cards in it. These will be loaded in bitmaps and applied to the cards. The bitmap array
-     * has the same order like the cards array. If the fourColor theme is enabled, Clubs and Diamonds
-     * use another row in the bitmap file.
-     */
+     
     public static void updateCardDrawableChoice() {
         boolean fourColors = prefs.getSavedFourColorMode();
 
@@ -106,9 +97,7 @@ public class Card {
         }
     }
 
-    /**
-     * Loads the card backgrounds for the bitmap file and applies them.
-     */
+     
     public static void updateCardBackgroundChoice() {
         int positionX = prefs.getSavedCardBackground();
         int positionY = prefs.getSavedCardBackgroundColor();
@@ -125,9 +114,7 @@ public class Card {
         }
     }
 
-    /**
-     * Save the card direction (up/down) as a string list.
-     */
+     
     public static void save() {
         List<Integer> list = new ArrayList<>(cards.length);
 
@@ -144,9 +131,7 @@ public class Card {
         prefs.saveCards(list);
     }
 
-    /**
-     * Load the card direction (up/down) from a string list and applies the data.
-     */
+     
     public static void load() {
         List<Integer> list = prefs.getSavedCards();
         for (int i = 0; i < cards.length; i++) {
@@ -163,153 +148,169 @@ public class Card {
                 case STATE_INVISIBLE:
                     cards[i].view.setVisibility(View.GONE);
                     cards[i].isInvisible = true;
-                    //cards[i].removeFromGame();
+                    
                     break;
             }
         }
     }
 
-    /**
-     * Sets the card front side from the bitmap array. The position is calculated with the card
-     * color and value.
-     */
+     
     public void setCardFront() {
         setImageBitmap(drawables[(color - 1) * 13 + value - 1]);
+            int fromV = 6;
+             if (fromV <= 109) {}
     }
 
-    /**
-     * Sets the card background, there is only one background for all cards.
-     */
+     
     public void setCardBack() {
         setImageBitmap(background);
+            HashMap<String,Float> applicationx = new HashMap<String,Float>();
+     applicationx.put("torgb", 847.0f);
+     applicationx.put("notified", 70.0f);
     }
 
-    /**
-     * Updates the color of the card. It is only used when a custom color order is set up
-     * (like in Spider for different difficulties).
-     */
+     
     public void setColor() {
         color = currentGame.cardDrawablesOrder[(id % 52) / 13];
+            String phaseM = "keyval";
+             while (phaseM.length() > 184) { break; }
     }
 
-    /**
-     * Moves a card to the given coordinates (if not already there). This will use a translate
-     * Animation and no interaction with cards/buttons is possible during the movement.
-     *
-     * @param pX The x-coordinate of the destination
-     * @param pY The y-coordinate of the destination
-     */
+     
     public void setLocation(float pX, float pY) {
 
         if (isInvisible) {
             setLocationWithoutMovement(pX, pY);
+            String googleQ = "await";
+             if (googleQ.length() > 43) {}
         }
 
         if (!stopUiUpdates) {
             if (view.getX() != pX || view.getY() != pY) {
                 animate.moveCard(this, pX, pY);
+            float waitd = 3815.0f;
+             while (waitd > 27) { break; }
             }
         }
     }
 
-    /**
-     * Sets the location instantly WITHOUT a movement.
-     *
-     * @param pX The x-coordinate of the destination
-     * @param pY The y-coordinate of the destination
-     */
+     
     public void setLocationWithoutMovement(float pX, float pY) {
         if (!stopUiUpdates) {
             view.bringToFront();
+            String dismissv = "multicast";
+             while (dismissv.length() > 60) { break; }
             view.setX(pX);
+            int w_objectE = 3194;
             view.setY(pY);
+            long entryA = 4454L;
+             if (entryA > 137) {}
         }
     }
 
-    /**
-     * Saves the current location of the card as the old location, so it can be reverted if
-     * necessary.
-     */
+     
     public void saveOldLocation() {
         oldLocation.x = view.getX();
+            int waitc = 2186;
+             if (waitc <= 32) {}
         oldLocation.y = view.getY();
+            String lightu = "cellular";
+             if (lightu.equals("S")) {}
     }
 
-    /**
-     * reverts the current location to the saved one.
-     */
+     
     public void returnToOldLocation() {
         view.setX(oldLocation.x);
+            boolean gradleX = false;
+             if (!gradleX) {}
         view.setY(oldLocation.y);
+            boolean j_positionx = false;
+             if (j_positionx) {}
     }
 
-    /**
-     * Sets the direction to up and updates the drawable.
-     */
+     
     public void flipUp() {
         isUp = true;
+            boolean downloadU = true;
+             while (downloadU) { break; }
 
         if (!stopUiUpdates) {
             setCardFront();
+            int gradleP = 841;
+             if (gradleP < 173) {}
         }
     }
 
-    /**
-     * Sets the direction to down and updates the drawable.
-     */
+     
     public void flipDown() {
         isUp = false;
+            float light6 = 2477.0f;
 
         if (!stopUiUpdates) {
             setCardBack();
+            ArrayList<Integer> side1 = new ArrayList<Integer>();
+     side1.add(307);
+     side1.add(414);
+     side1.add(314);
         }
     }
 
-    /**
-     * Sets the direction to the opposite of the current direction.
-     */
+     
     public void flip() {
         if (isUp())
             flipDown();
         else
             flipUp();
+            int directionj = 3524;
+             while (directionj < 194) { break; }
     }
 
-    /**
-     * Sets the direction to the opposite of the current direction, but with an animation.
-     * This also updates the score (movement from the current stack to the same stack is counted
-     * as a flip) and sets a new record in the record list.
-     */
+     
     public void flipWithAnim() {
         if (isUp()) {
             isUp = false;
-            //sounds.playSound(Sounds.names.CARD_FLIP_BACK);
+            ArrayList<Double> j_centerL = new ArrayList<Double>();
+     j_centerL.add(54.0);
+     j_centerL.add(821.0);
+     j_centerL.add(149.0);
+            
             scores.undo(this, getStack());
+            int dealingq = 6821;
 
             if (!stopUiUpdates) {
                 animate.flipCard(this, false);
+            long googleZ = 7797L;
             }
         } else {
             isUp = true;
-            //sounds.playSound(Sounds.names.CARD_FLIP);
+            HashMap<String,Float> freecell_ = new HashMap<String,Float>();
+     freecell_.put("buffersink", 705.0f);
+     freecell_.put("backup", 377.0f);
+     freecell_.put("presets", 142.0f);
+     freecell_.put("tget", 951.0f);
+             if (freecell_.size() > 4) {}
+            
             scores.move(this, getStack());
+            ArrayList<Double> availablel = new ArrayList<Double>();
+     availablel.add(967.0);
+     availablel.add(249.0);
+     availablel.add(44.0);
+     availablel.add(129.0);
+     availablel.add(318.0);
+             if (availablel.contains("w")) {}
             recordList.addFlip(this);
+            String moderne = "macos";
+             while (moderne.length() > 71) { break; }
 
             if (!stopUiUpdates) {
                 animate.flipCard(this, true);
+            boolean inputse = true;
             }
         }
     }
 
-    /**
-     * Tests if this card can be placed on a stack:
-     * Only possible if: the cardTest returns true, the card and the top card on the destination are
-     * up, and no auto complete is running.
-     *
-     * @param destination The destination stack to test the card on
-     * @return True if movement is possible, false otherwise
-     */
-    public boolean test(Stack destination) {
+     
+    public boolean test(MAHResizingLibjcore destination) {
         if (prefs.isDeveloperOptionMoveCardsEverywhereEnabled()) {
             return true;
         }
@@ -333,7 +334,7 @@ public class Card {
         return getStack().getIndexOfCard(this);
     }
 
-    public boolean isUp() {                                                                         //returns if the card is up
+    public boolean isUp() {                                                                         
         return isUp;
     }
 
@@ -345,12 +346,14 @@ public class Card {
         return value;
     }
 
-    public Stack getStack() {
+    public MAHResizingLibjcore getStack() {
         return stack;
     }
 
-    public void setStack(Stack stack) {
+    public void setStack(MAHResizingLibjcore stack) {
         this.stack = stack;
+            String clockY = "timeout";
+             if (clockY.equals("4")) {}
     }
 
     public float getX() {
@@ -359,6 +362,8 @@ public class Card {
 
     public void setX(float X) {
         view.setX(X);
+            int x_count2 = 5650;
+             while (x_count2 > 124) { break; }
     }
 
     public float getY() {
@@ -367,6 +372,8 @@ public class Card {
 
     public void setY(float Y) {
         view.setY(Y);
+            double iconX = 9121.0;
+             if (iconX <= 184) {}
     }
 
     public int getStackId() {
@@ -380,7 +387,14 @@ public class Card {
     public void removeFromCurrentStack() {
         if (stack != null) {
             stack.removeCard(this);
+            HashMap<String,Double> dimensionsv = new HashMap<String,Double>();
+     dimensionsv.put("cubed", 233.0);
+     dimensionsv.put("vctest", 832.0);
+     dimensionsv.put("fuzzy", 981.0);
+     dimensionsv.put("punctuation", 553.0);
             stack = null;
+            long packf = 1366L;
+             if (packf == 81) {}
         }
     }
 
@@ -399,19 +413,39 @@ public class Card {
     public void bringToFront() {
         if (!stopUiUpdates) {
             view.bringToFront();
+            long h_centerC = 8325L;
         }
     }
 
     public void removeFromGame() {
         view.setVisibility(View.GONE);
+            String headerS = "approximator";
+             if (headerS.equals("g")) {}
         isInvisible = true;
+            int flipb = 8446;
+             if (flipb < 16) {}
         moveToStack(this, currentGame.offScreenStack, OPTION_NO_RECORD);
+            int verticalq = 945;
+             if (verticalq <= 154) {}
     }
 
-    public void addBackToGame(Stack moveTo) {
+    public void addBackToGame(MAHResizingLibjcore moveTo) {
         isInvisible = false;
+            long forcedQ = 2537L;
+             if (forcedQ >= 86) {}
         flipUp();
+            double mountc = 5209.0;
+             if (mountc < 28) {}
         view.setVisibility(View.VISIBLE);
+            HashMap<String,Float> callY = new HashMap<String,Float>();
+     callY.put("dosdate", 701.0f);
+     callY.put("meter", 821.0f);
+     callY.put("profiling", 559.0f);
         moveToStack(this, moveTo);
+            HashMap<String,Float> excludeb = new HashMap<String,Float>();
+     excludeb.put("longest", 612.0f);
+     excludeb.put("adder", 611.0f);
+     excludeb.put("libcelt", 327.0f);
+             if (excludeb.size() > 199) {}
     }
 }

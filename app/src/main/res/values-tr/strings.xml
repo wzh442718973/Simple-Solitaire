@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_version">"Versiyon"</string>
-<string name="settings">"Ayarlar"</string>
-<string name="game_manual">"Kılavuz"</string>
-<string name="game_score">"Puan"</string>
-<string name="game_time">"Zaman"</string>
-<string name="game_cancel">"İptal"</string>
-<string name="game_confirm">"Onay"</string>
-<string name="game_auto_complete_text">"Otomatik Bitir"</string>
-<string name="game_press_again">"Çıkmak için tekrar basın"</string>
-<string name="game_load_error">"Veri yüklenemedi, yeni oyun başlatılıyor…"</string>
-<string name="game_close">"Oyunu kapat"</string>
-<string name="game_main_menu">"Ana menü"</string>
-<string name="item_game_rules">"Oyun kuralları"</string>
-<string name="item_return_to_main_menu">"Anasayfaya geri dön"</string>
+<string name="purpleInput">"Versiyon"</string>
+<string name="gypsyPreviews">"Ayarlar"</string>
+<string name="moveShared">"Kılavuz"</string>
+<string name="backgroundsFortyMove">"Puan"</string>
+<string name="starThis_5r">"Zaman"</string>
+<string name="billingTaskMoves">"İptal"</string>
+<string name="poolTaskCustomize">"Onay"</string>
+<string name="serviceExpertVolume">"Otomatik Bitir"</string>
+<string name="mainBorderAces">"Çıkmak için tekrar basın"</string>
+<string name="phoneReferrerOxygen">"Veri yüklenemedi, yeni oyun başlatılıyor…"</string>
+<string name="sensorPurple">"Oyunu kapat"</string>
+<string name="libmplameIntent">"Ana menü"</string>
+<string name="leftEntry">"Oyun kuralları"</string>
+<string name="tombDummy">"Anasayfaya geri dön"</string>
 
 <!-- Menu -->
-<string name="menu_undo">"Geri Al"</string>
-<string name="menu_main_menu">"Menü"</string>
-<string name="menu_settings">"Ayarlar"</string>
+<string name="rulesMoves">"Geri Al"</string>
+<string name="eightEncryption">"Menü"</string>
+<string name="animationFrom">"Ayarlar"</string>
 
 <!-- game names 
 
      - if you want to translate names and a name gets very long, use spaces, so they can be displayed
      - in two rows in the main menu. But eg. GrandfathersClock is still short enough to display it in
      - a single line -->
-<string name="games_Klondike">"Klondike"</string>
-<string name="games_Freecell">"FreeCell"</string>
-<string name="games_Yukon">"Yukon"</string>
-<string name="games_Spider">"Spider"</string>
-<string name="games_SimpleSimon">"Simple Simon"</string>
-<string name="games_Golf">"Golf"</string>
-<string name="games_Pyramid">"Pyramid"</string>
-<string name="games_TriPeaks">"TriPeaks"</string>
-<string name="games_FortyEight">"Forty &amp; Eight"</string>
-<string name="games_AcesUp">"Aces Up"</string>
-<string name="games_Gypsy">"Gypsy"</string>
-<string name="games_mod3">"Mod3"</string>
-<string name="games_Canfield">"Canfield"</string>
-<string name="games_GrandfathersClock">"Grandfather\'s Clock"</string>
-<string name="games_Vegas">"Vegas"</string>
-<string name="games_Calculation">"Calculation"</string>
+<string name="informationMazeTrack">"Klondike"</string>
+<string name="previewDummyMaze">"FreeCell"</string>
+<string name="compatAuto_moStrings">"Yukon"</string>
+<string name="networkCalculation">"Spider"</string>
+<string name="cardAces">"Simple Simon"</string>
+<string name="settingsRouterMusic">"Golf"</string>
+<string name="availableDark">"Pyramid"</string>
+<string name="bitmapsStrings">"TriPeaks"</string>
+<string name="aboutNews">"Forty &amp; Eight"</string>
+<string name="layoutClipboardGrandfathers">"Aces Up"</string>
+<string name="sharedListPref">"Gypsy"</string>
+<string name="movementOrangeVolume">"Mod3"</string>
+<string name="eightServiceCard">"Canfield"</string>
+<string name="resizingMatch">"Grandfather\'s Clock"</string>
+<string name="local_1lRight">"Vegas"</string>
+<string name="abstract_h6Available">"Calculation"</string>
 
 <!-- colors -->
-<string name="blue">"Mavi"</string>
-<string name="green">"Yeşil"</string>
-<string name="red">"Kırmızı"</string>
-<string name="yellow">"Sarı"</string>
-<string name="orange">"Turuncu"</string>
-<string name="purple">"Mor"</string>
+<string name="dialogShared">"Mavi"</string>
+<string name="scoreModern">"Yeşil"</string>
+<string name="pyramidLibmplameBasic">"Kırmızı"</string>
+<string name="drawerDondorfManager">"Sarı"</string>
+<string name="stackAssembly">"Turuncu"</string>
+<string name="routerScoreCustom">"Mor"</string>
 
 <!-- game stuff -->
-<string name="game_longest_run">"En uzun dizi:"</string>
+<string name="dataUndo">"En uzun dizi:"</string>
 
 <!-- dialog won -->
-<string name="dialog_win_titel">"Tebrikler!"</string>
-<string name="dialog_win_score">"Puan: %1$d"</string>
-<string name="dialog_win_bonus">"Bonus: %1$d"</string>
-<string name="dialog_win_total">"Toplam: %1$d"</string>
+<string name="centerBase">"Tebrikler!"</string>
+<string name="activtyChangerMoving">"Puan: %1$d"</string>
+<string name="sessionHeaderImage">"Bonus: %1$d"</string>
+<string name="volumeSpiderTabs">"Toplam: %1$d"</string>
 
 <!-- dialog mix cards -->
-<string name="dialog_mix_cards_title">"Karıştırma kartları"</string>
-<string name="dialog_mix_cards_text">"Bu, tüm kartları karıştırır, temel üzerinde doğru diziler ve kartlar bekler."</string>
-<string name="dialog_mix_cards_not_available">"Hareketsiz hamleler var!"</string>
+<string name="gypsyClose">"Karıştırma kartları"</string>
+<string name="homeBottomLoad">"Bu, tüm kartları karıştırır, temel üzerinde doğru diziler ve kartlar bekler."</string>
+<string name="baseAnimationRules">"Hareketsiz hamleler var!"</string>
 
 <!-- dialog start new game -->
-<string name="dialog_start_new_game_title">"Yeni oyun"</string>
-<string name="dialog_start_new_game_text">"Mevcut ilerlemeniz kaybolacak ve yeni bir rastgele oyun ele alınacaktır."</string>
+<string name="brokerUsageLogic">"Yeni oyun"</string>
+<string name="clockModernStar">"Mevcut ilerlemeniz kaybolacak ve yeni bir rastgele oyun ele alınacaktır."</string>
 
 <!-- dialog redeal -->
-<string name="dialog_redeal_title">"Tekrar kart ver"</string>
-<string name="dialog_redeal_text">"Mevcut ilerlemeniz kaybolacak, ancak kartlar mevcut oyunda beğeni kazanıyor."</string>
+<string name="managerBuildPoker">"Tekrar kart ver"</string>
+<string name="blueReferrer">"Mevcut ilerlemeniz kaybolacak, ancak kartlar mevcut oyunda beğeni kazanıyor."</string>
 
 <!-- If you want to help with translations, please use this site: https://poeditor.com/join/project/PYX4vcwTjA -->
-<string name="title_activity_manual">"Kılavuz"</string>
-<string name="title_activity_settings">"Ayarlar"</string>
-<string name="title_activity_about">"Hakkında"</string>
-<string name="title_activity_statistics">"Istatistik"</string>
+<string name="local_ecFade">"Kılavuz"</string>
+<string name="newsRulesCenter">"Ayarlar"</string>
+<string name="movingLoadRely">"Hakkında"</string>
+<string name="stylesLockFrom">"Istatistik"</string>
 
 <!-- About activity -->
 
@@ -104,157 +104,157 @@
 
 
 
-<string name="page_load_error">"Bu oyun için yardım sayfası yok…"</string>
+<string name="activtyPackBuild">"Bu oyun için yardım sayfası yok…"</string>
 
 
 
 
 
 <!-- Settings -->
-<string name="settings_background_color">"Arkaplan Rengi"</string>
-<string name="settings_hide_status_bar">"Durum çubuğunu gizle"</string>
-<string name="settings_left_handed_mode">"Solak modu"</string>
-<string name="settings_left_handed_mode_description">"Kartı ve yığın konumlarını sol tarafa yerleştir"</string>
-<string name="settings_back_press">"Oyunu kapatmayı onayla"</string>
-<string name="settings_back_press_description">"Oyunu kapatmak için iki defa geri tuşuna bas"</string>
-<string name="settings_orientation">"Ekran yönü"</string>
-<string name="settings_cards">"Kartlar"</string>
-<string name="settings_classic">"Klasik"</string>
-<string name="settings_simple">"Temel"</string>
-<string name="settings_cards_back">"Kart Arkaplanları"</string>
-<string name="settings_modern">"Modern"</string>
-<string name="settings_abstract">"Soyut"</string>
-<string name="settings_basic">"Temel"</string>
-<string name="settings_oxygen_dark">"Koyu oksijen"</string>
-<string name="settings_oxygen_light">"Açık oksijen"</string>
-<string name="settings_poker">"Poker"</string>
-<string name="settings_background">"Arkaplan Sayısı"</string>
-<string name="settings_customization">"Görünüm"</string>
-<string name="settings_other">"Genel"</string>
-<string name="settings_other_description">"Diğer tüm ayarları kaydet"</string>
-<string name="settings_games">"Oyunlar"</string>
-<string name="settings_games_description">"Oyun çeşitleri için tercihleri ayarlama"</string>
-<string name="settings_spider_difficulty">"Farklı kart çeşitlerinin sayısı"</string>
-<string name="settings_klondike_draw">"Çekilecek kart sayısı"</string>
-<string name="settings_canfield_draw">"Çekilecek kart sayısı"</string>
-<string name="settings_show_main_menu">"Ana menüde başla"</string>
-<string name="settings_show_main_menu_description">"Başlangıçta son oynanan oyuna dönme"</string>
-<string name="settings_golf_easy">"Döngüsel hareketler (Daha Kolay)"</string>
-<string name="settings_golf_easy_description">"Asları papazların üzerine ve papazları asların üzerine yerleştirmeye izin ver"</string>
-<string name="settings_menu">"Ana menü"</string>
-<string name="settings_menu_description">"Sütun sayısını değiştirme, oyunları gösterme ve gizleme"</string>
-<string name="settings_pyramid_difficulty">"Zorluk"</string>
-<string name="settings_menu_columns">"Sütun sayısı"</string>
-<string name="settings_menu_games">"Oyunları göster ve gizle"</string>
-<string name="settings_menu_games_description">"Menüde hangi oyunların gösterileceğini seçin"</string>
-<string name="settings_about_description">"Lisanslar ve değişiklikler gibi oyun hakkında bilgi göster"</string>
-<string name="settings_change_language">"Şu anki dil"</string>
-<string name="settings_yukon_rules">"Karları şuraya yerleştir…"</string>
-<string name="settings_icon_theme">"Simge Teması"</string>
-<string name="settings_menu_bar_position">"Menü çubuğu yeri"</string>
-<string name="settings_menu_bar_position_top">"Üst"</string>
-<string name="settings_menu_bar_position_bottom">"Alt"</string>
-<string name="settings_menu_bar_position_left">"Sol"</string>
-<string name="settings_menu_bar_position_right">"Sağ"</string>
-<string name="settings_4_color_mode_title">"4 renkli kart yığnı"</string>
-<string name="settings_4_color_mode_text">"Sinekleri yeşil, karoları mavi renk yap"</string>
-<string name="settings_additional_movements">"Ek oyun hareketleri"</string>
-<string name="settings_additional_movements_description">"Çfit tıklama ve diğer hareket yöntemlerini aktif veya pasif yap"</string>
-<string name="settings_double_tap">"Çift tıklama"</string>
-<string name="settings_double_tap_enable">"Çift tıklama hareketlerini etkinleştir"</string>
-<string name="settings_double_tap_enable_text">"Bir kartı olası başka bir yığına taşımak için çift tıkla"</string>
-<string name="settings_double_tap_all_cards">"Tüm olası kartları taşıyın"</string>
-<string name="settings_double_tap_all_cards_text">"Yığından yalnızca dokunulan kartı değil taşınabilen tüm kartları taşı"</string>
-<string name="settings_tap_to_select">"Seçmek için dokun"</string>
-<string name="settings_tap_to_select_enable">"Seçmek için dokun hareketlerini etkinleştir"</string>
-<string name="settings_tap_to_select_enable_text">"Dokunarak bir kartı seçi sonra hedaf yığına dokunarak kartı oraya kareket ettir"</string>
-<string name="settings_single_tap">"Tek dokunuş"</string>
-<string name="settings_single_tap_enable_text">"Sadece Golf ve TriPeaks için: Bir karta bir defa dokunarak onu atık yığınına taşıyın"</string>
-<string name="settings_double_tap_foundation_first">"İlk önce temel yığını taşı"</string>
-<string name="settings_double_tap_foundation_first_text">"Diğer kartları seçili yığından hedefe taşımadan önce en üstteki kartı taşımayı dene"</string>
-<string name="settings_movement_speed">"Kart hareket hızı"</string>
-<string name="Settings_sound">"Oyundan sesi etkinleştir"</string>
-<string name="Settings_sounds_title">"Sesler"</string>
-<string name="Settings_sounds_text">"Sesleri etkinleştirin, farklı ses efektleri ayarlayın"</string>
-<string name="Settings_win_sound_title">"Kazanma ses efekti"</string>
-<string name="Settings_background_music">"Arkaplan müziği"</string>
-<string name="settings_background_color_custom">"Kişisel"</string>
-<string name="Settings_background_volume">"Arkaplan müzik seviyesi"</string>
-<string name="settings_limit_number_of_recycles">"Geri gönderme sayısını sınırla"</string>
-<string name="settings_limit_number_of_recycles_text">"Atık kartları ana yığına geri gönderme sınırlandırıldı"</string>
-<string name="settings_number_of_recycles">"Geri gönderme miktarı"</string>
-<string name="settings_vegas_bet_amount">"Bahis Miktarı"</string>
-<string name="settings_menu_order_title">"Menü sırası"</string>
-<string name="settings_menu_order_summary">"Bir linke uzun süre tıklayın, ardından menü girişlerini yeniden sıralamak için sürükleyip bırakın"</string>
-<string name="settings_menu_order_set_default">"Sıfırlama sırası"</string>
-<string name="settings_auto_start_new_game_title">"Kazandığında yeni oyun başlat"</string>
-<string name="settings_auto_start_new_game_text">"Kazanılan bir oyuna geri dönülürse, otomatik olarak yeni bir oyun başlat"</string>
-<string name="settings_customization_description">"Kartları, arkaplanı ve kullanıcı arayüzüözelleştir"</string>
-<string name="settings_support">"Destek"</string>
-<string name="settings_single_tap_enable">"Tek dokunuş hareketlerini etkinleştir"</string>
-<string name="settings_vegas_bet_amount_text_1">"İlk sağıtım masrafı:"</string>
-<string name="settings_vegas_bet_amount_text_2">"Toplanan her kartın kazandırdığı:"</string>
-<string name="settings_vegas_bet_amount_summary">"İlk sağıtım: -%1$d$, Toplanan kart: +%2$d$"</string>
-<string name="settings_max_number_undos">"Maximum amount of undo movements"</string>
-<string name="settings_expert_settings">"Expert settings"</string>
-<string name="settings_expert_settings_text">"May be useful for some people"</string>
-<string name="settings_follow_system_settings">"Sistem ayarlarını uygula"</string>
-<string name="settings_portrait">"Dikey"</string>
-<string name="settings_landscape">"Yatay"</string>
-<string name="settings_landscape_upside_down">"Ters Yatay"</string>
-<string name="settings_spider_difficultiy_1">"1 (Kolay)"</string>
-<string name="settings_spider_difficultiy_2">"2 (Normal)"</string>
-<string name="settings_spider_difficultiy_3">"4 (Zor)"</string>
-<string name="settings_draw_1">"1 Kart"</string>
-<string name="settings_draw_3">"3 Kart"</string>
-<string name="settings_pyramid_difficulty_1">"Kolay: Tablo boşaldığında oyun kazanılır"</string>
-<string name="settings_pyramid_difficulty_2">"Hard: Tablo ve stok boşaldığında oyun kazanılır"</string>
-<string name="settings_language_default">"Varsayılan Dil"</string>
-<string name="settings_language_english">"English"</string>
-<string name="settings_language_esperanto">"Esperanto"</string>
-<string name="settings_language_finnish">"Finnish"</string>
-<string name="settings_language_french">"French"</string>
-<string name="settings_language_german">"German"</string>
-<string name="settings_language_japanese">"Japanese"</string>
-<string name="settings_language_polish">"Polish"</string>
-<string name="settings_language_turkish">"Türkçe"</string>
-<string name="settings_yukon_rules_1">"farklı renkler (Varsayılan)"</string>
-<string name="settings_yukon_rules_2">"aynı takım (Rus)"</string>
-<string name="settings_movement_speed_1">"Very slow"</string>
-<string name="settings_movement_speed_2">"Slow"</string>
-<string name="settings_movement_speed_3">"Normal"</string>
-<string name="settings_movement_speed_4">"Fast"</string>
-<string name="settings_win_sounds_1">"Varsayılan"</string>
-<string name="settings_win_sounds_2">"Piano"</string>
-<string name="settings_win_sounds_3">"8-Bit ses \"You win\""</string>
-<string name="settings_win_sounds_4">"Kalabalığın Tezahüratı"</string>
-<string name="settings_background_music_1">"Kapalı"</string>
-<string name="settings_background_music_2">"Tema 1"</string>
-<string name="settings_background_music_3">"Tema 2"</string>
-<string name="settings_background_music_4">"Tema 3"</string>
-<string name="settings_background_music_5">"Müzik Kutusu"</string>
-<string name="settings_canfield_size_of_reserve_1">"13 Kartlar (varsayılan)"</string>
-<string name="settings_canfield_size_of_reserve_2">"10 Kartlar"</string>
-<string name="settings_canfield_size_of_reserve_3">"7 Kartlar"</string>
-<string name="settings_canfield_size_of_reserve_4">"4 Kartlar"</string>
-<string name="settings_developer_option_deal_correct_sequences_1">"Devre dışı"</string>
-<string name="settings_developer_option_deal_correct_sequences_2">"Değişken renk"</string>
-<string name="settings_developer_option_deal_correct_sequences_3">"Same family"</string>
-<string name="settings_developer_option_deal_correct_sequences_4">"Aynı aile"</string>
-<string name="settings_developer_option_deal_correct_sequences_5">"Ters aynı aile"</string>
+<string name="securityInit_mpNews">"Arkaplan Rengi"</string>
+<string name="init_aSelector">"Durum çubuğunu gizle"</string>
+<string name="drawerActivity">"Solak modu"</string>
+<string name="dummyMaze">"Kartı ve yığın konumlarını sol tarafa yerleştir"</string>
+<string name="packSensorFour">"Oyunu kapatmayı onayla"</string>
+<string name="hintMargins">"Oyunu kapatmak için iki defa geri tuşuna bas"</string>
+<string name="connectivityFreecell">"Ekran yönü"</string>
+<string name="settingsLoad">"Kartlar"</string>
+<string name="googleMiddle">"Klasik"</string>
+<string name="listMatchMode">"Temel"</string>
+<string name="lightGraphics">"Kart Arkaplanları"</string>
+<string name="installSimple">"Modern"</string>
+<string name="bitmapsDownloadText">"Soyut"</string>
+<string name="matchClose">"Temel"</string>
+<string name="modityPref">"Koyu oksijen"</string>
+<string name="abstract_dField">"Açık oksijen"</string>
+<string name="mediaSensorNumber">"Poker"</string>
+<string name="resetBitmaps">"Arkaplan Sayısı"</string>
+<string name="helpMaze">"Görünüm"</string>
+<string name="pokerStacks">"Genel"</string>
+<string name="buttonRulesHeader">"Diğer tüm ayarları kaydet"</string>
+<string name="movesEmptyPref">"Oyunlar"</string>
+<string name="completeAudio">"Oyun çeşitleri için tercihleri ayarlama"</string>
+<string name="loginCardMoves">"Farklı kart çeşitlerinin sayısı"</string>
+<string name="customBuglyLibgtcore">"Çekilecek kart sayısı"</string>
+<string name="movingMovabilityBroker">"Çekilecek kart sayısı"</string>
+<string name="observerMatch">"Ana menüde başla"</string>
+<string name="userClassic">"Başlangıçta son oynanan oyuna dönme"</string>
+<string name="fourSensor">"Döngüsel hareketler (Daha Kolay)"</string>
+<string name="movementApplication">"Asları papazların üzerine ve papazları asların üzerine yerleştirmeye izin ver"</string>
+<string name="textGradleCanfield">"Ana menü"</string>
+<string name="darkRegistryTimer">"Sütun sayısını değiştirme, oyunları gösterme ve gizleme"</string>
+<string name="bitmapsList">"Zorluk"</string>
+<string name="shellLogin">"Sütun sayısı"</string>
+<string name="starAnimateDownload">"Oyunları göster ve gizle"</string>
+<string name="recentAdapter">"Menüde hangi oyunların gösterileceğini seçin"</string>
+<string name="editInterfacePurple">"Lisanslar ve değişiklikler gibi oyun hakkında bilgi göster"</string>
+<string name="loadConnectivity">"Şu anki dil"</string>
+<string name="mountFragmentHelp">"Karları şuraya yerleştir…"</string>
+<string name="stableAutofill">"Simge Teması"</string>
+<string name="contentService">"Menü çubuğu yeri"</string>
+<string name="mediaLocal_r">"Üst"</string>
+<string name="this_hgFusionPack">"Alt"</string>
+<string name="starSoundsClass_no">"Sol"</string>
+<string name="cardsPage">"Sağ"</string>
+<string name="drawerIntent">"4 renkli kart yığnı"</string>
+<string name="stylesBooleans">"Sinekleri yeşil, karoları mavi renk yap"</string>
+<string name="checkYukonYellow">"Ek oyun hareketleri"</string>
+<string name="colorIntegers">"Çfit tıklama ve diğer hareket yöntemlerini aktif veya pasif yap"</string>
+<string name="mountHideSummary">"Çift tıklama"</string>
+<string name="local_9gMethodsPower">"Çift tıklama hareketlerini etkinleştir"</string>
+<string name="homeObjectMargins">"Bir kartı olası başka bir yığına taşımak için çift tıkla"</string>
+<string name="userGamesRows">"Tüm olası kartları taşıyın"</string>
+<string name="objectService">"Yığından yalnızca dokunulan kartı değil taşınabilen tüm kartları taşı"</string>
+<string name="waitClose">"Seçmek için dokun"</string>
+<string name="iconIntentCustom">"Seçmek için dokun hareketlerini etkinleştir"</string>
+<string name="headerRightDelete_s">"Dokunarak bir kartı seçi sonra hedaf yığına dokunarak kartı oraya kareket ettir"</string>
+<string name="bottomTestsDownload">"Tek dokunuş"</string>
+<string name="connectivityObserverMode">"Sadece Golf ve TriPeaks için: Bir karta bir defa dokunarak onu atık yığınına taşıyın"</string>
+<string name="objectRegister_ruAdapter">"İlk önce temel yığını taşı"</string>
+<string name="aboutManual">"Diğer kartları seçili yığından hedefe taşımadan önce en üstteki kartı taşımayı dene"</string>
+<string name="showReturn_rjRedeal">"Kart hareket hızı"</string>
+<string name="fileNapoleons">"Oyundan sesi etkinleştir"</string>
+<string name="movesMusic">"Sesler"</string>
+<string name="dialogPreviews">"Sesleri etkinleştirin, farklı ses efektleri ayarlayın"</string>
+<string name="dondorfAccountAmount">"Kazanma ses efekti"</string>
+<string name="timerMatch">"Arkaplan müziği"</string>
+<string name="activtyRows">"Kişisel"</string>
+<string name="libcocosdjsConstructorYukon">"Arkaplan müzik seviyesi"</string>
+<string name="pageIntegersStats">"Geri gönderme sayısını sınırla"</string>
+<string name="referrerImpl">"Atık kartları ana yığına geri gönderme sınırlandırıldı"</string>
+<string name="brokerDummyConfig">"Geri gönderme miktarı"</string>
+<string name="recentLocalePyramid">"Bahis Miktarı"</string>
+<string name="drawerCompat">"Menü sırası"</string>
+<string name="stacksWait">"Bir linke uzun süre tıklayın, ardından menü girişlerini yeniden sıralamak için sürükleyip bırakın"</string>
+<string name="ensurePurpleMethod_3">"Sıfırlama sırası"</string>
+<string name="textConfigField">"Kazandığında yeni oyun başlat"</string>
+<string name="changerStableCheck">"Kazanılan bir oyuna geri dönülürse, otomatik olarak yeni bir oyun başlat"</string>
+<string name="imagePath">"Kartları, arkaplanı ve kullanıcı arayüzüözelleştir"</string>
+<string name="networkRegistryLibgtcore">"Destek"</string>
+<string name="rulesPyramid">"Tek dokunuş hareketlerini etkinleştir"</string>
+<string name="fortyTimerCenter">"İlk sağıtım masrafı:"</string>
+<string name="centerEnsure">"Toplanan her kartın kazandırdığı:"</string>
+<string name="configSideColors">"İlk sağıtım: -%1$d$, Toplanan kart: +%2$d$"</string>
+<string name="amountNews">"Maximum amount of undo movements"</string>
+<string name="routerBorder">"Expert settings"</string>
+<string name="grandfathersLibjcore">"May be useful for some people"</string>
+<string name="downObjectMovement">"Sistem ayarlarını uygula"</string>
+<string name="registryStylesStatistics">"Dikey"</string>
+<string name="brokerCenterGypsy">"Yatay"</string>
+<string name="modeManager">"Ters Yatay"</string>
+<string name="sensorDark">"1 (Kolay)"</string>
+<string name="assemblyTextSide">"2 (Normal)"</string>
+<string name="columnsThis_fxHelp">"4 (Zor)"</string>
+<string name="constructorFusion">"1 Kart"</string>
+<string name="iconReturn_jAssembly">"3 Kart"</string>
+<string name="fourNewsTask">"Kolay: Tablo boşaldığında oyun kazanılır"</string>
+<string name="accountInterfaceClassic">"Hard: Tablo ve stok boşaldığında oyun kazanılır"</string>
+<string name="completeEncryption">"Varsayılan Dil"</string>
+<string name="dataBasic">"English"</string>
+<string name="editBuffer">"Esperanto"</string>
+<string name="scoreScore">"Finnish"</string>
+<string name="tabsLogic">"French"</string>
+<string name="classicPokerAbout">"German"</string>
+<string name="register_1ResetBlack">"Japanese"</string>
+<string name="booleansIntent">"Polish"</string>
+<string name="wifiLocale">"Türkçe"</string>
+<string name="waitTime_2tNotification">"farklı renkler (Varsayılan)"</string>
+<string name="headersDummy">"aynı takım (Rus)"</string>
+<string name="golfCardButton">"Very slow"</string>
+<string name="closeSpiderLauncher">"Slow"</string>
+<string name="stablePref">"Normal"</string>
+<string name="loginSession">"Fast"</string>
+<string name="eightNews">"Varsayılan"</string>
+<string name="gypsyMountRules">"Piano"</string>
+<string name="textStableRecent">"8-Bit ses \"You win\""</string>
+<string name="customizeOrangeAudio">"Kalabalığın Tezahüratı"</string>
+<string name="splashResizingDown">"Kapalı"</string>
+<string name="borderMovement">"Tema 1"</string>
+<string name="clipboardResizing">"Tema 2"</string>
+<string name="installArray">"Tema 3"</string>
+<string name="testsManualCircle">"Müzik Kutusu"</string>
+<string name="modeHelperAnimation">"13 Kartlar (varsayılan)"</string>
+<string name="classicArrow">"10 Kartlar"</string>
+<string name="optionsAnimationAlarm">"7 Kartlar"</string>
+<string name="movesClipboardActivty">"4 Kartlar"</string>
+<string name="providerMenuNetwork">"Devre dışı"</string>
+<string name="sensorDownloadColors">"Değişken renk"</string>
+<string name="shellGreen">"Same family"</string>
+<string name="lightbulbTrackGolf">"Aynı aile"</string>
+<string name="animationBackupInput">"Ters aynı aile"</string>
 
 <!-- Statistics -->
-<string name="statistics_text_won_games">"%2$d oyun oynadın, %1$d oyun kazandın"</string>
+<string name="with_eCheck">"%2$d oyun oynadın, %1$d oyun kazandın"</string>
 
 <!-- %1$d and %2$d are placeholders for the values -->
-<string name="statistics_win_percentage">"Kazanma oranın: %1$.0f%%"</string>
+<string name="stringsTomb">"Kazanma oranın: %1$.0f%%"</string>
 
 <!-- %1$.0f is a placeholder and the following two "%%" symbols will be printed as a single "%" -->
-<string name="statistics_button_delete">"Tüm girişleri sil!"</string>
-<string name="statistics_button_delete_text">"Bu oyun için tüm girişleri siler! Emin misin?"</string>
-<string name="statistics_button_deleted_all_entries">"Tüm girişler silindi"</string>
-<string name="statistics_time_of_day">"Saat"</string>
-<string name="statistics_date">"Tarih"</string>
-<string name="statistics_high_scores">"En Yüksek Puanlar"</string>
-<string name="settings_restart_game">"Değişikliği uygulamak için yeni bir %1$s oyununa başlayın"</string>
+<string name="advertisingCenter">"Tüm girişleri sil!"</string>
+<string name="soundsTomb">"Bu oyun için tüm girişleri siler! Emin misin?"</string>
+<string name="hideCloseGradle">"Tüm girişler silindi"</string>
+<string name="entrySummaryCalculation">"Saat"</string>
+<string name="blackVolume">"Tarih"</string>
+<string name="bitmapsHideMargins">"En Yüksek Puanlar"</string>
+<string name="fourLogic">"Değişikliği uygulamak için yeni bir %1$s oyununa başlayın"</string>
 </resources>

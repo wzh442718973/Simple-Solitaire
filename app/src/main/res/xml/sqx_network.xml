@@ -1,0 +1,51 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.XEPreferences$VHGBluePackageFragment"
+        android:title="@string/abstract_h6Available" />
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.XEPreferences$KVBasicFragment"
+        android:title="@string/eightServiceCard" />
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.XEPreferences$WICActivtyAnimateFragment"
+        android:title="@string/aboutNews" />
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.XEPreferences$ZTaskFragment"
+        android:title="@string/settingsRouterMusic" />
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.XEPreferences$PWMazeFragment"
+        android:title="@string/informationMazeTrack" />
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.XEPreferences$XBRFieldFragment"
+        android:title="@string/movementOrangeVolume" />
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.XEPreferences$CLSDumpMoneyFragment"
+        android:title="@string/showInstallHelp" />
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.XEPreferences$JProxyFragment"
+        android:title="@string/availableDark" />
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.XEPreferences$KOJDialogMazeFragment"
+        android:title="@string/networkCalculation" />
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.XEPreferences$WTSessionDrawerFragment"
+        android:title="@string/textResizingMatch" />
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.XEPreferences$HIntegersDynamicFragment"
+        android:title="@string/local_1lRight" />
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.XEPreferences$KEntryLockFragment"
+        android:title="@string/compatAuto_moStrings" />
+
+</preference-headers>

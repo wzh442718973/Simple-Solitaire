@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_version">"Változat"</string>
-<string name="settings">"Beállítások"</string>
-<string name="game_manual">"Kézikönyv"</string>
-<string name="game_score">"Pontszám"</string>
-<string name="game_time">"Idő"</string>
-<string name="game_cancel">"Mégsem"</string>
-<string name="game_confirm">"Megerősit"</string>
-<string name="game_auto_complete_text">"AUTOMATIKUSAN KIRAK"</string>
-<string name="game_press_again">"Nyomja meg újra a kilépéshez."</string>
-<string name="game_load_error">"Adat betöltési hiba, új játék indítása."</string>
-<string name="game_close">"Kilépés"</string>
-<string name="game_main_menu">"Főmenü"</string>
-<string name="item_game_rules">"Játékszabályok"</string>
-<string name="item_return_to_main_menu">"Vissza a főmenühöz"</string>
+<string name="purpleInput">"Változat"</string>
+<string name="gypsyPreviews">"Beállítások"</string>
+<string name="moveShared">"Kézikönyv"</string>
+<string name="backgroundsFortyMove">"Pontszám"</string>
+<string name="starThis_5r">"Idő"</string>
+<string name="billingTaskMoves">"Mégsem"</string>
+<string name="poolTaskCustomize">"Megerősit"</string>
+<string name="serviceExpertVolume">"AUTOMATIKUSAN KIRAK"</string>
+<string name="mainBorderAces">"Nyomja meg újra a kilépéshez."</string>
+<string name="phoneReferrerOxygen">"Adat betöltési hiba, új játék indítása."</string>
+<string name="sensorPurple">"Kilépés"</string>
+<string name="libmplameIntent">"Főmenü"</string>
+<string name="leftEntry">"Játékszabályok"</string>
+<string name="tombDummy">"Vissza a főmenühöz"</string>
 
 <!-- Menu -->
-<string name="menu_undo">"Visszavonás"</string>
-<string name="menu_main_menu">"Menü"</string>
-<string name="menu_settings">"Beállítások"</string>
+<string name="rulesMoves">"Visszavonás"</string>
+<string name="eightEncryption">"Menü"</string>
+<string name="animationFrom">"Beállítások"</string>
 
 <!-- game names 
 
      - if you want to translate names and a name gets very long, use spaces, so they can be displayed
      - in two rows in the main menu. But eg. GrandfathersClock is still short enough to display it in
      - a single line -->
-<string name="games_Klondike">"Klondike"</string>
-<string name="games_Freecell">"Freecell"</string>
-<string name="games_Yukon">"Yukon"</string>
-<string name="games_Spider">"Spider"</string>
-<string name="games_SimpleSimon">"Simple Simon"</string>
-<string name="games_Golf">"Golf"</string>
-<string name="games_Pyramid">"Pyramid"</string>
-<string name="games_TriPeaks">"TriPeaks"</string>
-<string name="games_FortyEight">"Forty &amp; Eight"</string>
-<string name="games_AcesUp">"Aces Up"</string>
-<string name="games_Gypsy">"Gypsy"</string>
-<string name="games_mod3">"Mod3"</string>
-<string name="games_Canfield">"Canfield"</string>
-<string name="games_GrandfathersClock">"Grandfather's Clock"</string>
-<string name="games_Vegas">"Vegas"</string>
-<string name="games_Calculation">"Calculation"</string>
+<string name="informationMazeTrack">"Klondike"</string>
+<string name="previewDummyMaze">"Freecell"</string>
+<string name="compatAuto_moStrings">"Yukon"</string>
+<string name="networkCalculation">"Spider"</string>
+<string name="cardAces">"Simple Simon"</string>
+<string name="settingsRouterMusic">"Golf"</string>
+<string name="availableDark">"Pyramid"</string>
+<string name="bitmapsStrings">"TriPeaks"</string>
+<string name="aboutNews">"Forty &amp; Eight"</string>
+<string name="layoutClipboardGrandfathers">"Aces Up"</string>
+<string name="sharedListPref">"Gypsy"</string>
+<string name="movementOrangeVolume">"Mod3"</string>
+<string name="eightServiceCard">"Canfield"</string>
+<string name="resizingMatch">"Grandfather's Clock"</string>
+<string name="local_1lRight">"Vegas"</string>
+<string name="abstract_h6Available">"Calculation"</string>
 
 <!-- colors -->
-<string name="blue">"Kék"</string>
-<string name="green">"Zöld"</string>
-<string name="red">"Vörös"</string>
-<string name="yellow">"Sárga"</string>
-<string name="orange">"Narancs"</string>
-<string name="purple">"Lila"</string>
+<string name="dialogShared">"Kék"</string>
+<string name="scoreModern">"Zöld"</string>
+<string name="pyramidLibmplameBasic">"Vörös"</string>
+<string name="drawerDondorfManager">"Sárga"</string>
+<string name="stackAssembly">"Narancs"</string>
+<string name="routerScoreCustom">"Lila"</string>
 
 <!-- game stuff -->
-<string name="game_longest_run">"Leghosszabb sorozat:"</string>
+<string name="dataUndo">"Leghosszabb sorozat:"</string>
 
 <!-- dialog won -->
-<string name="dialog_win_titel">"Gratulálok!"</string>
-<string name="dialog_win_score">"Pontszám: %1$d"</string>
-<string name="dialog_win_bonus">"Bónusz: %1$d"</string>
-<string name="dialog_win_total">"Összesen: %1$d"</string>
+<string name="centerBase">"Gratulálok!"</string>
+<string name="activtyChangerMoving">"Pontszám: %1$d"</string>
+<string name="sessionHeaderImage">"Bónusz: %1$d"</string>
+<string name="volumeSpiderTabs">"Összesen: %1$d"</string>
 
 <!-- dialog mix cards -->
-<string name="dialog_mix_cards_title">"Kártyák keverése"</string>
-<string name="dialog_mix_cards_text">"Ez megkeveri az összes kártyát, kivéve a helyes sorrendű sorozatokat és az alapvermekben találhatókat."</string>
-<string name="dialog_mix_cards_not_available">"Tud kártyát mozgatni!"</string>
+<string name="gypsyClose">"Kártyák keverése"</string>
+<string name="homeBottomLoad">"Ez megkeveri az összes kártyát, kivéve a helyes sorrendű sorozatokat és az alapvermekben találhatókat."</string>
+<string name="baseAnimationRules">"Tud kártyát mozgatni!"</string>
 
 <!-- dialog start new game -->
-<string name="dialog_start_new_game_title">"Új játék indítása"</string>
-<string name="dialog_start_new_game_text">"Elvesztettként könyveli el a játékot és új játékot tölt be, megkevert kártyákkal."</string>
+<string name="brokerUsageLogic">"Új játék indítása"</string>
+<string name="clockModernStar">"Elvesztettként könyveli el a játékot és új játékot tölt be, megkevert kártyákkal."</string>
 
 <!-- dialog redeal -->
-<string name="dialog_redeal_title">"Adja újra a kártyákat"</string>
-<string name="dialog_redeal_text">"Elvesztettként könyveli el a játékot és újra betölti az eredeti kártyákkal."</string>
+<string name="managerBuildPoker">"Adja újra a kártyákat"</string>
+<string name="blueReferrer">"Elvesztettként könyveli el a játékot és újra betölti az eredeti kártyákkal."</string>
 
 <!-- If you want to help with translations, please use this site: https://poeditor.com/join/project/PYX4vcwTjA -->
-<string name="title_activity_manual">"Kézikönyv"</string>
-<string name="title_activity_settings">"Beállítások"</string>
-<string name="title_activity_about">"A játékról"</string>
-<string name="title_activity_statistics">"Statisztikák"</string>
+<string name="local_ecFade">"Kézikönyv"</string>
+<string name="newsRulesCenter">"Beállítások"</string>
+<string name="movingLoadRely">"A játékról"</string>
+<string name="stylesLockFrom">"Statisztikák"</string>
 
 <!-- About activity -->
 
@@ -115,201 +115,201 @@
 
 
 
-<string name="page_load_error">"Ehez a játékhoz nincs leírás..."</string>
+<string name="activtyPackBuild">"Ehez a játékhoz nincs leírás..."</string>
 
 
 
 
 
 <!-- Settings -->
-<string name="settings_background_color">"Háttér színe"</string>
-<string name="settings_hide_status_bar">"Elrejti a státusz sávot"</string>
-<string name="settings_left_handed_mode">"Balkezes mód"</string>
-<string name="settings_left_handed_mode_description">"Baloldalra tükrözi a kártyákat és a vermeket."</string>
-<string name="settings_back_press">"Erősítse meg a játék bezárását"</string>
-<string name="settings_back_press_description">"A játék bezárásához nyomja meg kétszer a vissza gombot."</string>
-<string name="settings_orientation">"Képernyő tájolás"</string>
-<string name="settings_cards">"Kártyák"</string>
-<string name="settings_classic">"Klasszikus"</string>
-<string name="settings_simple">"Egyszerű"</string>
-<string name="settings_cards_back">"Kártya hátlap"</string>
-<string name="settings_modern">"Modern"</string>
-<string name="settings_abstract">"Absztrakt"</string>
-<string name="settings_basic">"Alap"</string>
-<string name="settings_oxygen_dark">"Oxigén sötét"</string>
-<string name="settings_oxygen_light">"Oxigén világos"</string>
-<string name="settings_poker">"Póker"</string>
-<string name="settings_background">"Hátlap száma"</string>
-<string name="settings_customization">"Kinézet"</string>
-<string name="settings_other">"Általános"</string>
-<string name="settings_other_description">"Minden más beállítás."</string>
-<string name="settings_games">"Játékok"</string>
-<string name="settings_games_description">"A játékváltozatok beállításainak megadása."</string>
-<string name="settings_spider_difficulty">"Különböző kártyacsaládok száma"</string>
-<string name="settings_klondike_draw">"A dobott kártyák száma"</string>
-<string name="settings_canfield_draw">"A dobott kártyák száma"</string>
-<string name="settings_show_main_menu">"Kezdjen a főmenüben"</string>
-<string name="settings_show_main_menu_description">"Ne az utoljára játszott játékkal induljon."</string>
-<string name="settings_golf_easy">"Ciklikus mozgatás (Könnyítés)"</string>
-<string name="settings_golf_easy_description">"Engedi az ászokat a királyokra helyezni és fordítva."</string>
-<string name="settings_menu">"Főmenü"</string>
-<string name="settings_menu_description">"Az oszlopok számának módosítása, a játékok megjelenítése és elrejtése."</string>
-<string name="settings_pyramid_difficulty">"Nehézség"</string>
-<string name="settings_menu_columns">"Oszlopok száma"</string>
-<string name="settings_menu_games">"Játékok elrejtése, mutatása."</string>
-<string name="settings_menu_games_description">"Kiválaszthatja a főmenüben megjelenő játékokat."</string>
-<string name="settings_about_description">"Információkat jelenít meg a játékról, mint a licenszek és a változáslista."</string>
-<string name="settings_change_language">"Nyelv választás"</string>
-<string name="settings_yukon_rules">"Kártyák elhelyezése..."</string>
-<string name="settings_icon_theme">"Ikon téma"</string>
-<string name="settings_menu_bar_position">"Menüsáv pozíciója"</string>
-<string name="settings_menu_bar_position_top">"Fent"</string>
-<string name="settings_menu_bar_position_bottom">"Lent"</string>
-<string name="settings_menu_bar_position_left">"Balra"</string>
-<string name="settings_menu_bar_position_right">"Jobbra"</string>
-<string name="settings_4_color_mode_title">"4 színű kártyacsomagok"</string>
-<string name="settings_4_color_mode_text">"Változtassa meg a színeket, a treffet zöldre és a kárót kékre."</string>
-<string name="settings_additional_movements">"További kártya mozgatások"</string>
-<string name="settings_additional_movements_description">"Kettős érintési mód és egyéb mozgatási módok engedélyezése és letiltása."</string>
-<string name="settings_double_tap">"Kettős érintés"</string>
-<string name="settings_double_tap_enable">"Engedélyezi a kettős érintést."</string>
-<string name="settings_double_tap_enable_text">"Nyomjon meg kétszer egy kártyát a lehetséges veremre való áthelyezéshez."</string>
-<string name="settings_double_tap_all_cards">"Mozgassa az összes lehetséges kártyát"</string>
-<string name="settings_double_tap_all_cards_text">"Mozgassa a lehető legtöbb kártyát a veremből, ne csak a megérintett kártyát."</string>
-<string name="settings_tap_to_select">"Kiválasztás érintéssel"</string>
-<string name="settings_tap_to_select_enable">"A kiválasztás érintéssel engedélyezése"</string>
-<string name="settings_tap_to_select_enable_text">"Érintse meg a kártyát a kiválasztáshoz, majd érintse meg a cél vermet, hogy oda mozgassa."</string>
-<string name="settings_single_tap">"Egyérintés"</string>
-<string name="settings_single_tap_enable_text">"Csak a Golf és a TriPeaks esetében: Nyomjon meg egyszer egy kártyát, hogy áthelyezze a dobásveremre."</string>
-<string name="settings_double_tap_foundation_first">"Először az alapveremre mozgass"</string>
-<string name="settings_double_tap_foundation_first_text">"Próbálja meg áthelyezni a megérintett verem felső kártyáját az alapveremre, mielőtt a többi kártyát áthelyezi."</string>
-<string name="settings_movement_speed">"Kártya mozgás sebessége"</string>
-<string name="Settings_sound">"Engedélyezi a hangokat"</string>
-<string name="Settings_sounds_title">"Hangok"</string>
-<string name="Settings_sounds_text">"Engedélyezi a hangokat, különböző hanghatásokat állíthat be."</string>
-<string name="Settings_win_sound_title">"Győzelmi hang effekt"</string>
-<string name="Settings_background_music">"Háttérzene"</string>
-<string name="settings_background_color_custom">"Saját"</string>
-<string name="Settings_background_volume">"Háttérzene hangerő"</string>
-<string name="settings_limit_number_of_recycles">"Korlátozza az újra felhasználást"</string>
-<string name="settings_limit_number_of_recycles_text">"A dobásverem kártyáinak visszamozgatása a főverembe korlátozott"</string>
-<string name="settings_number_of_recycles">"Újra felhasználás száma"</string>
-<string name="settings_vegas_bet_amount">"Tét összege"</string>
-<string name="settings_menu_order_title">"Főmenü rendezése"</string>
-<string name="settings_menu_order_summary">"Nyomva tartva, húzással új helyre mozgathatja a bejegyzéseket."</string>
-<string name="settings_menu_order_set_default">"A menürend visszaállítása"</string>
-<string name="settings_auto_start_new_game_title">"Elindít egy új játékot amikor nyert"</string>
-<string name="settings_auto_start_new_game_text">"Ha visszatér egy már megnyert játékhoz automatikusan elindít egy új játékot."</string>
-<string name="settings_customization_description">"Testreszabhatja a kártyákat, háttereket és a felhasználói felületet."</string>
-<string name="settings_force_tablet_layout_title">"Tablett elrendezés"</string>
-<string name="settings_force_tablet_layout_text">"Nagy képernyőhöz igazítja az alkalmazás megjelenítését. (≥7\")"</string>
-<string name="settings_calculation_alternative_title">"Tartsa a kártyákat"</string>
-<string name="settings_calculation_alternative_text">"A főverem megnyomásánál: Ahelyett, hogy a dobásveremről a kártyát a táblavermekre helyezné, tartsa a dobásvermen."</string>
-<string name="settings_vegas_money_enabled">"Megtartja az egyenleget"</string>
-<string name="settings_vegas_money_enabled_text">"Az egyenleg átkerül a következő Vegas játékba, a pontszám($) csak az egyenleg nullázása és \"Új játék indítása\" után kerül mentésre az eredmények közé."</string>
-<string name="settings_vegas_money_reset">"Egyenleg nullázása"</string>
-<string name="settings_vegas_money_reset_text">"A következő Vegas játék induló egyenlege 0$"</string>
-<string name="settings_vegas_money_reset_confirm">"Biztos hogy nullázza az egyenlegét? Ezt nem lehet visszavonni."</string>
-<string name="settings_auto_move_title">"Automatikus mozgatás"</string>
-<string name="settings_mod3_auto_move_text">"Automatikusan az ászveremre mozgatja az ászokat, ha lehetséges."</string>
-<string name="settings_pyramid_auto_move_text">"Automatikusan a hulladékveremre mozgatja a királyokat, ha lehetséges."</string>
-<string name="settings_rules">"Szabályok"</string>
-<string name="settings_money">"Pénz"</string>
-<string name="settings_support">"Támogatás"</string>
-<string name="settings_hide_time">"Elrejti az időt"</string>
-<string name="settings_hide_score">"Elrejti a pontszámot"</string>
-<string name="settings_single_tap_enable">"Engedélyezi az egyérintéses mozgásokat"</string>
-<string name="settings_vegas_bet_amount_text_1">"Kezdőtét összege:"</string>
-<string name="settings_vegas_bet_amount_text_2">"Minden alapveremre mozgatott kártya után kap:"</string>
-<string name="settings_vegas_bet_amount_summary">"Kezdőtét: -%1$d$, kártya az alapveremre: +%2$d$"</string>
-<string name="settings_single_tap_all_games_text">"Nyomja meg egyszer a kártyát, hogy áthelyezze a lehetséges veremre. Ugyanaz mint a kettős érintési módú mozgatások. Ez kikapcsolja a kiválasztás érintéssel mozgatásokat."</string>
-<string name="settings_canfield_size_of_reserve_title">"A tartalékverem mérete (könnyítés)"</string>
-<string name="settings_use_true_randomisation_title">"Használjon valódi véletlenszerűséget"</string>
-<string name="settings_use_true_randomisation_text">"Az alapértelmezett véletlenszerűség kerüli az egymás melletti hasonló kártyákat. Próbálja ki ezt, engedélyezze a valódi, egységes véletlenszerűséget."</string>
-<string name="settings_developer_options">"Fejlesztői lehetőségek"</string>
-<string name="settings_developer_options_description">"Játsszon őrült beállításokkal!"</string>
-<string name="settings_developer_options_move_card_everwhere_title">"Bárhova mozgathatja a kártyákat"</string>
-<string name="settings_developer_options_move_card_everwhere_text">"A kártyákat bármelyik veremre elhelyezheti."</string>
-<string name="settings_developer_options_lock_text">"Ezek a beállítások csak tesztelési célokra szolgálnak, a használatuk furcsa viselkedést és összeomlást eredményezhet!"</string>
-<string name="settings_developer_options_play_every_card_title">"Játék minden kártyával"</string>
-<string name="settings_developer_options_play_every_card_text">"Minden felfedett kártyával tud játszani."</string>
-<string name="settings_developer_options_instant_win_title">"Azonnal nyer"</string>
-<string name="settings_developer_options_instant_win_text">"Megnyer minden játékot egy kártya áthelyezése után."</string>
-<string name="settings_developer_options_no_saving_title">"Letiltja a játék állapotának mentését"</string>
-<string name="settings_developer_options_no_saving_text">"A játékban történt mozgatásokat többé nem menti el."</string>
-<string name="settings_developer_options_deal_correct_sequences_title">"Korrekt sorozatokat oszt"</string>
-<string name="settings_max_number_undos">"A mozgatás visszavonás maximális száma"</string>
-<string name="settings_expert_settings">"Szakértői beállítások"</string>
-<string name="settings_expert_settings_text">"Hasznos lehet néhány ember számára."</string>
-<string name="settings_follow_system_settings">"A rendszer szerint"</string>
-<string name="settings_portrait">"Álló"</string>
-<string name="settings_landscape">"Fekvő"</string>
-<string name="settings_landscape_upside_down">"Fekvő fejjel lefelé"</string>
-<string name="settings_spider_difficultiy_1">"1 (Könnyű)"</string>
-<string name="settings_spider_difficultiy_2">"2 (Középszintű)"</string>
-<string name="settings_spider_difficultiy_3">"4 (Nehéz)"</string>
-<string name="settings_draw_1">"1 lapot dob"</string>
-<string name="settings_draw_3">"3 lapot dob"</string>
-<string name="settings_pyramid_difficulty_1">"Könnyű: A játék megnyert ha a táblavermek üresek"</string>
-<string name="settings_pyramid_difficulty_2">"Nehéz: A játék megnyert ha a táblavermek, a fő és a dobásverem is üresek"</string>
-<string name="settings_language_default">"Alapértelmezett nyelv"</string>
-<string name="settings_language_english">"Angol"</string>
-<string name="settings_language_esperanto">"Eszperantó"</string>
-<string name="settings_language_finnish">"Finn"</string>
-<string name="settings_language_french">"Francia"</string>
-<string name="settings_language_german">"Német"</string>
-<string name="settings_language_japanese">"Japán"</string>
-<string name="settings_language_polish">"Lengyel"</string>
-<string name="settings_language_turkish">"Török"</string>
-<string name="settings_yukon_rules_1">"váltakozó színekben (Alapértelmezett)"</string>
-<string name="settings_yukon_rules_2">"saját kártyacsaládjukban (Russian Solitaire)"</string>
-<string name="settings_movement_speed_1">"Nagyon lassú"</string>
-<string name="settings_movement_speed_2">"Lassú"</string>
-<string name="settings_movement_speed_3">"Normál"</string>
-<string name="settings_movement_speed_4">"Gyors"</string>
-<string name="settings_win_sounds_1">"Alapértelmezett"</string>
-<string name="settings_win_sounds_2">"Pianó"</string>
-<string name="settings_win_sounds_3">"8-bites hang \"You win\""</string>
-<string name="settings_win_sounds_4">"Éljenző tömeg"</string>
-<string name="settings_background_music_1">"Letiltva"</string>
-<string name="settings_background_music_2">"1. téma"</string>
-<string name="settings_background_music_3">"2. téma"</string>
-<string name="settings_background_music_4">"3. téma"</string>
-<string name="settings_background_music_5">"Zenedoboz"</string>
-<string name="settings_canfield_size_of_reserve_1">"13 Kártya (alap)"</string>
-<string name="settings_canfield_size_of_reserve_2">"10 Kártya"</string>
-<string name="settings_canfield_size_of_reserve_3">"7 Kártya"</string>
-<string name="settings_canfield_size_of_reserve_4">"4 Kártya"</string>
-<string name="settings_developer_option_deal_correct_sequences_1">"Deaktivált"</string>
-<string name="settings_developer_option_deal_correct_sequences_2">"Váltakozó színű"</string>
-<string name="settings_developer_option_deal_correct_sequences_3">"Saját kártyacsaládú"</string>
-<string name="settings_developer_option_deal_correct_sequences_4">"Fordított váltakozó színű"</string>
-<string name="settings_developer_option_deal_correct_sequences_5">"Fordított saját kártyacsaládú"</string>
+<string name="securityInit_mpNews">"Háttér színe"</string>
+<string name="init_aSelector">"Elrejti a státusz sávot"</string>
+<string name="drawerActivity">"Balkezes mód"</string>
+<string name="dummyMaze">"Baloldalra tükrözi a kártyákat és a vermeket."</string>
+<string name="packSensorFour">"Erősítse meg a játék bezárását"</string>
+<string name="hintMargins">"A játék bezárásához nyomja meg kétszer a vissza gombot."</string>
+<string name="connectivityFreecell">"Képernyő tájolás"</string>
+<string name="settingsLoad">"Kártyák"</string>
+<string name="googleMiddle">"Klasszikus"</string>
+<string name="listMatchMode">"Egyszerű"</string>
+<string name="lightGraphics">"Kártya hátlap"</string>
+<string name="installSimple">"Modern"</string>
+<string name="bitmapsDownloadText">"Absztrakt"</string>
+<string name="matchClose">"Alap"</string>
+<string name="modityPref">"Oxigén sötét"</string>
+<string name="abstract_dField">"Oxigén világos"</string>
+<string name="mediaSensorNumber">"Póker"</string>
+<string name="resetBitmaps">"Hátlap száma"</string>
+<string name="helpMaze">"Kinézet"</string>
+<string name="pokerStacks">"Általános"</string>
+<string name="buttonRulesHeader">"Minden más beállítás."</string>
+<string name="movesEmptyPref">"Játékok"</string>
+<string name="completeAudio">"A játékváltozatok beállításainak megadása."</string>
+<string name="loginCardMoves">"Különböző kártyacsaládok száma"</string>
+<string name="customBuglyLibgtcore">"A dobott kártyák száma"</string>
+<string name="movingMovabilityBroker">"A dobott kártyák száma"</string>
+<string name="observerMatch">"Kezdjen a főmenüben"</string>
+<string name="userClassic">"Ne az utoljára játszott játékkal induljon."</string>
+<string name="fourSensor">"Ciklikus mozgatás (Könnyítés)"</string>
+<string name="movementApplication">"Engedi az ászokat a királyokra helyezni és fordítva."</string>
+<string name="textGradleCanfield">"Főmenü"</string>
+<string name="darkRegistryTimer">"Az oszlopok számának módosítása, a játékok megjelenítése és elrejtése."</string>
+<string name="bitmapsList">"Nehézség"</string>
+<string name="shellLogin">"Oszlopok száma"</string>
+<string name="starAnimateDownload">"Játékok elrejtése, mutatása."</string>
+<string name="recentAdapter">"Kiválaszthatja a főmenüben megjelenő játékokat."</string>
+<string name="editInterfacePurple">"Információkat jelenít meg a játékról, mint a licenszek és a változáslista."</string>
+<string name="loadConnectivity">"Nyelv választás"</string>
+<string name="mountFragmentHelp">"Kártyák elhelyezése..."</string>
+<string name="stableAutofill">"Ikon téma"</string>
+<string name="contentService">"Menüsáv pozíciója"</string>
+<string name="mediaLocal_r">"Fent"</string>
+<string name="this_hgFusionPack">"Lent"</string>
+<string name="starSoundsClass_no">"Balra"</string>
+<string name="cardsPage">"Jobbra"</string>
+<string name="drawerIntent">"4 színű kártyacsomagok"</string>
+<string name="stylesBooleans">"Változtassa meg a színeket, a treffet zöldre és a kárót kékre."</string>
+<string name="checkYukonYellow">"További kártya mozgatások"</string>
+<string name="colorIntegers">"Kettős érintési mód és egyéb mozgatási módok engedélyezése és letiltása."</string>
+<string name="mountHideSummary">"Kettős érintés"</string>
+<string name="local_9gMethodsPower">"Engedélyezi a kettős érintést."</string>
+<string name="homeObjectMargins">"Nyomjon meg kétszer egy kártyát a lehetséges veremre való áthelyezéshez."</string>
+<string name="userGamesRows">"Mozgassa az összes lehetséges kártyát"</string>
+<string name="objectService">"Mozgassa a lehető legtöbb kártyát a veremből, ne csak a megérintett kártyát."</string>
+<string name="waitClose">"Kiválasztás érintéssel"</string>
+<string name="iconIntentCustom">"A kiválasztás érintéssel engedélyezése"</string>
+<string name="headerRightDelete_s">"Érintse meg a kártyát a kiválasztáshoz, majd érintse meg a cél vermet, hogy oda mozgassa."</string>
+<string name="bottomTestsDownload">"Egyérintés"</string>
+<string name="connectivityObserverMode">"Csak a Golf és a TriPeaks esetében: Nyomjon meg egyszer egy kártyát, hogy áthelyezze a dobásveremre."</string>
+<string name="objectRegister_ruAdapter">"Először az alapveremre mozgass"</string>
+<string name="aboutManual">"Próbálja meg áthelyezni a megérintett verem felső kártyáját az alapveremre, mielőtt a többi kártyát áthelyezi."</string>
+<string name="showReturn_rjRedeal">"Kártya mozgás sebessége"</string>
+<string name="fileNapoleons">"Engedélyezi a hangokat"</string>
+<string name="movesMusic">"Hangok"</string>
+<string name="dialogPreviews">"Engedélyezi a hangokat, különböző hanghatásokat állíthat be."</string>
+<string name="dondorfAccountAmount">"Győzelmi hang effekt"</string>
+<string name="timerMatch">"Háttérzene"</string>
+<string name="activtyRows">"Saját"</string>
+<string name="libcocosdjsConstructorYukon">"Háttérzene hangerő"</string>
+<string name="pageIntegersStats">"Korlátozza az újra felhasználást"</string>
+<string name="referrerImpl">"A dobásverem kártyáinak visszamozgatása a főverembe korlátozott"</string>
+<string name="brokerDummyConfig">"Újra felhasználás száma"</string>
+<string name="recentLocalePyramid">"Tét összege"</string>
+<string name="drawerCompat">"Főmenü rendezése"</string>
+<string name="stacksWait">"Nyomva tartva, húzással új helyre mozgathatja a bejegyzéseket."</string>
+<string name="ensurePurpleMethod_3">"A menürend visszaállítása"</string>
+<string name="textConfigField">"Elindít egy új játékot amikor nyert"</string>
+<string name="changerStableCheck">"Ha visszatér egy már megnyert játékhoz automatikusan elindít egy új játékot."</string>
+<string name="imagePath">"Testreszabhatja a kártyákat, háttereket és a felhasználói felületet."</string>
+<string name="statsImage">"Tablett elrendezés"</string>
+<string name="installBrokerSide">"Nagy képernyőhöz igazítja az alkalmazás megjelenítését. (≥7\")"</string>
+<string name="animationUserNotification">"Tartsa a kártyákat"</string>
+<string name="parisThis_ofUsage">"A főverem megnyomásánál: Ahelyett, hogy a dobásveremről a kártyát a táblavermekre helyezné, tartsa a dobásvermen."</string>
+<string name="napoleonsPyramid">"Megtartja az egyenleget"</string>
+<string name="method_lBackupFusion">"Az egyenleg átkerül a következő Vegas játékba, a pontszám($) csak az egyenleg nullázása és \"Új játék indítása\" után kerül mentésre az eredmények közé."</string>
+<string name="moveRecent">"Egyenleg nullázása"</string>
+<string name="modernLogin">"A következő Vegas játék induló egyenlege 0$"</string>
+<string name="drawerReferrerFile">"Biztos hogy nullázza az egyenlegét? Ezt nem lehet visszavonni."</string>
+<string name="matchNapoleons">"Automatikus mozgatás"</string>
+<string name="showYukonBugly">"Automatikusan az ászveremre mozgatja az ászokat, ha lehetséges."</string>
+<string name="pathAdvancedFour">"Automatikusan a hulladékveremre mozgatja a királyokat, ha lehetséges."</string>
+<string name="wifiImpl">"Szabályok"</string>
+<string name="pathSplash">"Pénz"</string>
+<string name="networkRegistryLibgtcore">"Támogatás"</string>
+<string name="androidStringsBuild">"Elrejti az időt"</string>
+<string name="textDummyWith_g6">"Elrejti a pontszámot"</string>
+<string name="rulesPyramid">"Engedélyezi az egyérintéses mozgásokat"</string>
+<string name="fortyTimerCenter">"Kezdőtét összege:"</string>
+<string name="centerEnsure">"Minden alapveremre mozgatott kártya után kap:"</string>
+<string name="configSideColors">"Kezdőtét: -%1$d$, kártya az alapveremre: +%2$d$"</string>
+<string name="golfStyles">"Nyomja meg egyszer a kártyát, hogy áthelyezze a lehetséges veremre. Ugyanaz mint a kettős érintési módú mozgatások. Ez kikapcsolja a kiválasztás érintéssel mozgatásokat."</string>
+<string name="register_2LockHint">"A tartalékverem mérete (könnyítés)"</string>
+<string name="screenBottom">"Használjon valódi véletlenszerűséget"</string>
+<string name="libgtcoreFromSounds">"Az alapértelmezett véletlenszerűség kerüli az egymás melletti hasonló kártyákat. Próbálja ki ezt, engedélyezze a valódi, egységes véletlenszerűséget."</string>
+<string name="billingUndosAutofill">"Fejlesztői lehetőségek"</string>
+<string name="classicResetLoad">"Játsszon őrült beállításokkal!"</string>
+<string name="gameFreecellHeaders">"Bárhova mozgathatja a kártyákat"</string>
+<string name="register__OxygenLibcocosdjs">"A kártyákat bármelyik veremre elhelyezheti."</string>
+<string name="dondorfBluePeaks">"Ezek a beállítások csak tesztelési célokra szolgálnak, a használatuk furcsa viselkedést és összeomlást eredményezhet!"</string>
+<string name="classicBooleansDownload">"Játék minden kártyával"</string>
+<string name="compatTime_bb">"Minden felfedett kártyával tud játszani."</string>
+<string name="buildLocaleBugly">"Azonnal nyer"</string>
+<string name="backgroundsDummyLauncher">"Megnyer minden játékot egy kártya áthelyezése után."</string>
+<string name="libjcoreAudioData">"Letiltja a játék állapotának mentését"</string>
+<string name="cardsBlueScore">"A játékban történt mozgatásokat többé nem menti el."</string>
+<string name="launcherNumber">"Korrekt sorozatokat oszt"</string>
+<string name="amountNews">"A mozgatás visszavonás maximális száma"</string>
+<string name="routerBorder">"Szakértői beállítások"</string>
+<string name="grandfathersLibjcore">"Hasznos lehet néhány ember számára."</string>
+<string name="downObjectMovement">"A rendszer szerint"</string>
+<string name="registryStylesStatistics">"Álló"</string>
+<string name="brokerCenterGypsy">"Fekvő"</string>
+<string name="modeManager">"Fekvő fejjel lefelé"</string>
+<string name="sensorDark">"1 (Könnyű)"</string>
+<string name="assemblyTextSide">"2 (Középszintű)"</string>
+<string name="columnsThis_fxHelp">"4 (Nehéz)"</string>
+<string name="constructorFusion">"1 lapot dob"</string>
+<string name="iconReturn_jAssembly">"3 lapot dob"</string>
+<string name="fourNewsTask">"Könnyű: A játék megnyert ha a táblavermek üresek"</string>
+<string name="accountInterfaceClassic">"Nehéz: A játék megnyert ha a táblavermek, a fő és a dobásverem is üresek"</string>
+<string name="completeEncryption">"Alapértelmezett nyelv"</string>
+<string name="dataBasic">"Angol"</string>
+<string name="editBuffer">"Eszperantó"</string>
+<string name="scoreScore">"Finn"</string>
+<string name="tabsLogic">"Francia"</string>
+<string name="classicPokerAbout">"Német"</string>
+<string name="register_1ResetBlack">"Japán"</string>
+<string name="booleansIntent">"Lengyel"</string>
+<string name="wifiLocale">"Török"</string>
+<string name="waitTime_2tNotification">"váltakozó színekben (Alapértelmezett)"</string>
+<string name="headersDummy">"saját kártyacsaládjukban (Russian Solitaire)"</string>
+<string name="golfCardButton">"Nagyon lassú"</string>
+<string name="closeSpiderLauncher">"Lassú"</string>
+<string name="stablePref">"Normál"</string>
+<string name="loginSession">"Gyors"</string>
+<string name="eightNews">"Alapértelmezett"</string>
+<string name="gypsyMountRules">"Pianó"</string>
+<string name="textStableRecent">"8-bites hang \"You win\""</string>
+<string name="customizeOrangeAudio">"Éljenző tömeg"</string>
+<string name="splashResizingDown">"Letiltva"</string>
+<string name="borderMovement">"1. téma"</string>
+<string name="clipboardResizing">"2. téma"</string>
+<string name="installArray">"3. téma"</string>
+<string name="testsManualCircle">"Zenedoboz"</string>
+<string name="modeHelperAnimation">"13 Kártya (alap)"</string>
+<string name="classicArrow">"10 Kártya"</string>
+<string name="optionsAnimationAlarm">"7 Kártya"</string>
+<string name="movesClipboardActivty">"4 Kártya"</string>
+<string name="providerMenuNetwork">"Deaktivált"</string>
+<string name="sensorDownloadColors">"Váltakozó színű"</string>
+<string name="shellGreen">"Saját kártyacsaládú"</string>
+<string name="lightbulbTrackGolf">"Fordított váltakozó színű"</string>
+<string name="animationBackupInput">"Fordított saját kártyacsaládú"</string>
 
 <!-- Statistics -->
-<string name="statistics_text_won_games">"%1$d játékot nyert, %2$d játékból"</string>
+<string name="with_eCheck">"%1$d játékot nyert, %2$d játékból"</string>
 
 <!-- %1$d and %2$d are placeholders for the values -->
-<string name="statistics_win_percentage">"Az ön eredmény aránya:"</string>
+<string name="stringsTomb">"Az ön eredmény aránya:"</string>
 
 <!-- %1$.0f is a placeholder and the following two "%%" symbols will be printed as a single "%" -->
-<string name="statistics_button_delete">"Minden bejegyzést töröl!"</string>
-<string name="statistics_button_delete_text">"A játék bejegyzései törölve lesznek! Biztosan akarja?"</string>
-<string name="statistics_button_deleted_all_entries">"Minden bejegyzés törölve lett."</string>
-<string name="statistics_time_of_day">"Időpont"</string>
-<string name="statistics_date">"Dátum"</string>
-<string name="settings_diable_undo_costs">"Tiltja a visszavonás pontszám büntetését"</string>
-<string name="settings_diable_hint_costs">"Tiltja a tippek pontszám büntetését"</string>
-<string name="statistics_high_scores">"Legjobb pontszámok"</string>
-<string name="statistics_recent_scores">"Utoljára kapott pontszámok"</string>
-<string name="statistics_total_time">"Összesített játékidő"</string>
-<string name="statistics_total_hints_shown">"Tippek összes száma"</string>
-<string name="statistics_total_number_undos">"Visszavonások száma"</string>
-<string name="statistics_total_points_earned">"Összesen nyert pontok"</string>
-<string name="statistics_no_entries">"Nincs bejegyzés, játszon néhány játékot!"</string>
-<string name="dialog_auto_move">"Automatikus mozgatás"</string>
-<string name="dialog_show_hints">"Tippek mutatása"</string>
-<string name="manual_ui_text_part_1">"A játék mindig egy kis menüt jelenít meg a képernyő alsó részén (álló módban) vagy a jobb oldalon (fekvő módban). Az aktuális pontszámot és a játékidőt is mutatja. A menü 5 elemet tartalmaz, melyek a következők (gombok balról jobbra).
+<string name="advertisingCenter">"Minden bejegyzést töröl!"</string>
+<string name="soundsTomb">"A játék bejegyzései törölve lesznek! Biztosan akarja?"</string>
+<string name="hideCloseGradle">"Minden bejegyzés törölve lett."</string>
+<string name="entrySummaryCalculation">"Időpont"</string>
+<string name="blackVolume">"Dátum"</string>
+<string name="rulesPackAnimation">"Tiltja a visszavonás pontszám büntetését"</string>
+<string name="blackMoving">"Tiltja a tippek pontszám büntetését"</string>
+<string name="bitmapsHideMargins">"Legjobb pontszámok"</string>
+<string name="changerCheck">"Utoljára kapott pontszámok"</string>
+<string name="observerLibmplameRegistry">"Összesített játékidő"</string>
+<string name="billingYellow">"Tippek összes száma"</string>
+<string name="libnonLibgtcore">"Visszavonások száma"</string>
+<string name="columnsHelp">"Összesen nyert pontok"</string>
+<string name="newsLight">"Nincs bejegyzés, játszon néhány játékot!"</string>
+<string name="rightMove">"Automatikus mozgatás"</string>
+<string name="recentHelperBooleans">"Tippek mutatása"</string>
+<string name="lightList">"A játék mindig egy kis menüt jelenít meg a képernyő alsó részén (álló módban) vagy a jobb oldalon (fekvő módban). Az aktuális pontszámot és a játékidőt is mutatja. A menü 5 elemet tartalmaz, melyek a következők (gombok balról jobbra).
 
 A \"Statisztika\" gomb amit megnyomva egy új ablak jelenik meg amely különböző statisztikákat tartalmaz az aktuális játékról, például a legmagasabb pontszámokat.
 
@@ -322,7 +322,7 @@ A \"Támogatás\" gomb, amit megnyomva megjelenik egy menü. Itt választható:"
 
 
 
-<string name="manual_ui_text_part_10">"A \"Visszavonás\" gombbal az utolsó mozgatást vonhatja vissza, de ez 25 ponttal csökkenti a pontszámot. Az utolsó 20 mozgatás vonható vissza. (Ez a szám növelhető a szakértői beállításokban.)
+<string name="dynamic_bAndroidOrder">"A \"Visszavonás\" gombbal az utolsó mozgatást vonhatja vissza, de ez 25 ponttal csökkenti a pontszámot. Az utolsó 20 mozgatás vonható vissza. (Ez a szám növelhető a szakértői beállításokban.)
 A \"Beállítások\" gombbal közvetlenül megnyithatja a beállítások menüt."</string>
 
 
@@ -334,33 +334,33 @@ A \"Beállítások\" gombbal közvetlenül megnyithatja a beállítások menüt.
 
 
 <!-- dialogs -->
-<string name="dialog_no_hint_available">"Nincs mutatható tipp!"</string>
-<string name="dialog_no_movement_possible">"Nem lehet mozgatni!"</string>
-<string name="settings_show_advanced_settings_title">"A fejlesztői kategóriák feloldása"</string>
-<string name="settings_language_italian">"Olasz"</string>
-<string name="settings_language_portuguese_brazil">"Portugál (Brazil)"</string>
-<string name="settings_language_ukrainian">"Ukrán"</string>
-<string name="settings_game_layout_margins_title">"Játékelrendezési margók"</string>
-<string name="settings_game_layout_margins_text">"Adjon margókat a bal és jobb oldalon a játék elrendezéséhez. A kártyák kissebbek lesznek, de az átfedések csökkennek!"</string>
-<string name="settings_game_layout_margins_none">"Nincs"</string>
-<string name="settings_game_layout_margins_small">"Vékony"</string>
-<string name="settings_game_layout_margins_medium">"Közepes"</string>
-<string name="settings_game_layout_margins_large">"Széles"</string>
-<string name="settings_hide_menu_button">"Elrejti a menügombot"</string>
-<string name="settings_immersive_mode_title">"Engedélyezi a teljes képernyős módot"</string>
-<string name="settings_immersive_mode_text">"Elrejti a státusz és a navigációs sávot játék közben. (Csak Android 4.4 verzión és felette.)"</string>
-<string name="settings_language_norwegian">"Norvég (Bokmål)"</string>
+<string name="notificationConfig">"Nincs mutatható tipp!"</string>
+<string name="launcherMenuReset">"Nem lehet mozgatni!"</string>
+<string name="loginYellow">"A fejlesztői kategóriák feloldása"</string>
+<string name="phoneTask">"Olasz"</string>
+<string name="downloadDialog">"Portugál (Brazil)"</string>
+<string name="gypsyBackground">"Ukrán"</string>
+<string name="stackLocale">"Játékelrendezési margók"</string>
+<string name="poolAvailable">"Adjon margókat a bal és jobb oldalon a játék elrendezéséhez. A kártyák kissebbek lesznek, de az átfedések csökkennek!"</string>
+<string name="managerStar">"Nincs"</string>
+<string name="resetNotification">"Vékony"</string>
+<string name="clipboardBuglyDeal">"Közepes"</string>
+<string name="showCenter">"Széles"</string>
+<string name="time_tjGamesMode">"Elrejti a menügombot"</string>
+<string name="buglyCalculationFusion">"Engedélyezi a teljes képernyős módot"</string>
+<string name="activtyInformationFour">"Elrejti a státusz és a navigációs sávot játék közben. (Csak Android 4.4 verzión és felette.)"</string>
+<string name="waitFusionNotification">"Norvég (Bokmål)"</string>
 
-<string name="settings_cards_paris">"Párizs"</string>
-<string name="settings_cards_dondorf">"Dondorf"</string>
-<string name="games_NapoleonsTomb">"Napoleon's Tomb"</string>
-<string name="manual_NapoleonsTomb_structure">"1 db 52 lapos kártyacsomag.
+<string name="testsManager">"Párizs"</string>
+<string name="parisLoad">"Dondorf"</string>
+<string name="showInstallHelp">"Napoleon's Tomb"</string>
+<string name="dondorfImage">"1 db 52 lapos kártyacsomag.
 
 4 táblaverem, 5 alapverem, 1 fő és 1 dobásverem.
 
 A  négy sarokban lévő verem a hetesekkel és a középső verem az alapvermek. A köztük lévő vermek a táblavermek."</string>
 
-<string name="manual_NapoleonsTomb_rules">"A 4 sarokban lévő alapverem hetesekkel kezd és növekvő sorrendben kell felrakni amíg király lesz. A középső alapverem egy hatossal kezd és négyszer kell csökkenő sorrendben kirakni, amíg mind a négyszer Ász  lesz. Ez a következő sorrendet eredményezi:
+<string name="blueNotificationBackgrounds">"A 4 sarokban lévő alapverem hetesekkel kezd és növekvő sorrendben kell felrakni amíg király lesz. A középső alapverem egy hatossal kezd és négyszer kell csökkenő sorrendben kirakni, amíg mind a négyszer Ász  lesz. Ez a következő sorrendet eredményezi:
 
 6,5,4,3,2,A - 6,5,4,3,2,A - 6,5,4,3,2,A - 6,5,4,3,2,A
 
@@ -369,48 +369,48 @@ A soron következő kártya száma a verem felett is megjelenik.
 Nyomja meg a fővermet hogy egy kártyát felfelé fordítva a dobásveremre dobjon. Engedélyezhető a játék beállításában: Ha a főverem üres, akkor az ismételt megnyomásával visszamozgatja a kártyákat a dobásveremből a főveremre.
 
 Bármelyik kártya elhelyezhető az asztalivermekben, de a vermek egyszerre csak egy kártyát tartalmazhatnak."</string>
-<string name="manual_NapoleonsTomb_scoring">"Helyezzen egy kártyát az alapvermekre: +60
+<string name="moveStableSummary">"Helyezzen egy kártyát az alapvermekre: +60
 
 Mozgassa vissza a kártyákat a dobásveremből: -200"</string>
-<string name="settings_language_spanish_argentina">"Spanyol (Argentina)"</string>
-<string name="settings_language_spanish">"Spanyol"</string>
+<string name="circleLogic">"Spanyol (Argentina)"</string>
+<string name="networkBlackDump">"Spanyol"</string>
 
 <!-- Settings -->
-<string name="settings_apply_only_for_this_game">"A módosítások alkalmazása csak a(z) %1$s"</string>
-<string name="settings_hide_auto_complete_button">"Letiltja az automatikus kirakás gombot"</string>
-<string name="settings_dialog_only_for_this_game_enable_1">"Az itt elvégzett további változtatások csak az aktuális játékra vonatkoznak. Ha ezután más játékok beállításait kívánja módosítani, akkor az alábbi lehetőségek állnak rendelkezésre:"</string>
-<string name="settings_dialog_only_for_this_game_enable_3">"Térjen vissza a főmenübe és nyissa meg a beállításokat"</string>
-<string name="settings_dialog_only_for_this_game_enable_2">"Az opció tiltása"</string>
-<string name="settings_dialog_only_for_this_game_enable_4">"Nyissa meg a beállításokat egy olyan játékon belül, amely nem engedélyezi ezt a lehetőséget"</string>
-<string name="settings_dialog_only_for_this_game_enable_5">"Ennek az opciónak a letiltása visszaállítja az előző, megosztott beállításokat."</string>
-<string name="settings_dialog_only_for_this_game_disable">"A játék egyedi beállításai eltávolításra kerülnek és a megosztott beállítások lesznek alkalmazva."</string>
-<string name="settings_dialog_only_for_this_game_information_1">"A módosítások nem érintik az összes játékot. Kattintson ide a további információért"</string>
-<string name="settings_dialog_only_for_this_game_information_2">"Az alábbi játékok engedélyezték az egyedi beállításokat:"</string>
-<string name="settings_dialog_only_for_this_game_information_3">"Ezekre a játékokra nem lesznek hatással az itt végrehajtott módosítások.
+<string name="customizeRegistryDeal">"A módosítások alkalmazása csak a(z) %1$s"</string>
+<string name="backgroundWith__yPurple">"Letiltja az automatikus kirakás gombot"</string>
+<string name="implGamesWifi">"Az itt elvégzett további változtatások csak az aktuális játékra vonatkoznak. Ha ezután más játékok beállításait kívánja módosítani, akkor az alábbi lehetőségek állnak rendelkezésre:"</string>
+<string name="fileStringsEight">"Térjen vissza a főmenübe és nyissa meg a beállításokat"</string>
+<string name="gameLibcocosdjs">"Az opció tiltása"</string>
+<string name="numberField">"Nyissa meg a beállításokat egy olyan játékon belül, amely nem engedélyezi ezt a lehetőséget"</string>
+<string name="widget_gTrack">"Ennek az opciónak a letiltása visszaállítja az előző, megosztott beállításokat."</string>
+<string name="gradleMoveBooleans">"A játék egyedi beállításai eltávolításra kerülnek és a megosztott beállítások lesznek alkalmazva."</string>
+<string name="manifestEnsureManifest">"A módosítások nem érintik az összes játékot. Kattintson ide a további információért"</string>
+<string name="positionLightbulbRight">"Az alábbi játékok engedélyezték az egyedi beállításokat:"</string>
+<string name="timerPageHandler">"Ezekre a játékokra nem lesznek hatással az itt végrehajtott módosítások.
 
 Szeretné eltávolítani az egyedi beállításokat a felsorolt ​​játékokból?"</string>
-<string name="settings_dialog_only_for_this_game_removed_all">"Egyedi beállítások eltávolítva"</string>
-<string name="settings_ensure_movability_title">"Biztosítja a mozgathatóságot"</string>
-<string name="settings_ensure_movability_searching_games">"Megfelelő játék keresése ..."</string>
-<string name="settings_ensure_movability_text">"Mielőtt elindítaná, ellenőrzi, hogy a megadott számú mozgatások lehetségesek a játékban."</string>
-<string name="settings_ensure_movability_min_moves_title">"Mozgatások számának változtatása"</string>
-<string name="settings_ensure_movability_min_moves_warning">"Figyelem: Az összeg növelése hosszabb várakozási időt eredményez a játék indítása előtt! A játékszabályok megváltoztatása is befolyásolja a várakozási időt!"</string>
-<string name="settings_ensure_movability_min_moves_text">"Módosítsa a mozgatások összegét, amelyeknek a megadott játékban legalább lehetségesnek kell lennie."</string>
-<string name="settings_number_input_error">"Nem lehet menteni ezt a számot!"</string>
-<string name="settings_developer_option_improve_auto_move_title">"Javítja az Automatikus mozgatás"</string>
-<string name="settings_developer_option_improve_auto_move_text">"Az \"Automatikus mozgatás\" megpróbálja megnyerni a játékot a főverem használatával is."</string>
-<string name="black">"Fekete"</string>
-<string name="white">"Fehér"</string>
-<string name="settings_ensure_movability_make_game_winnable_button_title">"Tegye a játékokat nyerhetővé"</string>
-<string name="settings_ensure_movability_make_game_winnable_text">"Néhány játéknál az összeg elég magasra állítható, hogy azok mindig nyerhetővé váljanak anélkül, hogy jelentősen növelnék a várakozási időt."</string>
-<string name="settings_ensure_movability_winnable">"Nyerhető"</string>
-<string name="settings_reset_to_defaults">"Alapértékek visszaállítása"</string>
-<string name="settings_text_color">"Szöveg és verem színe"</string>
-<string name="settings_language_chinese_simplified">"Kinai (Egyszerűsített)"</string>
-<string name="settings_ensure_movability_cancle_search">"Törölje és azonnal indítsa el"</string>
-<string name="games_Maze">"Maze"</string>
-<string name="games_Spiderette">"Spiderette"</string>
-<string name="manual_Spiderette_structure">"1 db 52 lapos kártyacsomag.
+<string name="movesPreferences">"Egyedi beállítások eltávolítva"</string>
+<string name="buildPackHelp">"Biztosítja a mozgathatóságot"</string>
+<string name="telephonyEncryptionCircle">"Megfelelő játék keresése ..."</string>
+<string name="contentAdapterIntegers">"Mielőtt elindítaná, ellenőrzi, hogy a megadott számú mozgatások lehetségesek a játékban."</string>
+<string name="preferenceMarginsMoves">"Mozgatások számának változtatása"</string>
+<string name="interfaceAdvertising">"Figyelem: Az összeg növelése hosszabb várakozási időt eredményez a játék indítása előtt! A játékszabályok megváltoztatása is befolyásolja a várakozási időt!"</string>
+<string name="return_bPyramidTests">"Módosítsa a mozgatások összegét, amelyeknek a megadott játékban legalább lehetségesnek kell lennie."</string>
+<string name="usageIntentActivty">"Nem lehet menteni ezt a számot!"</string>
+<string name="colorGradlew">"Javítja az Automatikus mozgatás"</string>
+<string name="dynamic_aRouter">"Az \"Automatikus mozgatás\" megpróbálja megnyerni a játékot a főverem használatával is."</string>
+<string name="installReferrer">"Fekete"</string>
+<string name="headersTask">"Fehér"</string>
+<string name="applicationList">"Tegye a játékokat nyerhetővé"</string>
+<string name="animationInputStatistics">"Néhány játéknál az összeg elég magasra állítható, hogy azok mindig nyerhetővé váljanak anélkül, hogy jelentősen növelnék a várakozási időt."</string>
+<string name="movementNetwork">"Nyerhető"</string>
+<string name="usageMain">"Alapértékek visszaállítása"</string>
+<string name="rightRows">"Szöveg és verem színe"</string>
+<string name="modityInfoRely">"Kinai (Egyszerűsített)"</string>
+<string name="customLibcocosdjs">"Törölje és azonnal indítsa el"</string>
+<string name="yukonCalculation">"Maze"</string>
+<string name="textResizingMatch">"Spiderette"</string>
+<string name="purpleField">"1 db 52 lapos kártyacsomag.
 
 7 táblaverem és 4 alapverem.
 
@@ -418,15 +418,15 @@ Szeretné eltávolítani az egyedi beállításokat a felsorolt ​​játékokb
 
 A beállításoktól függően 1, 2 vagy 4 különböző kártyacsalád."</string>
 
-<string name="manual_Spiderette_rules">"A kártyákat bármelyik kártyára csökkenő sorrendben lehet elhelyezni. De csak az ugyanabba a kártyacsaládba tartozó sorozatokat lehet egyszerre mozgatni.
+<string name="libmplameSplash">"A kártyákat bármelyik kártyára csökkenő sorrendben lehet elhelyezni. De csak az ugyanabba a kártyacsaládba tartozó sorozatokat lehet egyszerre mozgatni.
 
 Minden kártya elhelyezhető az üres asztalivermeken.
 
 Ha a táblavermeken található kártyák nem mozgathatók nyomja meg a fővermet, hogy egy-egy kártyát dobjon minden táblaveremre."</string>
-<string name="manual_Spiderette_scoring">"Egy kártyacsalád áthelyezése az alapveremre: +200
+<string name="expertPack">"Egy kártyacsalád áthelyezése az alapveremre: +200
 
 Egy kártya felfordítása: +25"</string>
-<string name="settings_language_portuguese">"Portugál"</string>
-<string name="statistics_hide_win_percentage">"Elrejti az eredmények százalékos arányát"</string>
-<string name="settings_restart_game">"Indítson el egy új %1$s játékot a változás alkalmazásához"</string>
+<string name="prefObserverBackup">"Portugál"</string>
+<string name="routerOxygenGradlew">"Elrejti az eredmények százalékos arányát"</string>
+<string name="fourLogic">"Indítson el egy új %1$s játékot a változás alkalmazásához"</string>
 </resources>

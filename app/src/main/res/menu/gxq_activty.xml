@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/idgroup1">
+        <item
+            android:id="@+id/item_settings"
+            android:icon="@drawable/xb_information_sensor"
+            android:title="@string/gypsyPreviews" />
+
+
+        <item
+            android:id="@+id/item_about"
+            android:icon="@drawable/rhs_libmplame"
+            android:title="@string/movingLoadRely" />
+
+    </group>
+    <group android:id="@+id/idgroup2">
+        <item
+            android:id="@+id/item_close"
+            android:icon="@drawable/fqy_lock"
+            android:title="@string/sensorPurple" />
+
+    </group>
+</menu>

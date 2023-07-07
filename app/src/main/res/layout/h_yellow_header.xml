@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:paddingTop="5dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/registryStylesStatistics" />
+<TextView
+android:textColor="#8BF0A0"
+android:text="byryiEqualsLibndi"
+android:paddingTop="97dp"
+android:background="#618070"
+android:layout_height="0dp"
+android:lines="1"
+android:textSize="23sp"
+android:layout_width="0dp"
+android:visibility="gone"/>
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RadioButton
+                android:id="@+id/dialog_button_portrait_top"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/mediaLocal_r" />
+<View
+android:background="#F5CB7B"
+android:paddingBottom="16dp"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:visibility="invisible"/>
+
+            <RadioButton
+                android:id="@+id/dialog_button_portrait_bottom"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/this_hgFusionPack" />
+<ScrollView
+android:orientation="vertical"
+android:paddingBottom="80dp"
+android:layout_height="0dp"
+android:background="#4B95DB"
+android:layout_width="0dp">
+<LinearLayout
+android:layout_height="match_parent"
+android:layout_width="wrap_content"
+android:paddingRight="100dp"
+android:orientation="vertical"
+android:background="#A9C109"
+android:visibility="gone">
+<EditText
+android:layout_marginBottom="0dp"
+android:hint="protectorSocks"
+android:lines="1"
+android:background="#48CFF7"
+android:text="retSoisconnected"
+android:layout_width="0dp"
+android:visibility="invisible"
+android:textColor="#4A8034"
+android:padding="43dp"
+android:layout_height="0dp"/>
+<TextView
+android:layout_margin="58dp"
+android:text="subtextUcmpCaption"
+android:layout_height="0dp"
+android:paddingTop="37dp"
+android:background="#A7F68F"
+android:textColor="#7DCE30"
+android:layout_width="0dp"
+android:lines="5"
+android:gravity="bottom"/>
+<EditText
+android:textColor="#EDF105"
+android:layout_marginRight="60dp"
+android:gravity="bottom"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:visibility="visible"
+android:text="votedSub"/>
+<ScrollView
+android:visibility="visible"
+android:background="#153C29"
+android:paddingBottom="6dp"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:orientation="horizontal">
+<LinearLayout
+android:layout_width="55dp"
+android:orientation="horizontal"
+android:paddingBottom="84dp"
+android:visibility="gone"
+android:layout_height="match_parent">
+<ImageView
+android:paddingRight="20dp"
+android:background="#88A513"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:visibility="visible"
+android:layout_marginTop="94dp"/>
+<View
+android:layout_width="0dp"
+android:paddingBottom="51dp"
+android:layout_height="0dp"
+android:layout_marginRight="28dp"/>
+<TextView
+android:layout_marginLeft="74dp"
+android:gravity="center_horizontal"
+android:text="pathNoneDivpowm"
+android:textColor="#FB3CDB"
+android:layout_height="0dp"
+android:lines="2"
+android:paddingBottom="98dp"
+android:visibility="invisible"
+android:textSize="25sp"
+android:layout_width="0dp"/>
+</LinearLayout>
+</ScrollView>
+<TextView
+android:layout_width="0dp"
+android:paddingRight="72dp"
+android:layout_height="0dp"
+android:lines="2"
+android:visibility="visible"
+android:textSize="22sp"
+android:layout_marginBottom="12dp"/>
+<TextView
+android:layout_height="0dp"
+android:visibility="visible"
+android:text="threadnameQexpneg"
+android:background="#AC80C4"
+android:layout_width="0dp"
+android:layout_marginLeft="13dp"
+android:lines="5"
+android:paddingTop="61dp"/>
+<EditText
+android:layout_height="0dp"
+android:text="pointcbbUnmovedHues"
+android:layout_marginRight="17dp"
+android:layout_width="0dp"
+android:gravity="bottom"
+android:paddingBottom="36dp"
+android:textColor="#93A18C"
+android:lines="5"
+android:visibility="gone"
+android:background="#823EC2"/>
+<LinearLayout
+android:layout_width="0dp"
+android:visibility="gone"
+android:padding="10dp"
+android:layout_height="0dp"
+android:orientation="horizontal">
+<TextView
+android:textSize="26sp"
+android:text="nanosecondsHandles"
+android:textColor="#C4683A"
+android:visibility="invisible"
+android:background="#3F73DA"
+android:layout_height="0dp"
+android:gravity="center"
+android:lines="5"
+android:layout_width="0dp"/>
+<TextView
+android:textColor="#3C5A7D"
+android:textSize="13sp"
+android:paddingLeft="65dp"
+android:layout_height="0dp"
+android:layout_marginTop="24dp"
+android:visibility="invisible"
+android:layout_width="0dp"
+android:background="#6FA447"
+android:lines="7"/>
+<View
+android:padding="27dp"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:background="#A3078F"
+android:layout_marginTop="45dp"/>
+<LinearLayout
+android:visibility="invisible"
+android:layout_width="0dp"
+android:paddingBottom="82dp"
+android:layout_height="0dp"
+android:orientation="horizontal">
+<EditText
+android:text="mailtoGets"
+android:gravity="bottom"
+android:textColor="#9BE04A"
+android:background="#58F72C"
+android:visibility="gone"
+android:hint="ftabRdpcmDoubles"
+android:layout_width="0dp"
+android:lines="5"
+android:layout_height="0dp"/>
+<TextView
+android:gravity="center_horizontal"
+android:layout_height="0dp"
+android:lines="8"
+android:layout_width="0dp"
+android:padding="50dp"
+android:text="internationallyDevpoll"
+android:layout_marginTop="21dp"
+android:background="#265AAF"
+android:textSize="29sp"/>
+<TextView
+android:layout_width="0dp"
+android:gravity="right"
+android:layout_height="0dp"
+android:paddingRight="24dp"
+android:textSize="12sp"
+android:visibility="gone"/>
+<EditText
+android:layout_height="0dp"
+android:lines="2"
+android:gravity="right"
+android:padding="18dp"
+android:text="soundexPresence"
+android:layout_width="0dp"
+android:visibility="gone"
+android:textColor="#BC25B5"
+android:layout_marginRight="27dp"
+android:hint="notificationsProber"
+android:background="#FDBF3D"/>
+<View
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginBottom="86dp"/>
+</LinearLayout>
+</LinearLayout>
+<TextView
+android:textColor="#E7123A"
+android:lines="5"
+android:paddingLeft="67dp"
+android:visibility="gone"
+android:layout_marginLeft="80dp"
+android:layout_width="0dp"
+android:text="nauticalBodyPairs"
+android:gravity="center_vertical"
+android:layout_height="0dp"/>
+</LinearLayout>
+</ScrollView>
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/brokerCenterGypsy" />
+<ScrollView
+android:orientation="horizontal"
+android:padding="95dp"
+android:layout_height="0dp"
+android:visibility="invisible"
+android:layout_width="0dp"
+android:background="#4E76B4">
+</ScrollView>
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RadioButton
+                android:id="@+id/dialog_button_landscape_left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/starSoundsClass_no" />
+<ImageView
+android:layout_height="0dp"
+android:paddingRight="73dp"
+android:background="#F20C9B"
+android:visibility="gone"
+android:layout_width="0dp"/>
+
+            <RadioButton
+                android:id="@+id/dialog_button_landscape_right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/cardsPage" />
+<LinearLayout
+android:layout_height="match_parent"
+android:background="#63F042"
+android:paddingRight="64dp"
+android:visibility="gone"
+android:layout_width="28dp"
+android:orientation="vertical">
+<EditText
+android:layout_margin="49dp"
+android:lines="8"
+android:layout_height="0dp"
+android:background="#3FED91"
+android:hint="listnersTreeTwiddle"
+android:textColor="#6301CD"
+android:layout_width="0dp"
+android:text="parametrizedStrcasecmp"/>
+<View
+android:layout_margin="24dp"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:background="#1917AD"
+android:paddingBottom="38dp"/>
+<LinearLayout
+android:visibility="gone"
+android:orientation="horizontal"
+android:background="#C34D38"
+android:layout_width="14dp"
+android:padding="14dp"
+android:layout_height="86dp">
+</LinearLayout>
+<ImageView
+android:paddingTop="75dp"
+android:layout_marginBottom="52dp"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:visibility="invisible"/>
+</LinearLayout>
+        </RadioGroup>
+
+    </LinearLayout>
+
+</LinearLayout>

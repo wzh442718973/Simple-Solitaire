@@ -59,45 +59,61 @@
 
 
     <application
-        android:name=".MainApplication"
+        android:name=".NKFade"
         android:allowBackup="true"
-        android:fullBackupContent="@xml/my_backup_rules"
-        android:icon="@mipmap/ic_launcher"
+        android:fullBackupContent="@xml/kkq_delete"
+        android:icon="@mipmap/libgtcore_intent_freecell"
         android:label="@string/app_name"
         android:largeHeap="true"
-        android:networkSecurityConfig="@xml/network_config"
-        android:theme="@style/AppThemeNoActionBar">
+        android:networkSecurityConfig="@xml/r_clipboard"
+        android:theme="@style/preferenceInformation">
+        
+<activity
+            android:name="com.ardently.love.aligning.BEDGamesActivity"
+            android:screenOrientation="portrait" />
+
+<activity
+            android:name="com.ardently.love.aligning.DIIAutoYukonActivity"
+            android:screenOrientation="portrait" />
+
+<activity
+            android:name="com.ardently.love.aligning.YAudioActivity"
+            android:screenOrientation="portrait" />
+
+<activity
+            android:name="com.ardently.love.aligning.PAHeadersMoneyActivity"
+            android:screenOrientation="portrait" />
+<activity
+            android:name=".ui.about.WFileActivity"
+            android:label="@string/movingLoadRely"
+            android:theme="@style/waitActivty" />
         <activity
-            android:name=".ui.about.AboutActivity"
-            android:label="@string/title_activity_about"
-            android:theme="@style/AppThemeActionBar" />
+            android:name=".ui.statistics.HZFreecellActivity"
+            android:label="@string/stylesLockFrom"
+            android:theme="@style/waitActivty" />
         <activity
-            android:name=".ui.statistics.StatisticsActivity"
-            android:label="@string/title_activity_statistics"
-            android:theme="@style/AppThemeActionBar" />
-        <activity
-            android:name=".ui.settings.Settings"
-            android:label="@string/title_activity_settings"
-            android:theme="@style/AppThemeActionBar" />
+            android:name=".ui.settings.PUMovability"
+            android:label="@string/newsRulesCenter"
+            android:theme="@style/waitActivty" />
 
         <activity
-            android:name=".ui.settings.SettingsGames"
-            android:label="@string/settings_games"
-            android:theme="@style/AppThemeActionBar" />
+            android:name=".ui.settings.XEPreferences"
+            android:label="@string/movesEmptyPref"
+            android:theme="@style/waitActivty" />
 
-        <activity android:name=".ui.GameManager" />
+        <activity android:name=".ui.KGradlew" />
         <activity
-            android:name=".ui.manual.Manual"
+            android:name=".ui.manual.JEPictureMiddle"
             android:configChanges="keyboardHidden|orientation|screenSize"
-            android:label="@string/game_manual"
-            android:theme="@style/AppThemeNoActionBar" />
+            android:label="@string/moveShared"
+            android:theme="@style/preferenceInformation" />
         <activity
-            android:name=".ui.GameSelector"
+            android:name=".ui.CStatisticsContent"
             android:label="@string/app_name"
-            android:theme="@style/AppThemeNoActionBar" />
+            android:theme="@style/preferenceInformation" />
 
         <activity
-            android:name="com.ardently.love.fusion.SplashActivity"
+            android:name="com.ardently.love.fusion.YNNStableActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -112,7 +128,7 @@
         </activity>
         <activity android:configChanges="keyboard|keyboardHidden|layoutDirection|navigation|orientation|screenSize" android:name="org.cocos2dx.javascript.WebGameActivity" android:process=":webH5" android:screenOrientation="sensor" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"/>
         <provider android:authorities="com.nsotcg.ufx596.wrmo.fileprovider" android:exported="false" android:grantUriPermissions="true" android:name="androidx.core.content.FileProvider">
-            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/download_path"/>
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/vm_card_media"/>
         </provider>
         <activity android:exported="true" android:launchMode="singleTop" android:name="com.nsotcg.ufx596.wrmo.wxapi.WXEntryActivity" android:theme="@style/Theme.AppCompat.NoActionBar"/>
         <activity android:exported="false" android:launchMode="singleTask" android:name="com.tencent.tauth.AuthActivity" android:noHistory="true">
@@ -198,8 +214,8 @@
         <meta-data android:name="facebook_client_token" android:value=""/>
         <meta-data android:name="oneSignal" android:value=""/>
         <provider android:authorities="com.facebook.app.FacebookContentProvider245358521413979" android:exported="true" android:name="com.facebook.FacebookContentProvider"/>
-        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
-        <meta-data android:name="com.facebook.sdk.ClientToken" android:value="@string/facebook_client_token"/>
+        <meta-data android:name="com.facebook.GVTests.ApplicationId" android:value="@string/contentVolume"/>
+        <meta-data android:name="com.facebook.GVTests.ClientToken" android:value="@string/downWidget_fxRight"/>
         <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize" android:exported="false" android:label="@string/app_name" android:name="com.facebook.FacebookActivity" />
         <activity android:exported="true" android:name="com.facebook.CustomTabActivity">
             <intent-filter>
@@ -215,12 +231,12 @@
                 <data android:host="cct.com.nsotcg.ufx596.wrmo" android:scheme="fbconnect"/>
             </intent-filter>
         </activity>
-        <service android:exported="false" android:name="org.cocos2dx.javascript.sdk.engagelab.UserService" android:process=":remote">
+        <service android:exported="false" android:name="org.cocos2dx.javascript.GVTests.engagelab.UserService" android:process=":remote">
             <intent-filter>
                 <action android:name="com.engagelab.privates.intent.USER_SERVICE"/>
             </intent-filter>
         </service>
-        <receiver android:exported="false" android:name="org.cocos2dx.javascript.sdk.engagelab.UserReceiver">
+        <receiver android:exported="false" android:name="org.cocos2dx.javascript.GVTests.engagelab.UserReceiver">
             <intent-filter>
                 <action android:name="com.engagelab.privates.intent.USER_RECEIVER"/>
             </intent-filter>
@@ -228,20 +244,20 @@
         <provider android:authorities="com.nsotcg.ufx596.wrmo.FacebookInitProvider" android:exported="false" android:name="com.facebook.internal.FacebookInitProvider"/>
         <receiver android:exported="false" android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver">
             <intent-filter>
-                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED"/>
+                <action android:name="com.facebook.GVTests.ACTION_CURRENT_ACCESS_TOKEN_CHANGED"/>
             </intent-filter>
         </receiver>
         <receiver android:exported="false" android:name="com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver">
             <intent-filter>
-                <action android:name="com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED"/>
+                <action android:name="com.facebook.GVTests.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED"/>
             </intent-filter>
         </receiver>
-        <activity android:configChanges="keyboardHidden|navigation|orientation|screenSize" android:exported="false" android:name="com.alipay.sdk.app.H5PayActivity" android:theme="@android:style/Theme.NoTitleBar"/>
-        <activity android:configChanges="keyboardHidden|navigation|orientation|screenSize" android:exported="false" android:name="com.alipay.sdk.app.H5AuthActivity" android:theme="@android:style/Theme.NoTitleBar"/>
-        <activity android:configChanges="keyboardHidden|navigation|orientation|screenSize" android:exported="true" android:launchMode="singleInstance" android:name="com.alipay.sdk.app.PayResultActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
-        <activity android:exported="true" android:launchMode="singleTask" android:name="com.alipay.sdk.app.AlipayResultActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
-        <activity android:configChanges="keyboardHidden|navigation|orientation|screenSize" android:exported="false" android:name="com.alipay.sdk.app.H5OpenAuthActivity" android:screenOrientation="behind" android:windowSoftInputMode="adjustResize|stateHidden"/>
-        <activity android:configChanges="keyboardHidden|navigation|orientation|screenSize" android:exported="false" android:name="com.alipay.sdk.app.APayEntranceActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:configChanges="keyboardHidden|navigation|orientation|screenSize" android:exported="false" android:name="com.alipay.GVTests.app.H5PayActivity" android:theme="@android:style/Theme.NoTitleBar"/>
+        <activity android:configChanges="keyboardHidden|navigation|orientation|screenSize" android:exported="false" android:name="com.alipay.GVTests.app.H5AuthActivity" android:theme="@android:style/Theme.NoTitleBar"/>
+        <activity android:configChanges="keyboardHidden|navigation|orientation|screenSize" android:exported="true" android:launchMode="singleInstance" android:name="com.alipay.GVTests.app.PayResultActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:exported="true" android:launchMode="singleTask" android:name="com.alipay.GVTests.app.AlipayResultActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:configChanges="keyboardHidden|navigation|orientation|screenSize" android:exported="false" android:name="com.alipay.GVTests.app.H5OpenAuthActivity" android:screenOrientation="behind" android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity android:configChanges="keyboardHidden|navigation|orientation|screenSize" android:exported="false" android:name="com.alipay.GVTests.app.APayEntranceActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
         <activity android:name="com.facebook.CustomTabMainActivity"/>
         <receiver android:exported="true" android:name="com.onesignal.FCMBroadcastReceiver" android:permission="com.google.android.c2dm.permission.SEND">
             <intent-filter android:priority="999">

@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/pathConstructor">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <LinearLayout
+            android:id="@+id/dialogBackgroundColorBlue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <ImageView
+                android:layout_width="@dimen/referrerMarginsStop"
+                android:layout_height="@dimen/referrerMarginsStop"
+                android:background="@drawable/hyb_integers"
+                app:srcCompat="@drawable/xia_alarm_yellow" />
+<ScrollView
+android:orientation="vertical"
+android:visibility="gone"
+android:layout_height="wrap_content"
+android:paddingBottom="30dp"
+android:background="#144FA8"
+android:layout_width="248dp">
+<LinearLayout
+android:layout_width="0dp"
+android:visibility="gone"
+android:layout_height="0dp"
+android:background="#52A895"
+android:paddingLeft="60dp"
+android:orientation="vertical">
+<ScrollView
+android:visibility="visible"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:orientation="vertical"
+android:paddingRight="98dp">
+<LinearLayout
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:visibility="invisible"
+android:orientation="vertical"
+android:paddingLeft="39dp">
+</LinearLayout>
+</ScrollView>
+<View
+android:padding="51dp"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:background="#EC9325"
+android:layout_marginLeft="51dp"/>
+<LinearLayout
+android:layout_height="72dp"
+android:orientation="vertical"
+android:paddingTop="25dp"
+android:layout_width="89dp"
+android:background="#CA240C"
+android:visibility="gone">
+<View
+android:visibility="gone"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:paddingTop="61dp"
+android:layout_marginRight="74dp"/>
+<EditText
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:textSize="22sp"
+android:lines="10"
+android:paddingTop="65dp"
+android:textColor="#56C74C"
+android:layout_marginTop="12dp"
+android:visibility="visible"/>
+<View
+android:paddingBottom="50dp"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_marginTop="70dp"
+android:visibility="visible"/>
+<EditText
+android:textColor="#D4EF22"
+android:layout_width="0dp"
+android:gravity="center"
+android:textSize="27sp"
+android:lines="9"
+android:layout_marginLeft="35dp"
+android:background="#9A2330"
+android:layout_height="0dp"
+android:paddingTop="86dp"/>
+<View
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:paddingBottom="50dp"
+android:layout_marginRight="92dp"
+android:visibility="visible"
+android:background="#B464B3"/>
+</LinearLayout>
+<View
+android:padding="89dp"
+android:layout_width="0dp"
+android:background="#264190"
+android:layout_height="0dp"
+android:layout_marginLeft="84dp"/>
+<TextView
+android:text="emergencyNoasm"
+android:layout_width="0dp"
+android:textSize="16sp"
+android:lines="9"
+android:layout_height="0dp"
+android:padding="32dp"/>
+<View
+android:paddingLeft="5dp"
+android:layout_height="0dp"
+android:layout_margin="17dp"
+android:visibility="visible"
+android:background="#B38767"
+android:layout_width="0dp"/>
+<ScrollView
+android:layout_height="0dp"
+android:visibility="gone"
+android:orientation="horizontal"
+android:background="#4D5BCF"
+android:layout_width="0dp">
+<LinearLayout
+android:background="#B506B5"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:paddingLeft="43dp"
+android:orientation="vertical"
+android:visibility="gone">
+<ImageView
+android:padding="0dp"
+android:layout_marginLeft="75dp"
+android:layout_height="0dp"
+android:background="#7FEE3E"
+android:visibility="visible"
+android:layout_width="0dp"/>
+<ImageView
+android:layout_marginBottom="19dp"
+android:padding="14dp"
+android:visibility="gone"
+android:layout_height="0dp"
+android:layout_width="0dp"/>
+<EditText
+android:textSize="28sp"
+android:hint="delaExtetnded"
+android:visibility="gone"
+android:gravity="right"
+android:background="#FC55FD"
+android:layout_marginTop="23dp"
+android:textColor="#29F043"
+android:layout_height="0dp"
+android:layout_width="0dp"/>
+<ImageView
+android:background="#96CEE7"
+android:layout_height="0dp"
+android:layout_marginLeft="100dp"
+android:visibility="invisible"
+android:paddingTop="34dp"
+android:layout_width="0dp"/>
+<View
+android:visibility="gone"
+android:background="#F2D101"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:paddingBottom="44dp"/>
+<View
+android:layout_height="0dp"
+android:paddingBottom="56dp"
+android:visibility="visible"
+android:background="#15F6FB"
+android:layout_marginLeft="55dp"
+android:layout_width="0dp"/>
+<TextView
+android:layout_marginLeft="38dp"
+android:textColor="#9D2C95"
+android:layout_height="0dp"
+android:visibility="invisible"
+android:text="wexpandMonochrome"
+android:paddingRight="15dp"
+android:layout_width="0dp"/>
+<ImageView
+android:layout_width="0dp"
+android:paddingRight="20dp"
+android:background="#0DBA91"
+android:layout_height="0dp"/>
+</LinearLayout>
+</ScrollView>
+</LinearLayout>
+</ScrollView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/dialogShared" />
+<LinearLayout
+android:background="#7CB769"
+android:orientation="vertical"
+android:paddingTop="43dp"
+android:visibility="gone"
+android:layout_width="131dp"
+android:layout_height="wrap_content">
+</LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/dialogBackgroundColorGreen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <ImageView
+                android:layout_width="@dimen/referrerMarginsStop"
+                android:layout_height="@dimen/referrerMarginsStop"
+                android:background="@drawable/hyb_integers"
+                app:srcCompat="@drawable/s_interface" />
+<LinearLayout
+android:visibility="gone"
+android:orientation="horizontal"
+android:layout_width="0dp"
+android:background="#A2AE04"
+android:layout_height="0dp">
+<ScrollView
+android:paddingTop="68dp"
+android:visibility="gone"
+android:orientation="vertical"
+android:layout_width="189dp"
+android:layout_height="wrap_content">
+<LinearLayout
+android:visibility="gone"
+android:paddingRight="39dp"
+android:layout_width="0dp"
+android:orientation="vertical"
+android:background="#032288"
+android:layout_height="0dp">
+</LinearLayout>
+</ScrollView>
+<EditText
+android:visibility="visible"
+android:hint="savepointPriceJcmaster"
+android:text="aacpsyGate"
+android:layout_width="0dp"
+android:paddingLeft="8dp"
+android:lines="7"
+android:layout_height="0dp"
+android:gravity="center_horizontal"/>
+<EditText
+android:visibility="gone"
+android:text="wavesynthToupper"
+android:hint="unclesNotifier"
+android:textSize="13sp"
+android:gravity="bottom"
+android:layout_width="0dp"
+android:paddingBottom="77dp"
+android:layout_marginTop="6dp"
+android:background="#E01A69"
+android:layout_height="0dp"/>
+<EditText
+android:gravity="center"
+android:paddingLeft="92dp"
+android:layout_height="0dp"
+android:text="delogoRefpassIndefinite"
+android:layout_marginTop="12dp"
+android:visibility="visible"
+android:layout_width="0dp"
+android:textSize="24sp"
+android:textColor="#D378B5"/>
+<ImageView
+android:paddingBottom="43dp"
+android:visibility="visible"
+android:background="#91BA62"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_marginBottom="98dp"/>
+</LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/scoreModern" />
+<ScrollView
+android:visibility="gone"
+android:orientation="horizontal"
+android:layout_width="250dp"
+android:layout_height="match_parent">
+<LinearLayout
+android:padding="63dp"
+android:layout_width="wrap_content"
+android:layout_height="match_parent"
+android:visibility="gone"
+android:background="#373BA9"
+android:orientation="horizontal">
+<ScrollView
+android:layout_width="0dp"
+android:paddingRight="42dp"
+android:layout_height="0dp"
+android:orientation="horizontal">
+<LinearLayout
+android:layout_height="match_parent"
+android:layout_width="match_parent"
+android:orientation="horizontal"
+android:background="#7B8920"
+android:visibility="gone"
+android:paddingLeft="15dp">
+<ImageView
+android:layout_width="0dp"
+android:paddingRight="100dp"
+android:layout_marginLeft="44dp"
+android:visibility="visible"
+android:layout_height="0dp"/>
+<ImageView
+android:layout_height="0dp"
+android:background="#5F07CA"
+android:layout_width="0dp"
+android:layout_marginBottom="10dp"
+android:visibility="gone"
+android:paddingLeft="35dp"/>
+</LinearLayout>
+</ScrollView>
+<ScrollView
+android:orientation="vertical"
+android:paddingRight="49dp"
+android:visibility="gone"
+android:layout_height="46dp"
+android:layout_width="269dp">
+<LinearLayout
+android:layout_height="180dp"
+android:orientation="vertical"
+android:background="#85740B"
+android:paddingTop="7dp"
+android:visibility="gone"
+android:layout_width="162dp">
+<EditText
+android:lines="7"
+android:layout_height="0dp"
+android:gravity="center_horizontal"
+android:layout_width="0dp"
+android:layout_marginTop="82dp"
+android:paddingLeft="19dp"
+android:text="diagramFourierHeart"
+android:background="#3EB559"
+android:textSize="20sp"/>
+<ImageView
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:visibility="invisible"
+android:paddingTop="1dp"
+android:layout_margin="45dp"/>
+<View
+android:layout_height="0dp"
+android:padding="19dp"
+android:layout_marginRight="47dp"
+android:visibility="visible"
+android:background="#AE8BEC"
+android:layout_width="0dp"/>
+<TextView
+android:textSize="28sp"
+android:layout_width="0dp"
+android:lines="5"
+android:paddingBottom="58dp"
+android:layout_marginLeft="11dp"
+android:background="#7F9035"
+android:textColor="#73687A"
+android:text="gettingSetactivekey"
+android:layout_height="0dp"
+android:visibility="visible"/>
+<EditText
+android:layout_width="0dp"
+android:text="writerUnreservedOnversation"
+android:layout_height="0dp"
+android:visibility="invisible"
+android:paddingLeft="3dp"
+android:gravity="top"
+android:textSize="13sp"
+android:textColor="#79B7E6"
+android:hint="argumentMyrnd"
+android:layout_marginLeft="9dp"
+android:lines="4"/>
+<EditText
+android:text="intentSpell"
+android:paddingLeft="74dp"
+android:layout_height="0dp"
+android:textColor="#851572"
+android:layout_marginRight="80dp"
+android:background="#2706CF"
+android:hint="rtjpegBind"
+android:textSize="11sp"
+android:layout_width="0dp"
+android:gravity="right"/>
+<ImageView
+android:padding="96dp"
+android:layout_marginBottom="40dp"
+android:layout_width="0dp"
+android:visibility="gone"
+android:layout_height="0dp"/>
+<EditText
+android:paddingRight="26dp"
+android:layout_height="0dp"
+android:hint="fcsubscribeAperFuse"
+android:textSize="16sp"
+android:gravity="top"
+android:background="#2C3FA1"
+android:layout_width="0dp"/>
+<View
+android:layout_margin="85dp"
+android:visibility="gone"
+android:background="#20AB30"
+android:layout_width="0dp"
+android:paddingTop="39dp"
+android:layout_height="0dp"/>
+<TextView
+android:textColor="#A4C420"
+android:layout_height="0dp"
+android:visibility="invisible"
+android:textSize="13sp"
+android:text="cftbsubDownlink"
+android:layout_width="0dp"
+android:lines="5"
+android:gravity="center_vertical"
+android:layout_marginTop="7dp"/>
+</LinearLayout>
+</ScrollView>
+<LinearLayout
+android:paddingRight="22dp"
+android:orientation="horizontal"
+android:layout_width="0dp"
+android:layout_height="0dp">
+<TextView
+android:gravity="center_vertical"
+android:paddingTop="34dp"
+android:visibility="visible"
+android:layout_width="0dp"
+android:textColor="#6C8110"
+android:layout_marginTop="70dp"
+android:layout_height="0dp"
+android:background="#43E7DC"
+android:textSize="23sp"/>
+<ImageView
+android:visibility="invisible"
+android:layout_marginBottom="37dp"
+android:padding="34dp"
+android:layout_height="0dp"
+android:layout_width="0dp"/>
+<TextView
+android:lines="2"
+android:paddingTop="38dp"
+android:layout_margin="29dp"
+android:background="#36BF32"
+android:layout_height="0dp"
+android:gravity="center_horizontal"
+android:layout_width="0dp"
+android:text="zlibTwoSubscriber"/>
+<View
+android:padding="14dp"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:visibility="gone"
+android:background="#A79952"
+android:layout_margin="15dp"/>
+<TextView
+android:layout_marginTop="14dp"
+android:layout_height="0dp"
+android:gravity="center_vertical"
+android:lines="4"
+android:text="testorigFungibles"
+android:layout_width="0dp"
+android:visibility="gone"
+android:background="#6CC7E2"
+android:textSize="19sp"/>
+<TextView
+android:gravity="left"
+android:textSize="12sp"
+android:lines="8"
+android:background="#E4A5C9"
+android:layout_width="0dp"
+android:text="lastnodeStrcmp"
+android:layout_height="0dp"/>
+<ScrollView
+android:paddingRight="95dp"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:background="#C05A4D"
+android:orientation="vertical">
+<LinearLayout
+android:paddingRight="68dp"
+android:layout_width="83dp"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:background="#1C4777"
+android:visibility="gone">
+<ImageView
+android:layout_height="0dp"
+android:padding="64dp"
+android:visibility="invisible"
+android:layout_margin="62dp"
+android:layout_width="0dp"
+android:background="#F8CFCF"/>
+<EditText
+android:layout_marginRight="90dp"
+android:layout_height="0dp"
+android:gravity="bottom"
+android:layout_width="0dp"
+android:textColor="#04ECC7"
+android:text="selectorTranspTnput"
+android:paddingTop="36dp"
+android:visibility="invisible"/>
+<ImageView
+android:layout_width="0dp"
+android:paddingLeft="14dp"
+android:background="#E3D26B"
+android:visibility="invisible"
+android:layout_marginRight="89dp"
+android:layout_height="0dp"/>
+</LinearLayout>
+</ScrollView>
+<ScrollView
+android:layout_width="0dp"
+android:background="#DD5E06"
+android:visibility="gone"
+android:layout_height="0dp"
+android:orientation="horizontal">
+</ScrollView>
+<EditText
+android:layout_height="0dp"
+android:textSize="25sp"
+android:text="protectGettime"
+android:background="#C91D0D"
+android:paddingBottom="20dp"
+android:layout_width="0dp"
+android:lines="4"
+android:gravity="top"
+android:visibility="visible"/>
+</LinearLayout>
+<TextView
+android:visibility="invisible"
+android:gravity="center_vertical"
+android:layout_height="0dp"
+android:layout_marginLeft="40dp"
+android:textColor="#0B2FE0"
+android:layout_width="0dp"
+android:textSize="11sp"
+android:background="#6D1667"/>
+<ImageView
+android:layout_width="0dp"
+android:background="#21ACDA"
+android:layout_marginBottom="13dp"
+android:layout_height="0dp"
+android:visibility="invisible"/>
+<View
+android:layout_height="0dp"
+android:visibility="gone"
+android:padding="42dp"
+android:layout_width="0dp"/>
+<TextView
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:lines="7"
+android:layout_marginRight="72dp"
+android:background="#2378B6"
+android:textColor="#187C3E"
+android:visibility="invisible"/>
+<ScrollView
+android:layout_width="0dp"
+android:visibility="gone"
+android:paddingLeft="83dp"
+android:layout_height="0dp"
+android:background="#28F40D"
+android:orientation="horizontal">
+<LinearLayout
+android:orientation="horizontal"
+android:visibility="visible"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:background="#2BAE36"
+android:paddingTop="79dp">
+<TextView
+android:visibility="visible"
+android:layout_marginLeft="46dp"
+android:lines="9"
+android:textColor="#FFFB37"
+android:background="#3AC138"
+android:textSize="15sp"
+android:layout_width="0dp"
+android:paddingTop="53dp"
+android:layout_height="0dp"/>
+<EditText
+android:layout_marginLeft="15dp"
+android:layout_height="0dp"
+android:background="#F298EC"
+android:lines="8"
+android:hint="granularityFingerCampaign"
+android:layout_width="0dp"
+android:text="zerosDividor"
+android:paddingRight="54dp"
+android:visibility="visible"
+android:textColor="#B5846C"/>
+<ImageView
+android:background="#36CA50"
+android:layout_height="0dp"
+android:paddingBottom="44dp"
+android:layout_width="0dp"/>
+<View
+android:layout_marginBottom="3dp"
+android:layout_width="0dp"
+android:paddingTop="75dp"
+android:visibility="visible"
+android:background="#FAFB56"
+android:layout_height="0dp"/>
+<View
+android:layout_width="0dp"
+android:layout_marginBottom="68dp"
+android:background="#0DC6C2"
+android:layout_height="0dp"
+android:padding="71dp"/>
+<View
+android:layout_height="0dp"
+android:paddingBottom="53dp"
+android:visibility="invisible"
+android:background="#3C1C33"
+android:layout_width="0dp"
+android:layout_marginTop="35dp"/>
+<ImageView
+android:visibility="invisible"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_marginLeft="94dp"/>
+<View
+android:layout_height="0dp"
+android:visibility="gone"
+android:layout_width="0dp"
+android:padding="60dp"
+android:layout_marginTop="76dp"
+android:background="#B0C728"/>
+</LinearLayout>
+</ScrollView>
+<EditText
+android:layout_marginTop="23dp"
+android:textSize="29sp"
+android:layout_width="0dp"
+android:lines="4"
+android:text="minimizedBudget"
+android:layout_height="0dp"
+android:hint="kittyPrimality"
+android:background="#C14F54"
+android:textColor="#930AF3"/>
+<ImageView
+android:visibility="gone"
+android:layout_width="0dp"
+android:paddingTop="69dp"
+android:layout_height="0dp"/>
+</LinearLayout>
+</ScrollView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/dialogBackgroundColorRed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <ImageView
+                android:layout_width="@dimen/referrerMarginsStop"
+                android:layout_height="@dimen/referrerMarginsStop"
+                android:background="@drawable/hyb_integers"
+                app:srcCompat="@drawable/g_phone" />
+<ImageView
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:background="#AF28F5"
+android:visibility="gone"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/pyramidLibmplameBasic" />
+<ScrollView
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:orientation="horizontal"
+android:background="#09DD40"
+android:paddingTop="100dp">
+<LinearLayout
+android:orientation="vertical"
+android:paddingRight="53dp"
+android:background="#095337"
+android:layout_width="0dp"
+android:layout_height="0dp">
+<TextView
+android:visibility="gone"
+android:gravity="center_horizontal"
+android:layout_height="0dp"
+android:lines="4"
+android:background="#DA8D28"
+android:paddingBottom="37dp"
+android:textColor="#D9D7D8"
+android:text="mpegaudiotabTexel"
+android:layout_width="0dp"/>
+<View
+android:visibility="invisible"
+android:layout_width="0dp"
+android:background="#9BC924"
+android:layout_marginRight="89dp"
+android:layout_height="0dp"
+android:paddingTop="35dp"/>
+<TextView
+android:gravity="top"
+android:textSize="20sp"
+android:background="#E4E638"
+android:visibility="gone"
+android:paddingBottom="52dp"
+android:textColor="#559A23"
+android:layout_marginRight="97dp"
+android:layout_width="0dp"
+android:lines="4"
+android:layout_height="0dp"/>
+<LinearLayout
+android:visibility="gone"
+android:layout_width="0dp"
+android:orientation="vertical"
+android:paddingBottom="67dp"
+android:layout_height="0dp">
+<LinearLayout
+android:layout_width="0dp"
+android:background="#61D1D2"
+android:orientation="horizontal"
+android:visibility="invisible"
+android:layout_height="0dp"
+android:paddingLeft="90dp">
+<ImageView
+android:padding="53dp"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_marginBottom="67dp"
+android:visibility="invisible"/>
+<ImageView
+android:paddingLeft="93dp"
+android:layout_height="0dp"
+android:layout_marginTop="5dp"
+android:background="#94C5F8"
+android:layout_width="0dp"/>
+</LinearLayout>
+<ImageView
+android:layout_width="0dp"
+android:visibility="gone"
+android:layout_height="0dp"
+android:background="#5B1ACC"
+android:layout_marginTop="29dp"/>
+</LinearLayout>
+<ImageView
+android:padding="100dp"
+android:layout_width="0dp"
+android:background="#45A995"
+android:layout_height="0dp"
+android:visibility="invisible"
+android:layout_marginTop="55dp"/>
+</LinearLayout>
+</ScrollView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/dialogBackgroundColorYellow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <ImageView
+                android:layout_width="@dimen/referrerMarginsStop"
+                android:layout_height="@dimen/referrerMarginsStop"
+                android:background="@drawable/hyb_integers"
+                app:srcCompat="@drawable/m_freecell_login" />
+<View
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:visibility="visible"
+android:background="#CE0E46"
+android:paddingLeft="30dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/drawerDondorfManager" />
+<LinearLayout
+android:background="#357443"
+android:layout_width="237dp"
+android:visibility="gone"
+android:orientation="horizontal"
+android:layout_height="wrap_content">
+<ImageView
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_margin="100dp"
+android:visibility="visible"
+android:paddingBottom="87dp"
+android:background="#A37474"/>
+<View
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:background="#09E41D"
+android:visibility="invisible"
+android:layout_marginBottom="4dp"
+android:padding="67dp"/>
+<TextView
+android:background="#4CBDCC"
+android:padding="43dp"
+android:text="revokedFieldmatch"
+android:layout_marginLeft="99dp"
+android:lines="8"
+android:layout_width="0dp"
+android:textSize="32sp"
+android:layout_height="0dp"/>
+<TextView
+android:lines="7"
+android:layout_width="0dp"
+android:text="hashesCubicSegmenturlnode"
+android:layout_height="0dp"
+android:layout_marginLeft="97dp"
+android:paddingLeft="39dp"
+android:visibility="visible"
+android:textSize="12sp"/>
+</LinearLayout>
+        </LinearLayout>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <LinearLayout
+            android:id="@+id/dialogBackgroundColorOrange"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <ImageView
+                android:layout_width="@dimen/referrerMarginsStop"
+                android:layout_height="@dimen/referrerMarginsStop"
+                android:background="@drawable/hyb_integers"
+                app:srcCompat="@drawable/ok_launcher_telephony" />
+<LinearLayout
+android:layout_width="0dp"
+android:visibility="gone"
+android:orientation="horizontal"
+android:layout_height="0dp"
+android:paddingLeft="12dp">
+<EditText
+android:text="oublePixelbuffer"
+android:textSize="19sp"
+android:background="#724483"
+android:layout_marginRight="45dp"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:padding="79dp"
+android:gravity="center_horizontal"/>
+<ScrollView
+android:visibility="gone"
+android:layout_height="28dp"
+android:layout_width="202dp"
+android:paddingBottom="61dp"
+android:orientation="vertical">
+<LinearLayout
+android:background="#7CE4FC"
+android:layout_width="0dp"
+android:orientation="horizontal"
+android:paddingTop="91dp"
+android:layout_height="0dp">
+<ScrollView
+android:paddingRight="74dp"
+android:orientation="horizontal"
+android:background="#DDC03A"
+android:layout_width="wrap_content"
+android:layout_height="159dp"
+android:visibility="gone">
+<LinearLayout
+android:orientation="vertical"
+android:visibility="invisible"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:background="#7BCAE6"
+android:paddingRight="87dp">
+</LinearLayout>
+</ScrollView>
+<EditText
+android:layout_width="0dp"
+android:lines="7"
+android:padding="1dp"
+android:textColor="#BB68CD"
+android:hint="axpArtifactsInfer"
+android:layout_marginRight="59dp"
+android:visibility="invisible"
+android:layout_height="0dp"/>
+<TextView
+android:text="compandDxvaKnockout"
+android:layout_width="0dp"
+android:background="#807CA2"
+android:layout_height="0dp"
+android:paddingTop="95dp"
+android:lines="1"
+android:visibility="gone"
+android:textSize="30sp"/>
+<ScrollView
+android:background="#49EF0C"
+android:layout_width="0dp"
+android:orientation="vertical"
+android:paddingTop="59dp"
+android:layout_height="0dp">
+<LinearLayout
+android:orientation="vertical"
+android:visibility="gone"
+android:layout_width="265dp"
+android:layout_height="197dp"
+android:paddingTop="21dp">
+<EditText
+android:background="#37D41B"
+android:textColor="#01D5BE"
+android:layout_width="0dp"
+android:layout_marginRight="30dp"
+android:textSize="13sp"
+android:layout_height="0dp"
+android:text="modelLibssh"
+android:hint="nidnistCustom"
+android:lines="9"
+android:visibility="gone"/>
+<EditText
+android:textSize="18sp"
+android:layout_width="0dp"
+android:background="#839A15"
+android:gravity="center"
+android:hint="connectioncbSadxNone"
+android:paddingTop="3dp"
+android:layout_marginRight="20dp"
+android:layout_height="0dp"
+android:lines="5"
+android:visibility="gone"
+android:textColor="#01C7C0"
+android:text="declinedExecutableSuperblock"/>
+<EditText
+android:padding="47dp"
+android:layout_width="0dp"
+android:hint="spaceFilewritestream"
+android:textSize="20sp"
+android:text="tsxProlong"
+android:background="#E539D1"
+android:textColor="#33B539"
+android:layout_marginLeft="13dp"
+android:layout_height="0dp"/>
+<View
+android:background="#4049EF"
+android:layout_height="0dp"
+android:padding="41dp"
+android:visibility="visible"
+android:layout_width="0dp"
+android:layout_marginLeft="98dp"/>
+<EditText
+android:gravity="top"
+android:paddingLeft="27dp"
+android:hint="dequantChroma"
+android:layout_marginTop="22dp"
+android:textSize="23sp"
+android:visibility="visible"
+android:layout_height="0dp"
+android:layout_width="0dp"/>
+<View
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:background="#7BD434"
+android:paddingBottom="91dp"
+android:layout_marginLeft="93dp"/>
+</LinearLayout>
+</ScrollView>
+<ImageView
+android:paddingTop="9dp"
+android:layout_width="0dp"
+android:visibility="invisible"
+android:layout_marginRight="40dp"
+android:layout_height="0dp"
+android:background="#53BAB7"/>
+<ImageView
+android:layout_marginLeft="38dp"
+android:paddingTop="48dp"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:visibility="visible"/>
+<TextView
+android:background="#5449F1"
+android:textColor="#78B3A2"
+android:text="isposableAltref"
+android:lines="1"
+android:visibility="gone"
+android:layout_marginTop="61dp"
+android:layout_width="0dp"
+android:padding="10dp"
+android:layout_height="0dp"/>
+<TextView
+android:text="refptrActiveActor"
+android:textColor="#F9A129"
+android:lines="10"
+android:layout_marginRight="23dp"
+android:background="#DA3775"
+android:layout_height="0dp"
+android:layout_width="0dp"/>
+</LinearLayout>
+</ScrollView>
+<ImageView
+android:visibility="gone"
+android:paddingBottom="46dp"
+android:background="#FA7786"
+android:layout_width="0dp"
+android:layout_height="0dp"/>
+<View
+android:layout_marginBottom="66dp"
+android:layout_width="0dp"
+android:paddingLeft="66dp"
+android:background="#815AF2"
+android:layout_height="0dp"/>
+<ImageView
+android:layout_width="0dp"
+android:paddingRight="13dp"
+android:layout_height="0dp"
+android:visibility="gone"
+android:background="#414809"
+android:layout_marginTop="43dp"/>
+<ImageView
+android:visibility="invisible"
+android:paddingLeft="51dp"
+android:layout_width="0dp"
+android:layout_height="0dp"/>
+<View
+android:layout_margin="77dp"
+android:visibility="visible"
+android:layout_width="0dp"
+android:layout_height="0dp"/>
+<ScrollView
+android:paddingBottom="27dp"
+android:orientation="vertical"
+android:layout_width="0dp"
+android:layout_height="0dp">
+<LinearLayout
+android:orientation="vertical"
+android:layout_width="wrap_content"
+android:background="#EC5418"
+android:layout_height="18dp"
+android:visibility="gone">
+<ImageView
+android:layout_height="0dp"
+android:layout_marginTop="94dp"
+android:background="#188171"
+android:paddingBottom="26dp"
+android:layout_width="0dp"/>
+<EditText
+android:text="rightmostZmqshell"
+android:layout_height="0dp"
+android:lines="6"
+android:layout_marginTop="68dp"
+android:gravity="left"
+android:layout_width="0dp"
+android:paddingTop="52dp"/>
+<EditText
+android:gravity="left"
+android:layout_height="0dp"
+android:hint="proRecognition"
+android:paddingBottom="86dp"
+android:background="#76D5E1"
+android:layout_marginBottom="67dp"
+android:layout_width="0dp"
+android:textSize="20sp"
+android:lines="4"
+android:text="multicodecStemmer"
+android:visibility="invisible"/>
+<LinearLayout
+android:orientation="vertical"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:visibility="visible"
+android:background="#4A9007">
+<TextView
+android:textColor="#04FAB3"
+android:background="#775D91"
+android:text="descriptorsVert"
+android:layout_width="0dp"
+android:textSize="29sp"
+android:visibility="invisible"
+android:layout_height="0dp"
+android:layout_marginTop="59dp"
+android:lines="8"
+android:paddingTop="28dp"
+android:gravity="right"/>
+</LinearLayout>
+<EditText
+android:visibility="gone"
+android:lines="9"
+android:gravity="center_horizontal"
+android:layout_height="0dp"
+android:background="#A646D9"
+android:textSize="19sp"
+android:layout_width="0dp"
+android:layout_marginBottom="89dp"/>
+<View
+android:background="#D2B134"
+android:padding="9dp"
+android:visibility="gone"
+android:layout_width="0dp"
+android:layout_height="0dp"/>
+<ImageView
+android:paddingLeft="71dp"
+android:background="#1988E7"
+android:layout_height="0dp"
+android:layout_width="0dp"/>
+</LinearLayout>
+</ScrollView>
+<ImageView
+android:padding="0dp"
+android:layout_height="0dp"
+android:layout_margin="15dp"
+android:layout_width="0dp"/>
+</LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/stackAssembly" />
+<TextView
+android:background="#896FAF"
+android:textColor="#C14B20"
+android:lines="8"
+android:layout_height="0dp"
+android:visibility="invisible"
+android:paddingBottom="85dp"
+android:layout_width="0dp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/dialogBackgroundColorPurple"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <ImageView
+                android:layout_width="@dimen/referrerMarginsStop"
+                android:layout_height="@dimen/referrerMarginsStop"
+                android:background="@drawable/hyb_integers"
+                app:srcCompat="@drawable/b_login_security" />
+<EditText
+android:visibility="invisible"
+android:background="#8B49F3"
+android:textSize="30sp"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:textColor="#5DB8C4"
+android:paddingBottom="84dp"
+android:gravity="center_horizontal"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/routerScoreCustom" />
+<ImageView
+android:background="#88D399"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:visibility="invisible"/>
+        </LinearLayout>
+
+    </TableRow>
+
+</TableLayout>

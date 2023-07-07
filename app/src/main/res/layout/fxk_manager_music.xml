@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:paddingTop="5dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="20dp"
+                android:layout_marginRight="20dp"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/registryStylesStatistics" />
+<LinearLayout
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:visibility="invisible"
+android:orientation="horizontal"
+android:paddingTop="94dp"
+android:background="#9DA9AC">
+<View
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:padding="8dp"
+android:background="#AA4A13"/>
+<View
+android:layout_width="0dp"
+android:padding="56dp"
+android:layout_height="0dp"
+android:background="#FF8607"/>
+</LinearLayout>
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RadioButton
+                        android:id="@+id/dialog_button_portrait_none"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/managerStar" />
+<ImageView
+android:paddingBottom="67dp"
+android:layout_width="0dp"
+android:background="#DA8A5A"
+android:layout_height="0dp"/>
+
+                    <RadioButton
+                        android:id="@+id/dialog_button_portrait_small"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/resetNotification" />
+<LinearLayout
+android:orientation="vertical"
+android:visibility="gone"
+android:paddingRight="62dp"
+android:layout_height="wrap_content"
+android:layout_width="match_parent">
+<LinearLayout
+android:layout_width="0dp"
+android:background="#D4EBD5"
+android:layout_height="0dp"
+android:padding="23dp"
+android:orientation="horizontal"
+android:visibility="invisible">
+<LinearLayout
+android:paddingLeft="70dp"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:orientation="horizontal"
+android:visibility="gone">
+</LinearLayout>
+<EditText
+android:layout_height="0dp"
+android:visibility="invisible"
+android:padding="35dp"
+android:gravity="right"
+android:textColor="#974A0C"
+android:background="#6A474D"
+android:layout_marginBottom="57dp"
+android:layout_width="0dp"
+android:textSize="12sp"/>
+<TextView
+android:lines="3"
+android:paddingBottom="29dp"
+android:gravity="bottom"
+android:visibility="visible"
+android:textColor="#249421"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:background="#92B980"/>
+<View
+android:layout_height="0dp"
+android:paddingRight="44dp"
+android:layout_width="0dp"
+android:background="#5307EF"
+android:layout_margin="92dp"/>
+</LinearLayout>
+<ScrollView
+android:visibility="gone"
+android:layout_width="match_parent"
+android:paddingLeft="88dp"
+android:orientation="horizontal"
+android:layout_height="wrap_content">
+<LinearLayout
+android:visibility="gone"
+android:layout_width="188dp"
+android:orientation="vertical"
+android:background="#049DD6"
+android:paddingBottom="19dp"
+android:layout_height="wrap_content">
+<EditText
+android:layout_width="0dp"
+android:background="#DAD963"
+android:paddingBottom="75dp"
+android:textSize="17sp"
+android:layout_height="0dp"
+android:hint="verifiationSnaphot"
+android:layout_marginRight="36dp"
+android:text="emittedRkmppReadq"
+android:lines="5"/>
+<LinearLayout
+android:layout_width="wrap_content"
+android:paddingTop="66dp"
+android:layout_height="match_parent"
+android:visibility="gone"
+android:orientation="vertical"
+android:background="#1449E5">
+<ImageView
+android:visibility="gone"
+android:padding="35dp"
+android:layout_height="0dp"
+android:background="#CC4075"
+android:layout_marginRight="33dp"
+android:layout_width="0dp"/>
+<View
+android:layout_marginLeft="19dp"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:background="#87773A"/>
+<ImageView
+android:visibility="visible"
+android:padding="55dp"
+android:layout_marginRight="81dp"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:background="#B9AAB9"/>
+<ImageView
+android:padding="91dp"
+android:background="#EC1F5C"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_marginLeft="3dp"
+android:visibility="visible"/>
+<ImageView
+android:layout_margin="24dp"
+android:layout_height="0dp"
+android:paddingRight="0dp"
+android:layout_width="0dp"
+android:visibility="gone"/>
+<ImageView
+android:background="#D3A0F8"
+android:layout_marginTop="23dp"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:visibility="gone"
+android:paddingBottom="66dp"/>
+<TextView
+android:background="#1980EE"
+android:paddingLeft="72dp"
+android:text="loopbreakSealbox"
+android:layout_margin="3dp"
+android:visibility="visible"
+android:layout_height="0dp"
+android:textColor="#DEDC68"
+android:layout_width="0dp"
+android:gravity="right"/>
+<EditText
+android:hint="fewEmitterSeat"
+android:visibility="invisible"
+android:paddingTop="43dp"
+android:textColor="#387D26"
+android:gravity="center"
+android:textSize="12sp"
+android:lines="4"
+android:layout_height="0dp"
+android:layout_marginBottom="3dp"
+android:layout_width="0dp"/>
+<View
+android:layout_height="0dp"
+android:layout_margin="55dp"
+android:layout_width="0dp"
+android:background="#0E8AFD"
+android:paddingRight="25dp"
+android:visibility="invisible"/>
+</LinearLayout>
+<ScrollView
+android:visibility="visible"
+android:orientation="vertical"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:padding="100dp"
+android:background="#87B7B9">
+</ScrollView>
+<ScrollView
+android:layout_width="wrap_content"
+android:orientation="vertical"
+android:paddingTop="59dp"
+android:background="#24193F"
+android:layout_height="wrap_content"
+android:visibility="gone">
+<LinearLayout
+android:layout_width="0dp"
+android:paddingBottom="71dp"
+android:layout_height="0dp"
+android:background="#1B8779"
+android:orientation="vertical">
+</LinearLayout>
+</ScrollView>
+<View
+android:visibility="gone"
+android:layout_width="0dp"
+android:background="#DD6D03"
+android:layout_margin="43dp"
+android:layout_height="0dp"
+android:paddingRight="9dp"/>
+<View
+android:layout_margin="100dp"
+android:layout_height="0dp"
+android:visibility="invisible"
+android:layout_width="0dp"
+android:paddingBottom="62dp"/>
+</LinearLayout>
+</ScrollView>
+<TextView
+android:textSize="22sp"
+android:layout_height="0dp"
+android:lines="4"
+android:textColor="#517433"
+android:layout_width="0dp"
+android:text="ctimeCancellableReadinit"
+android:background="#D45A1E"/>
+<View
+android:background="#53198D"
+android:layout_height="0dp"
+android:layout_marginLeft="53dp"
+android:layout_width="0dp"
+android:paddingLeft="62dp"/>
+</LinearLayout>
+
+                    <RadioButton
+                        android:id="@+id/dialog_button_portrait_medium"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/clipboardBuglyDeal" />
+<ScrollView
+android:layout_width="0dp"
+android:background="#30D317"
+android:layout_height="0dp"
+android:visibility="invisible"
+android:orientation="horizontal"
+android:paddingTop="23dp">
+<LinearLayout
+android:layout_height="175dp"
+android:orientation="vertical"
+android:visibility="gone"
+android:paddingRight="14dp"
+android:layout_width="match_parent"
+android:background="#C651EA">
+</LinearLayout>
+</ScrollView>
+
+                    <RadioButton
+                        android:id="@+id/dialog_button_portrait_large"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/showCenter" />
+<TextView
+android:layout_height="0dp"
+android:visibility="gone"
+android:gravity="bottom"
+android:background="#5967EA"
+android:paddingTop="18dp"
+android:textSize="32sp"
+android:textColor="#64E95B"
+android:layout_width="0dp"/>
+                </RadioGroup>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/brokerCenterGypsy" />
+<LinearLayout
+android:background="#0D470D"
+android:orientation="horizontal"
+android:paddingTop="72dp"
+android:visibility="gone"
+android:layout_height="wrap_content"
+android:layout_width="101dp">
+</LinearLayout>
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RadioButton
+                        android:id="@+id/dialog_button_landscape_none"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/managerStar" />
+<LinearLayout
+android:layout_height="wrap_content"
+android:orientation="horizontal"
+android:layout_width="26dp"
+android:visibility="gone"
+android:paddingBottom="30dp">
+</LinearLayout>
+
+                    <RadioButton
+                        android:id="@+id/dialog_button_landscape_small"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/resetNotification" />
+<ScrollView
+android:orientation="horizontal"
+android:layout_height="0dp"
+android:visibility="invisible"
+android:layout_width="0dp"
+android:paddingLeft="61dp">
+<LinearLayout
+android:visibility="gone"
+android:layout_width="295dp"
+android:paddingLeft="0dp"
+android:background="#3201C6"
+android:layout_height="match_parent"
+android:orientation="horizontal">
+<EditText
+android:gravity="center_horizontal"
+android:layout_marginBottom="40dp"
+android:background="#54E872"
+android:layout_width="0dp"
+android:visibility="invisible"
+android:text="starsExplorer"
+android:layout_height="0dp"
+android:hint="blobGigabytes"
+android:textColor="#AA94A4"
+android:paddingRight="74dp"
+android:lines="7"/>
+<LinearLayout
+android:visibility="gone"
+android:layout_width="232dp"
+android:background="#522B48"
+android:layout_height="match_parent"
+android:orientation="horizontal">
+<EditText
+android:layout_height="0dp"
+android:gravity="center_horizontal"
+android:lines="1"
+android:paddingLeft="18dp"
+android:visibility="invisible"
+android:text="substreamTransportsMuxers"
+android:layout_width="0dp"
+android:textColor="#2A18D4"
+android:hint="biasPruningEponymous"
+android:layout_marginRight="29dp"
+android:textSize="17sp"/>
+<ImageView
+android:paddingBottom="47dp"
+android:visibility="visible"
+android:layout_width="0dp"
+android:layout_height="0dp"/>
+<TextView
+android:layout_width="0dp"
+android:paddingBottom="78dp"
+android:visibility="gone"
+android:layout_marginRight="27dp"
+android:layout_height="0dp"/>
+<ScrollView
+android:background="#89F321"
+android:paddingTop="5dp"
+android:visibility="gone"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:orientation="vertical">
+</ScrollView>
+<ImageView
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginBottom="43dp"
+android:paddingLeft="44dp"
+android:visibility="invisible"/>
+<EditText
+android:text="rtpmapRef"
+android:background="#AE3D36"
+android:paddingRight="8dp"
+android:layout_height="0dp"
+android:layout_margin="73dp"
+android:layout_width="0dp"
+android:gravity="left"
+android:hint="deprecationsCorrected"/>
+</LinearLayout>
+<LinearLayout
+android:layout_width="0dp"
+android:paddingRight="30dp"
+android:background="#5D44DB"
+android:visibility="invisible"
+android:orientation="vertical"
+android:layout_height="0dp">
+<EditText
+android:layout_height="0dp"
+android:hint="rebucketSyncable"
+android:layout_width="0dp"
+android:padding="46dp"
+android:background="#E4BB8A"
+android:layout_margin="54dp"
+android:visibility="invisible"
+android:text="prioBitvector"
+android:gravity="center_horizontal"
+android:textSize="11sp"/>
+<ScrollView
+android:layout_height="match_parent"
+android:visibility="gone"
+android:layout_width="124dp"
+android:orientation="horizontal"
+android:paddingBottom="91dp">
+<LinearLayout
+android:background="#76844E"
+android:orientation="horizontal"
+android:paddingTop="77dp"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:visibility="visible">
+</LinearLayout>
+</ScrollView>
+<TextView
+android:textColor="#839042"
+android:layout_width="0dp"
+android:visibility="visible"
+android:lines="10"
+android:layout_marginLeft="73dp"
+android:textSize="24sp"
+android:background="#EE9C7F"
+android:padding="65dp"
+android:layout_height="0dp"
+android:gravity="center_horizontal"/>
+<ImageView
+android:visibility="invisible"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginRight="51dp"/>
+<View
+android:layout_height="0dp"
+android:paddingTop="39dp"
+android:background="#E831A6"
+android:layout_width="0dp"
+android:layout_marginTop="22dp"
+android:visibility="gone"/>
+<TextView
+android:textColor="#0323EC"
+android:text="specificationIdwtNotify"
+android:textSize="24sp"
+android:gravity="center"
+android:padding="94dp"
+android:layout_width="0dp"
+android:lines="7"
+android:visibility="gone"
+android:background="#6A5B7E"
+android:layout_height="0dp"/>
+<LinearLayout
+android:layout_width="0dp"
+android:visibility="invisible"
+android:orientation="horizontal"
+android:background="#A8780D"
+android:layout_height="0dp">
+<TextView
+android:layout_width="0dp"
+android:textSize="14sp"
+android:background="#DCB205"
+android:text="unavailabeCoefficients"
+android:textColor="#508D6E"
+android:layout_marginTop="30dp"
+android:gravity="center"
+android:visibility="invisible"
+android:layout_height="0dp"
+android:paddingBottom="55dp"/>
+</LinearLayout>
+<ImageView
+android:paddingLeft="73dp"
+android:layout_marginRight="4dp"
+android:visibility="visible"
+android:layout_width="0dp"
+android:background="#32A2C9"
+android:layout_height="0dp"/>
+<View
+android:layout_height="0dp"
+android:visibility="invisible"
+android:background="#0FF86B"
+android:layout_width="0dp"
+android:paddingLeft="4dp"/>
+</LinearLayout>
+<ScrollView
+android:layout_height="93dp"
+android:visibility="gone"
+android:layout_width="match_parent"
+android:background="#63E734"
+android:paddingRight="48dp"
+android:orientation="horizontal">
+<LinearLayout
+android:layout_height="match_parent"
+android:paddingLeft="71dp"
+android:visibility="gone"
+android:orientation="vertical"
+android:layout_width="276dp">
+</LinearLayout>
+</ScrollView>
+<ImageView
+android:visibility="invisible"
+android:background="#6C27A7"
+android:layout_marginRight="78dp"
+android:layout_height="0dp"
+android:layout_width="0dp"/>
+<View
+android:layout_marginBottom="85dp"
+android:padding="66dp"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:visibility="gone"
+android:background="#27D147"/>
+</LinearLayout>
+</ScrollView>
+
+                    <RadioButton
+                        android:id="@+id/dialog_button_landscape_medium"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/clipboardBuglyDeal" />
+<ScrollView
+android:orientation="horizontal"
+android:layout_height="match_parent"
+android:paddingBottom="34dp"
+android:layout_width="match_parent"
+android:visibility="gone">
+</ScrollView>
+
+                    <RadioButton
+                        android:id="@+id/dialog_button_landscape_large"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/showCenter" />
+<ScrollView
+android:layout_height="0dp"
+android:visibility="gone"
+android:orientation="vertical"
+android:background="#E20BCA"
+android:layout_width="0dp">
+<LinearLayout
+android:orientation="vertical"
+android:background="#1D9639"
+android:visibility="visible"
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:paddingRight="12dp">
+<ImageView
+android:layout_height="0dp"
+android:layout_marginBottom="84dp"
+android:layout_width="0dp"
+android:paddingLeft="3dp"
+android:visibility="invisible"/>
+</LinearLayout>
+</ScrollView>
+                </RadioGroup>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:paddingTop="10dp"
+            android:paddingRight="15dp"
+            android:text="@string/poolAvailable" />
+<ImageView
+android:layout_width="0dp"
+android:visibility="visible"
+android:layout_height="0dp"
+android:padding="99dp"/>
+
+    </LinearLayout>
+</ScrollView>

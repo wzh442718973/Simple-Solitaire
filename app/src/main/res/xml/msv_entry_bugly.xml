@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/wifiImpl">
+
+        <com.ardently.love.delightgame.classes.LRStacks
+            android:defaultValue="1"
+            android:entries="@array/pref_spider_difficulty_titles"
+            android:entryValues="@array/pref_spider_difficulty_values"
+            android:key="@string/pref_key_spider_difficulty"
+            android:negativeButtonText="@string/billingTaskMoves"
+            android:positiveButtonText="@null"
+            android:summary="%s"
+            android:title="@string/loginCardMoves" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

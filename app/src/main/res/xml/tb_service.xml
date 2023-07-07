@@ -1,0 +1,39 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="@bool/default_sound_enabled"
+        android:key="@string/pref_key_sound_enabled"
+        android:title="@string/fileNapoleons" />
+
+    <com.ardently.love.delightgame.classes.LRStacks
+        android:defaultValue="@string/default_win_sound"
+        android:dependency="@string/pref_key_sound_enabled"
+        android:entries="@array/pref_win_sounds_titles"
+        android:entryValues="@array/pref_win_sounds_values"
+        android:key="@string/pref_key_win_sound"
+        android:negativeButtonText="@string/billingTaskMoves"
+        android:positiveButtonText="@null"
+        android:summary="%s"
+        android:title="@string/dondorfAccountAmount" />
+
+    <com.ardently.love.delightgame.classes.LRStacks
+        android:defaultValue="@string/default_background_music"
+        android:dependency="@string/pref_key_sound_enabled"
+        android:entries="@array/pref_background_musics_titles"
+        android:entryValues="@array/pref_background_music_values"
+        android:key="@string/pref_key_background_music"
+        android:negativeButtonText="@string/billingTaskMoves"
+        android:positiveButtonText="@null"
+        android:summary="%s"
+        android:title="@string/timerMatch" />
+
+    <com.ardently.love.delightgame.dialogs.RBackgroundsSounds
+        android:dependency="@string/pref_key_sound_enabled"
+        android:key="@string/pref_key_background_volume"
+        android:negativeButtonText="@string/billingTaskMoves"
+        android:positiveButtonText="@string/poolTaskCustomize"
+        android:summary=""
+        android:title="@string/libcocosdjsConstructorYukon" />
+
+
+</PreferenceScreen>

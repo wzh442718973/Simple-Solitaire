@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference android:summary="@string/dondorfBluePeaks" />
+
+    <com.ardently.love.delightgame.classes.LRStacks
+        android:defaultValue="0"
+        android:entries="@array/pref_developer_option_deal_correct_sequences_titles"
+        android:entryValues="@array/pref_developer_option_deal_correct_sequences_values"
+        android:key="@string/pref_key_developer_option_deal_correct_sequences"
+        android:negativeButtonText="@string/billingTaskMoves"
+        android:positiveButtonText="@null"
+        android:summary="%s"
+        android:title="@string/launcherNumber" />
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="@bool/default_developer_option_move_cards_everywhere"
+        android:key="@string/pref_key_developer_option_move_cards_everywhere"
+        android:summary="@string/register__OxygenLibcocosdjs"
+        android:title="@string/gameFreecellHeaders" />
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="@bool/default_developer_option_play_every_card"
+        android:key="@string/pref_key_developer_option_play_every_card"
+        android:summary="@string/compatTime_bb"
+        android:title="@string/classicBooleansDownload" />
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="@bool/default_developer_option_instant_win"
+        android:key="@string/pref_key_developer_option_instant_win"
+        android:summary="@string/backgroundsDummyLauncher"
+        android:title="@string/buildLocaleBugly" />
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="@bool/default_developer_option_no_saving"
+        android:key="@string/pref_key_developer_option_no_saving"
+        android:summary="@string/cardsBlueScore"
+        android:title="@string/libjcoreAudioData" />
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="@bool/default_improve_auto_move"
+        android:key="@string/pref_key_improve_auto_move"
+        android:summary="@string/dynamic_aRouter"
+        android:title="@string/colorGradlew" />
+
+</PreferenceScreen>

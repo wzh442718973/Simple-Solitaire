@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_version">"Wersja"</string>
-<string name="settings">"Ustawienia"</string>
-<string name="game_manual">"Podręcznik"</string>
-<string name="game_score">"Punkty"</string>
-<string name="game_time">"Czas"</string>
-<string name="game_cancel">"Anuluj"</string>
-<string name="game_confirm">"Potwierdź"</string>
-<string name="game_auto_complete_text">"Autouzupełnianie"</string>
-<string name="game_press_again">"Naciśnij ponownie aby wyjść"</string>
-<string name="game_load_error">"Wczytywanie danych nie powiodło się, zaczynam nową grę…"</string>
-<string name="game_close">"Zamknij grę"</string>
-<string name="game_main_menu">"Menu główne"</string>
-<string name="item_game_rules">"Zasady gry"</string>
-<string name="item_return_to_main_menu">"Powrót do menu głównego"</string>
+<string name="purpleInput">"Wersja"</string>
+<string name="gypsyPreviews">"Ustawienia"</string>
+<string name="moveShared">"Podręcznik"</string>
+<string name="backgroundsFortyMove">"Punkty"</string>
+<string name="starThis_5r">"Czas"</string>
+<string name="billingTaskMoves">"Anuluj"</string>
+<string name="poolTaskCustomize">"Potwierdź"</string>
+<string name="serviceExpertVolume">"Autouzupełnianie"</string>
+<string name="mainBorderAces">"Naciśnij ponownie aby wyjść"</string>
+<string name="phoneReferrerOxygen">"Wczytywanie danych nie powiodło się, zaczynam nową grę…"</string>
+<string name="sensorPurple">"Zamknij grę"</string>
+<string name="libmplameIntent">"Menu główne"</string>
+<string name="leftEntry">"Zasady gry"</string>
+<string name="tombDummy">"Powrót do menu głównego"</string>
 
 <!-- Menu -->
-<string name="menu_undo">"Cofnij"</string>
-<string name="menu_main_menu">"Menu"</string>
-<string name="menu_settings">"Ustawienia"</string>
+<string name="rulesMoves">"Cofnij"</string>
+<string name="eightEncryption">"Menu"</string>
+<string name="animationFrom">"Ustawienia"</string>
 
 <!-- game names 
 
      - if you want to translate names and a name gets very long, use spaces, so they can be displayed
      - in two rows in the main menu. But eg. GrandfathersClock is still short enough to display it in
      - a single line -->
-<string name="games_Klondike">"Klondike"</string>
-<string name="games_Freecell">"FreeCell"</string>
-<string name="games_Yukon">"Jukon"</string>
-<string name="games_Spider">"Pająk"</string>
-<string name="games_SimpleSimon">"Simple Simon"</string>
-<string name="games_Golf">"Golf"</string>
-<string name="games_Pyramid">"Piramida"</string>
-<string name="games_TriPeaks">"TrzyWieże"</string>
-<string name="games_FortyEight">"Czterdzieści &amp; Osiem"</string>
-<string name="games_AcesUp">"Cztery Asy"</string>
-<string name="games_Gypsy">"Cygan"</string>
-<string name="games_mod3">"Mod3"</string>
-<string name="games_Canfield">"Canfield"</string>
-<string name="games_GrandfathersClock">"Zegarek Dziadka"</string>
-<string name="games_Vegas">"Vegas"</string>
-<string name="games_Calculation">"Calculation"</string>
+<string name="informationMazeTrack">"Klondike"</string>
+<string name="previewDummyMaze">"FreeCell"</string>
+<string name="compatAuto_moStrings">"Jukon"</string>
+<string name="networkCalculation">"Pająk"</string>
+<string name="cardAces">"Simple Simon"</string>
+<string name="settingsRouterMusic">"Golf"</string>
+<string name="availableDark">"Piramida"</string>
+<string name="bitmapsStrings">"TrzyWieże"</string>
+<string name="aboutNews">"Czterdzieści &amp; Osiem"</string>
+<string name="layoutClipboardGrandfathers">"Cztery Asy"</string>
+<string name="sharedListPref">"Cygan"</string>
+<string name="movementOrangeVolume">"Mod3"</string>
+<string name="eightServiceCard">"Canfield"</string>
+<string name="resizingMatch">"Zegarek Dziadka"</string>
+<string name="local_1lRight">"Vegas"</string>
+<string name="abstract_h6Available">"Calculation"</string>
 
 <!-- colors -->
-<string name="blue">"Niebieski"</string>
-<string name="green">"Zielony"</string>
-<string name="red">"Czerwony"</string>
-<string name="yellow">"Żółty"</string>
-<string name="orange">"Pomarańczowy"</string>
-<string name="purple">"Purpurowy"</string>
+<string name="dialogShared">"Niebieski"</string>
+<string name="scoreModern">"Zielony"</string>
+<string name="pyramidLibmplameBasic">"Czerwony"</string>
+<string name="drawerDondorfManager">"Żółty"</string>
+<string name="stackAssembly">"Pomarańczowy"</string>
+<string name="routerScoreCustom">"Purpurowy"</string>
 
 <!-- game stuff -->
-<string name="game_longest_run">"Najdłuższa seria:"</string>
+<string name="dataUndo">"Najdłuższa seria:"</string>
 
 <!-- dialog won -->
-<string name="dialog_win_titel">"Gratulacje!"</string>
-<string name="dialog_win_score">"Punkty: %1$d"</string>
-<string name="dialog_win_bonus">"Premia: %1$d"</string>
-<string name="dialog_win_total">"Ogółem: %1$d"</string>
+<string name="centerBase">"Gratulacje!"</string>
+<string name="activtyChangerMoving">"Punkty: %1$d"</string>
+<string name="sessionHeaderImage">"Premia: %1$d"</string>
+<string name="volumeSpiderTabs">"Ogółem: %1$d"</string>
 
 <!-- dialog mix cards -->
-<string name="dialog_mix_cards_title">"Tasuj karty"</string>
-<string name="dialog_mix_cards_text">"Spowoduje to przetasowanie wszystkich kart, oczekuj kart w poprawnej kolejności i kart na stosach bazowych."</string>
-<string name="dialog_mix_cards_not_available">"Nadal możliwe są ruchy!"</string>
+<string name="gypsyClose">"Tasuj karty"</string>
+<string name="homeBottomLoad">"Spowoduje to przetasowanie wszystkich kart, oczekuj kart w poprawnej kolejności i kart na stosach bazowych."</string>
+<string name="baseAnimationRules">"Nadal możliwe są ruchy!"</string>
 
 <!-- dialog start new game -->
-<string name="dialog_start_new_game_title">"Rozpocznij nową grę"</string>
-<string name="dialog_start_new_game_text">"Twój bieżący postęp zostanie utracony i zostanie rozegrana nowa losowa gra."</string>
+<string name="brokerUsageLogic">"Rozpocznij nową grę"</string>
+<string name="clockModernStar">"Twój bieżący postęp zostanie utracony i zostanie rozegrana nowa losowa gra."</string>
 
 <!-- dialog redeal -->
-<string name="dialog_redeal_title">"Ponownie rozdaj karty"</string>
-<string name="dialog_redeal_text">"Twój bieżący postęp zostanie utracony, ale karty zostaną rozdane tak jak w bieżącej grze."</string>
+<string name="managerBuildPoker">"Ponownie rozdaj karty"</string>
+<string name="blueReferrer">"Twój bieżący postęp zostanie utracony, ale karty zostaną rozdane tak jak w bieżącej grze."</string>
 
 <!-- If you want to help with translations, please use this site: https://poeditor.com/join/project/PYX4vcwTjA -->
-<string name="title_activity_manual">"Podręcznik"</string>
-<string name="title_activity_settings">"Ustawienia"</string>
-<string name="title_activity_about">"O grze"</string>
-<string name="title_activity_statistics">"Statystyka"</string>
+<string name="local_ecFade">"Podręcznik"</string>
+<string name="newsRulesCenter">"Ustawienia"</string>
+<string name="movingLoadRely">"O grze"</string>
+<string name="stylesLockFrom">"Statystyka"</string>
 
 <!-- About activity -->
 
@@ -115,201 +115,201 @@
 
 
 
-<string name="page_load_error">"Strona tej gry nie jest dostępna…"</string>
+<string name="activtyPackBuild">"Strona tej gry nie jest dostępna…"</string>
 
 
 
 
 
 <!-- Settings -->
-<string name="settings_background_color">"Kolor tła"</string>
-<string name="settings_hide_status_bar">"Ukryj pasek stanu"</string>
-<string name="settings_left_handed_mode">"Tryb dla leworęcznych"</string>
-<string name="settings_left_handed_mode_description">"Odwraca pozycje kart i stosów do lewej strony"</string>
-<string name="settings_back_press">"Potwierdź zamykanie gry"</string>
-<string name="settings_back_press_description">"Naciśnij przycisk wstecz dwukrotnie, aby wyjść z gry"</string>
-<string name="settings_orientation">"Orientacja ekranu"</string>
-<string name="settings_cards">"Karty"</string>
-<string name="settings_classic">"Klasyczne"</string>
-<string name="settings_simple">"Proste"</string>
-<string name="settings_cards_back">"Koszulki kart"</string>
-<string name="settings_modern">"Nowoczesne"</string>
-<string name="settings_abstract">"Abstrakcyjne"</string>
-<string name="settings_basic">"Zwykłe"</string>
-<string name="settings_oxygen_dark">"Oxygen Ciemny"</string>
-<string name="settings_oxygen_light">"Oxygen Jasny"</string>
-<string name="settings_poker">"Poker"</string>
-<string name="settings_background">"Koszulka numer"</string>
-<string name="settings_customization">"Wygląd"</string>
-<string name="settings_other">"Ogólne"</string>
-<string name="settings_other_description">"Dostosuj wszystkie inne opcje"</string>
-<string name="settings_games">"Gry"</string>
-<string name="settings_games_description">"Dostosuj opcje wariantów gier"</string>
-<string name="settings_spider_difficulty">"Liczba kolorów kart"</string>
-<string name="settings_klondike_draw">"Po ile kart rozdawać"</string>
-<string name="settings_canfield_draw">"Po ile kart rozdawać"</string>
-<string name="settings_show_main_menu">"Rozpocznij w menu głównym"</string>
-<string name="settings_show_main_menu_description">"Nie przechodź do ostatnio otwartej gry przy starcie"</string>
-<string name="settings_golf_easy">"Cykliczne ruchy (łatwiejsze)"</string>
-<string name="settings_golf_easy_description">"Zezwól kłaść asy na króli i odwrotnie"</string>
-<string name="settings_menu">"Menu główne"</string>
-<string name="settings_menu_description">"Zmień liczbę kolumn, pokaż i ukryj gry"</string>
-<string name="settings_pyramid_difficulty">"Trudność"</string>
-<string name="settings_menu_columns">"Liczba kolumn"</string>
-<string name="settings_menu_games">"Pokaż i ukryj gry"</string>
-<string name="settings_menu_games_description">"Wybierz które gry mają być widoczne w menu"</string>
-<string name="settings_about_description">"Pokaż informacje o grze takie jak licencja i lista zmian"</string>
-<string name="settings_change_language">"Zmień język"</string>
-<string name="settings_yukon_rules">"Kładź karty na…"</string>
-<string name="settings_icon_theme">"Temat ikon"</string>
-<string name="settings_menu_bar_position">"Pozycja paska menu"</string>
-<string name="settings_menu_bar_position_top">"Góra"</string>
-<string name="settings_menu_bar_position_bottom">"Dół"</string>
-<string name="settings_menu_bar_position_left">"Lewo"</string>
-<string name="settings_menu_bar_position_right">"Prawo"</string>
-<string name="settings_4_color_mode_title">"4 kolory kart"</string>
-<string name="settings_4_color_mode_text">"Pokoloruj trefle na zielono i karo na niebiesko"</string>
-<string name="settings_additional_movements">"Dodatkowe ruchy kart"</string>
-<string name="settings_additional_movements_description">"Włącza lub wyłącza podwójne stuknięcia i inne ruchy"</string>
-<string name="settings_double_tap">"Podwójne stuknięcie"</string>
-<string name="settings_double_tap_enable">"Włącz ruchy przy podwójnym stuknięciu"</string>
-<string name="settings_double_tap_enable_text">"Podwójnie stuknij w kartę, aby przenieść ją na najbliższy możliwy stos"</string>
-<string name="settings_double_tap_all_cards">"Przenoś wszystkie możliwe karty"</string>
-<string name="settings_double_tap_all_cards_text">"Przenoś jak najwięcej kart ze stosu, nie tylko dotykaną kartę"</string>
-<string name="settings_tap_to_select">"Wybierz przez stuknięcie"</string>
-<string name="settings_tap_to_select_enable">"Włącz możliwość wyboru karty poprzez stuknięcie"</string>
-<string name="settings_tap_to_select_enable_text">"Stuknij w kartę, aby ją wybrać, a następnie stuknij w stos docelowy, aby ją tam przenieść"</string>
-<string name="settings_single_tap">"Pojedyncze stuknięcie"</string>
-<string name="settings_single_tap_enable_text">"Tylko w grach Golf i TrzyWieże: stuknij pojedynczo w kartę, aby przenieść ją na stos odrzutów"</string>
-<string name="settings_double_tap_foundation_first">"Przenieś najpierw na stos bazowy"</string>
-<string name="settings_double_tap_foundation_first_text">"Próbuj przenieś górną kartę z dotykanego stosu na stos bazowy przed przeniesieniem innych kart"</string>
-<string name="settings_movement_speed">"Szybkość przenoszenia kart"</string>
-<string name="Settings_sound">"Włącz dźwięki w grze"</string>
-<string name="Settings_sounds_title">"Dźwięki"</string>
-<string name="Settings_sounds_text">"Włącz dźwięki, ustaw różne efekty dźwiękowe"</string>
-<string name="Settings_win_sound_title">"Dźwięk wygranej"</string>
-<string name="Settings_background_music">"Muzyka w tle"</string>
-<string name="settings_background_color_custom">"Własny"</string>
-<string name="Settings_background_volume">"Głośność muzyki w tle"</string>
-<string name="settings_limit_number_of_recycles">"Ogranicz liczbę ponownych rozdań"</string>
-<string name="settings_limit_number_of_recycles_text">"Ogranicz możliwość ponownego wykorzystania kart ze stosu odrzutów"</string>
-<string name="settings_number_of_recycles">"Liczba ponownych rozdań"</string>
-<string name="settings_vegas_bet_amount">"Kwota zakładu"</string>
-<string name="settings_menu_order_title">"Kolejność menu"</string>
-<string name="settings_menu_order_summary">"Stuknij i przytrzymaj wpis, a następnie przeciągnij i upuść go w żądane miejsce"</string>
-<string name="settings_menu_order_set_default">"Domyślny układ"</string>
-<string name="settings_auto_start_new_game_title">"Rozpocznij nową grę po wygranej"</string>
-<string name="settings_auto_start_new_game_text">"Po powrocie do właśnie wygranej gry, automatycznie rozpoczynaj nową grę"</string>
-<string name="settings_customization_description">"Dostosuj karty, tła i interfejs użytkownika"</string>
-<string name="settings_force_tablet_layout_title">"Wymuś tryb tabletu"</string>
-<string name="settings_force_tablet_layout_text">"Wyświetl aplikację tak jak na dużych ekranach (≥7\")"</string>
-<string name="settings_calculation_alternative_title">"Trzymaj karty"</string>
-<string name="settings_calculation_alternative_text">"Po stuknięciu w stos główny: zamiast przeniesienia karty ze stosu odrzutów na stos gry, zatrzymaj ją na stosu odrzutów."</string>
-<string name="settings_vegas_money_enabled">"Zapamiętaj stan konta"</string>
-<string name="settings_vegas_money_enabled_text">"Stan konta nie będzie kasowany pomiędzy ponownymi rozdaniami gry Vegas, ale będziesz musiał zresetować stan i rozpocząć nową grę, aby zapisać najlepszy wynik"</string>
-<string name="settings_vegas_money_reset">"Resetuj stan konta"</string>
-<string name="settings_vegas_money_reset_text">"Następne rozdanie gry Vegas rozpoczniesz z 0$"</string>
-<string name="settings_vegas_money_reset_confirm">"Czy na pewno chcesz zresetować stan konta? Jest to nieodwracalne."</string>
-<string name="settings_auto_move_title">"Automatyczne ruchy"</string>
-<string name="settings_mod3_auto_move_text">"Automatycznie przenoś asy na stos odrzutów, kiedy jest to możliwe"</string>
-<string name="settings_pyramid_auto_move_text">"Automatycznie przenoś króli na stos śmieciowy, kiedy jest to możliwe"</string>
-<string name="settings_rules">"Zasady"</string>
-<string name="settings_money">"Kasa"</string>
-<string name="settings_support">"Wsparcie"</string>
-<string name="settings_hide_time">"Ukryj czas"</string>
-<string name="settings_hide_score">"Ukryj punktację"</string>
-<string name="settings_single_tap_enable">"Włącz ruchy przy pojedynczym stuknięciu"</string>
-<string name="settings_vegas_bet_amount_text_1">"Za pierwsze rozdanie kart płacisz:"</string>
-<string name="settings_vegas_bet_amount_text_2">"Za przeniesienie każdej karty na stos bazowy dostajesz:"</string>
-<string name="settings_vegas_bet_amount_summary">"Rozdanie -%1$d$, wrzucenie karty: +%2$d$"</string>
-<string name="settings_single_tap_all_games_text">"Stuknij pojedynczo w kartę, aby przenieść ją na następny możliwy stos. Ustawienie takie same jak ruchów podwójnych. Wyłączone zostaną ruchy „wybierz przez stuknięcie”."</string>
-<string name="settings_canfield_size_of_reserve_title">"Zmień wielkość stosu rezerwowego (łatwiej)"</string>
-<string name="settings_use_true_randomisation_title">"Stosowanie prawdziwej losowości"</string>
-<string name="settings_use_true_randomisation_text">"Domyślna losowość pozwala uniknąć podobnych kart obok siebie. Zaznacz tę opcję, aby zastosować prawdziwą losowość."</string>
-<string name="settings_developer_options">"Opcje deweloperskie"</string>
-<string name="settings_developer_options_description">"Pobaw się naprawdę szalonymi ustawieniami!"</string>
-<string name="settings_developer_options_move_card_everwhere_title">"Przenieś karty wszędzie"</string>
-<string name="settings_developer_options_move_card_everwhere_text">"Karty można umieszczać na dowolnym stosie"</string>
-<string name="settings_developer_options_lock_text">"Ustawienia te są przeznaczone wyłącznie do celów testowych, użycie może powodować dziwne zachowania i awarie!"</string>
-<string name="settings_developer_options_play_every_card_title">"Graj każdą kartą"</string>
-<string name="settings_developer_options_play_every_card_text">"Można grać każdą odkrytą kartą"</string>
-<string name="settings_developer_options_instant_win_title">"Natychmiastowe zwycięstwo"</string>
-<string name="settings_developer_options_instant_win_text">"Wygraj każdą grę po przeniesieniu karty"</string>
-<string name="settings_developer_options_no_saving_title">"Wyłączenie zapisywania stanu gry"</string>
-<string name="settings_developer_options_no_saving_text">"Ruchy w grze nie będą już zapisywane"</string>
-<string name="settings_developer_options_deal_correct_sequences_title">"Rozdaj w kolejności końcowej"</string>
-<string name="settings_max_number_undos">"Maksymalna liczba cofnięć"</string>
-<string name="settings_expert_settings">"Ustawienia specjalistyczne"</string>
-<string name="settings_expert_settings_text">"Może być przydatna dla niektórych ludzi"</string>
-<string name="settings_follow_system_settings">"Ustawienia systemu"</string>
-<string name="settings_portrait">"Pionowo"</string>
-<string name="settings_landscape">"Poziomo"</string>
-<string name="settings_landscape_upside_down">"Pozioma do góry nogami"</string>
-<string name="settings_spider_difficultiy_1">"1 (łatwy)"</string>
-<string name="settings_spider_difficultiy_2">"2 (średni)"</string>
-<string name="settings_spider_difficultiy_3">"4 (trudny)"</string>
-<string name="settings_draw_1">"Rozdaj 1"</string>
-<string name="settings_draw_3">"Rozdaj 3"</string>
-<string name="settings_pyramid_difficulty_1">"Łatwy: gra jest wygrana gdy pole gry jest puste"</string>
-<string name="settings_pyramid_difficulty_2">"Trudny: gra jest wygrana gdy pole gry i stos są puste"</string>
-<string name="settings_language_default">"Domyślny"</string>
-<string name="settings_language_english">"Angielski"</string>
-<string name="settings_language_esperanto">"Esperanto"</string>
-<string name="settings_language_finnish">"Fiński"</string>
-<string name="settings_language_french">"Francuski"</string>
-<string name="settings_language_german">"Niemiecki"</string>
-<string name="settings_language_japanese">"Japoński"</string>
-<string name="settings_language_polish">"Polski"</string>
-<string name="settings_language_turkish">"Turecki"</string>
-<string name="settings_yukon_rules_1">"Różne kolory (domyślnie)"</string>
-<string name="settings_yukon_rules_2">"Ten sam kolor (ruski pasjans)"</string>
-<string name="settings_movement_speed_1">"Bardzo powolne"</string>
-<string name="settings_movement_speed_2">"Powolne"</string>
-<string name="settings_movement_speed_3">"Normalne"</string>
-<string name="settings_movement_speed_4">"Szybkie"</string>
-<string name="settings_win_sounds_1">"Domyślny"</string>
-<string name="settings_win_sounds_2">"Pianino"</string>
-<string name="settings_win_sounds_3">"8-bitowy głos „You win”"</string>
-<string name="settings_win_sounds_4">"Oklaski"</string>
-<string name="settings_background_music_1">"Brak"</string>
-<string name="settings_background_music_2">"Temat 1"</string>
-<string name="settings_background_music_3">"Temat 2"</string>
-<string name="settings_background_music_4">"Temat 3"</string>
-<string name="settings_background_music_5">"Pozytywka"</string>
-<string name="settings_canfield_size_of_reserve_1">"13 kart (domyślnie)"</string>
-<string name="settings_canfield_size_of_reserve_2">"10 kart"</string>
-<string name="settings_canfield_size_of_reserve_3">"7 kart"</string>
-<string name="settings_canfield_size_of_reserve_4">"4 kart"</string>
-<string name="settings_developer_option_deal_correct_sequences_1">"Wyłączony"</string>
-<string name="settings_developer_option_deal_correct_sequences_2">"Naprzemienny kolor"</string>
-<string name="settings_developer_option_deal_correct_sequences_3">"Ten sam kolor kart"</string>
-<string name="settings_developer_option_deal_correct_sequences_4">"Odwrócony naprzemienny kolor"</string>
-<string name="settings_developer_option_deal_correct_sequences_5">"Odwrócony ten sam kolor kart"</string>
+<string name="securityInit_mpNews">"Kolor tła"</string>
+<string name="init_aSelector">"Ukryj pasek stanu"</string>
+<string name="drawerActivity">"Tryb dla leworęcznych"</string>
+<string name="dummyMaze">"Odwraca pozycje kart i stosów do lewej strony"</string>
+<string name="packSensorFour">"Potwierdź zamykanie gry"</string>
+<string name="hintMargins">"Naciśnij przycisk wstecz dwukrotnie, aby wyjść z gry"</string>
+<string name="connectivityFreecell">"Orientacja ekranu"</string>
+<string name="settingsLoad">"Karty"</string>
+<string name="googleMiddle">"Klasyczne"</string>
+<string name="listMatchMode">"Proste"</string>
+<string name="lightGraphics">"Koszulki kart"</string>
+<string name="installSimple">"Nowoczesne"</string>
+<string name="bitmapsDownloadText">"Abstrakcyjne"</string>
+<string name="matchClose">"Zwykłe"</string>
+<string name="modityPref">"Oxygen Ciemny"</string>
+<string name="abstract_dField">"Oxygen Jasny"</string>
+<string name="mediaSensorNumber">"Poker"</string>
+<string name="resetBitmaps">"Koszulka numer"</string>
+<string name="helpMaze">"Wygląd"</string>
+<string name="pokerStacks">"Ogólne"</string>
+<string name="buttonRulesHeader">"Dostosuj wszystkie inne opcje"</string>
+<string name="movesEmptyPref">"Gry"</string>
+<string name="completeAudio">"Dostosuj opcje wariantów gier"</string>
+<string name="loginCardMoves">"Liczba kolorów kart"</string>
+<string name="customBuglyLibgtcore">"Po ile kart rozdawać"</string>
+<string name="movingMovabilityBroker">"Po ile kart rozdawać"</string>
+<string name="observerMatch">"Rozpocznij w menu głównym"</string>
+<string name="userClassic">"Nie przechodź do ostatnio otwartej gry przy starcie"</string>
+<string name="fourSensor">"Cykliczne ruchy (łatwiejsze)"</string>
+<string name="movementApplication">"Zezwól kłaść asy na króli i odwrotnie"</string>
+<string name="textGradleCanfield">"Menu główne"</string>
+<string name="darkRegistryTimer">"Zmień liczbę kolumn, pokaż i ukryj gry"</string>
+<string name="bitmapsList">"Trudność"</string>
+<string name="shellLogin">"Liczba kolumn"</string>
+<string name="starAnimateDownload">"Pokaż i ukryj gry"</string>
+<string name="recentAdapter">"Wybierz które gry mają być widoczne w menu"</string>
+<string name="editInterfacePurple">"Pokaż informacje o grze takie jak licencja i lista zmian"</string>
+<string name="loadConnectivity">"Zmień język"</string>
+<string name="mountFragmentHelp">"Kładź karty na…"</string>
+<string name="stableAutofill">"Temat ikon"</string>
+<string name="contentService">"Pozycja paska menu"</string>
+<string name="mediaLocal_r">"Góra"</string>
+<string name="this_hgFusionPack">"Dół"</string>
+<string name="starSoundsClass_no">"Lewo"</string>
+<string name="cardsPage">"Prawo"</string>
+<string name="drawerIntent">"4 kolory kart"</string>
+<string name="stylesBooleans">"Pokoloruj trefle na zielono i karo na niebiesko"</string>
+<string name="checkYukonYellow">"Dodatkowe ruchy kart"</string>
+<string name="colorIntegers">"Włącza lub wyłącza podwójne stuknięcia i inne ruchy"</string>
+<string name="mountHideSummary">"Podwójne stuknięcie"</string>
+<string name="local_9gMethodsPower">"Włącz ruchy przy podwójnym stuknięciu"</string>
+<string name="homeObjectMargins">"Podwójnie stuknij w kartę, aby przenieść ją na najbliższy możliwy stos"</string>
+<string name="userGamesRows">"Przenoś wszystkie możliwe karty"</string>
+<string name="objectService">"Przenoś jak najwięcej kart ze stosu, nie tylko dotykaną kartę"</string>
+<string name="waitClose">"Wybierz przez stuknięcie"</string>
+<string name="iconIntentCustom">"Włącz możliwość wyboru karty poprzez stuknięcie"</string>
+<string name="headerRightDelete_s">"Stuknij w kartę, aby ją wybrać, a następnie stuknij w stos docelowy, aby ją tam przenieść"</string>
+<string name="bottomTestsDownload">"Pojedyncze stuknięcie"</string>
+<string name="connectivityObserverMode">"Tylko w grach Golf i TrzyWieże: stuknij pojedynczo w kartę, aby przenieść ją na stos odrzutów"</string>
+<string name="objectRegister_ruAdapter">"Przenieś najpierw na stos bazowy"</string>
+<string name="aboutManual">"Próbuj przenieś górną kartę z dotykanego stosu na stos bazowy przed przeniesieniem innych kart"</string>
+<string name="showReturn_rjRedeal">"Szybkość przenoszenia kart"</string>
+<string name="fileNapoleons">"Włącz dźwięki w grze"</string>
+<string name="movesMusic">"Dźwięki"</string>
+<string name="dialogPreviews">"Włącz dźwięki, ustaw różne efekty dźwiękowe"</string>
+<string name="dondorfAccountAmount">"Dźwięk wygranej"</string>
+<string name="timerMatch">"Muzyka w tle"</string>
+<string name="activtyRows">"Własny"</string>
+<string name="libcocosdjsConstructorYukon">"Głośność muzyki w tle"</string>
+<string name="pageIntegersStats">"Ogranicz liczbę ponownych rozdań"</string>
+<string name="referrerImpl">"Ogranicz możliwość ponownego wykorzystania kart ze stosu odrzutów"</string>
+<string name="brokerDummyConfig">"Liczba ponownych rozdań"</string>
+<string name="recentLocalePyramid">"Kwota zakładu"</string>
+<string name="drawerCompat">"Kolejność menu"</string>
+<string name="stacksWait">"Stuknij i przytrzymaj wpis, a następnie przeciągnij i upuść go w żądane miejsce"</string>
+<string name="ensurePurpleMethod_3">"Domyślny układ"</string>
+<string name="textConfigField">"Rozpocznij nową grę po wygranej"</string>
+<string name="changerStableCheck">"Po powrocie do właśnie wygranej gry, automatycznie rozpoczynaj nową grę"</string>
+<string name="imagePath">"Dostosuj karty, tła i interfejs użytkownika"</string>
+<string name="statsImage">"Wymuś tryb tabletu"</string>
+<string name="installBrokerSide">"Wyświetl aplikację tak jak na dużych ekranach (≥7\")"</string>
+<string name="animationUserNotification">"Trzymaj karty"</string>
+<string name="parisThis_ofUsage">"Po stuknięciu w stos główny: zamiast przeniesienia karty ze stosu odrzutów na stos gry, zatrzymaj ją na stosu odrzutów."</string>
+<string name="napoleonsPyramid">"Zapamiętaj stan konta"</string>
+<string name="method_lBackupFusion">"Stan konta nie będzie kasowany pomiędzy ponownymi rozdaniami gry Vegas, ale będziesz musiał zresetować stan i rozpocząć nową grę, aby zapisać najlepszy wynik"</string>
+<string name="moveRecent">"Resetuj stan konta"</string>
+<string name="modernLogin">"Następne rozdanie gry Vegas rozpoczniesz z 0$"</string>
+<string name="drawerReferrerFile">"Czy na pewno chcesz zresetować stan konta? Jest to nieodwracalne."</string>
+<string name="matchNapoleons">"Automatyczne ruchy"</string>
+<string name="showYukonBugly">"Automatycznie przenoś asy na stos odrzutów, kiedy jest to możliwe"</string>
+<string name="pathAdvancedFour">"Automatycznie przenoś króli na stos śmieciowy, kiedy jest to możliwe"</string>
+<string name="wifiImpl">"Zasady"</string>
+<string name="pathSplash">"Kasa"</string>
+<string name="networkRegistryLibgtcore">"Wsparcie"</string>
+<string name="androidStringsBuild">"Ukryj czas"</string>
+<string name="textDummyWith_g6">"Ukryj punktację"</string>
+<string name="rulesPyramid">"Włącz ruchy przy pojedynczym stuknięciu"</string>
+<string name="fortyTimerCenter">"Za pierwsze rozdanie kart płacisz:"</string>
+<string name="centerEnsure">"Za przeniesienie każdej karty na stos bazowy dostajesz:"</string>
+<string name="configSideColors">"Rozdanie -%1$d$, wrzucenie karty: +%2$d$"</string>
+<string name="golfStyles">"Stuknij pojedynczo w kartę, aby przenieść ją na następny możliwy stos. Ustawienie takie same jak ruchów podwójnych. Wyłączone zostaną ruchy „wybierz przez stuknięcie”."</string>
+<string name="register_2LockHint">"Zmień wielkość stosu rezerwowego (łatwiej)"</string>
+<string name="screenBottom">"Stosowanie prawdziwej losowości"</string>
+<string name="libgtcoreFromSounds">"Domyślna losowość pozwala uniknąć podobnych kart obok siebie. Zaznacz tę opcję, aby zastosować prawdziwą losowość."</string>
+<string name="billingUndosAutofill">"Opcje deweloperskie"</string>
+<string name="classicResetLoad">"Pobaw się naprawdę szalonymi ustawieniami!"</string>
+<string name="gameFreecellHeaders">"Przenieś karty wszędzie"</string>
+<string name="register__OxygenLibcocosdjs">"Karty można umieszczać na dowolnym stosie"</string>
+<string name="dondorfBluePeaks">"Ustawienia te są przeznaczone wyłącznie do celów testowych, użycie może powodować dziwne zachowania i awarie!"</string>
+<string name="classicBooleansDownload">"Graj każdą kartą"</string>
+<string name="compatTime_bb">"Można grać każdą odkrytą kartą"</string>
+<string name="buildLocaleBugly">"Natychmiastowe zwycięstwo"</string>
+<string name="backgroundsDummyLauncher">"Wygraj każdą grę po przeniesieniu karty"</string>
+<string name="libjcoreAudioData">"Wyłączenie zapisywania stanu gry"</string>
+<string name="cardsBlueScore">"Ruchy w grze nie będą już zapisywane"</string>
+<string name="launcherNumber">"Rozdaj w kolejności końcowej"</string>
+<string name="amountNews">"Maksymalna liczba cofnięć"</string>
+<string name="routerBorder">"Ustawienia specjalistyczne"</string>
+<string name="grandfathersLibjcore">"Może być przydatna dla niektórych ludzi"</string>
+<string name="downObjectMovement">"Ustawienia systemu"</string>
+<string name="registryStylesStatistics">"Pionowo"</string>
+<string name="brokerCenterGypsy">"Poziomo"</string>
+<string name="modeManager">"Pozioma do góry nogami"</string>
+<string name="sensorDark">"1 (łatwy)"</string>
+<string name="assemblyTextSide">"2 (średni)"</string>
+<string name="columnsThis_fxHelp">"4 (trudny)"</string>
+<string name="constructorFusion">"Rozdaj 1"</string>
+<string name="iconReturn_jAssembly">"Rozdaj 3"</string>
+<string name="fourNewsTask">"Łatwy: gra jest wygrana gdy pole gry jest puste"</string>
+<string name="accountInterfaceClassic">"Trudny: gra jest wygrana gdy pole gry i stos są puste"</string>
+<string name="completeEncryption">"Domyślny"</string>
+<string name="dataBasic">"Angielski"</string>
+<string name="editBuffer">"Esperanto"</string>
+<string name="scoreScore">"Fiński"</string>
+<string name="tabsLogic">"Francuski"</string>
+<string name="classicPokerAbout">"Niemiecki"</string>
+<string name="register_1ResetBlack">"Japoński"</string>
+<string name="booleansIntent">"Polski"</string>
+<string name="wifiLocale">"Turecki"</string>
+<string name="waitTime_2tNotification">"Różne kolory (domyślnie)"</string>
+<string name="headersDummy">"Ten sam kolor (ruski pasjans)"</string>
+<string name="golfCardButton">"Bardzo powolne"</string>
+<string name="closeSpiderLauncher">"Powolne"</string>
+<string name="stablePref">"Normalne"</string>
+<string name="loginSession">"Szybkie"</string>
+<string name="eightNews">"Domyślny"</string>
+<string name="gypsyMountRules">"Pianino"</string>
+<string name="textStableRecent">"8-bitowy głos „You win”"</string>
+<string name="customizeOrangeAudio">"Oklaski"</string>
+<string name="splashResizingDown">"Brak"</string>
+<string name="borderMovement">"Temat 1"</string>
+<string name="clipboardResizing">"Temat 2"</string>
+<string name="installArray">"Temat 3"</string>
+<string name="testsManualCircle">"Pozytywka"</string>
+<string name="modeHelperAnimation">"13 kart (domyślnie)"</string>
+<string name="classicArrow">"10 kart"</string>
+<string name="optionsAnimationAlarm">"7 kart"</string>
+<string name="movesClipboardActivty">"4 kart"</string>
+<string name="providerMenuNetwork">"Wyłączony"</string>
+<string name="sensorDownloadColors">"Naprzemienny kolor"</string>
+<string name="shellGreen">"Ten sam kolor kart"</string>
+<string name="lightbulbTrackGolf">"Odwrócony naprzemienny kolor"</string>
+<string name="animationBackupInput">"Odwrócony ten sam kolor kart"</string>
 
 <!-- Statistics -->
-<string name="statistics_text_won_games">"Wygrałeś %1$d z %2$d gier."</string>
+<string name="with_eCheck">"Wygrałeś %1$d z %2$d gier."</string>
 
 <!-- %1$d and %2$d are placeholders for the values -->
-<string name="statistics_win_percentage">"Procent wygranych: %1$.0f%%"</string>
+<string name="stringsTomb">"Procent wygranych: %1$.0f%%"</string>
 
 <!-- %1$.0f is a placeholder and the following two "%%" symbols will be printed as a single "%" -->
-<string name="statistics_button_delete">"Usuń wszystkie wpisy"</string>
-<string name="statistics_button_delete_text">"Usunięte zostaną wszystkie wpisy dla tej gry! Czy na pewno?"</string>
-<string name="statistics_button_deleted_all_entries">"Usunięto wszystkie wpisy"</string>
-<string name="statistics_time_of_day">"Godzina"</string>
-<string name="statistics_date">"Data"</string>
-<string name="settings_diable_undo_costs">"Wyłącz karę za cofnięcie"</string>
-<string name="settings_diable_hint_costs">"Wyłącz karę za wyświetlenie wskazówki"</string>
-<string name="statistics_high_scores">"Najlepsze wyniki"</string>
-<string name="statistics_recent_scores">"Ostatnie wyniki"</string>
-<string name="statistics_total_time">"Czas gry ogółem"</string>
-<string name="statistics_total_hints_shown">"Wyświetlonych wskazówek ogółem"</string>
-<string name="statistics_total_number_undos">"Ruchów wstecz ogółem"</string>
-<string name="statistics_total_points_earned">"Zdobytych punktów ogółem"</string>
-<string name="statistics_no_entries">"Brak wpisów, rozegraj kilka partii!"</string>
-<string name="dialog_auto_move">"Automatyczne ruchy"</string>
-<string name="dialog_show_hints">"Wyświetl wskazówki"</string>
-<string name="manual_ui_text_part_1">"Gra zawsze wyświetli drobne menu na dole ekranu (tryb pionowy) lub po prawej stronie (tryb poziomy). Zostanie także pokazana obecna punktacja i czas obecnej gry, Menu gry zawiera 5 elementów, które wywołują następujące akcje (przyciski od lewej do prawej):
+<string name="advertisingCenter">"Usuń wszystkie wpisy"</string>
+<string name="soundsTomb">"Usunięte zostaną wszystkie wpisy dla tej gry! Czy na pewno?"</string>
+<string name="hideCloseGradle">"Usunięto wszystkie wpisy"</string>
+<string name="entrySummaryCalculation">"Godzina"</string>
+<string name="blackVolume">"Data"</string>
+<string name="rulesPackAnimation">"Wyłącz karę za cofnięcie"</string>
+<string name="blackMoving">"Wyłącz karę za wyświetlenie wskazówki"</string>
+<string name="bitmapsHideMargins">"Najlepsze wyniki"</string>
+<string name="changerCheck">"Ostatnie wyniki"</string>
+<string name="observerLibmplameRegistry">"Czas gry ogółem"</string>
+<string name="billingYellow">"Wyświetlonych wskazówek ogółem"</string>
+<string name="libnonLibgtcore">"Ruchów wstecz ogółem"</string>
+<string name="columnsHelp">"Zdobytych punktów ogółem"</string>
+<string name="newsLight">"Brak wpisów, rozegraj kilka partii!"</string>
+<string name="rightMove">"Automatyczne ruchy"</string>
+<string name="recentHelperBooleans">"Wyświetl wskazówki"</string>
+<string name="lightList">"Gra zawsze wyświetli drobne menu na dole ekranu (tryb pionowy) lub po prawej stronie (tryb poziomy). Zostanie także pokazana obecna punktacja i czas obecnej gry, Menu gry zawiera 5 elementów, które wywołują następujące akcje (przyciski od lewej do prawej):
 
 Przycisk „statystyki” otwiera nowe okno zawierające różne statystyki dotyczące obecnej gry, np. najlepsze wyniki.
 
@@ -324,7 +324,7 @@ Przycisk „wsparcie” otworzy niewielkie manu pomocy. Będziesz mógł wybrać
 
 
 
-<string name="manual_ui_text_part_10">"Przycisk „cofnij” cofa ostatni ruch, ale to będzie kosztowało 25 punktów. Można cofnąć maksymalnie 20 ostatnich ruchów. (można zwiększyć ten parametr w ustawieniach specjalistycznych)
+<string name="dynamic_bAndroidOrder">"Przycisk „cofnij” cofa ostatni ruch, ale to będzie kosztowało 25 punktów. Można cofnąć maksymalnie 20 ostatnich ruchów. (można zwiększyć ten parametr w ustawieniach specjalistycznych)
 
 Przycisk „ustawienia” zwyczajnie otwiera menu ustawień."</string>
 
@@ -337,33 +337,33 @@ Przycisk „ustawienia” zwyczajnie otwiera menu ustawień."</string>
 
 
 <!-- dialogs -->
-<string name="dialog_no_hint_available">"Brak dostępnych wskazówek!"</string>
-<string name="dialog_no_movement_possible">"Brak ruchów do wyświetlenia!"</string>
-<string name="settings_show_advanced_settings_title">"Odblokowanie kategorii deweloperów"</string>
-<string name="settings_language_italian">"Włoski"</string>
-<string name="settings_language_portuguese_brazil">"Portugalski (Brazylia)"</string>
-<string name="settings_language_ukrainian">"Ukraiński"</string>
-<string name="settings_game_layout_margins_title">"Marginesy układu gry"</string>
-<string name="settings_game_layout_margins_text">"Dodaje marginesy z lewej i prawej strony układu gry. Karty będą wyglądać na mniejsze, ale nakładanie się zostanie zredukowane!"</string>
-<string name="settings_game_layout_margins_none">"Brak"</string>
-<string name="settings_game_layout_margins_small">"Wąskie"</string>
-<string name="settings_game_layout_margins_medium">"Średnie"</string>
-<string name="settings_game_layout_margins_large">"Szerokie"</string>
-<string name="settings_hide_menu_button">"Ukryj przycisk menu"</string>
-<string name="settings_immersive_mode_title">"Włącz tryb pełnoekranowy"</string>
-<string name="settings_immersive_mode_text">"Ukryj paski statusu i nawigacji podczas gry (tylko na Androidzie 4.4 lub nowszym)"</string>
-<string name="settings_language_norwegian">"Norweski (Bokmål)"</string>
+<string name="notificationConfig">"Brak dostępnych wskazówek!"</string>
+<string name="launcherMenuReset">"Brak ruchów do wyświetlenia!"</string>
+<string name="loginYellow">"Odblokowanie kategorii deweloperów"</string>
+<string name="phoneTask">"Włoski"</string>
+<string name="downloadDialog">"Portugalski (Brazylia)"</string>
+<string name="gypsyBackground">"Ukraiński"</string>
+<string name="stackLocale">"Marginesy układu gry"</string>
+<string name="poolAvailable">"Dodaje marginesy z lewej i prawej strony układu gry. Karty będą wyglądać na mniejsze, ale nakładanie się zostanie zredukowane!"</string>
+<string name="managerStar">"Brak"</string>
+<string name="resetNotification">"Wąskie"</string>
+<string name="clipboardBuglyDeal">"Średnie"</string>
+<string name="showCenter">"Szerokie"</string>
+<string name="time_tjGamesMode">"Ukryj przycisk menu"</string>
+<string name="buglyCalculationFusion">"Włącz tryb pełnoekranowy"</string>
+<string name="activtyInformationFour">"Ukryj paski statusu i nawigacji podczas gry (tylko na Androidzie 4.4 lub nowszym)"</string>
+<string name="waitFusionNotification">"Norweski (Bokmål)"</string>
 
-<string name="settings_cards_paris">"Paris"</string>
-<string name="settings_cards_dondorf">"Dondorf"</string>
-<string name="games_NapoleonsTomb">"Grób Napoleona"</string>
-<string name="manual_NapoleonsTomb_structure">"1 talia po 52 karty.
+<string name="testsManager">"Paris"</string>
+<string name="parisLoad">"Dondorf"</string>
+<string name="showInstallHelp">"Grób Napoleona"</string>
+<string name="dondorfImage">"1 talia po 52 karty.
 
 4 stosy gry, 5 stosów bazowych, 1 główny i 1 stos odrzutów.
 
 4 narożne stosy z “7” i jeden środkowy są stosami bazowymi. Stosy pomiędzy nimi są stosami gry."</string>
 
-<string name="manual_NapoleonsTomb_rules">"Na 4 narożnych stosach znajdują się 7-ki i układamy na nich kary w kolejności rosnącej do króli. Centralny stos bazowy zawiera początkowo 6-kę i układany na nim karty w kolejności malejącej do asa czterokrotnie. Ostatecznie na tym stosie karty przyjmują następujący porządek:
+<string name="blueNotificationBackgrounds">"Na 4 narożnych stosach znajdują się 7-ki i układamy na nich kary w kolejności rosnącej do króli. Centralny stos bazowy zawiera początkowo 6-kę i układany na nim karty w kolejności malejącej do asa czterokrotnie. Ostatecznie na tym stosie karty przyjmują następujący porządek:
 
 6, 5, 4, 3, 2, A - 6, 5, 4, 3, 2, A - 6, 5, 4, 3, 2, A - 6, 5, 4, 3, 2, A
 
@@ -372,47 +372,47 @@ Następna karta do położenia wyświetli się nad stosem.
 Stuknięcie w stos główny odkryje jedną kartę i przeniesie do stosu odrzutów. Do ustawienia w opcjach gry: Jeżeli zabraknie kart, stuknij ponownie, aby przenieść z powrotem wszystkie karty ze stosy odrzutów na stos główny.
 
 Każdą kartę można przenieść na pusty stos gry, ale każdy stos może zawierać tylko po jednej karcie."</string>
-<string name="manual_NapoleonsTomb_scoring">"Przeniesienie karty na stos bazowy: +50
+<string name="moveStableSummary">"Przeniesienie karty na stos bazowy: +50
 
 Przeniesienie wszystkich kart ze stosu odrzutów z powrotem na stos główny: -200"</string>
-<string name="settings_language_spanish_argentina">"Hiszpański (Argentyna)"</string>
-<string name="settings_language_spanish">"Hiszpański"</string>
+<string name="circleLogic">"Hiszpański (Argentyna)"</string>
+<string name="networkBlackDump">"Hiszpański"</string>
 <!-- Settings -->
-<string name="settings_apply_only_for_this_game">"Zostosuj zmiany tylko dla %1$s"</string>
-<string name="settings_hide_auto_complete_button">"Ukryj przycisk „automatyczne ruchy”"</string>
-<string name="settings_dialog_only_for_this_game_enable_1">"Wszelkie zmiany wprowadzone tutaj zostaną zastosowane tylko dla obecnej gry. Jeżeli chcesz skonfigurować pozostałe gry, masz następujące możliwości:"</string>
-<string name="settings_dialog_only_for_this_game_enable_3">"Powróć do menu głównego i otworzyć stamtąd opcje"</string>
-<string name="settings_dialog_only_for_this_game_enable_2">"Wyłącz tę opcję"</string>
-<string name="settings_dialog_only_for_this_game_enable_4">"Otwórz ustawienia z gry, która nie ma tej opcji włączonej"</string>
-<string name="settings_dialog_only_for_this_game_enable_5">"Wyłączenie tej opcji przywróci poprzednie wspólne ustawienia."</string>
-<string name="settings_dialog_only_for_this_game_disable">"Indywidualne ustawienia dla tej gry zostaną skasowane i zostaną zastosowane wspólne ustawienia."</string>
-<string name="settings_dialog_only_for_this_game_information_1">"Zmiany nie zostaną zastosowane dla wszystkich ger. Stuknij, aby dowiedzieć się więcej"</string>
-<string name="settings_dialog_only_for_this_game_information_2">"Następujące gry mają ustawienia indywidualne:"</string>
-<string name="settings_dialog_only_for_this_game_information_3">"Dla tych gier nie zostaną zastosowane zmiany wprowadzone tutaj.
+<string name="customizeRegistryDeal">"Zostosuj zmiany tylko dla %1$s"</string>
+<string name="backgroundWith__yPurple">"Ukryj przycisk „automatyczne ruchy”"</string>
+<string name="implGamesWifi">"Wszelkie zmiany wprowadzone tutaj zostaną zastosowane tylko dla obecnej gry. Jeżeli chcesz skonfigurować pozostałe gry, masz następujące możliwości:"</string>
+<string name="fileStringsEight">"Powróć do menu głównego i otworzyć stamtąd opcje"</string>
+<string name="gameLibcocosdjs">"Wyłącz tę opcję"</string>
+<string name="numberField">"Otwórz ustawienia z gry, która nie ma tej opcji włączonej"</string>
+<string name="widget_gTrack">"Wyłączenie tej opcji przywróci poprzednie wspólne ustawienia."</string>
+<string name="gradleMoveBooleans">"Indywidualne ustawienia dla tej gry zostaną skasowane i zostaną zastosowane wspólne ustawienia."</string>
+<string name="manifestEnsureManifest">"Zmiany nie zostaną zastosowane dla wszystkich ger. Stuknij, aby dowiedzieć się więcej"</string>
+<string name="positionLightbulbRight">"Następujące gry mają ustawienia indywidualne:"</string>
+<string name="timerPageHandler">"Dla tych gier nie zostaną zastosowane zmiany wprowadzone tutaj.
 
 Czy chcesz skasować ustawienia indywidualne dla następujących gier?"</string>
-<string name="settings_dialog_only_for_this_game_removed_all">"Usuń wszystkie ustawienia indywidualne"</string>
-<string name="settings_ensure_movability_title">"Gwarantowane ruchy"</string>
-<string name="settings_ensure_movability_searching_games">"Wyszukiwanie grywalnej gry…"</string>
-<string name="settings_ensure_movability_text">"Zapewnia, że określona liczba ruchów w grze jest możliwa przed jej rozpoczęciem"</string>
-<string name="settings_ensure_movability_min_moves_title">"Gwarantowane ruchy: liczba ruchów"</string>
-<string name="settings_ensure_movability_min_moves_warning">"Ostrzeżenie: zwiększenie tej wartości spowoduje wydłużenie czasu ładowania przed rozpoczęciem gry! Zmiana zasad gry wpłynie również na czas oczekiwania!"</string>
-<string name="settings_ensure_movability_min_moves_text">"Ustaw minimalną liczbę możliwych gwarantowanych ruchów gry przed jej rozpoczęciem."</string>
-<string name="settings_number_input_error">"Nie można zapisać liczby!"</string>
-<string name="settings_developer_option_improve_auto_move_title">"Ulepszone automatyczne ruchy"</string>
-<string name="settings_developer_option_improve_auto_move_text">"Opcja automatyczne ruchy spróbuje wygrać grę używając głównego stosu"</string>
-<string name="black">"Czarny"</string>
-<string name="white">"Biały"</string>
-<string name="settings_ensure_movability_make_game_winnable_button_title">"Gwarantuj wygrywalność części gier"</string>
-<string name="settings_ensure_movability_make_game_winnable_text">"Można ustalić pewną liczbę gier, aby były możliwe do wygrania, bez znacznego zwiększenia czasu oczekiwania."</string>
-<string name="settings_ensure_movability_winnable">"Wygrywalne"</string>
-<string name="settings_reset_to_defaults">"Przywróć wartości domyślne"</string>
-<string name="settings_text_color">"Kolor tekstu i stosów"</string>
-<string name="settings_language_chinese_simplified">"Chiński (uproszczony)"</string>
-<string name="settings_ensure_movability_cancle_search">"Anuluj i natychmiast rozpocznij"</string>
-<string name="games_Maze">"Labirynt"</string>
-<string name="games_Spiderette">"Pajączek"</string>
-<string name="manual_Spiderette_structure">"1 talia po 52 karty.
+<string name="movesPreferences">"Usuń wszystkie ustawienia indywidualne"</string>
+<string name="buildPackHelp">"Gwarantowane ruchy"</string>
+<string name="telephonyEncryptionCircle">"Wyszukiwanie grywalnej gry…"</string>
+<string name="contentAdapterIntegers">"Zapewnia, że określona liczba ruchów w grze jest możliwa przed jej rozpoczęciem"</string>
+<string name="preferenceMarginsMoves">"Gwarantowane ruchy: liczba ruchów"</string>
+<string name="interfaceAdvertising">"Ostrzeżenie: zwiększenie tej wartości spowoduje wydłużenie czasu ładowania przed rozpoczęciem gry! Zmiana zasad gry wpłynie również na czas oczekiwania!"</string>
+<string name="return_bPyramidTests">"Ustaw minimalną liczbę możliwych gwarantowanych ruchów gry przed jej rozpoczęciem."</string>
+<string name="usageIntentActivty">"Nie można zapisać liczby!"</string>
+<string name="colorGradlew">"Ulepszone automatyczne ruchy"</string>
+<string name="dynamic_aRouter">"Opcja automatyczne ruchy spróbuje wygrać grę używając głównego stosu"</string>
+<string name="installReferrer">"Czarny"</string>
+<string name="headersTask">"Biały"</string>
+<string name="applicationList">"Gwarantuj wygrywalność części gier"</string>
+<string name="animationInputStatistics">"Można ustalić pewną liczbę gier, aby były możliwe do wygrania, bez znacznego zwiększenia czasu oczekiwania."</string>
+<string name="movementNetwork">"Wygrywalne"</string>
+<string name="usageMain">"Przywróć wartości domyślne"</string>
+<string name="rightRows">"Kolor tekstu i stosów"</string>
+<string name="modityInfoRely">"Chiński (uproszczony)"</string>
+<string name="customLibcocosdjs">"Anuluj i natychmiast rozpocznij"</string>
+<string name="yukonCalculation">"Labirynt"</string>
+<string name="textResizingMatch">"Pajączek"</string>
+<string name="purpleField">"1 talia po 52 karty.
 
 7 stosów gry i 4 stosy bazowe.
 
@@ -420,15 +420,15 @@ Czy chcesz skasować ustawienia indywidualne dla następujących gier?"</string>
 
 Zależnie od ustawień: 1, 2 lub 4 różne kolory kart."</string>
 
-<string name="manual_Spiderette_rules">"Karty można kłaść na dowolną kartę w kolejności malejącej. Ale tylko poprawne sekwencje tego samego koloru kart można razem przenosić.
+<string name="libmplameSplash">"Karty można kłaść na dowolną kartę w kolejności malejącej. Ale tylko poprawne sekwencje tego samego koloru kart można razem przenosić.
 
 Na pustych polach gry można umieścić dowolną kartę.
 
 Stuknij w stos główny, aby rozdać po jednej karcie na każdy stos gry."</string>
-<string name="manual_Spiderette_scoring">"Przeniesienie rodziny kart na stos bazowy: +200
+<string name="expertPack">"Przeniesienie rodziny kart na stos bazowy: +200
 
 Odsłonięcie karty: +25"</string>
-<string name="settings_language_portuguese">"Portugalski"</string>
-<string name="statistics_hide_win_percentage">"Ukryj procent wygranych"</string>
-<string name="settings_restart_game">"Aby zastosować zmiany, rozpocznij nową grę %1$s"</string>
+<string name="prefObserverBackup">"Portugalski"</string>
+<string name="routerOxygenGradlew">"Ukryj procent wygranych"</string>
+<string name="fourLogic">"Aby zastosować zmiany, rozpocznij nową grę %1$s"</string>
 </resources>

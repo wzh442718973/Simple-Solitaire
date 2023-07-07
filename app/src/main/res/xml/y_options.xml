@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/wifiImpl">
+
+        <com.ardently.love.delightgame.classes.FUndos
+            android:defaultValue="@bool/default_calculation_alternative"
+            android:key="@string/pref_key_calculation_alternative"
+            android:summary="@string/parisThis_ofUsage"
+            android:title="@string/animationUserNotification" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

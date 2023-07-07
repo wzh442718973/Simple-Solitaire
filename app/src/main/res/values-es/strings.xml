@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_version">"Versión"</string>
-<string name="settings">"Ajustes"</string>
-<string name="game_manual">"Manual del juego"</string>
-<string name="game_score">"Puntuación"</string>
-<string name="game_time">"Tiempo"</string>
-<string name="game_cancel">"Cancelar"</string>
-<string name="game_confirm">"Confirmar"</string>
+<string name="purpleInput">"Versión"</string>
+<string name="gypsyPreviews">"Ajustes"</string>
+<string name="moveShared">"Manual del juego"</string>
+<string name="backgroundsFortyMove">"Puntuación"</string>
+<string name="starThis_5r">"Tiempo"</string>
+<string name="billingTaskMoves">"Cancelar"</string>
+<string name="poolTaskCustomize">"Confirmar"</string>
 </resources>

@@ -1,0 +1,46 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.PUMovability$FLockIntentFragment"
+        android:summary="@string/imagePath"
+        android:title="@string/helpMaze" />
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.PUMovability$BLSConfigFragment"
+        android:summary="@string/darkRegistryTimer"
+        android:title="@string/textGradleCanfield" />
+
+    <header
+        android:summary="@string/completeAudio"
+        android:title="@string/movesEmptyPref">
+
+        <intent
+            android:targetClass="com.ardently.love.delightgame.ui.settings.XEPreferences"
+            android:targetPackage="com.ardently.love.delightgame" />
+    </header>
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.PUMovability$AInitFragment"
+        android:summary="@string/dialogPreviews"
+        android:title="@string/movesMusic" />
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.PUMovability$FKImplFragment"
+        android:summary="@string/colorIntegers"
+        android:title="@string/checkYukonYellow" />
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.PUMovability$UXInitGreenFragment"
+        android:summary="@string/buttonRulesHeader"
+        android:title="@string/pokerStacks" />
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.PUMovability$GManualObserverFragment"
+        android:summary="@string/grandfathersLibjcore"
+        android:title="@string/routerBorder" />
+
+    <header
+        android:fragment="com.ardently.love.delightgame.ui.settings.PUMovability$PHighlightFragment"
+        android:summary="@string/classicResetLoad"
+        android:title="@string/billingUndosAutofill" />
+
+</preference-headers>

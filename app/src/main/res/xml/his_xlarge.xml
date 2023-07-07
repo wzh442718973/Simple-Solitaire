@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/wifiImpl">
+
+        <com.ardently.love.delightgame.classes.FUndos
+            android:defaultValue="true"
+            android:key="@string/pref_key_golf_cyclic"
+            android:summary="@string/movementApplication"
+            android:title="@string/fourSensor" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

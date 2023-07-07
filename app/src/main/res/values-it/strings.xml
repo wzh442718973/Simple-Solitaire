@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_version">"Versione"</string>
-<string name="settings">"Impostazioni"</string>
-<string name="game_manual">"Istruzioni"</string>
-<string name="game_score">"Punteggio"</string>
-<string name="game_time">"Tempo"</string>
-<string name="game_cancel">"Annulla"</string>
-<string name="game_confirm">"Conferma"</string>
-<string name="game_auto_complete_text">"Completa automaticamente"</string>
-<string name="game_press_again">"Premi ancora per uscire"</string>
-<string name="game_load_error">"Caricamento dati fallito, avvio di una nuova partita"</string>
-<string name="game_close">"Chiudi gioco"</string>
-<string name="game_main_menu">"Menu principale"</string>
-<string name="item_game_rules">"Regole del gioco"</string>
-<string name="item_return_to_main_menu">"Ritorna al menu principale"</string>
+<string name="purpleInput">"Versione"</string>
+<string name="gypsyPreviews">"Impostazioni"</string>
+<string name="moveShared">"Istruzioni"</string>
+<string name="backgroundsFortyMove">"Punteggio"</string>
+<string name="starThis_5r">"Tempo"</string>
+<string name="billingTaskMoves">"Annulla"</string>
+<string name="poolTaskCustomize">"Conferma"</string>
+<string name="serviceExpertVolume">"Completa automaticamente"</string>
+<string name="mainBorderAces">"Premi ancora per uscire"</string>
+<string name="phoneReferrerOxygen">"Caricamento dati fallito, avvio di una nuova partita"</string>
+<string name="sensorPurple">"Chiudi gioco"</string>
+<string name="libmplameIntent">"Menu principale"</string>
+<string name="leftEntry">"Regole del gioco"</string>
+<string name="tombDummy">"Ritorna al menu principale"</string>
 
 <!-- Menu -->
-<string name="menu_undo">"Annulla"</string>
-<string name="menu_main_menu">"Menu"</string>
-<string name="menu_settings">"Impostazioni"</string>
+<string name="rulesMoves">"Annulla"</string>
+<string name="eightEncryption">"Menu"</string>
+<string name="animationFrom">"Impostazioni"</string>
 
 <!-- game names 
 
      - if you want to translate names and a name gets very long, use spaces, so they can be displayed
      - in two rows in the main menu. But eg. GrandfathersClock is still short enough to display it in
      - a single line -->
-<string name="games_Klondike">"Klondike"</string>
-<string name="games_Freecell">"FreeCell"</string>
-<string name="games_Yukon">"Yukon"</string>
-<string name="games_Spider">"Spider"</string>
-<string name="games_SimpleSimon">"Simple Simon"</string>
-<string name="games_Golf">"Golf"</string>
-<string name="games_Pyramid">"Pyramid"</string>
-<string name="games_TriPeaks">"TriPeaks"</string>
-<string name="games_FortyEight">"Forty &amp; Eight"</string>
-<string name="games_AcesUp">"Aces Up"</string>
-<string name="games_Gypsy">"Gypsy"</string>
-<string name="games_mod3">"Mod3"</string>
-<string name="games_Canfield">"Canfield"</string>
-<string name="games_GrandfathersClock">"Grandfather\'s Clock"</string>
-<string name="games_Vegas">"Vegas"</string>
-<string name="games_Calculation">"Calculation"</string>
+<string name="informationMazeTrack">"Klondike"</string>
+<string name="previewDummyMaze">"FreeCell"</string>
+<string name="compatAuto_moStrings">"Yukon"</string>
+<string name="networkCalculation">"Spider"</string>
+<string name="cardAces">"Simple Simon"</string>
+<string name="settingsRouterMusic">"Golf"</string>
+<string name="availableDark">"Pyramid"</string>
+<string name="bitmapsStrings">"TriPeaks"</string>
+<string name="aboutNews">"Forty &amp; Eight"</string>
+<string name="layoutClipboardGrandfathers">"Aces Up"</string>
+<string name="sharedListPref">"Gypsy"</string>
+<string name="movementOrangeVolume">"Mod3"</string>
+<string name="eightServiceCard">"Canfield"</string>
+<string name="resizingMatch">"Grandfather\'s Clock"</string>
+<string name="local_1lRight">"Vegas"</string>
+<string name="abstract_h6Available">"Calculation"</string>
 
 <!-- colors -->
-<string name="blue">"Blu"</string>
-<string name="green">"Verde"</string>
-<string name="red">"Rosso"</string>
-<string name="yellow">"Giallo"</string>
-<string name="orange">"Arancione"</string>
-<string name="purple">"Viola"</string>
+<string name="dialogShared">"Blu"</string>
+<string name="scoreModern">"Verde"</string>
+<string name="pyramidLibmplameBasic">"Rosso"</string>
+<string name="drawerDondorfManager">"Giallo"</string>
+<string name="stackAssembly">"Arancione"</string>
+<string name="routerScoreCustom">"Viola"</string>
 
 <!-- game stuff -->
-<string name="game_longest_run">"Sequenza più lunga"</string>
+<string name="dataUndo">"Sequenza più lunga"</string>
 
 <!-- dialog won -->
-<string name="dialog_win_titel">"Congratulazioni!"</string>
-<string name="dialog_win_score">"Punteggio: %1$d"</string>
-<string name="dialog_win_bonus">"Bonus: %1$d"</string>
-<string name="dialog_win_total">"Totale: %1$d"</string>
+<string name="centerBase">"Congratulazioni!"</string>
+<string name="activtyChangerMoving">"Punteggio: %1$d"</string>
+<string name="sessionHeaderImage">"Bonus: %1$d"</string>
+<string name="volumeSpiderTabs">"Totale: %1$d"</string>
 
 <!-- dialog mix cards -->
-<string name="dialog_mix_cards_title">"Mischia le carte"</string>
-<string name="dialog_mix_cards_text">"Questo mischierà tutte le carte, eccetto le sequenze corrette e le carte nella casa."</string>
-<string name="dialog_mix_cards_not_available">"Ci sono ancora mosse possibili! (Usa la funzione di aiuto per mostrarle)"</string>
+<string name="gypsyClose">"Mischia le carte"</string>
+<string name="homeBottomLoad">"Questo mischierà tutte le carte, eccetto le sequenze corrette e le carte nella casa."</string>
+<string name="baseAnimationRules">"Ci sono ancora mosse possibili! (Usa la funzione di aiuto per mostrarle)"</string>
 
 <!-- dialog start new game -->
-<string name="dialog_start_new_game_title">"Comincia una nuova partita"</string>
-<string name="dialog_start_new_game_text">"I tuoi progressi correnti saranno persi e sarà avviata una nuova partita casuale."</string>
+<string name="brokerUsageLogic">"Comincia una nuova partita"</string>
+<string name="clockModernStar">"I tuoi progressi correnti saranno persi e sarà avviata una nuova partita casuale."</string>
 
 <!-- dialog redeal -->
-<string name="dialog_redeal_title">"Ridai le carte"</string>
-<string name="dialog_redeal_text">"I tuoi progressi correnti saranno persi, ma sarà"</string>
+<string name="managerBuildPoker">"Ridai le carte"</string>
+<string name="blueReferrer">"I tuoi progressi correnti saranno persi, ma sarà"</string>
 
 <!-- If you want to help with translations, please use this site: https://poeditor.com/join/project/PYX4vcwTjA -->
-<string name="title_activity_manual">"Manuale"</string>
-<string name="title_activity_settings">"Impostazioni"</string>
-<string name="title_activity_about">"Sul Gioco"</string>
-<string name="title_activity_statistics">"Statistiche"</string>
+<string name="local_ecFade">"Manuale"</string>
+<string name="newsRulesCenter">"Impostazioni"</string>
+<string name="movingLoadRely">"Sul Gioco"</string>
+<string name="stylesLockFrom">"Statistiche"</string>
 
 <!-- About activity -->
 
@@ -115,42 +115,42 @@
 
 
 
-<string name="page_load_error">"Nessuna pagina disponibile per questo gioco…"</string>
+<string name="activtyPackBuild">"Nessuna pagina disponibile per questo gioco…"</string>
 
 
 
 
 
 <!-- Settings -->
-<string name="settings_background_color">"Colore di sfondo"</string>
-<string name="settings_hide_status_bar">"Nascondi la barra di stato"</string>
-<string name="settings_left_handed_mode">"Modalità per mancini"</string>
-<string name="settings_customization">"Aspetto"</string>
-<string name="settings_other">"Generali"</string>
-<string name="settings_other_description">"Modifica tutte le altre impostazioni"</string>
-<string name="settings_show_main_menu">"Avvia dal menu principale"</string>
-<string name="settings_show_main_menu_description">"Non entrare nell'ultima partita giocata alla partenza"</string>
-<string name="settings_menu">"Menu principale"</string>
-<string name="settings_menu_description">"Cambia il numero di colonne, visualizza o nascondi i giochi"</string>
-<string name="settings_menu_columns">"Numero di colonne"</string>
-<string name="settings_menu_games">"Visualizza o nascondi i giochi"</string>
-<string name="settings_menu_bar_position">"Posizione della barra dei menu"</string>
-<string name="settings_menu_bar_position_bottom">"Sotto"</string>
-<string name="settings_menu_bar_position_left">"Sinistra"</string>
-<string name="settings_menu_bar_position_right">"Destra"</string>
-<string name="Settings_sounds_title">"Suoni"</string>
-<string name="Settings_sounds_text">"Abilita i suoni, imposta vari effetti sonori"</string>
-<string name="settings_customization_description">"Personalizza carte, sfondi e interfaccia utente"</string>
-<string name="settings_support">"Aiuto"</string>
-<string name="settings_hide_time">"Nascondi il tempo"</string>
-<string name="settings_hide_score">"Nascondi il punteggio"</string>
-<string name="settings_expert_settings">"Impostazioni per Esperti"</string>
-<string name="settings_win_sounds_1">"Default"</string>
-<string name="settings_win_sounds_2">"Piano"</string>
-<string name="statistics_total_hints_shown">"Totale aiuti utilizzati"</string>
-<string name="dialog_show_hints">"Ricevi un'aiuto"</string>
-<string name="settings_game_layout_margins_title">"Margini"</string>
-<string name="settings_game_layout_margins_none">"Nessuno"</string>
-<string name="settings_hide_menu_button">"Nascondi il pulsante menu"</string>
-<string name="settings_immersive_mode_text">"Nascondi le barre di stato e di navigazione mentre giochi (solo su Android 4.4 e versioni successive)"</string>
+<string name="securityInit_mpNews">"Colore di sfondo"</string>
+<string name="init_aSelector">"Nascondi la barra di stato"</string>
+<string name="drawerActivity">"Modalità per mancini"</string>
+<string name="helpMaze">"Aspetto"</string>
+<string name="pokerStacks">"Generali"</string>
+<string name="buttonRulesHeader">"Modifica tutte le altre impostazioni"</string>
+<string name="observerMatch">"Avvia dal menu principale"</string>
+<string name="userClassic">"Non entrare nell'ultima partita giocata alla partenza"</string>
+<string name="textGradleCanfield">"Menu principale"</string>
+<string name="darkRegistryTimer">"Cambia il numero di colonne, visualizza o nascondi i giochi"</string>
+<string name="shellLogin">"Numero di colonne"</string>
+<string name="starAnimateDownload">"Visualizza o nascondi i giochi"</string>
+<string name="contentService">"Posizione della barra dei menu"</string>
+<string name="this_hgFusionPack">"Sotto"</string>
+<string name="starSoundsClass_no">"Sinistra"</string>
+<string name="cardsPage">"Destra"</string>
+<string name="movesMusic">"Suoni"</string>
+<string name="dialogPreviews">"Abilita i suoni, imposta vari effetti sonori"</string>
+<string name="imagePath">"Personalizza carte, sfondi e interfaccia utente"</string>
+<string name="networkRegistryLibgtcore">"Aiuto"</string>
+<string name="androidStringsBuild">"Nascondi il tempo"</string>
+<string name="textDummyWith_g6">"Nascondi il punteggio"</string>
+<string name="routerBorder">"Impostazioni per Esperti"</string>
+<string name="eightNews">"Default"</string>
+<string name="gypsyMountRules">"Piano"</string>
+<string name="billingYellow">"Totale aiuti utilizzati"</string>
+<string name="recentHelperBooleans">"Ricevi un'aiuto"</string>
+<string name="stackLocale">"Margini"</string>
+<string name="managerStar">"Nessuno"</string>
+<string name="time_tjGamesMode">"Nascondi il pulsante menu"</string>
+<string name="activtyInformationFour">"Nascondi le barre di stato e di navigazione mentre giochi (solo su Android 4.4 e versioni successive)"</string>
 </resources>

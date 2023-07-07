@@ -1,0 +1,51 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/mountHideSummary">
+        <com.ardently.love.delightgame.classes.FUndos
+            android:defaultValue="@bool/default_double_tap_enable"
+            android:key="@string/pref_key_double_tap_enable"
+            android:summary="@string/homeObjectMargins"
+            android:title="@string/local_9gMethodsPower" />
+
+        <com.ardently.love.delightgame.classes.FUndos
+            android:defaultValue="@bool/default_double_tap_all_cards"
+            android:dependency="@string/pref_key_double_tap_enable"
+            android:key="@string/pref_key_double_tap_all_cards"
+            android:summary="@string/objectService"
+            android:title="@string/userGamesRows" />
+
+        <com.ardently.love.delightgame.classes.FUndos
+            android:defaultValue="@bool/default_double_tap_foundation_first"
+            android:dependency="@string/pref_key_double_tap_all_cards"
+            android:key="@string/pref_key_double_tap_foundation_first"
+            android:summary="@string/aboutManual"
+            android:title="@string/objectRegister_ruAdapter" />
+
+    </PreferenceCategory>
+
+
+    <PreferenceCategory android:title="@string/waitClose">
+        <com.ardently.love.delightgame.classes.FUndos
+            android:defaultValue="@bool/default_tap_to_select_enable"
+            android:key="@string/pref_key_tap_to_select_enable"
+            android:summary="@string/headerRightDelete_s"
+            android:title="@string/iconIntentCustom" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/bottomTestsDownload">
+        <com.ardently.love.delightgame.classes.FUndos
+            android:defaultValue="@bool/default_single_tap_all_games"
+            android:key="@string/pref_key_single_tap_all_games"
+            android:summary="@string/golfStyles"
+            android:title="@string/rulesPyramid" />
+
+        <com.ardently.love.delightgame.classes.FUndos
+            android:defaultValue="@bool/default_single_tap_enable"
+            android:key="@string/pref_key_single_tap_special_games"
+            android:summary="@string/connectivityObserverMode"
+            android:title="@string/rulesPyramid" />
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

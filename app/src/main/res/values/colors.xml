@@ -4,8 +4,8 @@
     <color name="colorPrimary">#207568</color>
     <color name="colorPrimaryDark">#78A1B6</color>
     <color name="colorAccent">#318285</color>
-    <color name="colorDrawerSelected">#FFBDBDBD</color>
-    <color name="white">#ffffff</color>
-    <color name="greenBackground">#00a008</color>
-    <color name="blueBackground">#318285</color>
+    <color name="gradleGoogle">#FFBDBDBD</color>
+    <color name="headersTask">#ffffff</color>
+    <color name="managerIconAces">#00a008</color>
+    <color name="providerLight">#318285</color>
 </resources>

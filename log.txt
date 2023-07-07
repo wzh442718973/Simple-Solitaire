@@ -1,0 +1,2821 @@
+开始自动混淆项目代码扫描文件中。。。。。。
+
+
+混淆项目路径：/Volumes/192.168.31.150-1/github/Simple-Solitaire
+新文件 <-> 现有文件 : AndroidManifest.xml      AndroidManifest.xml
+新文件 <-> 现有文件 : abg_moving_scores.xml      fragment_about_tab1.xml
+新文件 <-> 现有文件 : JXLStartGame.java      DialogPreferenceGameLayoutMargins.java
+新文件 <-> 现有文件 : adjust.js      adjust.js
+新文件 <-> 现有文件 : PMWShowComplete.java      RefClass.java
+新文件 <-> 现有文件 : q_fade.xml      fragment_statistics_tab1.xml
+新文件 <-> 现有文件 : PUMovability.java      Settings.java
+新文件 <-> 现有文件 : adjust_config.js      adjust_config.js
+新文件 <-> 现有文件 : XNFreecell.java      DialogPreferenceMaxNumberUndos.java
+新文件 <-> 现有文件 : as_statistics_money.xml      fragment_statistics_tab2.xml
+新文件 <-> 现有文件 : JManagerCards.java      RefConstructor.java
+新文件 <-> 现有文件 : XEPreferences.java      SettingsGames.java
+新文件 <-> 现有文件 : adjust_event.js      adjust_event.js
+新文件 <-> 现有文件 : AAutocompleteBlue.java      DialogPreferenceMenuBarPosition.java
+新文件 <-> 现有文件 : lo_hint_phone.xml      fragment_statistics_tab3.xml
+新文件 <-> 现有文件 : PBDMovability.java      RefField.java
+新文件 <-> 现有文件 : DDLMoveSecurityFragment.java      HighScoresFragment.java
+新文件 <-> 现有文件 : adjust_third_party_sharing.js      adjust_third_party_sharing.js
+新文件 <-> 现有文件 : ZThisMoves.java      DialogPreferenceMenuHideGames.java
+新文件 <-> 现有文件 : b_card.xml      nav_header_game_selector.xml
+新文件 <-> 现有文件 : NYHandlerInit.java      RefMethod.java
+新文件 <-> 现有文件 : FECircleChangerFragment.java      RecentScoresFragment.java
+新文件 <-> 现有文件 : com.tencent.open.config.json      com.tencent.open.config.json
+新文件 <-> 现有文件 : RDataPath.java      DialogPreferenceMenuOrder.java
+新文件 <-> 现有文件 : x_customize_position.xml      nav_header_manual.xml
+新文件 <-> 现有文件 : CJSPositionVolume.java      VERSION.java
+新文件 <-> 现有文件 : HZFreecellActivity.java      StatisticsActivity.java
+新文件 <-> 现有文件 : l_start.xml      preference_widget_layout_cards.xml
+新文件 <-> 现有文件 : dq_alarm.xml      button_fade_in.xml
+新文件 <-> 现有文件 : gt4-index.html      gt4-index.html
+新文件 <-> 现有文件 : IDeveloperHighlight.java      DialogPreferenceMenuRows.java
+新文件 <-> 现有文件 : UVSummaryBasicFragment.java      StatisticsFragment.java
+新文件 <-> 现有文件 : d_bitmaps.xml      card_fade_in.xml
+新文件 <-> 现有文件 : qgt_delete_data.xml      preference_widget_layout_cards_background.xml
+新文件 <-> 现有文件 : gt4-loading.gif      gt4-loading.gif
+新文件 <-> 现有文件 : RBackgroundsSounds.java      DialogPreferenceMusicVolume.java
+新文件 <-> 现有文件 : TUsageImage.java      TabsPagerAdapter.java
+新文件 <-> 现有文件 : x_lightbulb.xml      card_fade_out.xml
+新文件 <-> 现有文件 : gtm_advanced.xml      preference_widget_layout_color.xml
+新文件 <-> 现有文件 : gt4.js      gt4.js
+新文件 <-> 现有文件 : ARJStrings.java      DialogPreferenceOnlyForThisGame.java
+新文件 <-> 现有文件 : yl_gradlew.xml      card_from_middle.xml
+新文件 <-> 现有文件 : n_undo_register.xml      preference_widget_settings_only_for_this_game.xml
+新文件 <-> 现有文件 : QRowsAudio.java      AdKey.java
+新文件 <-> 现有文件 : WKAssembly.java      DialogPreferenceTextColor.java
+新文件 <-> 现有文件 : zt_other_main.xml      card_to_middle.xml
+新文件 <-> 现有文件 : xpr_other_build.xml      statistics_scores_row.xml
+新文件 <-> 现有文件 : jsb-builtin.js      jsb-builtin.js
+新文件 <-> 现有文件 : SGXTests.java      DialogPreferenceVegasBetAmount.java
+新文件 <-> 现有文件 : ei_header_view.xml      text_view.xml
+新文件 <-> 现有文件 : xia_alarm_yellow.xml      background_color_blue.xml
+新文件 <-> 现有文件 : TNShadow.java      AdSelectorImpl.java
+新文件 <-> 现有文件 : s_interface.xml      background_color_green.xml
+新文件 <-> 现有文件 : yv_purple_interface.xml      activity_game_manager.xml
+新文件 <-> 现有文件 : AGPoolMiddle.java      DialogPreferenceVegasResetMoney.java
+新文件 <-> 现有文件 : NEJStop.java      CfgFile.java
+新文件 <-> 现有文件 : ZEReturn.java      DialogRedeal.java
+新文件 <-> 现有文件 : jsb-engine.js      jsb-engine.js
+新文件 <-> 现有文件 : ok_launcher_telephony.xml      background_color_orange.xml
+新文件 <-> 现有文件 : ETTShell.java      IAdInfo.java
+新文件 <-> 现有文件 : tfu_shadow.xml      dialog_settings_cards.xml
+新文件 <-> 现有文件 : MLFCalculation.java      DialogStartNewGame.java
+新文件 <-> 现有文件 : VVManager.java      IAdInit.java
+新文件 <-> 现有文件 : b_login_security.xml      background_color_purple.xml
+新文件 <-> 现有文件 : GELogicBackup.java      ActivityX.java
+新文件 <-> 现有文件 : ot_icon.xml      dialog_settings_cards_background.xml
+新文件 <-> 现有文件 : gxq_activty.xml      drawer_game_selector.xml
+新文件 <-> 现有文件 : VKService.java      IAdRely.java
+新文件 <-> 现有文件 : g_phone.xml      background_color_red.xml
+新文件 <-> 现有文件 : KOFourCanfield.java      AndroidX.java
+新文件 <-> 现有文件 : ADeveloperAnimation.java      DialogWon.java
+新文件 <-> 现有文件 : m_freecell_login.xml      background_color_yellow.xml
+新文件 <-> 现有文件 : x_columns.xml      drawer_manual.xml
+新文件 <-> 现有文件 : VNQCalculationPower.java      IAdSelector.java
+新文件 <-> 现有文件 : NBillingAnimate.java      AcesUp.java
+新文件 <-> 现有文件 : gf_application_star.xml      card_highlight.xml
+新文件 <-> 现有文件 : i_account.xml      menu_statistics.xml
+新文件 <-> 现有文件 : ODAOrder.java      IntentX.java
+新文件 <-> 现有文件 : JProxyBitmapsActivity.java      EntryActivity.java
+新文件 <-> 现有文件 : VInfoCheck.java      Calculation.java
+新文件 <-> 现有文件 : de_volume.xml      circle.xml
+新文件 <-> 现有文件 : array.xml      array.xml
+新文件 <-> 现有文件 : SVLFromMoves.java      PackageX.java
+新文件 <-> 现有文件 : HPTConfig.java      FusionApp.java
+新文件 <-> 现有文件 : rhs_libmplame.xml      icon_about.xml
+新文件 <-> 现有文件 : YEditPeaks.java      Canfield.java
+新文件 <-> 现有文件 : booleans.xml      booleans.xml
+新文件 <-> 现有文件 : UDondorfTask.java      ServiceX.java
+新文件 <-> 现有文件 : kj_stack.xml      icon_arrow_down.xml
+新文件 <-> 现有文件 : KMovingPage.java      AAAHelper.java
+新文件 <-> 现有文件 : colors.xml      colors.xml
+新文件 <-> 现有文件 : y_alarm.xml      icon_arrow_left.xml
+新文件 <-> 现有文件 : CGraphicsLayout.java      ActivityTrack.java
+新文件 <-> 现有文件 : JFHCustomize.java      DummyGame.java
+新文件 <-> 现有文件 : dimens.xml      dimens.xml
+新文件 <-> 现有文件 : JFLightbulb.java      AccountObserver.java
+新文件 <-> 现有文件 : wjx_config.xml      icon_arrow_right.xml
+新文件 <-> 现有文件 : JEditPurple.java      HomeTrack.java
+新文件 <-> 现有文件 : IProxy.java      FortyEight.java
+新文件 <-> 现有文件 : integers.xml      integers.xml
+新文件 <-> 现有文件 : meg_stack_object.xml      icon_arrow_up.xml
+新文件 <-> 现有文件 : NLJEntryEncryption.java      ITrack.java
+新文件 <-> 现有文件 : OJDServiceScreen.java      ActivityObserver.java
+新文件 <-> 现有文件 : strings-non-translateable.xml      strings-non-translateable.xml
+新文件 <-> 现有文件 : LVBaseResizingCell.java      Freecell.java
+新文件 <-> 现有文件 : fqy_lock.xml      icon_close.xml
+新文件 <-> 现有文件 : HJDeleteGreen.java      PackageTrack.java
+新文件 <-> 现有文件 : IInput.java      ActivityTaskObserver.java
+新文件 <-> 现有文件 : p_content_styles.xml      icon_lightbulb_on.xml
+新文件 <-> 现有文件 : strings.xml      strings.xml
+新文件 <-> 现有文件 : WVEight.java      ScreenTrack.java
+新文件 <-> 现有文件 : RWDrawerMode.java      AlarmObserver.java
+新文件 <-> 现有文件 : g_array_base.xml      icon_manual.xml
+新文件 <-> 现有文件 : TAnimation.java      Game.java
+新文件 <-> 现有文件 : styles.xml      styles.xml
+新文件 <-> 现有文件 : CJSPositionVolume.java      VERSION.java
+新文件 <-> 现有文件 : h_from.xml      icon_menu.xml
+新文件 <-> 现有文件 : PJCPurpleLeft.java      Golf.java
+新文件 <-> 现有文件 : strings.xml      strings.xml
+新文件 <-> 现有文件 : EWInputGraphics.java      Android.java
+新文件 <-> 现有文件 : xb_information_sensor.xml      icon_settings.xml
+新文件 <-> 现有文件 : LDownloadNumber.java      AdHelper.java
+新文件 <-> 现有文件 : strings.xml      strings.xml
+新文件 <-> 现有文件 : NAWait.java      GrandfathersClock.java
+新文件 <-> 现有文件 : x_graphics.xml      icon_settings_black.xml
+新文件 <-> 现有文件 : XAndroidSimon.java      AppOpsObserver.java
+新文件 <-> 现有文件 : COColorsUsage.java      AES.java
+新文件 <-> 现有文件 : strings.xml      strings.xml
+新文件 <-> 现有文件 : ert_money_ensure.xml      icon_star.xml
+新文件 <-> 现有文件 : COxygen.java      AudioObserver.java
+新文件 <-> 现有文件 : GSColors.java      Gypsy.java
+新文件 <-> 现有文件 : strings.xml      strings.xml
+新文件 <-> 现有文件 : hv_backgrounds_eight.xml      icon_undo.xml
+新文件 <-> 现有文件 : TGOHeaders.java      AutofillObserver.java
+新文件 <-> 现有文件 : BRHint.java      BASE64.java
+新文件 <-> 现有文件 : strings.xml      strings.xml
+新文件 <-> 现有文件 : hyb_integers.xml      image_border.xml
+新文件 <-> 现有文件 : ZQTColumns.java      ClipboardObserver.java
+新文件 <-> 现有文件 : WIEAutofill.java      Klondike.java
+新文件 <-> 现有文件 : ZWFShellDelete.java      BufferPool.java
+新文件 <-> 现有文件 : JKUUsageThis.java      ConnectivityObserver.java
+新文件 <-> 现有文件 : tuo_strings.xml      menu_preview_background.xml
+新文件 <-> 现有文件 : JWEDarkLoad.java      Maze.java
+新文件 <-> 现有文件 : KLibjcorePoker.java      DEBUG.java
+新文件 <-> 现有文件 : strings.xml      strings.xml
+新文件 <-> 现有文件 : zr_dimens_tests.xml      settings_highlight.xml
+新文件 <-> 现有文件 : OGLauncher.java      encryption.java
+新文件 <-> 现有文件 : MLibgtcoreApplication.java      FileLock.java
+新文件 <-> 现有文件 : strings.xml      strings.xml
+新文件 <-> 现有文件 : EUYEncryption.java      Mod3.java
+新文件 <-> 现有文件 : gxx_circle_black.xml      shadow_bottom_to_top.xml
+新文件 <-> 现有文件 : strings.xml      strings.xml
+新文件 <-> 现有文件 : FNRelyText.java      HEX.java
+新文件 <-> 现有文件 : NYellow.java      NapoleonsTomb.java
+新文件 <-> 现有文件 : mp_previews.xml      shadow_left_to_right.xml
+新文件 <-> 现有文件 : FQInfo.java      FusionPack.java
+新文件 <-> 现有文件 : dimens.xml      dimens.xml
+新文件 <-> 现有文件 : HORDondorfUser.java      IDump.java
+新文件 <-> 现有文件 : p_audio.xml      shadow_right_to_left.xml
+新文件 <-> 现有文件 : QKBasic.java      AdvertisingIdService.java
+新文件 <-> 现有文件 : SMenuDump.java      Pyramid.java
+新文件 <-> 现有文件 : dimens.xml      dimens.xml
+新文件 <-> 现有文件 : IUXEntryMove.java      IO.java
+新文件 <-> 现有文件 : y_libjcore.xml      shadow_top_to_bottom.xml
+新文件 <-> 现有文件 : RNZBooleansTrack.java      C2dmREGISTER.java
+新文件 <-> 现有文件 : HTAAbstractBottom.java      SimpleSimon.java
+新文件 <-> 现有文件 : strings.xml      strings.xml
+新文件 <-> 现有文件 : PKShadow.java      MD5.java
+新文件 <-> 现有文件 : ikl_basic_billing.xml      side_nav_bar.xml
+新文件 <-> 现有文件 : UZGypsy.java      GetInstallReferrerService.java
+新文件 <-> 现有文件 : OAdapterHighlight.java      Spider.java
+新文件 <-> 现有文件 : strings.xml      strings.xml
+新文件 <-> 现有文件 : KIMain.java      OS.java
+新文件 <-> 现有文件 : activty_object.jpg      qdt.jpg
+新文件 <-> 现有文件 : OTUWidgetCustomize.java      GmsServiceBroker.java
+新文件 <-> 现有文件 : NHFSimon.java      Spiderette.java
+新文件 <-> 现有文件 : strings.xml      strings.xml
+新文件 <-> 现有文件 : KNPreviews.java      RSA.java
+新文件 <-> 现有文件 : yv_purple_interface.xml      activity_game_manager.xml
+新文件 <-> 现有文件 : USide.java      InAppBillingService.java
+新文件 <-> 现有文件 : strings.xml      strings.xml
+新文件 <-> 现有文件 : FSAssembly.java      TriPeaks.java
+新文件 <-> 现有文件 : lrw_autofill.xml      activity_game_selector.xml
+新文件 <-> 现有文件 : YCUShowFragment.java      Tests.java
+新文件 <-> 现有文件 : XPZOther.java      GoogleGsmService.java
+新文件 <-> 现有文件 : dimens.xml      dimens.xml
+新文件 <-> 现有文件 : TSQStable.java      Vegas.java
+新文件 <-> 现有文件 : xu_user.xml      activity_manual.xml
+新文件 <-> 现有文件 : TMainNotification.java      GraphicsStatsObserver.java
+新文件 <-> 现有文件 : WPFusion.java      XFile.java
+新文件 <-> 现有文件 : integers.xml      integers.xml
+新文件 <-> 现有文件 : GROPeaksSimple.java      Yukon.java
+新文件 <-> 现有文件 : wf_close_phone.xml      activity_manual_xlarge.xml
+新文件 <-> 现有文件 : BLPreferenceOrderObject.java      XObject.java
+新文件 <-> 现有文件 : SIScreenPager.java      HandlerObserver.java
+新文件 <-> 现有文件 : strings.xml      strings.xml
+新文件 <-> 现有文件 : SQShared.java      HandlerLoadGame.java
+新文件 <-> 现有文件 : x_other_data.xml      activty_about.xml
+新文件 <-> 现有文件 : TFPAbout.java      XShell.java
+新文件 <-> 现有文件 : fka_download_stack.xml      activty_statistics.xml
+新文件 <-> 现有文件 : TKSActivtyShared.java      InputObserver.java
+新文件 <-> 现有文件 : strings.xml      strings.xml
+新文件 <-> 现有文件 : ZMRegisterLibcocosdjs.java      HandlerStopBackgroundMusic.java
+新文件 <-> 现有文件 : dimens.xml      dimens.xml
+新文件 <-> 现有文件 : aw_preference.xml      app_bar_game_selector.xml
+新文件 <-> 现有文件 : WVBillingAccount.java      JobObserver.java
+新文件 <-> 现有文件 : KNPHintPath.java      HandlerTimer.java
+新文件 <-> 现有文件 : HIColorsOther.java      XZip.java
+新文件 <-> 现有文件 : dimens.xml      dimens.xml
+新文件 <-> 现有文件 : DLManifest.java      MediaRouterObserver.java
+新文件 <-> 现有文件 : edn_icon_manifest.xml      app_bar_manual.xml
+新文件 <-> 现有文件 : PRGreen.java      CheckBoxPreferenceFourColorMode.java
+新文件 <-> 现有文件 : XMovesBlue.java      Animate.java
+新文件 <-> 现有文件 : dimens.xml      dimens.xml
+新文件 <-> 现有文件 : kn_image_view.xml      changelog_card_view.xml
+新文件 <-> 现有文件 : GVHighlightPager.java      MountObserver.java
+新文件 <-> 现有文件 : VLChangerPrefButton.java      CheckBoxPreferenceHideAutoCompleteButton.java
+新文件 <-> 现有文件 : JGRight.java      AutoComplete.java
+新文件 <-> 现有文件 : vm_card_media.xml      download_path.xml
+新文件 <-> 现有文件 : myp_autocomplete_integers.xml      content_game_selector.xml
+新文件 <-> 现有文件 : OLibmplameBufferButton.java      CheckBoxPreferenceHideMenuButton.java
+新文件 <-> 现有文件 : SWithLightbulb.java      NotificationObserver.java
+新文件 <-> 现有文件 : UAutofillLogin.java      AutoMove.java
+新文件 <-> 现有文件 : kkq_delete.xml      my_backup_rules.xml
+新文件 <-> 现有文件 : gd_user_show.xml      dialog_background_color.xml
+新文件 <-> 现有文件 : EGAvailableClose.java      CheckBoxPreferenceHideScore.java
+新文件 <-> 现有文件 : SPagerVolume.java      BackgroundMusic.java
+新文件 <-> 现有文件 : JAJAvailable.java      PackageObserver.java
+新文件 <-> 现有文件 : r_clipboard.xml      network_config.xml
+新文件 <-> 现有文件 : dli_usage.xml      dialog_background_volume.xml
+新文件 <-> 现有文件 : ir_undos.xml      pref_customize.xml
+新文件 <-> 现有文件 : ICChangelogShell.java      PhoneSubInfoObserver.java
+新文件 <-> 现有文件 : PRRSimpleCanfield.java      CheckBoxPreferenceHideTime.java
+新文件 <-> 现有文件 : hc_bitmaps_vegas.xml      dialog_ensure_movability.xml
+新文件 <-> 现有文件 : APurpleStop.java      Bitmaps.java
+新文件 <-> 现有文件 : gr_aces_games.xml      pref_developer_options.xml
+新文件 <-> 现有文件 : z_advanced.xml      dialog_ensure_movability_min_moves.xml
+新文件 <-> 现有文件 : ZHArrow.java      PowerObserver.java
+新文件 <-> 现有文件 : DProviderView.java      AutoResizingTextView.java
+新文件 <-> 现有文件 : MHStringsAudio.java      CardHighlight.java
+新文件 <-> 现有文件 : nmr_manifest.xml      pref_expert_settings.xml
+新文件 <-> 现有文件 : coy_pyramid_dynamic.xml      dialog_ensure_movability_min_moves_entry.xml
+新文件 <-> 现有文件 : TYHint.java      SecurityObserver.java
+新文件 <-> 现有文件 : JRBDynamic.java      DealCards.java
+新文件 <-> 现有文件 : Card.java      Card.java
+新文件 <-> 现有文件 : y_options.xml      pref_games_calculation.xml
+新文件 <-> 现有文件 : j_handler.xml      dialog_max_number_undos.xml
+新文件 <-> 现有文件 : QNOImpl.java      SemClipboardObserver.java
+新文件 <-> 现有文件 : KEdit.java      CardAndStack.java
+新文件 <-> 现有文件 : HLSpiderParis.java      EnsureMovability.java
+新文件 <-> 现有文件 : tv_down.xml      pref_games_canfield.xml
+新文件 <-> 现有文件 : pu_start.xml      dialog_menu_show_games.xml
+新文件 <-> 现有文件 : LDownloadSide.java      SensorObserver.java
+新文件 <-> 现有文件 : ILightbulbNapoleonsActivity.java      CustomAppCompatActivity.java
+新文件 <-> 现有文件 : gd_maze.xml      pref_games_forty_eight.xml
+新文件 <-> 现有文件 : ABHighlightAudio.java      GameLogic.java
+新文件 <-> 现有文件 : his_xlarge.xml      pref_games_golf.xml
+新文件 <-> 现有文件 : QMCircleTests.java      SessionObserver.java
+新文件 <-> 现有文件 : tfu_shadow.xml      dialog_settings_cards.xml
+新文件 <-> 现有文件 : FUndos.java      CustomCheckBoxPreference.java
+新文件 <-> 现有文件 : VLibnonReferrer.java      Hint.java
+新文件 <-> 现有文件 : w_deal.xml      pref_games_klondike.xml
+新文件 <-> 现有文件 : MBLayoutSensor.java      TelephonyObserver.java
+新文件 <-> 现有文件 : ot_icon.xml      dialog_settings_cards_background.xml
+新文件 <-> 现有文件 : JNYBlueMovingFragment.java      CustomDialogFragment.java
+新文件 <-> 现有文件 : YVTInstallAlarm.java      LocaleChanger.java
+新文件 <-> 现有文件 : OYJDownThis.java      TelephonyRegistryObserver.java
+新文件 <-> 现有文件 : FJYStatistics.java      CustomDialogPreference.java
+新文件 <-> 现有文件 : dd_animate_ensure.xml      pref_games_mod3.xml
+新文件 <-> 现有文件 : fxk_manager_music.xml      dialog_settings_game_layout_margins.xml
+新文件 <-> 现有文件 : CADondorfFragment.java      MovingCards.java
+新文件 <-> 现有文件 : MOrderInformation.java      UsageStatsObserver.java
+新文件 <-> 现有文件 : h_yellow_header.xml      dialog_settings_menu_bar_position.xml
+新文件 <-> 现有文件 : JQGBaseView.java      CustomImageView.java
+新文件 <-> 现有文件 : an_handler.xml      pref_games_napoleons_tomb.xml
+新文件 <-> 现有文件 : e_bugly_abstract.xml      dialog_settings_menu_columns.xml
+新文件 <-> 现有文件 : wq_broker.xml      pref_games_pyramid.xml
+新文件 <-> 现有文件 : KHBottom.java      UserObserver.java
+新文件 <-> 现有文件 : XSharedStar.java      CustomPreference.java
+新文件 <-> 现有文件 : BJSummaryDelete.java      Preferences.java
+新文件 <-> 现有文件 : msv_entry_bugly.xml      pref_games_spider.xml
+新文件 <-> 现有文件 : af_border.xml      dialog_settings_menu_order.xml
+新文件 <-> 现有文件 : WVMatchPool.java      WifiObserver.java
+新文件 <-> 现有文件 : PJAUserMovesFragment.java      CustomPreferenceFragment.java
+新文件 <-> 现有文件 : SGMovement.java      RecordList.java
+新文件 <-> 现有文件 : CANPhone.java      WindowObserver.java
+新文件 <-> 现有文件 : nql_gradlew_redeal.xml      pref_games_spiderette.xml
+新文件 <-> 现有文件 : ns_interface_proxy.xml      dialog_settings_only_for_this_game.xml
+新文件 <-> 现有文件 : HYEMoving.java      Scores.java
+新文件 <-> 现有文件 : ILibnonDownloadView.java      DynamicListView.java
+新文件 <-> 现有文件 : YNNStableActivity.java      SplashActivity.java
+新文件 <-> 现有文件 : y_recent.xml      dialog_settings_vegas_reset_money.xml
+新文件 <-> 现有文件 : vhy_deal.xml      pref_games_vegas.xml
+新文件 <-> 现有文件 : ZBCustomize.java      Sounds.java
+新文件 <-> 现有文件 : KMKSensorInit.java      HelperCardMovement.java
+新文件 <-> 现有文件 : nx_other_color.xml      dialog_text_color.xml
+新文件 <-> 现有文件 : LOrangeStatistics.java      AIDL.java
+新文件 <-> 现有文件 : u_close.xml      pref_games_yukon.xml
+新文件 <-> 现有文件 : NOxygen.java      Timer.java
+新文件 <-> 现有文件 : hk_news.xml      dialog_vegas_bet_amount.xml
+新文件 <-> 现有文件 : LRStacks.java      ListPreferenceWithSummary.java
+新文件 <-> 现有文件 : IOMTelephonyLogic.java      ContentProviderProxy.java
+新文件 <-> 现有文件 : kfv_booleans.xml      pref_headers.xml
+新文件 <-> 现有文件 : qhh_styles_moves.xml      dialog_won.xml
+新文件 <-> 现有文件 : EColor.java      LoadGame.java
+新文件 <-> 现有文件 : COYAbout.java      StableArrayAdapter.java
+新文件 <-> 现有文件 : sqx_network.xml      pref_headers_games.xml
+新文件 <-> 现有文件 : i_changelog.xml      empty.xml
+新文件 <-> 现有文件 : NKFade.java      MainApplication.java
+新文件 <-> 现有文件 : DOxygenConnectivity.java      IInterfaceObserver.java
+新文件 <-> 现有文件 : MAHResizingLibjcore.java      Stack.java
+新文件 <-> 现有文件 : rz_news.xml      pref_headers_with_advanced_settings.xml
+新文件 <-> 现有文件 : TAbstractHeader.java      SharedData.java
+新文件 <-> 现有文件 : IVBackgroundsText.java      iLog.java
+新文件 <-> 现有文件 : q_buffer_recent.xml      pref_menu.xml
+新文件 <-> 现有文件 : PResetPreviews.java      WaitForAnimationHandler.java
+新文件 <-> 现有文件 : WFileActivity.java      AboutActivity.java
+新文件 <-> 现有文件 : VDZMethod.java      InterfaceObserver.java
+新文件 <-> 现有文件 : ZLColorGradlew.java      DialogEnsureMovability.java
+新文件 <-> 现有文件 : OIPyramidActivtyFragment.java      InformationFragment.java
+新文件 <-> 现有文件 : VOStopSensor.java      MatchManager.java
+新文件 <-> 现有文件 : VSAuto.java      DialogHighScoreDelete.java
+新文件 <-> 现有文件 : TUsageImage.java      TabsPagerAdapter.java
+新文件 <-> 现有文件 : ISMountPower.java      DialogInGameHelpMenu.java
+新文件 <-> 现有文件 : IEWifi.java      ProxyManager.java
+新文件 <-> 现有文件 : AQDialogConfig.java      DialogInGameMenu.java
+新文件 <-> 现有文件 : KGradlew.java      GameManager.java
+新文件 <-> 现有文件 : ZQAnimation.java      DialogMixCards.java
+新文件 <-> 现有文件 : ZERRows.java      RESET.java
+新文件 <-> 现有文件 : CStatisticsContent.java      GameSelector.java
+新文件 <-> 现有文件 : BVPurpleSpider.java      ServiceInterface.java
+新文件 <-> 现有文件 : MNPreviews.java      DialogPreferenceBackgroundColor.java
+新文件 <-> 现有文件 : UWWith.java      ServiceManager.java
+新文件 <-> 现有文件 : JEPictureMiddle.java      Manual.java
+新文件 <-> 现有文件 : LProxyHighlight.java      DialogPreferenceCardBackground.java
+新文件 <-> 现有文件 : CJSPositionVolume.java      VERSION.java
+新文件 <-> 现有文件 : ACustomBuffer.java      ManualMenu.java
+新文件 <-> 现有文件 : DEOSession.java      DialogPreferenceCards.java
+新文件 <-> 现有文件 : GVTests.java      sdk.java
+新文件 <-> 现有文件 : VLight.java      ManualStartPage.java
+新文件 <-> 现有文件 : SStopBackup.java      DialogPreferenceEnsureMovabilityMinMoves.java
+新文件 <-> 现有文件 : RSpider.java      RefBase.java
+新文件 <-> 现有文件 : CMUndos.java      ManualStatistics.java
+新文件 <-> 现有文件 : idm_peaks_lightbulb.xml      pref_movement_methods.xml
+新文件 <-> 现有文件 : GGJFragmentMovement.java      ManualUserInterface.java
+新文件 <-> 现有文件 : s_manager.xml      pref_other.xml
+新文件 <-> 现有文件 : tb_service.xml      pref_sounds.xml
+新文件 <-> 现有文件 : SCalculationActivity.java      AppCompatPreferenceActivity.java
+新文件 <-> 现有文件 : connectivity_advanced_dondorf.png      cards.png
+新文件 <-> 现有文件 : right_card.png      backgrounds_cards.png
+新文件 <-> 现有文件 : drawer_advertising.png      backgrounds_menu.png
+新文件 <-> 现有文件 : pref_header_wifi.png      backgrounds_menu_text.png
+新文件 <-> 现有文件 : autocomplete_advanced.png      backgrounds_stacks.png
+新文件 <-> 现有文件 : timer_resizing_score.png      cards_abstract.png
+新文件 <-> 现有文件 : abstract_lh_phone_audio.png      cards_basic.png
+新文件 <-> 现有文件 : task_return_a_libjcore.png      cards_classic.png
+新文件 <-> 现有文件 : yellow_handler.png      cards_dondorf.png
+新文件 <-> 现有文件 : left_billing_wait.png      cards_modern.png
+新文件 <-> 现有文件 : color_fragment.png      cards_oxygen_dark.png
+新文件 <-> 现有文件 : libcocosdjs_mode_help.png      cards_oxygen_light.png
+新文件 <-> 现有文件 : compat_reset_logic.png      cards_paris.png
+新文件 <-> 现有文件 : cards_info_edit.png      cards_poker.png
+新文件 <-> 现有文件 : pager_record.png      cards_simple.png
+新文件 <-> 现有文件 : dialog_record.png      card_previews.png
+新文件 <-> 现有文件 : broker_track_news.png      no_picture_available.png
+新文件 <-> 现有文件 : connectivity_advanced_dondorf.png      cards.png
+新文件 <-> 现有文件 : connectivity_advanced_dondorf.png      cards.png
+新文件 <-> 现有文件 : connectivity_advanced_dondorf.png      cards.png
+新文件 <-> 现有文件 : libgtcore_intent_freecell.png      ic_launcher.png
+新文件 <-> 现有文件 : libgtcore_intent_freecell.png      ic_launcher.png
+新文件 <-> 现有文件 : libgtcore_intent_freecell.png      ic_launcher.png
+新文件 <-> 现有文件 : libgtcore_intent_freecell.png      ic_launcher.png
+新文件 <-> 现有文件 : libgtcore_intent_freecell.png      ic_launcher.png
+
+
+自动为您开启5个线程进行混淆。。。。。。。
+开始自动清理源代码中的注释。。。。。。
+
+
+
+
+
+
+
+正在自动获取分析过滤不能修改函数名称集合。。。。。
+
+
+开始提取所有源文件中的类名并生成新类名。。。。。。
+类名: DialogPreferenceGameLayoutMargins <---替换为---> JXLStartGame
+类名: AcesUp <---替换为---> NBillingAnimate
+类名: AutoMove <---替换为---> UAutofillLogin
+类名: AIDL <---替换为---> LOrangeStatistics
+类名: RefClass <---替换为---> PMWShowComplete
+类名: Mod3 <---替换为---> EUYEncryption
+类名: CheckBoxPreferenceHideScore <---替换为---> EGAvailableClose
+类名: Timer <---替换为---> NOxygen
+类名: ListPreferenceWithSummary <---替换为---> LRStacks
+类名: BackgroundMusic <---替换为---> SPagerVolume
+类名: IntentX <---替换为---> ODAOrder
+类名: HEX <---替换为---> FNRelyText
+类名: EntryActivity <---替换为---> JProxyBitmapsActivity
+类名: LoadGame <---替换为---> EColor
+类名: AllGameInformation <---替换为---> LMSBasicExpert
+类名: PackageObserver <---替换为---> JAJAvailable
+类名: PhoneSubInfoObserver <---替换为---> ICChangelogShell
+类名: StableArrayAdapter <---替换为---> COYAbout
+类名: MainApplication <---替换为---> NKFade
+类名: CheckBoxPreferenceHideTime <---替换为---> PRRSimpleCanfield
+类名: Settings <---替换为---> PUMovability
+类名: CustomizationPreferenceFragment <---替换为---> FLockIntentFragment
+类名: OtherPreferenceFragment <---替换为---> UXInitGreenFragment
+类名: SoundPreferenceFragment <---替换为---> AInitFragment
+类名: Calculation <---替换为---> VInfoCheck
+类名: MenuPreferenceFragment <---替换为---> BLSConfigFragment
+类名: AdditionalMovementsPreferenceFragment <---替换为---> FKImplFragment
+类名: DeveloperOptionsPreferenceFragment <---替换为---> PHighlightFragment
+类名: ExpertSettingsPreferenceFragment <---替换为---> GManualObserverFragment
+类名: NapoleonsTomb <---替换为---> NYellow
+类名: DialogPreferenceMaxNumberUndos <---替换为---> XNFreecell
+类名: IInterfaceObserver <---替换为---> DOxygenConnectivity
+类名: IStub <---替换为---> TPathDrawer
+类名: IProxy <---替换为---> SRMNetwork
+类名: IConnection <---替换为---> WMoney
+类名: IProvider <---替换为---> VAGoogleModity
+类名: RefConstructor <---替换为---> JManagerCards
+类名: PackageX <---替换为---> SVLFromMoves
+类名: Bitmaps <---替换为---> APurpleStop
+类名: IDump <---替换为---> HORDondorfUser
+类名: BASE <---替换为---> UUndoStatistics
+类名: ARRAY <---替换为---> CMYClipboardRows
+类名: MAP <---替换为---> NXCObject
+类名: FusionApp <---替换为---> HPTConfig
+类名: PowerObserver <---替换为---> ZHArrow
+类名: AdvertisingIdService <---替换为---> QKBasic
+类名: AutoResizingTextView <---替换为---> DProviderView
+类名: OnTextResizeListener <---替换为---> PDrawer
+类名: Pyramid <---替换为---> SMenuDump
+类名: SettingsGames <---替换为---> XEPreferences
+类名: CalculationPreferenceFragment <---替换为---> VHGBluePackageFragment
+类名: CanfieldPreferenceFragment <---替换为---> KVBasicFragment
+类名: FortyEightPreferenceFragment <---替换为---> WICActivtyAnimateFragment
+类名: GolfPreferenceFragment <---替换为---> ZTaskFragment
+类名: IO <---替换为---> IUXEntryMove
+类名: CardHighlight <---替换为---> MHStringsAudio
+类名: KlondikePreferenceFragment <---替换为---> PWMazeFragment
+类名: PyramidPreferenceFragment <---替换为---> JProxyFragment
+类名: C2dmREGISTER <---替换为---> RNZBooleansTrack
+类名: SecurityObserver <---替换为---> TYHint
+类名: SpiderPreferenceFragment <---替换为---> KOJDialogMazeFragment
+类名: SpiderettePreferenceFragment <---替换为---> WTSessionDrawerFragment
+类名: DealCards <---替换为---> JRBDynamic
+类名: VegasPreferenceFragment <---替换为---> HIntegersDynamicFragment
+类名: YukonPreferenceFragment <---替换为---> KEntryLockFragment
+类名: Mod3PreferenceFragment <---替换为---> XBRFieldFragment
+类名: SimpleSimon <---替换为---> HTAAbstractBottom
+类名: NapoleonsTombPreferenceFragment <---替换为---> CLSDumpMoneyFragment
+类名: MD5 <---替换为---> PKShadow
+类名: DialogPreferenceMenuBarPosition <---替换为---> AAutocompleteBlue
+类名: GetInstallReferrerService <---替换为---> UZGypsy
+类名: Canfield <---替换为---> YEditPeaks
+类名: RefField <---替换为---> PBDMovability
+类名: Spider <---替换为---> OAdapterHighlight
+类名: SemClipboardObserver <---替换为---> QNOImpl
+类名: CardAndStack <---替换为---> KEdit
+类名: Stack <---替换为---> MAHResizingLibjcore
+类名: HighScoresFragment <---替换为---> DDLMoveSecurityFragment
+类名: OS <---替换为---> KIMain
+类名: DialogPreferenceMenuHideGames <---替换为---> ZThisMoves
+类名: ServiceX <---替换为---> UDondorfTask
+类名: GmsServiceBroker <---替换为---> OTUWidgetCustomize
+类名: GmsCallbacks <---替换为---> RMatch
+类名: RefMethod <---替换为---> NYHandlerInit
+类名: SharedData <---替换为---> TAbstractHeader
+类名: RecentScoresFragment <---替换为---> FECircleChangerFragment
+类名: Spiderette <---替换为---> NHFSimon
+类名: iLog <---替换为---> IVBackgroundsText
+类名: EnsureMovability <---替换为---> HLSpiderParis
+类名: AAAHelper <---替换为---> KMovingPage
+类名: DialogPreferenceMenuOrder <---替换为---> RDataPath
+类名: WaitForAnimationHandler <---替换为---> PResetPreviews
+类名: RSA <---替换为---> KNPreviews
+类名: VERSION <---替换为---> CJSPositionVolume
+类名: FindMoves <---替换为---> WScreen
+类名: ShowDialog <---替换为---> ZPreferencesWifi
+类名: InAppBillingService <---替换为---> USide
+类名: ActivityTrack <---替换为---> CGraphicsLayout
+类名: CustomHandler <---替换为---> VOPreviewsScore
+类名: MessageCallBack <---替换为---> CILLibjcoreAdvertising
+类名: StatisticsActivity <---替换为---> HZFreecellActivity
+类名: HideWinPercentage <---替换为---> YOTConstructorInstall
+类名: SensorObserver <---替换为---> LDownloadSide
+类名: AboutActivity <---替换为---> WFileActivity
+类名: CustomAppCompatActivity <---替换为---> ILightbulbNapoleonsActivity
+类名: DialogPreferenceMenuRows <---替换为---> IDeveloperHighlight
+类名: InterfaceObserver <---替换为---> VDZMethod
+类名: DialogEnsureMovability <---替换为---> ZLColorGradlew
+类名: TriPeaks <---替换为---> FSAssembly
+类名: InformationFragment <---替换为---> OIPyramidActivtyFragment
+类名: Tests <---替换为---> YCUShowFragment
+类名: StatisticsFragment <---替换为---> UVSummaryBasicFragment
+类名: MatchManager <---替换为---> VOStopSensor
+类名: Match <---替换为---> HAEntry
+类名: DialogPreferenceMusicVolume <---替换为---> RBackgroundsSounds
+类名: DialogHighScoreDelete <---替换为---> VSAuto
+类名: Vegas <---替换为---> TSQStable
+类名: TabsPagerAdapter <---替换为---> TUsageImage
+类名: TabsPagerAdapter <---替换为---> TUsageImage
+类名: GraphicsStatsObserver <---替换为---> TMainNotification
+类名: GameLogic <---替换为---> ABHighlightAudio
+类名: SessionObserver <---替换为---> QMCircleTests
+类名: CustomCheckBoxPreference <---替换为---> FUndos
+类名: Hint <---替换为---> VLibnonReferrer
+类名: DialogInGameHelpMenu <---替换为---> ISMountPower
+类名: DialogPreferenceOnlyForThisGame <---替换为---> ARJStrings
+类名: XFile <---替换为---> WPFusion
+类名: Element <---替换为---> FLHMediaHandler
+类名: TelephonyObserver <---替换为---> MBLayoutSensor
+类名: AdKey <---替换为---> QRowsAudio
+类名: CustomDialogFragment <---替换为---> JNYBlueMovingFragment
+类名: LocaleChanger <---替换为---> YVTInstallAlarm
+类名: DialogPreferenceTextColor <---替换为---> WKAssembly
+类名: ProxyManager <---替换为---> IEWifi
+类名: ConnectionProxy <---替换为---> TPictureWith
+类名: ConnectionMatch <---替换为---> LEXChanger
+类名: ProviderMatch <---替换为---> XEmpty
+类名: TelephonyRegistryObserver <---替换为---> OYJDownThis
+类名: DialogPreferenceVegasBetAmount <---替换为---> SGXTests
+类名: CustomDialogPreference <---替换为---> FJYStatistics
+类名: DummyGame <---替换为---> JFHCustomize
+类名: AccountObserver <---替换为---> JFLightbulb
+类名: MovingCards <---替换为---> CADondorfFragment
+类名: DialogInGameMenu <---替换为---> AQDialogConfig
+类名: UsageStatsObserver <---替换为---> MOrderInformation
+类名: Yukon <---替换为---> GROPeaksSimple
+类名: HomeTrack <---替换为---> JEditPurple
+类名: HomeKeyReceiver <---替换为---> PRightVegas
+类名: CustomImageView <---替换为---> JQGBaseView
+类名: OnHomeListener <---替换为---> TEFade
+类名: UserObserver <---替换为---> KHBottom
+类名: CustomPreference <---替换为---> XSharedStar
+类名: XObject <---替换为---> BLPreferenceOrderObject
+类名: HandlerObserver <---替换为---> SIScreenPager
+类名: FortyEight <---替换为---> IProxy
+类名: GameManager <---替换为---> KGradlew
+类名: HandlerLoadGame <---替换为---> SQShared
+类名: AdSelectorImpl <---替换为---> TNShadow
+类名: XRequest <---替换为---> MVColorWifi
+类名: Preferences <---替换为---> BJSummaryDelete
+类名: DialogPreferenceVegasResetMoney <---替换为---> AGPoolMiddle
+类名: OnTrackListener <---替换为---> TBTestsPreviews
+类名: WifiObserver <---替换为---> WVMatchPool
+类名: ITrack <---替换为---> NLJEntryEncryption
+类名: CustomPreferenceFragment <---替换为---> PJAUserMovesFragment
+类名: DialogMixCards <---替换为---> ZQAnimation
+类名: CfgFile <---替换为---> NEJStop
+类名: XShell <---替换为---> TFPAbout
+类名: OnShell <---替换为---> BSGInstall
+类名: ActivityObserver <---替换为---> OJDServiceScreen
+类名: RecordList <---替换为---> SGMovement
+类名: DialogRedeal <---替换为---> ZEReturn
+类名: Entry <---替换为---> UDown
+类名: InputObserver <---替换为---> TKSActivtyShared
+类名: IAdInfo <---替换为---> ETTShell
+类名: RESET <---替换为---> ZERRows
+类名: MountManager <---替换为---> IOColumnsStacks
+类名: PackageManager <---替换为---> EHONotification
+类名: WindowManager <---替换为---> ZPWAdvertisingSide
+类名: ActivityTaskManager <---替换为---> VStableDimens
+类名: HandlerStopBackgroundMusic <---替换为---> ZMRegisterLibcocosdjs
+类名: DialogStartNewGame <---替换为---> MLFCalculation
+类名: WindowObserver <---替换为---> CANPhone
+类名: IWindowSession <---替换为---> WQDActivity
+类名: IAdInit <---替换为---> VVManager
+类名: JobObserver <---替换为---> WVBillingAccount
+类名: Freecell <---替换为---> LVBaseResizingCell
+类名: HandlerTimer <---替换为---> KNPHintPath
+类名: ActivityX <---替换为---> GELogicBackup
+类名: GameSelector <---替换为---> CStatisticsContent
+类名: IAdRely <---替换为---> VKService
+类名: ServiceInterface <---替换为---> BVPurpleSpider
+类名: Scores <---替换为---> HYEMoving
+类名: UpdateScore <---替换为---> RZLoad
+类名: XZip <---替换为---> HIColorsOther
+类名: AndroidX <---替换为---> KOFourCanfield
+类名: PackageTrack <---替换为---> HJDeleteGreen
+类名: PackageReceiver <---替换为---> RBlack
+类名: OnPakcageListener <---替换为---> PTRAdvertising
+类名: MediaRouterObserver <---替换为---> DLManifest
+类名: DialogPreferenceBackgroundColor <---替换为---> MNPreviews
+类名: CheckBoxPreferenceFourColorMode <---替换为---> PRGreen
+类名: ActivityTaskObserver <---替换为---> IInput
+类名: DialogWon <---替换为---> ADeveloperAnimation
+类名: ServiceManager <---替换为---> UWWith
+类名: IAdSelector <---替换为---> VNQCalculationPower
+类名: ScreenTrack <---替换为---> WVEight
+类名: ScreenReceiver <---替换为---> NFPreviewsAccount
+类名: Manual <---替换为---> JEPictureMiddle
+类名: AlarmObserver <---替换为---> RWDrawerMode
+类名: DialogPreferenceCardBackground <---替换为---> LProxyHighlight
+类名: DynamicListView <---替换为---> ILibnonDownloadView
+类名: Animate <---替换为---> XMovesBlue
+类名: VERSION <---替换为---> CJSPositionVolume
+类名: Game <---替换为---> TAnimation
+类名: RecycleCounterCallback <---替换为---> XSensorRules
+类名: MountObserver <---替换为---> GVHighlightPager
+类名: SplashActivity <---替换为---> YNNStableActivity
+类名: VERSION <---替换为---> CJSPositionVolume
+类名: CheckBoxPreferenceHideAutoCompleteButton <---替换为---> VLChangerPrefButton
+类名: DialogPreferenceCards <---替换为---> DEOSession
+类名: sdk <---替换为---> GVTests
+类名: Sounds <---替换为---> ZBCustomize
+类名: AutoComplete <---替换为---> JGRight
+类名: Golf <---替换为---> PJCPurpleLeft
+类名: CheckBoxPreferenceHideMenuButton <---替换为---> OLibmplameBufferButton
+类名: HelperCardMovement <---替换为---> KMKSensorInit
+类名: HelperCardMovementHandler <---替换为---> ZClassic
+类名: DialogPreferenceEnsureMovabilityMinMoves <---替换为---> SStopBackup
+类名: NotificationObserver <---替换为---> SWithLightbulb
+类名: RefBase <---替换为---> RSpider
+类名: Android <---替换为---> EWInputGraphics
+类名: AdHelper <---替换为---> LDownloadNumber
+类名: AdDestroy <---替换为---> NUsage
+类名: AppCompatPreferenceActivity <---替换为---> SCalculationActivity
+类名: GrandfathersClock <---替换为---> NAWait
+类名: AppOpsObserver <---替换为---> XAndroidSimon
+类名: AES <---替换为---> COColorsUsage
+类名: AudioObserver <---替换为---> COxygen
+类名: Gypsy <---替换为---> GSColors
+类名: AutofillObserver <---替换为---> TGOHeaders
+类名: BASE64 <---替换为---> BRHint
+类名: Coder <---替换为---> GBSMenuCustom
+类名: Decoder <---替换为---> VPreference
+类名: Encoder <---替换为---> CFromMusic
+类名: ClipboardObserver <---替换为---> ZQTColumns
+类名: Klondike <---替换为---> WIEAutofill
+类名: BufferPool <---替换为---> ZWFShellDelete
+类名: ConnectivityObserver <---替换为---> JKUUsageThis
+类名: Maze <---替换为---> JWEDarkLoad
+类名: DEBUG <---替换为---> KLibjcorePoker
+类名: encryption <---替换为---> OGLauncher
+类名: FileLock <---替换为---> MLibgtcoreApplication
+
+
+开始替换所有源文件中的类名。。。。。。
+
+
+
+混淆类名耗时：1.5459620952606201秒
+
+
+混淆图片xml资源耗时：5.2453858852386475秒
+
+<color>: blueBackground ===> providerLight
+<color>: white ===> headersTask
+<color>: greenBackground ===> managerIconAces
+<color>: colorDrawerSelected ===> gradleGoogle
+<dimen>: menuBarWidht ===> providerInfoDownload
+<dimen>: dialogBackgroundColorBoxWidth ===> referrerMarginsStop
+<dimen>: layout_paddingLandscape ===> securityAces
+<dimen>: statistics_text_size ===> return_jmFade
+<dimen>: list_item_height ===> changerPreviewsShared
+<dimen>: list_text_size ===> menuAbstract_vBilling
+<dimen>: menuBarHeight ===> spiderettePagerGames
+<dimen>: card_view_padding_horizontal ===> libjcorePyramid
+<dimen>: fab_margin ===> securityTrackDondorf
+<dimen>: game_selector_images_padding ===> libmplameColumnsLocale
+<dimen>: dialog_menu_button_margin ===> acesFile
+<dimen>: nav_header_height ===> xlargeIntentStar
+<dimen>: changelog_title_padding ===> dumpUndosRight
+<dimen>: dialog_menu_text_size ===> stopClipboardSpider
+<dimen>: nav_header_vertical_spacing ===> gypsyTombBlack
+<dimen>: activity_vertical_margin ===> init_fsYellowLibgtcore
+<dimen>: statistics_table_padding ===> taskIconRules
+<dimen>: changelog_linear_layout_Padding ===> soundsPhoneMain
+<dimen>: layout_padding ===> pathConstructor
+<dimen>: game_layout_margins_small ===> animateUserColors
+<dimen>: game_layout_margins_large ===> arrayBlack
+<dimen>: activity_horizontal_margin ===> borderEncryptionGradlew
+<dimen>: drawer_size ===> notificationLibjcoreBuild
+<dimen>: preference_widget_height ===> colorDeveloperStatistics
+<dimen>: preference_widget_max_height ===> blueMountConnectivity
+<dimen>: changelog_card_corner_radius ===> settingsSettingsObject
+<dimen>: dialogBackgroundColorBoxWidthLandscape ===> widget_idAbstract_s
+<dimen>: card_view_padding_vertical ===> gradleSettings
+<dimen>: game_layout_margins_medium ===> graphicsReset
+<dimen>: changelog_text_padding ===> serviceBottom
+<dimen>: dialog_menu_layout_padding ===> packageLibnonParis
+<string>: settings_expert_settings_text ===> grandfathersLibjcore
+<string>: settings_simple ===> listMatchMode
+<string>: settings_hide_score ===> textDummyWith_g6
+<string>: settings_icon_theme ===> stableAutofill
+<string>: settings_abstract ===> bitmapsDownloadText
+<string>: settings_mod3_auto_move_text ===> showYukonBugly
+<string>: settings_game_layout_margins_title ===> stackLocale
+<string>: white ===> headersTask
+<string>: settings_developer_option_improve_auto_move_text ===> dynamic_aRouter
+<string>: settings_restart_game ===> fourLogic
+<string>: settings_auto_move_title ===> matchNapoleons
+<string>: settings_single_tap_all_games_text ===> golfStyles
+<string>: settings_support ===> networkRegistryLibgtcore
+<string>: games_Canfield ===> eightServiceCard
+<string>: statistics_button_delete_text ===> soundsTomb
+<string>: statistics_high_scores ===> bitmapsHideMargins
+<string>: settings_developer_option_deal_correct_sequences_1 ===> providerMenuNetwork
+<string>: settings_number_input_error ===> usageIntentActivty
+<string>: Settings_sounds_title ===> movesMusic
+<string>: settings_language_chinese_simplified ===> modityInfoRely
+<string>: settings_developer_options_lock_text ===> dondorfBluePeaks
+<string>: games_Golf ===> settingsRouterMusic
+<string>: dialog_mix_cards_not_available ===> baseAnimationRules
+<string>: settings_developer_options_play_every_card_title ===> classicBooleansDownload
+<string>: settings_spider_difficultiy_3 ===> columnsThis_fxHelp
+<string>: settings_reset_to_defaults ===> usageMain
+<string>: settings_oxygen_dark ===> modityPref
+<string>: settings_tap_to_select_enable ===> iconIntentCustom
+<string>: settings_movement_speed_4 ===> loginSession
+<string>: games_TriPeaks ===> bitmapsStrings
+<string>: settings_background ===> resetBitmaps
+<string>: settings_pyramid_difficulty ===> bitmapsList
+<string>: games_Pyramid ===> availableDark
+<string>: settings_canfield_size_of_reserve_2 ===> classicArrow
+<string>: games_AcesUp ===> layoutClipboardGrandfathers
+<string>: settings_max_number_undos ===> amountNews
+<string>: games_mod3 ===> movementOrangeVolume
+<string>: settings_additional_movements_description ===> colorIntegers
+<string>: settings_game_layout_margins_none ===> managerStar
+<string>: settings_vegas_money_reset_text ===> modernLogin
+<string>: title_activity_statistics ===> stylesLockFrom
+<string>: settings_golf_easy_description ===> movementApplication
+<string>: statistics_win_percentage ===> stringsTomb
+<string>: settings_calculation_alternative_title ===> animationUserNotification
+<string>: settings_background_color_custom ===> activtyRows
+<string>: statistics_recent_scores ===> changerCheck
+<string>: statistics_button_deleted_all_entries ===> hideCloseGradle
+<string>: settings_4_color_mode_text ===> stylesBooleans
+<string>: settings_immersive_mode_title ===> buglyCalculationFusion
+<string>: manual_NapoleonsTomb_scoring ===> moveStableSummary
+<string>: app_version ===> purpleInput
+<string>: game_score ===> backgroundsFortyMove
+<string>: settings_developer_option_deal_correct_sequences_5 ===> animationBackupInput
+<string>: settings_movement_speed_3 ===> stablePref
+<string>: settings_show_advanced_settings_title ===> loginYellow
+<string>: settings_double_tap_enable ===> local_9gMethodsPower
+<string>: settings_developer_options_play_every_card_text ===> compatTime_bb
+<string>: settings_movement_speed ===> showReturn_rjRedeal
+<string>: settings_language_turkish ===> wifiLocale
+<string>: settings_modern ===> installSimple
+<string>: settings_canfield_draw ===> movingMovabilityBroker
+<string>: settings_ensure_movability_min_moves_warning ===> interfaceAdvertising
+<string>: settings_language_ukrainian ===> gypsyBackground
+<string>: settings_classic ===> googleMiddle
+<string>: settings_background_music_2 ===> borderMovement
+<string>: games_NapoleonsTomb ===> showInstallHelp
+<string>: settings_poker ===> mediaSensorNumber
+<string>: settings_about_description ===> editInterfacePurple
+<string>: settings_number_of_recycles ===> brokerDummyConfig
+<string>: settings_vegas_bet_amount_text_1 ===> fortyTimerCenter
+<string>: settings_language_hungarian ===> volumeField
+<string>: settings_menu_bar_position_top ===> mediaLocal_r
+<string>: settings_language_norwegian ===> waitFusionNotification
+<string>: settings_ensure_movability_searching_games ===> telephonyEncryptionCircle
+<string>: settings_developer_options_instant_win_text ===> backgroundsDummyLauncher
+<string>: settings_language_finnish ===> scoreScore
+<string>: settings_4_color_mode_title ===> drawerIntent
+<string>: statistics_total_number_undos ===> libnonLibgtcore
+<string>: settings_hide_auto_complete_button ===> backgroundWith__yPurple
+<string>: settings_ensure_movability_winnable ===> movementNetwork
+<string>: statistics_hide_win_percentage ===> routerOxygenGradlew
+<string>: settings_back_press ===> packSensorFour
+<string>: games_GrandfathersClock ===> resizingMatch
+<string>: Settings_background_music ===> timerMatch
+<string>: dialog_win_bonus ===> sessionHeaderImage
+<string>: settings_ensure_movability_min_moves_title ===> preferenceMarginsMoves
+<string>: dialog_no_hint_available ===> notificationConfig
+<string>: settings_developer_option_improve_auto_move_title ===> colorGradlew
+<string>: menu_undo ===> rulesMoves
+<string>: settings_menu_columns ===> shellLogin
+<string>: games_Klondike ===> informationMazeTrack
+<string>: settings_menu_games_description ===> recentAdapter
+<string>: settings_vegas_money_enabled_text ===> method_lBackupFusion
+<string>: games_Yukon ===> compatAuto_moStrings
+<string>: dialog_mix_cards_title ===> gypsyClose
+<string>: settings_menu_bar_position_left ===> starSoundsClass_no
+<string>: settings_developer_options_instant_win_title ===> buildLocaleBugly
+<string>: settings_game_layout_margins_large ===> showCenter
+<string>: settings_ensure_movability_make_game_winnable_button_title ===> applicationList
+<string>: settings_customization_description ===> imagePath
+<string>: item_return_to_main_menu ===> tombDummy
+<string>: settings_vegas_bet_amount ===> recentLocalePyramid
+<string>: dialog_no_movement_possible ===> launcherMenuReset
+<string>: settings_games ===> movesEmptyPref
+<string>: settings_vegas_money_reset_confirm ===> drawerReferrerFile
+<string>: settings_menu_games ===> starAnimateDownload
+<string>: settings_pyramid_auto_move_text ===> pathAdvancedFour
+<string>: settings_dialog_only_for_this_game_information_3 ===> timerPageHandler
+<string>: settings_use_true_randomisation_text ===> libgtcoreFromSounds
+<string>: manual_Spiderette_structure ===> purpleField
+<string>: settings_left_handed_mode ===> drawerActivity
+<string>: settings_yukon_rules ===> mountFragmentHelp
+<string>: games_SimpleSimon ===> cardAces
+<string>: settings_money ===> pathSplash
+<string>: game_close ===> sensorPurple
+<string>: blue ===> dialogShared
+<string>: title_activity_about ===> movingLoadRely
+<string>: settings_back_press_description ===> hintMargins
+<string>: statistics_no_entries ===> newsLight
+<string>: settings_hide_menu_button ===> time_tjGamesMode
+<string>: settings_auto_start_new_game_title ===> textConfigField
+<string>: settings_game_layout_margins_medium ===> clipboardBuglyDeal
+<string>: settings_ensure_movability_title ===> buildPackHelp
+<string>: settings_developer_options_move_card_everwhere_text ===> register__OxygenLibcocosdjs
+<string>: game_press_again ===> mainBorderAces
+<string>: settings_landscape_upside_down ===> modeManager
+<string>: settings_menu_order_title ===> drawerCompat
+<string>: settings_developer_options_description ===> classicResetLoad
+<string>: settings_draw_1 ===> constructorFusion
+<string>: statistics_button_delete ===> advertisingCenter
+<string>: settings_other ===> pokerStacks
+<string>: statistics_date ===> blackVolume
+<string>: settings_win_sounds_3 ===> textStableRecent
+<string>: settings_double_tap ===> mountHideSummary
+<string>: item_game_rules ===> leftEntry
+<string>: settings_menu_order_set_default ===> ensurePurpleMethod_3
+<string>: settings_orientation ===> connectivityFreecell
+<string>: dialog_show_hints ===> recentHelperBooleans
+<string>: green ===> scoreModern
+<string>: games_FortyEight ===> aboutNews
+<string>: settings_cards_paris ===> testsManager
+<string>: settings_landscape ===> brokerCenterGypsy
+<string>: settings_win_sounds_1 ===> eightNews
+<string>: statistics_total_time ===> observerLibmplameRegistry
+<string>: settings_language_german ===> classicPokerAbout
+<string>: settings_developer_options_deal_correct_sequences_title ===> launcherNumber
+<string>: settings_ensure_movability_text ===> contentAdapterIntegers
+<string>: settings_canfield_size_of_reserve_title ===> register_2LockHint
+<string>: settings_expert_settings ===> routerBorder
+<string>: settings_diable_undo_costs ===> rulesPackAnimation
+<string>: settings_immersive_mode_text ===> activtyInformationFour
+<string>: settings_diable_hint_costs ===> blackMoving
+<string>: statistics_time_of_day ===> entrySummaryCalculation
+<string>: settings_spider_difficultiy_2 ===> assemblyTextSide
+<string>: settings_show_main_menu_description ===> userClassic
+<string>: title_activity_settings ===> newsRulesCenter
+<string>: settings_language_default ===> completeEncryption
+<string>: settings_single_tap_enable_text ===> connectivityObserverMode
+<string>: manual_ui_text_part_1 ===> lightList
+<string>: dialog_start_new_game_title ===> brokerUsageLogic
+<string>: settings_left_handed_mode_description ===> dummyMaze
+<string>: settings_developer_option_deal_correct_sequences_3 ===> shellGreen
+<string>: settings_language_spanish ===> networkBlackDump
+<string>: games_Freecell ===> previewDummyMaze
+<string>: manual_NapoleonsTomb_structure ===> dondorfImage
+<string>: settings_language_japanese ===> register_1ResetBlack
+<string>: settings_hide_time ===> androidStringsBuild
+<string>: settings_developer_options_move_card_everwhere_title ===> gameFreecellHeaders
+<string>: dialog_mix_cards_text ===> homeBottomLoad
+<string>: settings_golf_easy ===> fourSensor
+<string>: yellow ===> drawerDondorfManager
+<string>: settings_developer_option_deal_correct_sequences_2 ===> sensorDownloadColors
+<string>: settings_language_portuguese ===> prefObserverBackup
+<string>: settings_cards_back ===> lightGraphics
+<string>: settings_tap_to_select ===> waitClose
+<string>: settings_vegas_money_enabled ===> napoleonsPyramid
+<string>: settings_follow_system_settings ===> downObjectMovement
+<string>: purple ===> routerScoreCustom
+<string>: settings_background_music_5 ===> testsManualCircle
+<string>: settings_dialog_only_for_this_game_information_2 ===> positionLightbulbRight
+<string>: facebook_client_token ===> downWidget_fxRight
+<string>: settings_double_tap_foundation_first ===> objectRegister_ruAdapter
+<string>: settings_auto_start_new_game_text ===> changerStableCheck
+<string>: settings_vegas_money_reset ===> moveRecent
+<string>: settings_dialog_only_for_this_game_enable_2 ===> gameLibcocosdjs
+<string>: settings ===> gypsyPreviews
+<string>: settings_double_tap_all_cards ===> userGamesRows
+<string>: red ===> pyramidLibmplameBasic
+<string>: settings_menu ===> textGradleCanfield
+<string>: settings_menu_bar_position ===> contentService
+<string>: settings_language_esperanto ===> editBuffer
+<string>: settings_hide_status_bar ===> init_aSelector
+<string>: settings_canfield_size_of_reserve_3 ===> optionsAnimationAlarm
+<string>: settings_limit_number_of_recycles ===> pageIntegersStats
+<string>: Settings_sound ===> fileNapoleons
+<string>: settings_rules ===> wifiImpl
+<string>: settings_basic ===> matchClose
+<string>: game_main_menu ===> libmplameIntent
+<string>: settings_pyramid_difficulty_1 ===> fourNewsTask
+<string>: settings_games_description ===> completeAudio
+<string>: settings_background_color ===> securityInit_mpNews
+<string>: settings_spider_difficultiy_1 ===> sensorDark
+<string>: games_Vegas ===> local_1lRight
+<string>: settings_win_sounds_4 ===> customizeOrangeAudio
+<string>: settings_background_music_1 ===> splashResizingDown
+<string>: settings_oxygen_light ===> abstract_dField
+<string>: game_load_error ===> phoneReferrerOxygen
+<string>: settings_menu_bar_position_right ===> cardsPage
+<string>: settings_force_tablet_layout_text ===> installBrokerSide
+<string>: settings_show_main_menu ===> observerMatch
+<string>: settings_vegas_bet_amount_summary ===> configSideColors
+<string>: settings_spider_difficulty ===> loginCardMoves
+<string>: settings_win_sounds_2 ===> gypsyMountRules
+<string>: settings_pyramid_difficulty_2 ===> accountInterfaceClassic
+<string>: settings_menu_bar_position_bottom ===> this_hgFusionPack
+<string>: settings_background_music_4 ===> installArray
+<string>: title_activity_manual ===> local_ecFade
+<string>: settings_portrait ===> registryStylesStatistics
+<string>: settings_customization ===> helpMaze
+<string>: settings_language_polish ===> booleansIntent
+<string>: statistics_total_points_earned ===> columnsHelp
+<string>: settings_language_spanish_argentina ===> circleLogic
+<string>: settings_dialog_only_for_this_game_enable_1 ===> implGamesWifi
+<string>: settings_dialog_only_for_this_game_enable_3 ===> fileStringsEight
+<string>: settings_ensure_movability_min_moves_text ===> return_bPyramidTests
+<string>: settings_canfield_size_of_reserve_1 ===> modeHelperAnimation
+<string>: settings_additional_movements ===> checkYukonYellow
+<string>: Settings_win_sound_title ===> dondorfAccountAmount
+<string>: settings_double_tap_foundation_first_text ===> aboutManual
+<string>: settings_yukon_rules_1 ===> waitTime_2tNotification
+<string>: manual_Spiderette_scoring ===> expertPack
+<string>: manual_ui_text_part_10 ===> dynamic_bAndroidOrder
+<string>: facebook_app_id ===> contentVolume
+<string>: games_Maze ===> yukonCalculation
+<string>: settings_dialog_only_for_this_game_information_1 ===> manifestEnsureManifest
+<string>: settings_text_color ===> rightRows
+<string>: manual_Spiderette_rules ===> libmplameSplash
+<string>: settings_menu_description ===> darkRegistryTimer
+<string>: settings_double_tap_all_cards_text ===> objectService
+<string>: settings_ensure_movability_make_game_winnable_text ===> animationInputStatistics
+<string>: settings_game_layout_margins_text ===> poolAvailable
+<string>: settings_apply_only_for_this_game ===> customizeRegistryDeal
+<string>: settings_dialog_only_for_this_game_enable_4 ===> numberField
+<string>: manual_NapoleonsTomb_rules ===> blueNotificationBackgrounds
+<string>: menu_settings ===> animationFrom
+<string>: dialog_start_new_game_text ===> clockModernStar
+<string>: orange ===> stackAssembly
+<string>: settings_change_language ===> loadConnectivity
+<string>: game_cancel ===> billingTaskMoves
+<string>: dialog_win_total ===> volumeSpiderTabs
+<string>: settings_language_english ===> dataBasic
+<string>: settings_draw_3 ===> iconReturn_jAssembly
+<string>: settings_background_music_3 ===> clipboardResizing
+<string>: settings_cards_dondorf ===> parisLoad
+<string>: settings_dialog_only_for_this_game_removed_all ===> movesPreferences
+<string>: game_confirm ===> poolTaskCustomize
+<string>: menu_main_menu ===> eightEncryption
+<string>: Settings_sounds_text ===> dialogPreviews
+<string>: settings_language_portuguese_brazil ===> downloadDialog
+<string>: dialog_win_titel ===> centerBase
+<string>: settings_cards ===> settingsLoad
+<string>: statistics_text_won_games ===> with_eCheck
+<string>: games_Calculation ===> abstract_h6Available
+<string>: settings_limit_number_of_recycles_text ===> referrerImpl
+<string>: game_manual ===> moveShared
+<string>: dialog_redeal_text ===> blueReferrer
+<string>: black ===> installReferrer
+<string>: games_Gypsy ===> sharedListPref
+<string>: settings_calculation_alternative_text ===> parisThis_ofUsage
+<string>: dialog_win_score ===> activtyChangerMoving
+<string>: settings_developer_options_no_saving_title ===> libjcoreAudioData
+<string>: game_time ===> starThis_5r
+<string>: games_Spider ===> networkCalculation
+<string>: page_load_error ===> activtyPackBuild
+<string>: dialog_redeal_title ===> managerBuildPoker
+<string>: settings_klondike_draw ===> customBuglyLibgtcore
+<string>: settings_double_tap_enable_text ===> homeObjectMargins
+<string>: settings_use_true_randomisation_title ===> screenBottom
+<string>: settings_menu_order_summary ===> stacksWait
+<string>: settings_single_tap ===> bottomTestsDownload
+<string>: Settings_background_volume ===> libcocosdjsConstructorYukon
+<string>: settings_other_description ===> buttonRulesHeader
+<string>: settings_yukon_rules_2 ===> headersDummy
+<string>: settings_movement_speed_1 ===> golfCardButton
+<string>: settings_canfield_size_of_reserve_4 ===> movesClipboardActivty
+<string>: settings_tap_to_select_enable_text ===> headerRightDelete_s
+<string>: dialog_auto_move ===> rightMove
+<string>: settings_language_italian ===> phoneTask
+<string>: settings_game_layout_margins_small ===> resetNotification
+<string>: settings_dialog_only_for_this_game_disable ===> gradleMoveBooleans
+<string>: settings_single_tap_enable ===> rulesPyramid
+<string>: game_longest_run ===> dataUndo
+<string>: games_Spiderette ===> textResizingMatch
+<string>: settings_movement_speed_2 ===> closeSpiderLauncher
+<string>: settings_developer_options_no_saving_text ===> cardsBlueScore
+<string>: settings_ensure_movability_cancle_search ===> customLibcocosdjs
+<string>: settings_dialog_only_for_this_game_enable_5 ===> widget_gTrack
+<string>: settings_developer_option_deal_correct_sequences_4 ===> lightbulbTrackGolf
+<string>: settings_language_french ===> tabsLogic
+<string>: game_auto_complete_text ===> serviceExpertVolume
+<string>: settings_force_tablet_layout_title ===> statsImage
+<string>: settings_developer_options ===> billingUndosAutofill
+<string>: statistics_total_hints_shown ===> billingYellow
+<string>: settings_vegas_bet_amount_text_2 ===> centerEnsure
+<style>: AppThemeNoActionBar ===> preferenceInformation
+<style>: ThemeGameSelector ===> pageGreen
+<style>: AppThemeActionBar ===> waitActivty
+<string>: about_paris_themes_usage ===> testsSession
+
+
+开始混淆枚举。。。。。。。
+文件: [旧 Game <--> 新 TAnimation] enum: testMode -> XKBEightExpert
+文件: [旧 Game <--> 新 TAnimation] enum: testMode2 -> ZSettings
+文件: [旧 Game <--> 新 TAnimation] enum: testMode3 -> ASVClassicWifi
+文件: [旧 FusionPack <--> 新 FQInfo] enum: FusionPack -> FQInfo
+文件: [旧 OS <--> 新 KIMain] enum: Platform -> REEightSide
+文件: [旧 XFile <--> 新 WPFusion] enum: OPT -> RUndos
+文件: [旧 BackgroundMusic <--> 新 SPagerVolume] enum: status -> IArrayClose
+文件: [旧 Card <--> 新 Card] enum: movements -> FMove
+文件: [旧 CustomImageView <--> 新 JQGBaseView] enum: Object -> OArrowObserverObject
+文件: [旧 Sounds <--> 新 ZBCustomize] enum: names -> OSMusic
+文件: [旧 Stack <--> 新 MAHResizingLibjcore] enum: SpacingDirection -> BDBorder
+文件: [旧 Stack <--> 新 MAHResizingLibjcore] enum: ArrowDirection -> BMediaPack
+
+
+开始提取所有协议名并生成新协议名。。。。。。
+
+
+开始翻新xib、storyboard控件ID值以及布局微调。。。。。。
+
+
+开始多语言文件的key名称。。。。。。
+
+
+开始混淆xml布局文件插入垃圾UI布局代码。。。。。。
+
+
+开始自动检测类继承关系。。。。。。
+
+
+开始自动检测统计所有文件中属性信息。。。。。。
+
+
+开始自动修改sks资源名称。。。。。。。
+
+sks资源修改结束
+
+开始打乱函数定义顺序。。。。。。。
+100%👌
+
+开始提取分析源文件中函数名称。。。。。。。
+文件: [旧 AutoMove <--> 新 UAutofillLogin]    函数名称: start
+文件: [旧 DialogPreferenceGameLayoutMargins <--> 新 JXLStartGame]    函数名称: onBindDialogView
+文件: [旧 AcesUp <--> 新 NBillingAnimate]    函数名称: setStacks
+文件: [旧 DialogPreferenceGameLayoutMargins <--> 新 JXLStartGame]    函数名称: onDialogClosed
+文件: [旧 AcesUp <--> 新 NBillingAnimate]    函数名称: winTest
+文件: [旧 Mod3 <--> 新 EUYEncryption]    函数名称: winTest
+文件: [旧 AcesUp <--> 新 NBillingAnimate]    函数名称: dealCards
+文件: [旧 Mod3 <--> 新 EUYEncryption]    函数名称: dealCards
+文件: [旧 AcesUp <--> 新 NBillingAnimate]    函数名称: onMainStackTouch
+文件: [旧 Mod3 <--> 新 EUYEncryption]    函数名称: onMainStackTouch
+文件: [旧 AIDL <--> 新 LOrangeStatistics]    函数名称: getAIDL
+文件: [旧 Mod3 <--> 新 EUYEncryption]    函数名称: cardTest
+文件: [旧 AutoMove <--> 新 UAutofillLogin]    函数名称: saveState
+文件: [旧 AIDL <--> 新 LOrangeStatistics]    函数名称: toString
+文件: [旧 Mod3 <--> 新 EUYEncryption]    函数名称: validOrder
+文件: [旧 AutoMove <--> 新 UAutofillLogin]    函数名称: loadState
+文件: [旧 AcesUp <--> 新 NBillingAnimate]    函数名称: cardTest
+文件: [旧 AIDL <--> 新 LOrangeStatistics]    函数名称: equals
+文件: [旧 Mod3 <--> 新 EUYEncryption]    函数名称: addCardToMovementGameTest
+文件: [旧 AutoMove <--> 新 UAutofillLogin]    函数名称: stopCondition
+文件: [旧 AcesUp <--> 新 NBillingAnimate]    函数名称: addCardToMovementGameTest
+文件: [旧 Mod3 <--> 新 EUYEncryption]    函数名称: hintTest
+文件: [旧 AutoMove <--> 新 UAutofillLogin]    函数名称: moveCard
+文件: [旧 AcesUp <--> 新 NBillingAnimate]    函数名称: hintTest
+文件: [旧 Mod3 <--> 新 EUYEncryption]    函数名称: doubleTapTest
+文件: [旧 AIDL <--> 新 LOrangeStatistics]    函数名称: hashCode
+文件: [旧 Mod3 <--> 新 EUYEncryption]    函数名称: testAfterMove
+文件: [旧 AcesUp <--> 新 NBillingAnimate]    函数名称: doubleTapTest
+文件: [旧 CheckBoxPreferenceHideScore <--> 新 EGAvailableClose]    函数名称: onClick
+文件: [旧 CheckBoxPreferenceHideScore <--> 新 EGAvailableClose]    函数名称: update
+文件: [旧 AIDL <--> 新 LOrangeStatistics]    函数名称: setName
+文件: [旧 Mod3 <--> 新 EUYEncryption]    函数名称: excludeCardFromMixing
+文件: [旧 AIDL <--> 新 LOrangeStatistics]    函数名称: addClassLoader
+文件: [旧 AIDL <--> 新 LOrangeStatistics]    函数名称: forName
+文件: [旧 AIDL <--> 新 LOrangeStatistics]    函数名称: setAidlObject
+文件: [旧 BackgroundMusic <--> 新 SPagerVolume]    函数名称: changeVolume
+文件: [旧 AIDL <--> 新 LOrangeStatistics]    函数名称: setAidlClass
+文件: [旧 IntentX <--> 新 ODAOrder]    函数名称: onReceive
+文件: [旧 AIDL <--> 新 LOrangeStatistics]    函数名称: setStubClass
+文件: [旧 Settings <--> 新 PUMovability]    函数名称: onCreate
+文件: [旧 AIDL <--> 新 LOrangeStatistics]    函数名称: getStubClass
+文件: [旧 BackgroundMusic <--> 新 SPagerVolume]    函数名称: pausePlaying
+文件: [旧 Settings <--> 新 PUMovability]    函数名称: onIsMultiPane
+文件: [旧 NapoleonsTomb <--> 新 NYellow]    函数名称: load
+文件: [旧 EntryActivity <--> 新 JProxyBitmapsActivity]    函数名称: onCreate
+文件: [旧 Settings <--> 新 PUMovability]    函数名称: onBuildHeaders
+文件: [旧 NapoleonsTomb <--> 新 NYellow]    函数名称: setText
+文件: [旧 EntryActivity <--> 新 JProxyBitmapsActivity]    函数名称: onDestroy
+文件: [旧 AIDL <--> 新 LOrangeStatistics]    函数名称: setProxyClass
+文件: [旧 EntryActivity <--> 新 JProxyBitmapsActivity]    函数名称: onBackPressed
+文件: [旧 BackgroundMusic <--> 新 SPagerVolume]    函数名称: stopPlaying
+文件: [旧 Settings <--> 新 PUMovability]    函数名称: onSharedPreferenceChanged
+文件: [旧 AIDL <--> 新 LOrangeStatistics]    函数名称: getProxyClass
+文件: [旧 NapoleonsTomb <--> 新 NYellow]    函数名称: afterUndo
+文件: [旧 EntryActivity <--> 新 JProxyBitmapsActivity]    函数名称: loadWaitView
+文件: [旧 AIDL <--> 新 LOrangeStatistics]    函数名称: setAsInterface
+文件: [旧 Settings <--> 新 PUMovability]    函数名称: finish
+文件: [旧 EntryActivity <--> 新 JProxyBitmapsActivity]    函数名称: gotoMain
+文件: [旧 AIDL <--> 新 LOrangeStatistics]    函数名称: getAidlClass
+文件: [旧 BackgroundMusic <--> 新 SPagerVolume]    函数名称: continuePlaying
+文件: [旧 Settings <--> 新 PUMovability]    函数名称: isValidFragment
+文件: [旧 EntryActivity <--> 新 JProxyBitmapsActivity]    函数名称: onAdInit
+文件: [旧 Settings <--> 新 PUMovability]    函数名称: updatePreferenceMenuColumnsSummary
+文件: [旧 Timer <--> 新 NOxygen]    函数名称: getCurrentTime
+文件: [旧 Settings <--> 新 PUMovability]    函数名称: updatePreferenceGameLayoutMarginsSummary
+文件: [旧 Timer <--> 新 NOxygen]    函数名称: setCurrentTime
+文件: [旧 Settings <--> 新 PUMovability]    函数名称: updatePreferenceMaxNumberUndos
+文件: [旧 Timer <--> 新 NOxygen]    函数名称: save
+文件: [旧 Settings <--> 新 PUMovability]    函数名称: updatePreferenceMenuBarPositionSummary
+文件: [旧 Timer <--> 新 NOxygen]    函数名称: reset
+文件: [旧 Calculation <--> 新 VInfoCheck]    函数名称: setTexts
+文件: [旧 Timer <--> 新 NOxygen]    函数名称: isRunning
+文件: [旧 Settings <--> 新 PUMovability]    函数名称: updatePreferenceBackgroundVolumeSummary
+文件: [旧 Timer <--> 新 NOxygen]    函数名称: getStartTime
+文件: [旧 Timer <--> 新 NOxygen]    函数名称: setWinningTime
+文件: [旧 Settings <--> 新 PUMovability]    函数名称: onCreate
+文件: [旧 Timer <--> 新 NOxygen]    函数名称: setStartTime
+文件: [旧 CheckBoxPreferenceHideTime <--> 新 PRRSimpleCanfield]    函数名称: onClick
+文件: [旧 Settings <--> 新 PUMovability]    函数名称: hidePreferenceOnlyForThisGame
+文件: [旧 PackageX <--> 新 SVLFromMoves]    函数名称: run
+文件: [旧 ListPreferenceWithSummary <--> 新 LRStacks]    函数名称: setValue
+文件: [旧 ListPreferenceWithSummary <--> 新 LRStacks]    函数名称: setSummary
+文件: [旧 FusionApp <--> 新 HPTConfig]    函数名称: attachBaseContext
+文件: [旧 ListPreferenceWithSummary <--> 新 LRStacks]    函数名称: onCreateView
+文件: [旧 FusionPack <--> 新 FQInfo]    函数名称: getApplication
+文件: [旧 DialogPreferenceMaxNumberUndos <--> 新 XNFreecell]    函数名称: onBindDialogView
+文件: [旧 FusionPack <--> 新 FQInfo]    函数名称: isLoad
+文件: [旧 DialogPreferenceMaxNumberUndos <--> 新 XNFreecell]    函数名称: onDialogClosed
+文件: [旧 FusionPack <--> 新 FQInfo]    函数名称: unloadResFile
+文件: [旧 FusionPack <--> 新 FQInfo]    函数名称: loadResFile
+文件: [旧 Bitmaps <--> 新 APurpleStop]    函数名称: checkResources
+文件: [旧 FusionPack <--> 新 FQInfo]    函数名称: LoadDVD
+文件: [旧 Bitmaps <--> 新 APurpleStop]    函数名称: setResources
+文件: [旧 Bitmaps <--> 新 APurpleStop]    函数名称: getMenu
+文件: [旧 Bitmaps <--> 新 APurpleStop]    函数名称: drawTextToBitmap
+文件: [旧 Bitmaps <--> 新 APurpleStop]    函数名称: getStackBackground
+文件: [旧 Bitmaps <--> 新 APurpleStop]    函数名称: getCardFront
+文件: [旧 LoadGame <--> 新 EColor]    函数名称: loadClass
+文件: [旧 Bitmaps <--> 新 APurpleStop]    函数名称: getCardBack
+文件: [旧 LoadGame <--> 新 EColor]    函数名称: loadAllGames
+文件: [旧 Bitmaps <--> 新 APurpleStop]    函数名称: getCardPreview
+文件: [旧 LoadGame <--> 新 EColor]    函数名称: getMenuShownList
+文件: [旧 Canfield <--> 新 YEditPeaks]    函数名称: setFoundationBackgrounds
+文件: [旧 LoadGame <--> 新 EColor]    函数名称: getOrderedGameList
+文件: [旧 Canfield <--> 新 YEditPeaks]    函数名称: autoCompleteStartTest
+文件: [旧 IDump <--> 新 HORDondorfUser]    函数名称: dump
+文件: [旧 Canfield <--> 新 YEditPeaks]    函数名称: autoCompletePhaseOne
+文件: [旧 LoadGame <--> 新 EColor]    函数名称: getGameCount
+文件: [旧 Bitmaps <--> 新 APurpleStop]    函数名称: getCardPreview2
+文件: [旧 Canfield <--> 新 YEditPeaks]    函数名称: autoCompletePhaseTwo
+文件: [旧 SettingsGames <--> 新 XEPreferences]    函数名称: onResume
+文件: [旧 LoadGame <--> 新 EColor]    函数名称: getOrderedGameNameList
+文件: [旧 SettingsGames <--> 新 XEPreferences]    函数名称: onPause
+文件: [旧 LoadGame <--> 新 EColor]    函数名称: getOrderedGameInfoList
+文件: [旧 Bitmaps <--> 新 APurpleStop]    函数名称: resetMenuPreviews
+文件: [旧 AdvertisingIdService <--> 新 QKBasic]    函数名称: onConnectedBind
+文件: [旧 LoadGame <--> 新 EColor]    函数名称: getSharedPrefNameOfGame
+文件: [旧 SettingsGames <--> 新 XEPreferences]    函数名称: isValidFragment
+文件: [旧 LoadGame <--> 新 EColor]    函数名称: getGameName
+文件: [旧 SettingsGames <--> 新 XEPreferences]    函数名称: updatePreferenceVegasBetAmountSummary
+文件: [旧 LoadGame <--> 新 EColor]    函数名称: getSharedPrefName
+文件: [旧 LoadGame <--> 新 EColor]    函数名称: getName
+文件: [旧 LoadGame <--> 新 EColor]    函数名称: canStartWinnableGame
+文件: [旧 LoadGame <--> 新 EColor]    函数名称: getEnsureMovabilityMoves
+文件: [旧 StableArrayAdapter <--> 新 COYAbout]    函数名称: getItemId
+文件: [旧 DialogPreferenceMenuBarPosition <--> 新 AAutocompleteBlue]    函数名称: onBindDialogView
+文件: [旧 Pyramid <--> 新 SMenuDump]    函数名称: testIfMainStackTouched
+文件: [旧 StableArrayAdapter <--> 新 COYAbout]    函数名称: hasStableIds
+文件: [旧 DialogPreferenceMenuBarPosition <--> 新 AAutocompleteBlue]    函数名称: onDialogClosed
+文件: [旧 AutoResizingTextView <--> 新 DProviderView]    函数名称: onTextChanged
+文件: [旧 AutoResizingTextView <--> 新 DProviderView]    函数名称: onSizeChanged
+文件: [旧 MainApplication <--> 新 NKFade]    函数名称: attachBaseContext
+文件: [旧 AutoResizingTextView <--> 新 DProviderView]    函数名称: setOnResizeListener
+文件: [旧 Pyramid <--> 新 SMenuDump]    函数名称: stackIsFree
+文件: [旧 AutoResizingTextView <--> 新 DProviderView]    函数名称: setTextSize
+文件: [旧 MainApplication <--> 新 NKFade]    函数名称: onConfigurationChanged
+文件: [旧 AutoResizingTextView <--> 新 DProviderView]    函数名称: setLineSpacing
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: onActivityCreated
+文件: [旧 AutoResizingTextView <--> 新 DProviderView]    函数名称: setMaxTextSize
+文件: [旧 Pyramid <--> 新 SMenuDump]    函数名称: excludeCardFromMixing
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: onActivityStarted
+文件: [旧 HighScoresFragment <--> 新 DDLMoveSecurityFragment]    函数名称: onCreateView
+文件: [旧 AutoResizingTextView <--> 新 DProviderView]    函数名称: getMaxTextSize
+文件: [旧 HighScoresFragment <--> 新 DDLMoveSecurityFragment]    函数名称: loadData
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: onActivityResumed
+文件: [旧 AutoResizingTextView <--> 新 DProviderView]    函数名称: setMinTextSize
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: onActivityPaused
+文件: [旧 AutoResizingTextView <--> 新 DProviderView]    函数名称: getMinTextSize
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: onActivityStopped
+文件: [旧 AutoResizingTextView <--> 新 DProviderView]    函数名称: setAddEllipsis
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: onActivitySaveInstanceState
+文件: [旧 AutoResizingTextView <--> 新 DProviderView]    函数名称: getAddEllipsis
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: onActivityDestroyed
+文件: [旧 AutoResizingTextView <--> 新 DProviderView]    函数名称: resetTextSize
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: startTrack
+文件: [旧 DialogPreferenceMenuHideGames <--> 新 ZThisMoves]    函数名称: onBindDialogView
+文件: [旧 AutoResizingTextView <--> 新 DProviderView]    函数名称: onLayout
+文件: [旧 DialogPreferenceMenuHideGames <--> 新 ZThisMoves]    函数名称: onClick
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: stopTrack
+文件: [旧 AutoResizingTextView <--> 新 DProviderView]    函数名称: resizeText
+文件: [旧 IInterfaceObserver <--> 新 DOxygenConnectivity]    函数名称: queryLocalInterface
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: isMainProcess
+文件: [旧 IInterfaceObserver <--> 新 DOxygenConnectivity]    函数名称: pingBinder
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: getPackageName
+文件: [旧 IInterfaceObserver <--> 新 DOxygenConnectivity]    函数名称: isBinderAlive
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: getProcessName
+文件: [旧 IInterfaceObserver <--> 新 DOxygenConnectivity]    函数名称: unlinkToDeath
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: checkIsAction
+文件: [旧 DialogPreferenceMenuHideGames <--> 新 ZThisMoves]    函数名称: onDialogClosed
+文件: [旧 AutoResizingTextView <--> 新 DProviderView]    函数名称: getTextHeight
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: getRunningTopEntry
+文件: [旧 Spider <--> 新 OAdapterHighlight]    函数名称: loadCards
+文件: [旧 IInterfaceObserver <--> 新 DOxygenConnectivity]    函数名称: setSource
+文件: [旧 IInterfaceObserver <--> 新 DOxygenConnectivity]    函数名称: attach
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: removeDeath
+文件: [旧 IInterfaceObserver <--> 新 DOxygenConnectivity]    函数名称: getAidl
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: getActivity
+文件: [旧 CardHighlight <--> 新 MHStringsAudio]    函数名称: set
+文件: [旧 ActivityTrack <--> 新 CGraphicsLayout]    函数名称: getTopActivity
+文件: [旧 CardHighlight <--> 新 MHStringsAudio]    函数名称: move
+文件: [旧 RecentScoresFragment <--> 新 FECircleChangerFragment]    函数名称: loadData
+文件: [旧 IInterfaceObserver <--> 新 DOxygenConnectivity]    函数名称: getIntent
+文件: [旧 CardHighlight <--> 新 MHStringsAudio]    函数名称: hide
+文件: [旧 IInterfaceObserver <--> 新 DOxygenConnectivity]    函数名称: onConnectedUnbind
+文件: [旧 IInterfaceObserver <--> 新 DOxygenConnectivity]    函数名称: getProviderHolder
+文件: [旧 GmsServiceBroker <--> 新 OTUWidgetCustomize]    函数名称: init
+文件: [旧 DialogPreferenceMenuOrder <--> 新 RDataPath]    函数名称: onBindDialogView
+文件: [旧 DialogPreferenceMenuOrder <--> 新 RDataPath]    函数名称: onDialogClosed
+文件: [旧 DummyGame <--> 新 JFHCustomize]    函数名称: methodsYouCanUse
+文件: [旧 DealCards <--> 新 JRBDynamic]    函数名称: saveState
+文件: [旧 DealCards <--> 新 JRBDynamic]    函数名称: loadState
+文件: [旧 DummyGame <--> 新 JFHCustomize]    函数名称: excludeCardFromMixing
+文件: [旧 DealCards <--> 新 JRBDynamic]    函数名称: moveCard
+文件: [旧 StatisticsActivity <--> 新 HZFreecellActivity]    函数名称: onOptionsItemSelected
+文件: [旧 StatisticsActivity <--> 新 HZFreecellActivity]    函数名称: setCallback
+文件: [旧 StatisticsActivity <--> 新 HZFreecellActivity]    函数名称: deleteHighScores
+文件: [旧 Spiderette <--> 新 NHFSimon]    函数名称: loadCards
+文件: [旧 DialogPreferenceMenuRows <--> 新 IDeveloperHighlight]    函数名称: onBindDialogView
+文件: [旧 Card <--> 新 Card]    函数名称: setImageBitmap
+文件: [旧 DialogPreferenceMenuRows <--> 新 IDeveloperHighlight]    函数名称: onDialogClosed
+文件: [旧 HomeTrack <--> 新 JEditPurple]    函数名称: registerReceiver
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: forceSetImageBitmap
+文件: [旧 Card <--> 新 Card]    函数名称: setCardFront
+文件: [旧 HomeTrack <--> 新 JEditPurple]    函数名称: unregisterReceiver
+文件: [旧 Card <--> 新 Card]    函数名称: setCardBack
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: addCard
+文件: [旧 Card <--> 新 Card]    函数名称: setColor
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: removeCard
+文件: [旧 Card <--> 新 Card]    函数名称: setLocation
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: isOnLocation
+文件: [旧 Card <--> 新 Card]    函数名称: setLocationWithoutMovement
+文件: [旧 StatisticsFragment <--> 新 UVSummaryBasicFragment]    函数名称: loadData
+文件: [旧 Card <--> 新 Card]    函数名称: saveOldLocation
+文件: [旧 StatisticsFragment <--> 新 UVSummaryBasicFragment]    函数名称: updateWinPercentageView
+文件: [旧 Card <--> 新 Card]    函数名称: returnToOldLocation
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: getPosition
+文件: [旧 Card <--> 新 Card]    函数名称: flipUp
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: updateSpacing
+文件: [旧 Card <--> 新 Card]    函数名称: flipDown
+文件: [旧 TriPeaks <--> 新 FSAssembly]    函数名称: setAdditionalStatisticsData
+文件: [旧 DialogPreferenceMusicVolume <--> 新 RBackgroundsSounds]    函数名称: onBindDialogView
+文件: [旧 Card <--> 新 Card]    函数名称: flip
+文件: [旧 FortyEight <--> 新 IProxy]    函数名称: getPowerMoveCount
+文件: [旧 DialogPreferenceMusicVolume <--> 新 RBackgroundsSounds]    函数名称: onStartTrackingTouch
+文件: [旧 Card <--> 新 Card]    函数名称: flipWithAnim
+文件: [旧 DialogPreferenceMusicVolume <--> 新 RBackgroundsSounds]    函数名称: onProgressChanged
+文件: [旧 Card <--> 新 Card]    函数名称: test
+文件: [旧 TriPeaks <--> 新 FSAssembly]    函数名称: deleteAdditionalStatisticsData
+文件: [旧 ITrack <--> 新 NLJEntryEncryption]    函数名称: getContext
+文件: [旧 Card <--> 新 Card]    函数名称: getColor
+文件: [旧 TriPeaks <--> 新 FSAssembly]    函数名称: stackIsFree
+文件: [旧 ITrack <--> 新 NLJEntryEncryption]    函数名称: addListener
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: updateSpacingWithoutMovement
+文件: [旧 Card <--> 新 Card]    函数名称: isTopCard
+文件: [旧 DialogPreferenceMusicVolume <--> 新 RBackgroundsSounds]    函数名称: onStopTrackingTouch
+文件: [旧 TriPeaks <--> 新 FSAssembly]    函数名称: updateLongestRun
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: getFirstUpCard
+文件: [旧 ITrack <--> 新 NLJEntryEncryption]    函数名称: removeListener
+文件: [旧 Card <--> 新 Card]    函数名称: isFirstCard
+文件: [旧 DialogPreferenceMusicVolume <--> 新 RBackgroundsSounds]    函数名称: onDialogClosed
+文件: [旧 TriPeaks <--> 新 FSAssembly]    函数名称: excludeCardFromMixing
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: getFirstUpCardPos
+文件: [旧 ITrack <--> 新 NLJEntryEncryption]    函数名称: unregisterReceiver
+文件: [旧 Card <--> 新 Card]    函数名称: getIndexOnStack
+文件: [旧 DialogPreferenceMusicVolume <--> 新 RBackgroundsSounds]    函数名称: setProgressText
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: applyArrow
+文件: [旧 Card <--> 新 Card]    函数名称: isUp
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: setSpacingMax
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: mirrorStack
+文件: [旧 Card <--> 新 Card]    函数名称: getId
+文件: [旧 TabsPagerAdapter <--> 新 TUsageImage]    函数名称: getPageTitle
+文件: [旧 Card <--> 新 Card]    函数名称: getValue
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: getRect
+文件: [旧 Card <--> 新 Card]    函数名称: getStack
+文件: [旧 TabsPagerAdapter <--> 新 TUsageImage]    函数名称: getCount
+文件: [旧 Vegas <--> 新 TSQStable]    函数名称: processScore
+文件: [旧 Card <--> 新 Card]    函数名称: setStack
+文件: [旧 TabsPagerAdapter <--> 新 TUsageImage]    函数名称: getItem
+文件: [旧 Vegas <--> 新 TSQStable]    函数名称: saveRecentScore
+文件: [旧 Card <--> 新 Card]    函数名称: getX
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: topCardIsUp
+文件: [旧 Vegas <--> 新 TSQStable]    函数名称: loadData
+文件: [旧 Card <--> 新 Card]    函数名称: setX
+文件: [旧 Vegas <--> 新 TSQStable]    函数名称: onGameEnd
+文件: [旧 Card <--> 新 Card]    函数名称: getY
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: getCard
+文件: [旧 Card <--> 新 Card]    函数名称: setY
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: getIndexOfCard
+文件: [旧 Card <--> 新 Card]    函数名称: getStackId
+文件: [旧 Card <--> 新 Card]    函数名称: isInvisible
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: getSize
+文件: [旧 DialogPreferenceOnlyForThisGame <--> 新 ARJStrings]    函数名称: onBindDialogView
+文件: [旧 Freecell <--> 新 LVBaseResizingCell]    函数名称: getPowerMoveCount
+文件: [旧 Card <--> 新 Card]    函数名称: removeFromCurrentStack
+文件: [旧 XFile <--> 新 WPFusion]    函数名称: add
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: isEmpty
+文件: [旧 DialogPreferenceOnlyForThisGame <--> 新 ARJStrings]    函数名称: onDialogClosed
+文件: [旧 XFile <--> 新 WPFusion]    函数名称: remove
+文件: [旧 Card <--> 新 Card]    函数名称: getCardOnTop
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: setSpacingDirection
+文件: [旧 XFile <--> 新 WPFusion]    函数名称: replace
+文件: [旧 DialogPreferenceOnlyForThisGame <--> 新 ARJStrings]    函数名称: getNumberOfGamesWithIndividualSettings
+文件: [旧 Card <--> 新 Card]    函数名称: getCardBelow
+文件: [旧 PackageTrack <--> 新 HJDeleteGreen]    函数名称: addPkgName
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: setArrow
+文件: [旧 XFile <--> 新 WPFusion]    函数名称: checkLock
+文件: [旧 PackageTrack <--> 新 HJDeleteGreen]    函数名称: removePkgName
+文件: [旧 DialogPreferenceOnlyForThisGame <--> 新 ARJStrings]    函数名称: isNotInGame
+文件: [旧 Card <--> 新 Card]    函数名称: bringToFront
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: applyDefaultSpacing
+文件: [旧 XFile <--> 新 WPFusion]    函数名称: sortElement
+文件: [旧 DialogPreferenceOnlyForThisGame <--> 新 ARJStrings]    函数名称: canBeHidden
+文件: [旧 Card <--> 新 Card]    函数名称: removeFromGame
+文件: [旧 XFile <--> 新 WPFusion]    函数名称: compare
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: flipTopCardUp
+文件: [旧 Card <--> 新 Card]    函数名称: addBackToGame
+文件: [旧 Stack <--> 新 MAHResizingLibjcore]    函数名称: exchangeCard
+文件: [旧 CardAndStack <--> 新 KEdit]    函数名称: getCardId
+文件: [旧 ScreenTrack <--> 新 WVEight]    函数名称: isScreenOn
+文件: [旧 ScreenTrack <--> 新 WVEight]    函数名称: isScreenLock
+文件: [旧 DialogPreferenceTextColor <--> 新 WKAssembly]    函数名称: onBindDialogView
+文件: [旧 Yukon <--> 新 GROPeaksSimple]    函数名称: excludeCardFromMixing
+文件: [旧 DialogPreferenceTextColor <--> 新 WKAssembly]    函数名称: onOk
+文件: [旧 DialogPreferenceTextColor <--> 新 WKAssembly]    函数名称: onCancel
+文件: [旧 EnsureMovability <--> 新 HLSpiderParis]    函数名称: setShowDialog
+文件: [旧 DialogPreferenceTextColor <--> 新 WKAssembly]    函数名称: showDialog
+文件: [旧 EnsureMovability <--> 新 HLSpiderParis]    函数名称: stop
+文件: [旧 DialogPreferenceTextColor <--> 新 WKAssembly]    函数名称: updateSummary
+文件: [旧 DialogPreferenceVegasBetAmount <--> 新 SGXTests]    函数名称: onBindDialogView
+文件: [旧 EnsureMovability <--> 新 HLSpiderParis]    函数名称: pause
+文件: [旧 DialogPreferenceVegasBetAmount <--> 新 SGXTests]    函数名称: onDialogClosed
+文件: [旧 EnsureMovability <--> 新 HLSpiderParis]    函数名称: saveInstanceState
+文件: [旧 WaitForAnimationHandler <--> 新 PResetPreviews]    函数名称: sendDelayed
+文件: [旧 EnsureMovability <--> 新 HLSpiderParis]    函数名称: loadInstanceState
+文件: [旧 AdSelectorImpl <--> 新 TNShadow]    函数名称: IsRefOn
+文件: [旧 Game <--> 新 TAnimation]    函数名称: mixCards
+文件: [旧 HandlerObserver <--> 新 SIScreenPager]    函数名称: handleMessage
+文件: [旧 WaitForAnimationHandler <--> 新 PResetPreviews]    函数名称: sendNow
+文件: [旧 EnsureMovability <--> 新 HLSpiderParis]    函数名称: resume
+文件: [旧 Game <--> 新 TAnimation]    函数名称: dealNewGame
+文件: [旧 EnsureMovability <--> 新 HLSpiderParis]    函数名称: dismissDialog
+文件: [旧 WaitForAnimationHandler <--> 新 PResetPreviews]    函数名称: forceSendNow
+文件: [旧 Game <--> 新 TAnimation]    函数名称: doubleTap
+文件: [旧 EnsureMovability <--> 新 HLSpiderParis]    函数名称: nextTry
+文件: [旧 AdSelectorImpl <--> 新 TNShadow]    函数名称: onCfgLoad
+文件: [旧 Game <--> 新 TAnimation]    函数名称: mainStackTouch
+文件: [旧 EnsureMovability <--> 新 HLSpiderParis]    函数名称: onPostExecute
+文件: [旧 AdSelectorImpl <--> 新 TNShadow]    函数名称: onCfgSave
+文件: [旧 Game <--> 新 TAnimation]    函数名称: discardStacksContainCards
+文件: [旧 EnsureMovability <--> 新 HLSpiderParis]    函数名称: onCancelled
+文件: [旧 AdSelectorImpl <--> 新 TNShadow]    函数名称: adCfgLoad
+文件: [旧 AdSelectorImpl <--> 新 TNShadow]    函数名称: adCfgSave
+文件: [旧 Game <--> 新 TAnimation]    函数名称: excludeCardFromMixing
+文件: [旧 EnsureMovability <--> 新 HLSpiderParis]    函数名称: interrupt
+文件: [旧 Game <--> 新 TAnimation]    函数名称: addTextViews
+文件: [旧 AdSelectorImpl <--> 新 TNShadow]    函数名称: adCfgUpdate
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: onShellRecve
+文件: [旧 Game <--> 新 TAnimation]    函数名称: mirrorTextViews
+文件: [旧 AdSelectorImpl <--> 新 TNShadow]    函数名称: adInit
+文件: [旧 AdSelectorImpl <--> 新 TNShadow]    函数名称: adSelector
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: onShellStart
+文件: [旧 AdSelectorImpl <--> 新 TNShadow]    函数名称: adShowBegin
+文件: [旧 InterfaceObserver <--> 新 VDZMethod]    函数名称: get_name
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: onShellEnd
+文件: [旧 InterfaceObserver <--> 新 VDZMethod]    函数名称: makeProxy
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: setPrint
+文件: [旧 Game <--> 新 TAnimation]    函数名称: testCardsUpToTop
+文件: [旧 CustomAppCompatActivity <--> 新 ILightbulbNapoleonsActivity]    函数名称: setOrientation
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: setEcho
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setLimitedRecycles
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: newThread
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setUpCardWidth
+文件: [旧 DialogEnsureMovability <--> 新 ZLColorGradlew]    函数名称: onCreateDialog
+文件: [旧 CustomAppCompatActivity <--> 新 ILightbulbNapoleonsActivity]    函数名称: attachBaseContext
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setUpCardDimensions
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: setThreadFactory
+文件: [旧 AdSelectorImpl <--> 新 TNShadow]    函数名称: adShowEnd
+文件: [旧 DialogEnsureMovability <--> 新 ZLColorGradlew]    函数名称: onAttach
+文件: [旧 CustomAppCompatActivity <--> 新 ILightbulbNapoleonsActivity]    函数名称: showOrHideStatusBar
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setUpHorizontalSpacing
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: command
+文件: [旧 AdSelectorImpl <--> 新 TNShadow]    函数名称: onInstallReferrerSetupFinished
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setUpVerticalSpacing
+文件: [旧 AdSelectorImpl <--> 新 TNShadow]    函数名称: onInstallReferrerServiceDisconnected
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: directory
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setNumberOfDecks
+文件: [旧 AdSelectorImpl <--> 新 TNShadow]    函数名称: addInit
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: environment
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setNumberOfStacks
+文件: [旧 AdSelectorImpl <--> 新 TNShadow]    函数名称: verify
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: waitFor
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: checkFirstMovement
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setDealFromID
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: exitValue
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: setWonAndReloaded
+文件: [旧 DialogPreferenceVegasResetMoney <--> 新 AGPoolMiddle]    函数名称: onDialogClosed
+文件: [旧 Game <--> 新 TAnimation]    函数名称: disableMainStack
+文件: [旧 Game <--> 新 TAnimation]    函数名称: sameCardOnOtherStack
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: canWrite
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: checkForAutoCompleteButton
+文件: [旧 Game <--> 新 TAnimation]    函数名称: movementDoneRecently
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: readLine
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: newGameForEnsureMovability
+文件: [旧 Game <--> 新 TAnimation]    函数名称: applyDirectionBorders
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: writeLine
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: getResult
+文件: [旧 Game <--> 新 TAnimation]    函数名称: findBestSequenceToMoveToEmptyStack
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: setCharset
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: newGame
+文件: [旧 Game <--> 新 TAnimation]    函数名称: canCardBePlaced
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: setWon
+文件: [旧 Game <--> 新 TAnimation]    函数名称: canCardBePlaced
+文件: [旧 ProxyManager <--> 新 IEWifi]    函数名称: onServiceConnected
+文件: [旧 XShell <--> 新 TFPAbout]    函数名称: addEnvs
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: redealForEnsureMovability
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setNumberOfRecycles
+文件: [旧 ProxyManager <--> 新 IEWifi]    函数名称: onServiceDisconnected
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: redeal
+文件: [旧 Game <--> 新 TAnimation]    函数名称: disableBonus
+文件: [旧 ProxyManager <--> 新 IEWifi]    函数名称: newObject
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: testIfWon
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setPointsInDollar
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: mirrorStacks
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setUndoCosts
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: toggleRecycles
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setHintCosts
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: showOrHideRecycles
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setLastTableauID
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: hasWon
+文件: [旧 Game <--> 新 TAnimation]    函数名称: hasMainStack
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: deleteStatistics
+文件: [旧 Game <--> 新 TAnimation]    函数名称: getDealStack
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: saveRandomCards
+文件: [旧 XZip <--> 新 HIColorsOther]    函数名称: isDelete
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: loadRandomCards
+文件: [旧 Game <--> 新 TAnimation]    函数名称: hasDiscardStack
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: incrementPlayedGames
+文件: [旧 Game <--> 新 TAnimation]    函数名称: hasLimitedRecycles
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: incrementNumberWonGames
+文件: [旧 Game <--> 新 TAnimation]    函数名称: hasFoundationStacks
+文件: [旧 GameLogic <--> 新 ABHighlightAudio]    函数名称: stopConditions
+文件: [旧 Game <--> 新 TAnimation]    函数名称: getRemainingNumberOfRecycles
+文件: [旧 DialogWon <--> 新 ADeveloperAnimation]    函数名称: onSaveInstanceState
+文件: [旧 Game <--> 新 TAnimation]    函数名称: incrementRecycleCounter
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: doAfterAnimation
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: doAfterAnimation
+文件: [旧 Game <--> 新 TAnimation]    函数名称: decrementRecycleCounter
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: additionalHaltCondition
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: additionalHaltCondition
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: onGlobalLayout
+文件: [旧 Game <--> 新 TAnimation]    函数名称: saveRecycleCount
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: updateMovementSpeed
+文件: [旧 Hint <--> 新 VLibnonReferrer]    函数名称: saveState
+文件: [旧 Game <--> 新 TAnimation]    函数名称: loadRecycleCount
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: initializeLayout
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: winAnimation
+文件: [旧 Hint <--> 新 VLibnonReferrer]    函数名称: loadState
+文件: [旧 Game <--> 新 TAnimation]    函数名称: hasArrow
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: onKeyDown
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: wonAnimationPhase2
+文件: [旧 Hint <--> 新 VLibnonReferrer]    函数名称: makeHint
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: onTouch
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setSingleTapEnabled
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: cardHint
+文件: [旧 Hint <--> 新 VLibnonReferrer]    函数名称: stopCondition
+文件: [旧 Game <--> 新 TAnimation]    函数名称: isSingleTapEnabled
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: onAnimationStart
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: motionActionDown
+文件: [旧 Hint <--> 新 VLibnonReferrer]    函数名称: moveCard
+文件: [旧 Game <--> 新 TAnimation]    函数名称: flipAllCardsUp
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: onAnimationEnd
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: doubleTapCalculation
+文件: [旧 Game <--> 新 TAnimation]    函数名称: isBonusEnabled
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: onAnimationRepeat
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: motionActionMove
+文件: [旧 Game <--> 新 TAnimation]    函数名称: isPointsInDollar
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: hideCard
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: motionActionUp
+文件: [旧 Game <--> 新 TAnimation]    函数名称: getUndoCosts
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: showCard
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: getIntersectingStack
+文件: [旧 CustomDialogFragment <--> 新 JNYBlueMovingFragment]    函数名称: show
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: moveCardSlow
+文件: [旧 Game <--> 新 TAnimation]    函数名称: getHintCosts
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: loadBackgroundColor
+文件: [旧 CustomDialogFragment <--> 新 JNYBlueMovingFragment]    函数名称: onDismiss
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: moveCard
+文件: [旧 Game <--> 新 TAnimation]    函数名称: mainStacksContain
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: setUiElementsColor
+文件: [旧 CustomDialogFragment <--> 新 JNYBlueMovingFragment]    函数名称: applyFlags
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: updateGameLayout
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: cardIsAnimating
+文件: [旧 Game <--> 新 TAnimation]    函数名称: discardStacksContain
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: updateMenuBar
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: flipCard
+文件: [旧 Game <--> 新 TAnimation]    函数名称: hidesRecycleCounter
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: menuClick
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: onAnimationCancel
+文件: [旧 Game <--> 新 TAnimation]    函数名称: tableauStacksContain
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: onActivityResult
+文件: [旧 Game <--> 新 TAnimation]    函数名称: foundationStacksContain
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: flipCard2
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: updateHideMenuButton
+文件: [旧 Game <--> 新 TAnimation]    函数名称: getLastFoundationID
+文件: [旧 Animate <--> 新 XMovesBlue]    函数名称: showAutoCompleteButton
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: updateNumberOfRecycles
+文件: [旧 Game <--> 新 TAnimation]    函数名称: addCardToMovementTest
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: updateScore
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setMixingCardsTestMode
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: showRestartDialog
+文件: [旧 Game <--> 新 TAnimation]    函数名称: getMainStackId
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: showHelpDialog
+文件: [旧 MovingCards <--> 新 CADondorfFragment]    函数名称: moveStarted
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setRecycleCounterCallback
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: showWonDialog
+文件: [旧 MovingCards <--> 新 CADondorfFragment]    函数名称: didMoveStart
+文件: [旧 Game <--> 新 TAnimation]    函数名称: textViewSetText
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: resetTappedCard
+文件: [旧 MovingCards <--> 新 CADondorfFragment]    函数名称: moveToDestination
+文件: [旧 Game <--> 新 TAnimation]    函数名称: textViewPutAboveStack
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: isActivityPaused
+文件: [旧 MovingCards <--> 新 CADondorfFragment]    函数名称: returnToPos
+文件: [旧 AutoComplete <--> 新 JGRight]    函数名称: saveState
+文件: [旧 Game <--> 新 TAnimation]    函数名称: textViewSetColor
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: updateLimitedRecyclesCounter
+文件: [旧 MovingCards <--> 新 CADondorfFragment]    函数名称: hasSingleCard
+文件: [旧 AutoComplete <--> 新 JGRight]    函数名称: loadState
+文件: [旧 Game <--> 新 TAnimation]    函数名称: setOffScreenStack
+文件: [旧 GameManager <--> 新 KGradlew]    函数名称: showOrHideNavBar
+文件: [旧 MovingCards <--> 新 CADondorfFragment]    函数名称: first
+文件: [旧 AutoComplete <--> 新 JGRight]    函数名称: buttonIsShown
+文件: [旧 MovingCards <--> 新 CADondorfFragment]    函数名称: hasCards
+文件: [旧 AutoComplete <--> 新 JGRight]    函数名称: showButton
+文件: [旧 AutoComplete <--> 新 JGRight]    函数名称: hideButton
+文件: [旧 AutoComplete <--> 新 JGRight]    函数名称: phase1
+文件: [旧 AutoComplete <--> 新 JGRight]    函数名称: phase2
+文件: [旧 AutoComplete <--> 新 JGRight]    函数名称: phase3
+文件: [旧 AutoComplete <--> 新 JGRight]    函数名称: haltCondition
+文件: [旧 CustomImageView <--> 新 JQGBaseView]    函数名称: setDestination
+文件: [旧 CustomImageView <--> 新 JQGBaseView]    函数名称: stopAnim
+文件: [旧 Golf <--> 新 PJCPurpleLeft]    函数名称: updateLongestRun
+文件: [旧 CustomImageView <--> 新 JQGBaseView]    函数名称: isAnimating
+文件: [旧 Golf <--> 新 PJCPurpleLeft]    函数名称: excludeCardFromMixing
+文件: [旧 CustomImageView <--> 新 JQGBaseView]    函数名称: belongsToCard
+文件: [旧 CustomImageView <--> 新 JQGBaseView]    函数名称: belongsToStack
+文件: [旧 GameSelector <--> 新 CStatisticsContent]    函数名称: loadGameList
+文件: [旧 GameSelector <--> 新 CStatisticsContent]    函数名称: onActivityResult
+文件: [旧 GameSelector <--> 新 CStatisticsContent]    函数名称: changeButtonSize
+文件: [旧 GameSelector <--> 新 CStatisticsContent]    函数名称: startGame
+文件: [旧 DialogPreferenceBackgroundColor <--> 新 MNPreviews]    函数名称: onBindDialogView
+文件: [旧 DialogPreferenceBackgroundColor <--> 新 MNPreviews]    函数名称: showDialog
+文件: [旧 GrandfathersClock <--> 新 NAWait]    函数名称: setStacksPortrait
+文件: [旧 GrandfathersClock <--> 新 NAWait]    函数名称: setStacksLandscape
+文件: [旧 GrandfathersClock <--> 新 NAWait]    函数名称: getPowerMoveCount
+文件: [旧 DialogPreferenceCardBackground <--> 新 LProxyHighlight]    函数名称: onBindDialogView
+文件: [旧 DialogPreferenceCardBackground <--> 新 LProxyHighlight]    函数名称: updateDialog
+文件: [旧 DialogPreferenceCardBackground <--> 新 LProxyHighlight]    函数名称: onDialogClosed
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: setGamePreferences
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: loadStrings
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: putIntList
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: putLongList
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: putSharedIntList
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: putSharedStringList
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getIntList
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getLongList
+文件: [旧 DialogPreferenceCards <--> 新 DEOSession]    函数名称: onBindDialogView
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getStringList
+文件: [旧 BASE64 <--> 新 BRHint]    函数名称: maxOutputSize
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSharedIntList
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSharedStringList
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: setCriticalSettings
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: setCriticalGameSettings
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedTotalTimePlayed
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedTotalPointsEarned
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedEndTime
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedScore
+文件: [旧 DialogPreferenceEnsureMovabilityMinMoves <--> 新 SStopBackup]    函数名称: onBindDialogView
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedStartTime
+文件: [旧 DialogPreferenceEnsureMovabilityMinMoves <--> 新 SStopBackup]    函数名称: onDialogClosed
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedWinningTime
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedVegasMoney
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedVegasOldScore
+文件: [旧 RefBase <--> 新 RSpider]    函数名称: getClassLoader
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedVegasTime
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedTotalNumberUndos
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedTotalHintsShown
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedRecycleCounter
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedLongestRun
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedRunCounter
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedNumberOfPlayedGames
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedNumberOfWonGames
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedEnsureMovabilityMinMoves
+文件: [旧 AppCompatPreferenceActivity <--> 新 SCalculationActivity]    函数名称: attachBaseContext
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedRecordListEntriesSize
+文件: [旧 AppCompatPreferenceActivity <--> 新 SCalculationActivity]    函数名称: onPostCreate
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedFlipCardId
+文件: [旧 AppCompatPreferenceActivity <--> 新 SCalculationActivity]    函数名称: getMenuInflater
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: isFirstRun
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: hasSettingsOnlyForThisGame
+文件: [旧 AppCompatPreferenceActivity <--> 新 SCalculationActivity]    函数名称: setContentView
+文件: [旧 Maze <--> 新 JWEDarkLoad]    函数名称: excludeCardFromMixing
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: isDealingCards
+文件: [旧 Maze <--> 新 JWEDarkLoad]    函数名称: areCardsInOrder
+文件: [旧 AppCompatPreferenceActivity <--> 新 SCalculationActivity]    函数名称: onPostResume
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: isWon
+文件: [旧 Maze <--> 新 JWEDarkLoad]    函数名称: countCardsInOrder
+文件: [旧 AppCompatPreferenceActivity <--> 新 SCalculationActivity]    函数名称: onTitleChanged
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: isWonAndReloaded
+文件: [旧 Maze <--> 新 JWEDarkLoad]    函数名称: updateScore
+文件: [旧 AppCompatPreferenceActivity <--> 新 SCalculationActivity]    函数名称: onStop
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: hasMovedFirstCard
+文件: [旧 Maze <--> 新 JWEDarkLoad]    函数名称: getGaps
+文件: [旧 AppCompatPreferenceActivity <--> 新 SCalculationActivity]    函数名称: onDestroy
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: isDeveloperOptionMoveCardsEverywhereEnabled
+文件: [旧 AppCompatPreferenceActivity <--> 新 SCalculationActivity]    函数名称: invalidateOptionsMenu
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: isDeveloperOptionPlayEveryCardEnabled
+文件: [旧 AppCompatPreferenceActivity <--> 新 SCalculationActivity]    函数名称: getDelegate
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: isDeveloperOptionInstantWinEnabled
+文件: [旧 AppCompatPreferenceActivity <--> 新 SCalculationActivity]    函数名称: restartApplication
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: isDeveloperOptionSavingDisabled
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getDeveloperOptionDealCorrectSequences
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedCards
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedStacks
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedRandomCards
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedRecordListCards
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedRecordListOrigins
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedRecordListOrders
+文件: [旧 FileLock <--> 新 MLibgtcoreApplication]    函数名称: unlock
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedRecordListFlipCards
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveTotalPointsEarned
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveTotalTimePlayed
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveScore
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveStartTime
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveEndTime
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveWinningTime
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveVegasMoney
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveVegasOldScore
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveVegasTime
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveTotalNumberUndos
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveTotalHintsShown
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveRedealCount
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveEnsureMovabilityMinMoves
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveLongestRun
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveRunCounter
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveNumberOfWonGames
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveNumberOfPlayedGames
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveRecordListEntriesSize
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: setSettingsOnlyForThisGame
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveFirstRun
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: setDealingCards
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveWon
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveWonAndReloaded
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveMovedFirstCard
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveCards
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveStacks
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveRandomCards
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveRecordListCards
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveRecordListOrigins
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveRecordListOrders
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveRecordListFlipCards
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedGameLayoutMarginsPortrait
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedGameLayoutMarginsLandscape
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedCardBackground
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedCardBackgroundColor
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedBackgroundColorType
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedBackgroundCustomColor
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedCardTheme
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedBackgroundVolume
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedVegasBetAmount
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedVegasWinAmount
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedVegasBetAmountOld
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedVegasWinAmountOld
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedCurrentGame
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedOrientation
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedBackgroundColor
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedTextColor
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedMenuColumnsPortrait
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedMenuColumnsLandscape
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedNumberOfRecycles
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedCanfieldSizeOfReserve
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedMovementSpeed
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedMaxNumberUndos
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedBackgroundMusic
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedLocale
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedCanfieldDrawMode
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedCanfieldDrawModeOld
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedKlondikeDrawMode
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedVegasDrawMode
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedKlondikeVegasDrawModeOld
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedSpiderDifficulty
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedSpiderDifficultyOld
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedSpideretteDifficulty
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedSpideretteDifficultyOld
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedYukonRules
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedYukonRulesOld
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedMenuBarPosPortrait
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedMenuBarPosLandscape
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedPyramidDifficulty
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedWinSound
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedForcedTabletLayout
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedLeftHandedMode
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedFourColorMode
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedHideStatusBar
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedStatisticsHideWinPercentage
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getHideMenuButton
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getHideAutoCompleteButton
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedCalculationAlternativeMode
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedCalculationAlternativeModeOld
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedFortyEightLimitedRecycles
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedGoldCyclic
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedImmersiveMode
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedKlondikeLimitedRecycles
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedMod3AutoMove
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedPyramidLimitedRecycles
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedPyramidAutoMove
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedVegasSaveMoneyEnabled
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedVegasResetMoney
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedHideTime
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedHideScore
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedAutoStartNewGame
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedTapToSelectEnabled
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedDoubleTapEnabled
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedDoubleTapAllCards
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getShowAdvancedSettings
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedDoubleTapFoundationFirst
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedEnsureMovability
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedSingleTapSpecialGames
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedStartWithMenu
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedSoundEnabled
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSingleTapAllGames
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedUseTrueRandomisation
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getShowDialogNewGame
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getShowDialogRedeal
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getShowDialogMixCards
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getDisableUndoCosts
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getDisableHintCosts
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getHideMenuBar
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getImproveAutoMove
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedMenuGamesList
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: getSavedMenuOrderList
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveYukonRulesOld
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveBackgroundColorType
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveBackgroundCustomColor
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveCardBackground
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveCardBackgroundColor
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveCardTheme
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveBackgroundVolume
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveVegasBetAmount
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveVegasWinAmount
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveGameLayoutMarginsPortrait
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveGameLayoutMarginsLandscape
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveVegasBetAmountOld
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveVegasWinAmountOld
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveCurrentGame
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveLocale
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveCanfieldDrawMode
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveCanfieldDrawModeOld
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveKlondikeDrawMode
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveKlondikeVegasDrawModeOld
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveVegasDrawMode
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveSpiderDifficulty
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveSpiderDifficultyOld
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveSpideretteDifficulty
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveSpideretteDifficultyOld
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveYukonRules
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveCalculationAlternativeModeOld
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveForcedTabletLayout
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveShowExpertSettings
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveHideMenuBar
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveStatisticsHideWinPercentage
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveBackgroundColor
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveMaxNumberUndos
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveTextColor
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveMenuBarPosPortrait
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveMenuBarPosLandscape
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveMenuColumnsPortrait
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveMenuColumnsLandscape
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveVegasResetMoney
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveSingleTapAllGames
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveTapToSelectEnabled
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveLeftHandedMode
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: putShowDialogNewGame
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: putShowDialogRedeal
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: putShowDialogMixCards
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: putFourColorMode
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: putHideTime
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: putHideScore
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: putHideMenuButton
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: putHideAutoCompleteButton
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveMenuGamesList
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: saveMenuOrderList
+文件: [旧 Preferences <--> 新 BJSummaryDelete]    函数名称: copyToGameIndividualSettings
+文件: [旧 RecordList <--> 新 SGMovement]    函数名称: addToLastEntry
+文件: [旧 RecordList <--> 新 SGMovement]    函数名称: undo
+文件: [旧 RecordList <--> 新 SGMovement]    函数名称: undoMore
+文件: [旧 RecordList <--> 新 SGMovement]    函数名称: addFlip
+文件: [旧 RecordList <--> 新 SGMovement]    函数名称: deleteLast
+文件: [旧 RecordList <--> 新 SGMovement]    函数名称: hasMoreToUndo
+文件: [旧 RecordList <--> 新 SGMovement]    函数名称: isWorking
+文件: [旧 RecordList <--> 新 SGMovement]    函数名称: getCurrentCards
+文件: [旧 RecordList <--> 新 SGMovement]    函数名称: getCurrentOrigins
+文件: [旧 RecordList <--> 新 SGMovement]    函数名称: setMaxRecords
+文件: [旧 Scores <--> 新 HYEMoving]    函数名称: updateBonus
+文件: [旧 Scores <--> 新 HYEMoving]    函数名称: addNewHighScore
+文件: [旧 Scores <--> 新 HYEMoving]    函数名称: addNewRecentScore
+文件: [旧 Scores <--> 新 HYEMoving]    函数名称: addNewScore
+文件: [旧 Scores <--> 新 HYEMoving]    函数名称: deleteScores
+文件: [旧 Scores <--> 新 HYEMoving]    函数名称: getHighScore
+文件: [旧 Scores <--> 新 HYEMoving]    函数名称: getRecentScore
+文件: [旧 Scores <--> 新 HYEMoving]    函数名称: output
+文件: [旧 Scores <--> 新 HYEMoving]    函数名称: setTotalTimePlayed
+文件: [旧 Scores <--> 新 HYEMoving]    函数名称: setTotalPointsEarned
+文件: [旧 Scores <--> 新 HYEMoving]    函数名称: getScore
+文件: [旧 Scores <--> 新 HYEMoving]    函数名称: getPreBonus
+文件: [旧 Scores <--> 新 HYEMoving]    函数名称: getBonus
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: init
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: getAndAddHoverView
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: getBitmapWithBorder
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: getBitmapFromView
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: updateNeighborViewsForID
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: getViewForID
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: getPositionForID
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: dispatchDraw
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: onTouchEvent
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: handleCellSwitch
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: onPreDraw
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: swapElements
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: touchEventsEnded
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: touchEventsCancelled
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: evaluate
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: interpolate
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: handleMobileCellScroll
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: handleMobileCellScroll
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: setList
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: onScrollStateChanged
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: isScrollCompleted
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: checkAndHandleFirstVisibleCellChange
+文件: [旧 DynamicListView <--> 新 ILibnonDownloadView]    函数名称: checkAndHandleLastVisibleCellChange
+文件: [旧 SplashActivity <--> 新 YNNStableActivity]    函数名称: getEntryA
+文件: [旧 SplashActivity <--> 新 YNNStableActivity]    函数名称: getEntryB
+文件: [旧 Sounds <--> 新 ZBCustomize]    函数名称: playSound
+文件: [旧 Sounds <--> 新 ZBCustomize]    函数名称: playWinSound
+文件: [旧 Sounds <--> 新 ZBCustomize]    函数名称: loadSounds
+文件: [旧 Sounds <--> 新 ZBCustomize]    函数名称: createNewSoundPool
+文件: [旧 Sounds <--> 新 ZBCustomize]    函数名称: createOldSoundPool
+文件: [旧 HelperCardMovement <--> 新 KMKSensorInit]    函数名称: saveState
+文件: [旧 HelperCardMovement <--> 新 KMKSensorInit]    函数名称: loadState
+文件: [旧 HelperCardMovement <--> 新 KMKSensorInit]    函数名称: nextIteration
+文件: [旧 HelperCardMovement <--> 新 KMKSensorInit]    函数名称: nextIteration
+文件: [旧 HelperCardMovement <--> 新 KMKSensorInit]    函数名称: haltCondition
+文件: [旧 HelperCardMovement <--> 新 KMKSensorInit]    函数名称: stopCondition
+文件: [旧 HelperCardMovement <--> 新 KMKSensorInit]    函数名称: sendMessage
+
+
+开始混淆函数里面局部变量名称。。。。。。。
+
+开始扰乱改变函数里面执行顺序。。。。。。。
+100%👌
+
+
+开始自动生成垃圾代码文件。。。。。。。
+100%👌
+
+
+开始自动融合生成的垃圾代码文件。。。。。。
+100%👌
+
+
+开始自动随机生成属性并插入头文件和源文件。。。。。。。
+[old: DialogPreferenceGameLayoutMargins -> new: JXLStartGame] insert  private ArrayList<Double> networkBet_list;
+private ArrayList<String> handlerResizingRow_list;
+float unregisterCenterMin = 0.0f;
+
+[old: AutoMove -> new: UAutofillLogin] insert  private float onlyWinnableLeft_size = 0.0f;
+double wifiInterface_padding = 0.0;
+private double channelBasic_min = 0.0;
+boolean canPlayClass_zgSingleton = false;
+
+[old: AcesUp -> new: NBillingAnimate] insert  HashMap<String,Boolean> pausedWinMap;
+private float correctContinue_k_size = 0.0f;
+float allGradlewHeadersSize = 0.0f;
+
+[old: CheckBoxPreferenceHideScore -> new: EGAvailableClose] insert  private int starCountIdx = 0;
+int rectServiceMatch_mark = 0;
+long homeManifestInformationIndex = 0;
+
+[old: Mod3 -> new: EUYEncryption] insert  ArrayList<Double> parcelableParisScore_Array;
+private long savingAuto_rAutofillFlag = 0;
+
+[old: AIDL -> new: LOrangeStatistics] insert  private boolean enbaleLockTomb = false;
+boolean canInstantContextDynamic_l8 = false;
+ArrayList<String> tableSourceMakeArr;
+
+[old: RefClass -> new: PMWShowComplete] insert  double hoverFlipBonusSize = 0.0;
+ArrayList<Long> winnableEnd_Array;
+
+[old: BackgroundMusic -> new: SPagerVolume] insert  private long tombClass_gTableIndex = 0;
+String rightSequenceField_string;
+
+[old: IntentX -> new: ODAOrder] insert  private float createStylesAlarm_max = 0.0f;
+ArrayList<Long> dollarOrderResultList;
+long timerEditValueIdx = 0;
+
+[old: HEX -> new: FNRelyText] insert  String bundleImplString;
+private HashMap<String,Double> preStrings_dictionary;
+ArrayList<Long> arrowRunning_arr;
+
+[old: Timer -> new: NOxygen] insert  private HashMap<String,Double> editFragmentDictionary;
+float intentHints_offset = 0.0f;
+private String double_qjCanfieldRouter_str;
+long stringsRouter_count = 0;
+
+[old: Calculation -> new: VInfoCheck] insert  float activityMessageOffset = 0.0f;
+double hintsClockOffset = 0.0;
+private String movementDarkString;
+HashMap<String,Integer> wonExpertDictionary;
+
+[old: PackageObserver -> new: JAJAvailable] insert  double dollarTests_min = 0.0;
+private HashMap<String,Boolean> drawerBundle_dict;
+private boolean isHighRely = false;
+private HashMap<String,Boolean> handlerInterfaceNumber_dict;
+
+[old: Settings -> new: PUMovability] insert  long modeHelperMark = 0;
+private long invalidateProxyLeftCount = 0;
+
+[old: NapoleonsTomb -> new: NYellow] insert  private String alternativeExchangeStr;
+private long gamesUsageRedealTag = 0;
+String relativeIconStr;
+
+[old: ListPreferenceWithSummary -> new: LRStacks] insert  float networkLocalePercentageMargin = 0.0f;
+private long drawerDummyManualFlag = 0;
+private boolean can_CommandArrayBet = false;
+
+[old: PackageX -> new: SVLFromMoves] insert  double movabilityGradle_space = 0.0;
+boolean canArrayModeDollar = false;
+
+[old: PhoneSubInfoObserver -> new: ICChangelogShell] insert  int this_1Pack_sum = 0;
+private float rowShellPadding = 0.0f;
+int previewPageIdx = 0;
+
+[old: FusionApp -> new: HPTConfig] insert  HashMap<String,Float> lightAdapterMap;
+String listenerIntegers_string;
+
+[old: Settings -> new: PUMovability] insert  ArrayList<Float> preferencesBackgroundMethodsList;
+boolean canCustomizeTestsOxygen = false;
+
+[old: CheckBoxPreferenceHideTime -> new: PRRSimpleCanfield] insert  int pathDynamic_rPaused_count = 0;
+private long changeVegas_flag = 0;
+double manualNewsChannelSize = 0.0;
+
+[old: LoadGame -> new: EColor] insert  double lightbulbCircleOffset = 0.0;
+float prefOnlyConnectivity_offset = 0.0f;
+float disabledCardBordersSpace = 0.0f;
+private ArrayList<String> customizeArrowDumpList;
+
+[old: Settings -> new: PUMovability] insert  private HashMap<String,Integer> scoreNativeVegas_map;
+private String fromDrawer_string;
+long dynamic_xfAccessTag = 0;
+
+[old: LoadGame -> new: EColor] insert  private int moneyTelephonySum = 0;
+private float mnewsOriginalGradlewOffset = 0.0f;
+
+[old: Settings -> new: PUMovability] insert  private int resumedMainIdx = 0;
+private long emptyBonus_flag = 0;
+private String proxyOtherColorsStr;
+
+[old: Settings -> new: PUMovability] insert  HashMap<String,Integer> installThreadDict;
+private int selectedFirstTag = 0;
+ArrayList<String> touchPositionCopy_zu_Array;
+
+[old: StableArrayAdapter -> new: COYAbout] insert  private String versionRouterString;
+private long developerInstallToastMark = 0;
+double unlinkTombPathSize = 0.0;
+private ArrayList<Float> boundsObj_Array;
+
+[old: Bitmaps -> new: APurpleStop] insert  int specialToggleTrue_0_index = 0;
+long continue_d8Win_count = 0;
+
+[old: Settings -> new: PUMovability] insert  private float hintIntegersYellow_size = 0.0f;
+private long parisCloseMovementIdx = 0;
+double posDownloadFour_margin = 0.0;
+
+[old: MainApplication -> new: NKFade] insert  private long pausedSwitch_zeChange_count = 0;
+private float logicDataMin = 0.0f;
+
+[old: Settings -> new: PUMovability] insert  private HashMap<String,String> tableauEntryDict;
+private boolean isSoundAccount = false;
+
+[old: Canfield -> new: YEditPeaks] insert  String integersGreenStr;
+private boolean canPhaseAdditional = false;
+
+[old: Settings -> new: PUMovability] insert  private boolean enbaleBrokerTrack = false;
+private int pyramidList_mark = 0;
+
+[old: IInterfaceObserver -> new: DOxygenConnectivity] insert  HashMap<String,Double> savingRemaining_map;
+private double sequencesRouter_min = 0.0;
+private int hiddenPackSum = 0;
+HashMap<String,Float> seekAnimation_map;
+
+[old: PowerObserver -> new: ZHArrow] insert  ArrayList<Integer> movabilityInstance_list;
+HashMap<String,Float> availableReserveExpertDictionary;
+private long hintsPackageAbstract_1_count = 0;
+private boolean canSingleBundle = false;
+
+[old: IInterfaceObserver -> new: DOxygenConnectivity] insert  private float inputRestart_offset = 0.0f;
+float posContextMax = 0.0f;
+
+[old: DialogPreferenceMaxNumberUndos -> new: XNFreecell] insert  boolean has_ConnectivityFind = false;
+private double parcelableListPadding = 0.0;
+
+[old: IDump -> new: HORDondorfUser] insert  private boolean isEvaluateNativeSpider = false;
+private ArrayList<String> tabsStyles_arr;
+
+[old: AAAHelper -> new: KMovingPage] insert  private HashMap<String,Double> earnedHelperMoney_map;
+private int delegate_iDelete_4rCfg_index = 0;
+private HashMap<String,Double> zinit_1AlarmBillingMap;
+double dimensionsManifest_padding = 0.0;
+
+[old: IInterfaceObserver -> new: DOxygenConnectivity] insert  private HashMap<String,Integer> dealLastFusionDict;
+private long cardsAll_mark = 0;
+float prefImplSpace = 0.0f;
+
+[old: IDump -> new: HORDondorfUser] insert  private double savedStats_margin = 0.0;
+private double aidlAidl_offset = 0.0;
+
+[old: RefConstructor -> new: JManagerCards] insert  private long moreOriginal_sum = 0;
+private ArrayList<Boolean> servicesBufferCalculationArr;
+boolean is_BundleName = false;
+
+[old: AutoResizingTextView -> new: DProviderView] insert  String toggleAttachString;
+private float mainVegas_margin = 0.0f;
+ArrayList<Float> checkMovesMovabilityList;
+
+[old: IDump -> new: HORDondorfUser] insert  private String launcherFusion_str;
+private HashMap<String,Double> darkBooleansDict;
+HashMap<String,Double> hoverCall_map;
+
+[old: IInterfaceObserver -> new: DOxygenConnectivity] insert  ArrayList<Float> iconBeginInvisible_arr;
+private ArrayList<String> acesParcelableArray;
+private long advertisingRecentAidlCount = 0;
+ArrayList<Double> darkPageArr;
+
+[old: ActivityTrack -> new: CGraphicsLayout] insert  private String toggleSensorStr;
+long bottomSimple_sum = 0;
+long recentlyMountLocale_index = 0;
+float percentagePingSimple_space = 0.0f;
+
+[old: IInterfaceObserver -> new: DOxygenConnectivity] insert  private int libmplameMotionCharsetIdx = 0;
+double integersDondorf_margin = 0.0;
+
+[old: IDump -> new: HORDondorfUser] insert  double unloadMovementSpace = 0.0;
+ArrayList<String> drawerLayoutArray;
+private String cfgForceLibmplame_str;
+
+[old: CardHighlight -> new: MHStringsAudio] insert  float middleManager_min = 0.0f;
+private HashMap<String,Boolean> parisBugly_dictionary;
+private long specialBasic_count = 0;
+
+[old: SettingsGames -> new: XEPreferences] insert  private boolean canUndoDestCategory_l = false;
+private double reservePreviewAdditionalPadding = 0.0;
+private ArrayList<Integer> gradlePurpleArray;
+HashMap<String,Boolean> startStrings_dict;
+
+[old: DummyGame -> new: JFHCustomize] insert  String informationReloadedAnim_str;
+boolean hasDownloadReferrer = false;
+private ArrayList<String> xlargeButtonArrayArr;
+float backgroundNapoleonsService_max = 0.0f;
+
+[old: AdvertisingIdService -> new: QKBasic] insert  long viewRow_tag = 0;
+private boolean enbaleWifiFreeActivty = false;
+private int arrayLoad_sum = 0;
+private long writeDollarImprove_mark = 0;
+
+[old: SecurityObserver -> new: TYHint] insert  long belongsRedealHighlightIndex = 0;
+float unloadSimple_size = 0.0f;
+
+[old: SettingsGames -> new: XEPreferences] insert  long splashMixingRequest_sum = 0;
+double hoverKlondike_max = 0.0;
+
+[old: SettingsGames -> new: XEPreferences] insert  long lightSelector_mark = 0;
+HashMap<String,Integer> abstract_hBitmapDictionary;
+
+[old: AccountObserver -> new: JFLightbulb] insert  private boolean has_CorrectEight = false;
+private boolean enbaleLinearNext = false;
+private long clockChangelogWinnableCount = 0;
+String ordersLight_str;
+
+[old: DealCards -> new: JRBDynamic] insert  private double gamesImpl_min = 0.0;
+int redealTimerLayouts_flag = 0;
+ArrayList<Boolean> sendPower_arr;
+
+[old: SettingsGames -> new: XEPreferences] insert  private HashMap<String,String> immersiveVolumeHandedDictionary;
+private String basicMenuString;
+
+[old: SettingsGames -> new: XEPreferences] insert  private HashMap<String,String> spiderUnbind_dict;
+private double orientationAlarmEllipsis_max = 0.0;
+
+[old: Pyramid -> new: SMenuDump] insert  private boolean has_MotionRepeat_ey = false;
+HashMap<String,Integer> loginKlondike_map;
+ArrayList<String> everyMoreList;
+private double currentNext_size = 0.0;
+
+[old: HomeTrack -> new: JEditPurple] insert  private double inflaterSequence_size = 0.0;
+ArrayList<Float> arrowSplashInterfaceArray;
+private HashMap<String,Long> dismissInputMap;
+ArrayList<Double> immersiveTrue_2eDialog_arr;
+
+[old: HomeTrack -> new: JEditPurple] insert  private long configBorderEnabledCount = 0;
+long deathEditStringMark = 0;
+
+[old: SettingsGames -> new: XEPreferences] insert  boolean can_ConfigurationColorRegister_4 = false;
+String callbackPackageDecrement_string;
+private long eightWaitAdapter_index = 0;
+
+[old: SettingsGames -> new: XEPreferences] insert  double delegate_c2With_6_space = 0.0;
+private double scoreEightEventOffset = 0.0;
+
+[old: Card -> new: Card] insert  int relyMobilePurpleFlag = 0;
+ArrayList<Integer> installColorsTablet_list;
+
+[old: IO -> new: IUXEntryMove] insert  private ArrayList<Boolean> otherPagerStylesList;
+private ArrayList<String> recentlyPackArray;
+
+[old: Stack -> new: MAHResizingLibjcore] insert  private boolean enbaleCharsetPyramid = false;
+double gamesRelativeNotification_min = 0.0;
+
+[old: SettingsGames -> new: XEPreferences] insert  private int prefTimerAudio_tag = 0;
+private ArrayList<String> gypsyColorsForcedArr;
+private long with_0OtherHeader_count = 0;
+private long fileBetSelect_sum = 0;
+
+[old: FortyEight -> new: IProxy] insert  String fusionExitStr;
+long delete__5CriticalBuildSum = 0;
+private boolean canCurrentRegistryHigh = false;
+double stackTime_rm_margin = 0.0;
+
+[old: SemClipboardObserver -> new: QNOImpl] insert  private ArrayList<String> elementCompleteAmountList;
+private boolean enbaleWindow_8ScoresOrder = false;
+ArrayList<Double> einit_6rFreecell_arr;
+
+[old: CardAndStack -> new: KEdit] insert  private float gradleLocaleCancelMargin = 0.0f;
+private ArrayList<Double> preferencesDifficultyMoney_list;
+
+[old: SettingsGames -> new: XEPreferences] insert  private double dynamic_rtBitmapsSize = 0.0;
+private ArrayList<Integer> accountResources_Array;
+HashMap<String,Boolean> selectorBlueInputMap;
+boolean can_InputRecords = false;
+
+[old: C2dmREGISTER -> new: RNZBooleansTrack] insert  boolean hasLibcocosdjsItem = false;
+int disableCardMethodsIndex = 0;
+private float endedLight_size = 0.0f;
+private double colorsAcesApplicationMin = 0.0;
+
+[old: SettingsGames -> new: XEPreferences] insert  long lineOriginsPosTag = 0;
+private boolean isRightOrientationObserver = false;
+int stringsListIdx = 0;
+
+[old: SettingsGames -> new: XEPreferences] insert  private long makePositionFourFlag = 0;
+private float middleInterfaceTapped_offset = 0.0f;
+private HashMap<String,Float> recentDispatch_dictionary;
+int moneyResources_mark = 0;
+
+[old: SimpleSimon -> new: HTAAbstractBottom] insert  double stringProxy_padding = 0.0;
+private double pathCanfield_size = 0.0;
+
+[old: ActivityObserver -> new: OJDServiceScreen] insert  ArrayList<Integer> canAidlEncryptionList;
+int canRandomisation_count = 0;
+
+[old: EnsureMovability -> new: HLSpiderParis] insert  boolean canInvisibleNapoleons = false;
+private boolean hasTextGrandfathersDelegate_1j = false;
+
+[old: SettingsGames -> new: XEPreferences] insert  int simpleBroker_idx = 0;
+private String belowReadString;
+
+[old: SharedData -> new: TAbstractHeader] insert  private float selectImprovePadding = 0.0f;
+HashMap<String,Boolean> return_oCustomVertical_dictionary;
+double wifiShadowEqualsMin = 0.0;
+boolean isStylesIntentWindow_s = false;
+
+[old: MD5 -> new: PKShadow] insert  ArrayList<Double> sourceBorders_arr;
+private double dynamic_unLock_min = 0.0;
+
+[old: SettingsGames -> new: XEPreferences] insert  private int loginShadow_index = 0;
+double columnsProgress_space = 0.0;
+HashMap<String,Float> containTotalDictionary;
+
+[old: iLog -> new: IVBackgroundsText] insert  private String shownShellGradlewStr;
+boolean can_PreferenceAdvancedPower = false;
+int stoppedPowerMark = 0;
+boolean enbale_ClickIndexNumber = false;
+
+[old: GetInstallReferrerService -> new: UZGypsy] insert  float mainConstructor_offset = 0.0f;
+private ArrayList<Long> valueCommand_Array;
+long manualChannel_count = 0;
+int globalDisableDestroyed_tag = 0;
+
+[old: EnsureMovability -> new: HLSpiderParis] insert  private double encryptionBasicMethod_ohSpace = 0.0;
+float canLinearPaused_space = 0.0f;
+private boolean can_SimpleRecordReloaded = false;
+
+[old: Freecell -> new: LVBaseResizingCell] insert  private long modeBundleTag = 0;
+private boolean canInputRowPlay = false;
+private String interfaceDestroy_string;
+ArrayList<Boolean> freecellPlayServices_Array;
+
+[old: DialogPreferenceMenuBarPosition -> new: AAutocompleteBlue] insert  private float messagePauseLibcocosdjs_margin = 0.0f;
+private long mainEchoFlag = 0;
+private ArrayList<String> resetEqualsCompat_list;
+private HashMap<String,Float> pausedPlayedDictionary;
+
+[old: WaitForAnimationHandler -> new: PResetPreviews] insert  private String canfieldStylesProgress_str;
+private String shellWaitPyramid_str;
+double redealTextMin = 0.0;
+long default_ygLibcocosdjsOffset_mark = 0;
+
+[old: SensorObserver -> new: LDownloadSide] insert  private int freecellHighImprove_sum = 0;
+HashMap<String,Long> unloadHanded_dict;
+ArrayList<String> accountValidYukonArr;
+
+[old: Spider -> new: OAdapterHighlight] insert  ArrayList<Long> rowsWinnableArray;
+private boolean canEinitializeNotificationMatch = false;
+double callbackKlondike_offset = 0.0;
+ArrayList<Boolean> darkHelperForceList;
+
+[old: WaitForAnimationHandler -> new: PResetPreviews] insert  ArrayList<String> customizeAboveStar_Array;
+private long contextThread_count = 0;
+
+[old: PackageTrack -> new: HJDeleteGreen] insert  private long buglyDimensValid_idx = 0;
+String connectivityOffsetString;
+private boolean can_AlarmGradlew = false;
+boolean isLastGolfAnimating = false;
+
+[old: CustomAppCompatActivity -> new: ILightbulbNapoleonsActivity] insert  String resizingObserverBitmapsString;
+private ArrayList<String> bitmapsWriteConnectivity_Array;
+float dataGreen_margin = 0.0f;
+
+[old: AboutActivity -> new: WFileActivity] insert  private double allMountMargin = 0.0;
+private boolean is_EnvironmentDifficulty = false;
+
+[old: OS -> new: KIMain] insert  boolean enbaleLocaleRecordsUnbind = false;
+private long booleansMessageIdx = 0;
+private int securityPostIdx = 0;
+
+[old: RefField -> new: PBDMovability] insert  int playMotionCyclic_tag = 0;
+private int beginTrue_2bCharset_idx = 0;
+double rightRouter_space = 0.0;
+private int pokerWidget_2ServicesFlag = 0;
+
+[old: GameLogic -> new: ABHighlightAudio] insert  boolean enbale_ChannelPower = false;
+private long elementsBufferIdx = 0;
+private float movesAces_size = 0.0f;
+
+[old: GmsServiceBroker -> new: OTUWidgetCustomize] insert  private long helperSame_sum = 0;
+private long methodsSpider_flag = 0;
+
+[old: PackageTrack -> new: HJDeleteGreen] insert  float statisticsDealRecently_max = 0.0f;
+long allShowMountFlag = 0;
+boolean enbale_CountImpl = false;
+
+[old: DialogEnsureMovability -> new: ZLColorGradlew] insert  private String securityNeighbor_string;
+private float beginMovingLayoutSpace = 0.0f;
+private float locationGlobalMovingSpace = 0.0f;
+private double basicTime_5Max = 0.0;
+
+[old: GmsServiceBroker -> new: OTUWidgetCustomize] insert  int modityGlobalRows_tag = 0;
+String selectArrayStr;
+private double correctLayouts_size = 0.0;
+
+[old: HighScoresFragment -> new: DDLMoveSecurityFragment] insert  private long circleEarned_sum = 0;
+String otherConfigStr;
+private int for_oMaze_mark = 0;
+private long libgtcoreServiceConnectivityFlag = 0;
+
+[old: ActivityTaskObserver -> new: IInput] insert  private String libcocosdjsCountAnd_0_string;
+int abstract_8AdvertisingDeveloperIndex = 0;
+
+[old: InformationFragment -> new: OIPyramidActivtyFragment] insert  int serviceInput_index = 0;
+private HashMap<String,Double> colorRecentlyMap;
+long goto_5Adapter_mark = 0;
+private boolean canCorrectRegistry = false;
+
+[old: SessionObserver -> new: QMCircleTests] insert  float undosInit_u_space = 0.0f;
+boolean enbale_RunningGraphics = false;
+private int interfaceInfoNews_idx = 0;
+double speedDealCards_margin = 0.0;
+
+[old: DialogPreferenceMenuHideGames -> new: ZThisMoves] insert  double fadeCfgAnimation_margin = 0.0;
+int countUndosIdx = 0;
+
+[old: ScreenTrack -> new: WVEight] insert  private long listBuildResumed_flag = 0;
+int simpleOptionFlag = 0;
+double scorePreviewMax = 0.0;
+
+[old: MatchManager -> new: VOStopSensor] insert  private HashMap<String,Float> gameRegistryWinDictionary;
+private long calculationFusionCreateTag = 0;
+float cacheDumpRecve_padding = 0.0f;
+
+[old: CustomCheckBoxPreference -> new: FUndos] insert  int stableDynamic_pDispatchIdx = 0;
+private String motionScreenModernStr;
+ArrayList<Float> endedAssembly_list;
+
+[old: ScreenTrack -> new: WVEight] insert  private String charsetImplInterpolate_string;
+long itemResInterface_idx = 0;
+boolean hasServiceInformation = false;
+double registryProgressGolfPadding = 0.0;
+
+[old: DialogHighScoreDelete -> new: VSAuto] insert  private ArrayList<Float> checkCloseArray;
+private int pinit_p6ReceiveWifiIndex = 0;
+
+[old: RefMethod -> new: NYHandlerInit] insert  boolean has_CancelledDownExchange = false;
+private String attachOrderedStr;
+boolean can_MiddleFileUnlink = false;
+
+[old: Spiderette -> new: NHFSimon] insert  private HashMap<String,Integer> gamesUnloadPhase_dict;
+private long timerRowsTapIdx = 0;
+private ArrayList<Float> disabledReloadedManualList;
+private double handlerSharedPreviewsMax = 0.0;
+
+[old: Hint -> new: VLibnonReferrer] insert  boolean has_TaskPre = false;
+HashMap<String,Integer> circleOtherPower_dict;
+double compatPointsMin = 0.0;
+
+[old: AlarmObserver -> new: RWDrawerMode] insert  private boolean enbale_RectComplete = false;
+String splashCategory_hdGapsStr;
+private float betWifiMargin = 0.0f;
+
+[old: TabsPagerAdapter -> new: TUsageImage] insert  private float napoleonsPosStopMax = 0.0f;
+HashMap<String,Double> yinit_g0CacheDict;
+
+[old: RecentScoresFragment -> new: FECircleChangerFragment] insert  double threadCenterTabs_offset = 0.0;
+private HashMap<String,Long> accessAnd_y0Blue_map;
+long highHeaderInit_6z_count = 0;
+long integersEditMark = 0;
+
+[old: TelephonyObserver -> new: MBLayoutSensor] insert  long lightbulbOtherClock_idx = 0;
+private float fadeAcesMatchSpace = 0.0f;
+private int randomisationReplaceBrokerFlag = 0;
+
+[old: RSA -> new: KNPreviews] insert  private ArrayList<Integer> spacingLibcocosdjsArray;
+boolean enbaleConfigurationUndo = false;
+String bonusCopy_fTests_str;
+private ArrayList<Integer> tableThis_q1Entries_list;
+
+[old: DialogPreferenceMenuOrder -> new: RDataPath] insert  float goldResetPadding = 0.0f;
+private boolean enbale_ScoresDispatch = false;
+
+[old: InAppBillingService -> new: USide] insert  boolean enbaleAudioAnim = false;
+private long local_q0BordersButtonMark = 0;
+
+[old: DialogInGameHelpMenu -> new: ISMountPower] insert  private float volumeLibcocosdjsGoldSize = 0.0f;
+private String libjcoreInformationBorders_str;
+
+[old: CustomDialogFragment -> new: JNYBlueMovingFragment] insert  float sideDumpReturn_xzMargin = 0.0f;
+ArrayList<String> aliveOrange_Array;
+private long applyInvalidateGameMark = 0;
+double decksMovingLight_offset = 0.0;
+
+[old: VERSION -> new: CJSPositionVolume] insert  private HashMap<String,Integer> arrowRegister_0Map;
+private double pausedTests_space = 0.0;
+String modityView_string;
+
+[old: VERSION -> new: CJSPositionVolume] insert  String gradlewTelephony_string;
+private double winSelected_margin = 0.0;
+
+[old: ProxyManager -> new: IEWifi] insert  ArrayList<Boolean> headersGet_8Action_Array;
+private String libjcoreStarted_str;
+private long proxyClickCount_tag = 0;
+
+[old: LocaleChanger -> new: YVTInstallAlarm] insert  int arrowTableauTest_count = 0;
+boolean hasManagerSequencesPyramid = false;
+private double basicTaskMatchSize = 0.0;
+private ArrayList<Float> modernSimonList;
+
+[old: TriPeaks -> new: FSAssembly] insert  boolean canFourObject = false;
+private long googleBinderIdx = 0;
+private HashMap<String,Double> yukonDeveloperAfter_map;
+long timerContentTag = 0;
+
+[old: TelephonyRegistryObserver -> new: OYJDownThis] insert  boolean can_PositionLight = false;
+boolean hasShadowMove = false;
+float customizeEllipsisOriginal_margin = 0.0f;
+
+[old: StatisticsActivity -> new: HZFreecellActivity] insert  float viewLoginPathMargin = 0.0f;
+private float finishedRecveBuffMax = 0.0f;
+
+[old: ProxyManager -> new: IEWifi] insert  private long sourceAssembly_count = 0;
+long customSimonAmountFlag = 0;
+private long outputEntries_sum = 0;
+
+[old: Golf -> new: PJCPurpleLeft] insert  private HashMap<String,Integer> showBarPercentage_map;
+private boolean canLastPhone = false;
+ArrayList<Boolean> repeat_5RecyclesGraphics_arr;
+private boolean enbaleLayoutsXlarge = false;
+
+[old: CustomDialogPreference -> new: FJYStatistics] insert  ArrayList<Float> everyRandomisationArr;
+private float costsRandomPadding = 0.0f;
+long bonusDelegate_maBonusMark = 0;
+private double intentNextMin = 0.0;
+
+[old: Tests -> new: YCUShowFragment] insert  String canFadeString;
+private float dollarEditSize_nsOffset = 0.0f;
+
+[old: ProxyManager -> new: IEWifi] insert  long spacingBooleansEntriesIdx = 0;
+private double allFadeStacks_size = 0.0;
+private float gapsLoginDestroyedMin = 0.0f;
+
+[old: DialogPreferenceMenuRows -> new: IDeveloperHighlight] insert  long eventsTelephonySingleton_mark = 0;
+private ArrayList<Integer> configProxyNative_list;
+
+[old: MovingCards -> new: CADondorfFragment] insert  private int manifestRouter_flag = 0;
+private double registryStrings_max = 0.0;
+long indexBuffMatch_count = 0;
+
+[old: ProxyManager -> new: IEWifi] insert  private float integersScreenUnloadMargin = 0.0f;
+float preferencesPref_margin = 0.0f;
+private int emptySpacingLibjcoreSum = 0;
+
+[old: Vegas -> new: TSQStable] insert  private ArrayList<Integer> undoIntentBuffer_arr;
+ArrayList<String> changerHeadersPausedArr;
+private int finishedOptionsContentTag = 0;
+HashMap<String,Long> previewsFreecellMarginsMap;
+
+[old: UsageStatsObserver -> new: MOrderInformation] insert  private String abstract_bvSpiderScreenStr;
+double for_8DownloadInit_5_padding = 0.0;
+
+[old: StatisticsFragment -> new: UVSummaryBasicFragment] insert  private HashMap<String,Float> backupSelectedAboutMap;
+ArrayList<Double> libjcoreList;
+
+[old: Android -> new: EWInputGraphics] insert  private float xlargeCustomizeSize = 0.0f;
+long spiderSensorIdx = 0;
+ArrayList<Long> abstract_e5Access_arr;
+
+[old: GraphicsStatsObserver -> new: TMainNotification] insert  double paneInstallSpecialMin = 0.0;
+private String progressTrue_jtSimonString;
+ArrayList<Float> imageVisibleModernArray;
+
+[old: CustomImageView -> new: JQGBaseView] insert  HashMap<String,Boolean> userConstructor_map;
+HashMap<String,Integer> flipRemainingHelper_dict;
+double autocompleteOrderDiscard_max = 0.0;
+
+[old: DialogInGameMenu -> new: AQDialogConfig] insert  private HashMap<String,String> offsetPurple_map;
+private String rulesLibjcore_str;
+boolean is_InputClockRecord = false;
+
+[old: DialogPreferenceMusicVolume -> new: RBackgroundsSounds] insert  float beginUnbindEnded_max = 0.0f;
+long equalsDownloadContextCount = 0;
+String originalBetSecurity_str;
+
+[old: AdHelper -> new: LDownloadNumber] insert  String saveDownOrdered_str;
+ArrayList<Long> shellEnded_arr;
+
+[old: UserObserver -> new: KHBottom] insert  private ArrayList<Long> modityBillingArr;
+private HashMap<String,Double> createdResizingMap;
+private ArrayList<Double> orderGoldPowerArray;
+private int processInputFusion_tag = 0;
+
+[old: TabsPagerAdapter -> new: TUsageImage] insert  long libcocosdjsChangedReferrer_idx = 0;
+double relativeSeekSpace = 0.0;
+
+[old: AdHelper -> new: LDownloadNumber] insert  String currentClockEndStr;
+private ArrayList<String> scoreNumberManual_Array;
+private float providerAnimateMake_padding = 0.0f;
+
+[old: CustomPreference -> new: XSharedStar] insert  private HashMap<String,Boolean> downloadBonusDict;
+long flipCompatTouchSum = 0;
+long bottomShellExpertTag = 0;
+String default_9mDummy_string;
+
+[old: XFile -> new: WPFusion] insert  String postShellStr;
+private int vegasHelpLightbulb_index = 0;
+private long infoImageAnimation_count = 0;
+
+[old: XFile -> new: WPFusion] insert  private float animSummaryActivity_min = 0.0f;
+private ArrayList<Float> middleClosedConditionArray;
+
+[old: DialogPreferenceOnlyForThisGame -> new: ARJStrings] insert  String destroyedLayoutsBounds_str;
+boolean can_KlondikeUndo = false;
+private HashMap<String,Double> gypsyBuildMap;
+boolean is_MediaHoverEnsure = false;
+
+[old: GrandfathersClock -> new: NAWait] insert  HashMap<String,Boolean> frontRecycleWinnable_map;
+private HashMap<String,Double> movedFirstModity_map;
+private ArrayList<Float> callDownloadCount_list;
+
+[old: Yukon -> new: GROPeaksSimple] insert  private float screenTaskWidget_l_max = 0.0f;
+long winnableChannelSum = 0;
+private float widthAnd_pObserver_max = 0.0f;
+private double cardsArrayPadding = 0.0;
+
+[old: AppOpsObserver -> new: XAndroidSimon] insert  HashMap<String,Integer> activtyPicturePrint__z_dict;
+ArrayList<Float> pausePyramidRecently_list;
+
+[old: DialogPreferenceTextColor -> new: WKAssembly] insert  private boolean has_BackgroundInvalidateBottom = false;
+float interfaceRightSpace = 0.0f;
+int winLayout_mark = 0;
+float movabilityBorder_min = 0.0f;
+
+[old: XObject -> new: BLPreferenceOrderObject] insert  long mazeLoad_tag = 0;
+double packageCheckBackground_space = 0.0;
+float dialogRestartCallMin = 0.0f;
+
+[old: AES -> new: COColorsUsage] insert  int percentageBelowProgress_sum = 0;
+private HashMap<String,Double> globalOrderMovement_map;
+long gapsRegister_daBundle_sum = 0;
+private int decksMatchMusic_tag = 0;
+
+[old: DialogPreferenceVegasBetAmount -> new: SGXTests] insert  String receiveMarginsStr;
+int emptyInterpolateCount = 0;
+String manualObserver_str;
+private String baseEllipsisShown_str;
+
+[old: AudioObserver -> new: COxygen] insert  long moveGradleFlag = 0;
+private float centerCheck_padding = 0.0f;
+private float packageRes_min = 0.0f;
+
+[old: GameManager -> new: KGradlew] insert  float pagerUserRandomPadding = 0.0f;
+private double continue_plAcesCommand_size = 0.0;
+private boolean hasHeightHelp = false;
+
+[old: Gypsy -> new: GSColors] insert  double canfieldDirectionScoreMax = 0.0;
+private ArrayList<Boolean> fadeLong_59_list;
+double singleInit_hkClass_b_padding = 0.0;
+private ArrayList<Float> lockNativeArray;
+
+[old: HandlerObserver -> new: SIScreenPager] insert  double eventsDrawer_margin = 0.0;
+float tombPhoneHideOffset = 0.0f;
+private int fragmentSimonMaze_idx = 0;
+float routerFoundationIndividualSize = 0.0f;
+
+[old: AutofillObserver -> new: TGOHeaders] insert  String recyclesSharedString;
+HashMap<String,Float> greenVertical_dict;
+
+[old: AdSelectorImpl -> new: TNShadow] insert  private long availableCommandImproveTag = 0;
+private long napoleonsTrack_index = 0;
+
+[old: DialogMixCards -> new: ZQAnimation] insert  float alarmTimerMin = 0.0f;
+boolean canSameStateMatch = false;
+private HashMap<String,Float> highlightGypsy_dictionary;
+HashMap<String,Double> recordSwitch_7fAmount_map;
+
+[old: Preferences -> new: BJSummaryDelete] insert  boolean isToastSpacing = false;
+float seekRequestPointsSpace = 0.0f;
+double jinit_jBillingPyramid_max = 0.0;
+private float greenEntryAutofill_max = 0.0f;
+
+[old: RESET -> new: ZERRows] insert  boolean canMovesInformationDirection = false;
+private long serviceListSpeedIndex = 0;
+
+[old: AdSelectorImpl -> new: TNShadow] insert  int playCards_tag = 0;
+String touchedOutputLong_r_Str;
+
+[old: HandlerLoadGame -> new: SQShared] insert  double trackingRecveRelativeSpace = 0.0;
+private ArrayList<Boolean> interfaceCall_arr;
+private String messagePackageStr;
+private String orangeGamesIcon_string;
+
+[old: RESET -> new: ZERRows] insert  private ArrayList<String> wonEquals_arr;
+private String linePos_string;
+
+[old: RESET -> new: ZERRows] insert  private long packageDecrementMark = 0;
+private ArrayList<Boolean> wonChangedDelayed_list;
+private double offsetRequest_padding = 0.0;
+HashMap<String,Float> default__cScoresDict;
+
+[old: DialogPreferenceVegasResetMoney -> new: AGPoolMiddle] insert  private double tapIcon_padding = 0.0;
+int size_37TrackingCompleted_sum = 0;
+
+[old: RESET -> new: ZERRows] insert  ArrayList<Boolean> pictureServices_list;
+private HashMap<String,Long> nameAlternativePhone_dict;
+double movesUnregisterWifiPadding = 0.0;
+private long soundsImmersiveCancel_mark = 0;
+
+[old: RESET -> new: ZERRows] insert  float allProxy_size = 0.0f;
+private long installVegasIndex = 0;
+private double shellCfgDeveloper_offset = 0.0;
+int remainingRedealFlag = 0;
+
+[old: RESET -> new: ZERRows] insert  HashMap<String,Double> oxygenWithout_dictionary;
+boolean is_DimensionsDondorf = false;
+private int localePoolPosition_mark = 0;
+
+[old: XShell -> new: TFPAbout] insert  int elementSessionCount = 0;
+double optionGamesRegistrySize = 0.0;
+
+[old: DialogRedeal -> new: ZEReturn] insert  double binit_kBackupEarnedSize = 0.0;
+double mazeObjectBlue_padding = 0.0;
+String drawerDifficultyString;
+
+[old: DialogStartNewGame -> new: MLFCalculation] insert  long libcocosdjsConstructorSum = 0;
+private ArrayList<Integer> acesPool_Array;
+
+[old: InputObserver -> new: TKSActivtyShared] insert  private ArrayList<Long> tappedFactoryArr;
+ArrayList<Float> recycleRegister_cTablet_list;
+
+[old: ActivityX -> new: GELogicBackup] insert  private String versionPath_str;
+private HashMap<String,Integer> simpleBundlePeaks_dictionary;
+private HashMap<String,Double> enabledBestDarkDictionary;
+
+[old: BASE64 -> new: BRHint] insert  private HashMap<String,String> local_1kSpideretteExchangeDict;
+private HashMap<String,Boolean> assemblyNetworkHorizontalDictionary;
+
+[old: HandlerStopBackgroundMusic -> new: ZMRegisterLibcocosdjs] insert  private long simonOrangeParcelableMark = 0;
+HashMap<String,Double> drawGet_gLayoutsDict;
+boolean is_OrangeDarkHandler = false;
+private long objectPyramid_mark = 0;
+
+[old: GameSelector -> new: CStatisticsContent] insert  private boolean isDrawerObserverPane = false;
+String localeDownloadAnimationStr;
+double phonePeaksTelephony_size = 0.0;
+private int sourceObserverDollarSum = 0;
+
+[old: WifiObserver -> new: WVMatchPool] insert  boolean enbaleFirstTapFlip = false;
+private long basicPage_idx = 0;
+
+[old: AndroidX -> new: KOFourCanfield] insert  private float recveBufferResMargin = 0.0f;
+boolean hasLocal_5xScrollGames = false;
+String default_dgAidl_str;
+
+[old: CustomPreferenceFragment -> new: PJAUserMovesFragment] insert  ArrayList<Long> counterDispatchArray;
+long spiderFactoryShell_count = 0;
+
+[old: BASE64 -> new: BRHint] insert  int notificationCallback_tag = 0;
+private float closeWriteLastSize = 0.0f;
+boolean enbaleAdvertisingTimer = false;
+ArrayList<Double> phoneActivty_Array;
+
+[old: JobObserver -> new: WVBillingAccount] insert  float leftDealTest_padding = 0.0f;
+double switch_ikTotalHelp_margin = 0.0;
+double bitmapsMain_max = 0.0;
+
+[old: HandlerTimer -> new: KNPHintPath] insert  float long_oMethodsSize = 0.0f;
+private String themeMovesString;
+HashMap<String,Float> immersiveInfo_map;
+private int window_k4RecordsPercentageFlag = 0;
+
+[old: BASE64 -> new: BRHint] insert  ArrayList<Long> activityAnimateSimon_list;
+int movabilitySessionBottomSum = 0;
+
+[old: DialogWon -> new: ADeveloperAnimation] insert  private ArrayList<Float> highlightContain_list;
+private String freecellDispatchOnly_str;
+private long everySpeedActivtyIdx = 0;
+private int customDestroyed_flag = 0;
+
+[old: XZip -> new: HIColorsOther] insert  String installSelectorString;
+private boolean can_AutocompleteIntent = false;
+private String movesMixingHandleStr;
+
+[old: ClipboardObserver -> new: ZQTColumns] insert  float originalDealGold_space = 0.0f;
+HashMap<String,Double> preferencesAssembly_map;
+
+[old: DialogPreferenceBackgroundColor -> new: MNPreviews] insert  long providerAutocomplete_mark = 0;
+ArrayList<Integer> securityPreviewsExpert_Array;
+private float modeSelectorDrawerOffset = 0.0f;
+
+[old: MediaRouterObserver -> new: DLManifest] insert  private ArrayList<Boolean> alternativeFinishedBuffList;
+private String resWindow_jhAmount_string;
+
+[old: RecordList -> new: SGMovement] insert  private long changeLeftEveryTag = 0;
+private ArrayList<Long> buffSwapBooleansArray;
+private double customDownPadding = 0.0;
+String numberLibcocosdjsDestroyedString;
+
+[old: CheckBoxPreferenceFourColorMode -> new: PRGreen] insert  double downloadMove_margin = 0.0;
+boolean is_GamesLock = false;
+
+[old: RecordList -> new: SGMovement] insert  private int pressedAidlRequest_sum = 0;
+HashMap<String,Integer> touchPosDictionary;
+private int baseField_index = 0;
+private HashMap<String,String> mazeParisDict;
+
+[old: ServiceManager -> new: UWWith] insert  private int brokerValueFlag = 0;
+private double connectivityTelephonySwap_max = 0.0;
+double activityPrefPadding = 0.0;
+
+[old: WindowObserver -> new: CANPhone] insert  int finishedEmpty_flag = 0;
+float numberTrackHelpMin = 0.0f;
+
+[old: Manual -> new: JEPictureMiddle] insert  boolean has_AndroidMain = false;
+long helpOrderedMark = 0;
+
+[old: Klondike -> new: WIEAutofill] insert  private double changerWaitSize = 0.0;
+long securityGypsy_mark = 0;
+
+[old: Animate -> new: XMovesBlue] insert  private long motionForty_count = 0;
+private float splashPos_space = 0.0f;
+long hintsFourTag = 0;
+private int threadUnregisterPausedFlag = 0;
+
+[old: WindowObserver -> new: CANPhone] insert  float poolBuildFade_offset = 0.0f;
+String randomisationContentStr;
+private ArrayList<String> libcocosdjsIncrementList;
+String menuParisOptionStr;
+
+[old: DialogPreferenceCardBackground -> new: LProxyHighlight] insert  private float this_vOrdersSpideretteSpace = 0.0f;
+private boolean has_ConfigurationBooleansStarted = false;
+
+[old: MountObserver -> new: GVHighlightPager] insert  private HashMap<String,Boolean> cardStableBottomDictionary;
+int libmplameAnimationRecently_tag = 0;
+boolean is_ElementStatsWindow_a = false;
+double with_u8ConnectivityPadding = 0.0;
+
+[old: BufferPool -> new: ZWFShellDelete] insert  private int usageHeaderDrawerIndex = 0;
+long ordersMoneyGolfIdx = 0;
+
+[old: VERSION -> new: CJSPositionVolume] insert  private long screenTime_1t_idx = 0;
+private boolean hasButtonMovingShadow = false;
+private int gradlewPlayedAbstract_r_mark = 0;
+private float listPercentageMovement_size = 0.0f;
+
+[old: CheckBoxPreferenceHideAutoCompleteButton -> new: VLChangerPrefButton] insert  int preferenceDimensBackIndex = 0;
+private ArrayList<Integer> tapStatisticsPyramidArr;
+
+[old: ConnectivityObserver -> new: JKUUsageThis] insert  HashMap<String,Boolean> get_gnLockRecord_dictionary;
+float mainProgress_margin = 0.0f;
+private HashMap<String,String> servicesEchoWindow_h6_dictionary;
+private long simplePictureBitmap_flag = 0;
+
+[old: Scores -> new: HYEMoving] insert  long shadowPkg_mark = 0;
+ArrayList<Float> sequencesBooleansList;
+boolean isWidthShownPager = false;
+
+[old: DialogPreferenceCards -> new: DEOSession] insert  String correctDelegate_gStr;
+double loadPackArray_max = 0.0;
+
+[old: AutoComplete -> new: JGRight] insert  private int stoppedWriteCellFlag = 0;
+String notificationCounterString;
+float randomisationOrderAdvertisingPadding = 0.0f;
+private float disableLibcocosdjs_size = 0.0f;
+
+[old: Maze -> new: JWEDarkLoad] insert  String previewsCorrectString;
+private boolean is_ContextIconXlarge = false;
+double boundsPkgRegistryPadding = 0.0;
+long currentScrollMove_sum = 0;
+
+[old: sdk -> new: GVTests] insert  ArrayList<Float> playingDarkArray;
+ArrayList<String> freecellCheckHandleList;
+double entriesPlayOffset = 0.0;
+boolean enbale_PauseClock = false;
+
+[old: CheckBoxPreferenceHideMenuButton -> new: OLibmplameBufferButton] insert  private int eightSlowSelected_mark = 0;
+private double rowIteration_max = 0.0;
+private double limitedPositionParcelableMargin = 0.0;
+private HashMap<String,Boolean> objectCompareBuild_map;
+
+[old: DEBUG -> new: KLibjcorePoker] insert  private String barDecksString;
+private HashMap<String,Double> routerTotal_map;
+
+[old: DialogPreferenceEnsureMovabilityMinMoves -> new: SStopBackup] insert  private long listServiceIndex = 0;
+int incrementStopAuto_a4_sum = 0;
+
+[old: DynamicListView -> new: ILibnonDownloadView] insert  private HashMap<String,Integer> destroyedXlargeGold_map;
+HashMap<String,Boolean> lockTitleShow_map;
+
+[old: NotificationObserver -> new: SWithLightbulb] insert  ArrayList<Boolean> napoleonsTableScoreArray;
+double correctPreferencesPausedMargin = 0.0;
+HashMap<String,Double> objectCfgMap;
+boolean canExpertMiddleUser = false;
+
+[old: encryption -> new: OGLauncher] insert  private long mainToast_sum = 0;
+private double localeRecycleMargin = 0.0;
+private long previewsEnvsCustom_flag = 0;
+boolean enbaleLocal__0ConfigSession = false;
+
+[old: FileLock -> new: MLibgtcoreApplication] insert  HashMap<String,String> golfMainLoaderMap;
+private ArrayList<Float> charsetFreecellLongestArray;
+
+[old: SplashActivity -> new: YNNStableActivity] insert  private double exitGapsOffset = 0.0;
+HashMap<String,Double> repeat_zsModern_dict;
+private float dondorfElementsMin = 0.0f;
+
+[old: Sounds -> new: ZBCustomize] insert  float movementNumberDeveloper_max = 0.0f;
+private long integersThreadFlag = 0;
+private long viewGoogleSpiderette_index = 0;
+private boolean has_LibnonDynamic_n = false;
+
+[old: HelperCardMovement -> new: KMKSensorInit] insert  private String multiParisCanString;
+private HashMap<String,Double> forceRegister_5_dictionary;
+ArrayList<Integer> dynamic_90OnlyCommand_list;
+
+
+
+开始自动加密混淆字符串。。。。。。。
+"https://%s/v1/check/referrer/ANDROID"
+
+
+开始融合并调用生成的垃圾代码文件函数或者类。。。。。。。
+100%👌
+
+
+开始插入混淆函数并在现有函数体里面自动插入混淆函数调用语句。。。。。。。
+100%👌
+
+
+开始自动插入头文件混淆函数定义语句。。。。。。。
+100%👌
+
+
+开始生成新混淆源文件。。。。。。。
+100%👌

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.ardently.love.delightgame.classes.LRStacks
+        android:defaultValue="1"
+        android:entries="@array/pref_orientation_titles"
+        android:entryValues="@array/pref_orientation_values"
+        android:key="@string/pref_key_orientation"
+        android:negativeButtonText="@string/billingTaskMoves"
+        android:positiveButtonText="@null"
+        android:summary="%s"
+        android:title="@string/connectivityFreecell" />
+
+    <com.ardently.love.delightgame.classes.LRStacks
+        android:defaultValue="default"
+        android:entries="@array/pref_language_titles"
+        android:entryValues="@array/pref_language_values"
+        android:key="@string/pref_key_language"
+        android:negativeButtonText="@string/billingTaskMoves"
+        android:positiveButtonText="@null"
+        android:summary="%s"
+        android:title="@string/loadConnectivity" />
+
+    <com.ardently.love.delightgame.classes.LRStacks
+        android:defaultValue="@string/default_movement_speed"
+        android:entries="@array/pref_movement_speed_titles"
+        android:entryValues="@array/pref_movement_speed_values"
+        android:key="@string/pref_key_movement_speed"
+        android:negativeButtonText="@string/billingTaskMoves"
+        android:positiveButtonText="@null"
+        android:summary="%s"
+        android:title="@string/showReturn_rjRedeal" />
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="false"
+        android:key="@string/pref_key_hide_status_bar"
+        android:title="@string/init_aSelector" />
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="@bool/default_immersive_mode"
+        android:key="@string/pref_key_immersive_mode"
+        android:summary="@string/activtyInformationFour"
+        android:title="@string/buglyCalculationFusion" />
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="false"
+        android:key="@string/pref_key_left_handed_mode"
+        android:summary="@string/dummyMaze"
+        android:title="@string/drawerActivity" />
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="@bool/default_auto_start_new_game"
+        android:key="@string/pref_key_auto_start_new_game"
+        android:summary="@string/changerStableCheck"
+        android:title="@string/textConfigField" />
+
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="@bool/default_ensure_movability"
+        android:key="@string/pref_key_ensure_movability"
+        android:summary="@string/contentAdapterIntegers"
+        android:title="@string/buildPackHelp" />
+
+    <com.ardently.love.delightgame.dialogs.SStopBackup
+        android:dependency="@string/pref_key_ensure_movability"
+        android:key="@string/pref_key_ensure_movability_min_moves"
+        android:negativeButtonText="@string/billingTaskMoves"
+        android:positiveButtonText="@string/poolTaskCustomize"
+        android:summary="@string/return_bPyramidTests"
+        android:title="@string/preferenceMarginsMoves" />
+
+
+</PreferenceScreen>

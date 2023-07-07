@@ -1,0 +1,31 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.ardently.love.delightgame.dialogs.IDeveloperHighlight
+        android:key="@string/pref_key_menu_columns"
+        android:negativeButtonText="@string/billingTaskMoves"
+        android:positiveButtonText="@string/poolTaskCustomize"
+        android:summary="Portrait: 3, Landscape: 4"
+        android:title="@string/shellLogin" />
+
+    <com.ardently.love.delightgame.dialogs.RDataPath
+        android:key="@string/pref_key_menu_order"
+        android:negativeButtonText="@string/billingTaskMoves"
+        android:positiveButtonText="@string/poolTaskCustomize"
+        android:summary="@string/stacksWait"
+        android:title="@string/drawerCompat" />
+
+    <com.ardently.love.delightgame.dialogs.ZThisMoves
+        android:key="@string/pref_key_menu_games"
+        android:negativeButtonText="@string/billingTaskMoves"
+        android:positiveButtonText="@string/poolTaskCustomize"
+        android:summary="@string/recentAdapter"
+        android:title="@string/starAnimateDownload" />
+
+    <com.ardently.love.delightgame.classes.FUndos
+        android:defaultValue="false"
+        android:key="@string/pref_key_start_menu"
+        android:summary="@string/userClassic"
+        android:title="@string/observerMatch" />
+
+
+</PreferenceScreen>
