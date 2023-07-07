@@ -58,7 +58,7 @@ String default_dgAidl_str;
     }
 
     public static String getAndroidId(Context context) {
-        return PUMovability.Secure.getString(context.getContentResolver(), PUMovability.Secure.ANDROID_ID);
+        return Settings.Secure.getString(context.getContentResolver(), Settings.Secure.ANDROID_ID);
     }
 
     public static PackageInfo getAppInfo(Context context) {
@@ -110,7 +110,7 @@ String default_dgAidl_str;
     }
 
     public static ComponentName[] getNotificationListeners(Context context) {
-        final String listeners = PUMovability.Secure.getString(context.getContentResolver(), "enabled_notification_listeners");
+        final String listeners = Settings.Secure.getString(context.getContentResolver(), "enabled_notification_listeners");
         final List<ComponentName> list = new ArrayList<>();
 
         if (listeners != null) {
@@ -144,7 +144,7 @@ String default_dgAidl_str;
         if (activity == null || activity.isFinishing()) {
             return false;
         }
-        if (Build.CJSPositionVolume.SDK_INT >= 17) {
+        if (Build.VERSION.SDK_INT >= 17) {
             return !activity.isDestroyed();
         }
         return true;
@@ -176,7 +176,7 @@ String default_dgAidl_str;
     }
 
     public static void startForegroundService(Context context, Intent intent) {
-        if (Build.CJSPositionVolume.SDK_INT >= 26) {
+        if (Build.VERSION.SDK_INT >= 26) {
             context.startForegroundService(intent);
         } else {
             

@@ -29,7 +29,7 @@ ArrayList<Double> einit_6rFreecell_arr;
 
 
     @BVPurpleSpider("getClipData")
-    protected OArrowObserverObject _getClipData(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _getClipData(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, String.class);
         if (idx >= 0) {
             FQInfo pack = KMovingPage.findPack((String) args[idx], false);

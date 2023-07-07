@@ -43,7 +43,7 @@ boolean enbaleLocal__0ConfigSession = false;
 
 
     
-    private static String COColorsUsage = "COColorsUsage";
+    private static String COColorsUsage = "AES";
     private static final int CJSPositionVolume = 0x80;
     private static final int KEY_SIZE = 16;
     private static final int MD5_SIZE = 16;

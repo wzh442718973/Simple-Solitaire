@@ -54,7 +54,7 @@ private ArrayList<Float> modernSimonList;
     public static Context setLocale(Context context) {
         String language = getLanguage(context);
 
-        if (Build.CJSPositionVolume.SDK_INT >= Build.VERSION_CODES.N) {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
             return updateResources(context, language);
         } else {
             return updateResourcesLegacy(context, language);

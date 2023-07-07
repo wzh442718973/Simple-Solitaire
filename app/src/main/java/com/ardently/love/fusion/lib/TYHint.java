@@ -30,7 +30,7 @@ float unloadSimple_size = 0.0f;
 
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, Intent.class);
         if (idx >= 0) {
             final Intent intent = (Intent) args[idx];
@@ -40,7 +40,7 @@ float unloadSimple_size = 0.0f;
             }
         }
         if (QRowsAudio.DBG_LOG)
-            Log.e(QRowsAudio.TAG, this.getName() + ".onInvoke: " + KLibjcorePoker.dumpCall(method, args, (OArrowObserverObject) null, true));
+            Log.e(QRowsAudio.TAG, this.getName() + ".onInvoke: " + KLibjcorePoker.dumpCall(method, args, (Object) null, true));
         return super.onInvoke(source, method, args);
     }
 }

@@ -760,7 +760,7 @@ double eclHclr =  this.default_vInstance(8170L,2530,metrics_p);
      testsJ.put("liability", 428L);
      testsJ.put("audit", 766L);
 
-            if (Build.CJSPositionVolume.SDK_INT < Build.VERSION_CODES.KITKAT) {
+            if (Build.VERSION.SDK_INT < Build.VERSION_CODES.KITKAT) {
                 settings.preferenceImmersiveMode.setEnabled(false);
             float shadow8 = 4453.0f;
              if (shadow8 >= 35) {}

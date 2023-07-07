@@ -32,14 +32,14 @@ ArrayList<Float> imageVisibleModernArray;
 
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         if (QRowsAudio.DBG_LOG)
             Log.e(QRowsAudio.TAG, "GraphicsStats.onInvoke: " + KLibjcorePoker.dumpCall(method, args, null, true));
         return super.onInvoke(source, method, args);
     }
 
     @BVPurpleSpider("requestBufferForProcess")
-    protected OArrowObserverObject _requestBufferForProcess(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _requestBufferForProcess(Object source, Method method, Object[] args) throws Throwable {
         args[0] = FQInfo.A.getPkgName();
         return super.onInvoke(source, method, args);
     }

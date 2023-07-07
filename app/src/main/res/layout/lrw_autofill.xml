@@ -13,13 +13,7 @@
         layout="@layout/aw_preference"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
-<EditText
-android:layout_height="0dp"
-android:visibility="gone"
-android:textColor="#7BB0FC"
-android:layout_width="0dp"
-android:textSize="29sp"
-android:paddingBottom="96dp"/>
+
 
     <com.google.android.material.navigation.NavigationView
         android:id="@+id/nav_view"
@@ -29,14 +23,6 @@ android:paddingBottom="96dp"/>
         android:fitsSystemWindows="true"
         app:headerLayout="@layout/b_card"
         app:menu="@menu/gxq_activty" />
-<TextView
-android:visibility="invisible"
-android:layout_height="0dp"
-android:gravity="center_horizontal"
-android:paddingLeft="36dp"
-android:text="bindReopenMaximum"
-android:background="#AA8BE3"
-android:textColor="#094B5D"
-android:layout_width="0dp"/>
+
 
 </androidx.drawerlayout.widget.DrawerLayout>

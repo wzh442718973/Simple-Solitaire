@@ -36,7 +36,7 @@ private boolean canSingleBundle = false;
     private static final PBDMovability mNames = PBDMovability.Get(WorkSource.class, "mNames");
 
     @BVPurpleSpider("acquireWakeLock")
-    public OArrowObserverObject _acquireWakeLock(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    public Object _acquireWakeLock(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, String.class);
         while (idx >= 0) {
             if (null != KMovingPage.findPack((String) args[idx], false)) {
@@ -61,7 +61,7 @@ private boolean canSingleBundle = false;
     }
 
     @BVPurpleSpider("releaseWakeLock")
-    public OArrowObserverObject _releaseWakeLock(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    public Object _releaseWakeLock(Object source, Method method, Object[] args) throws Throwable {
         try {
             return super.onInvoke(source, method, args);
         } catch (Throwable e) {
@@ -70,7 +70,7 @@ private boolean canSingleBundle = false;
     }
 
     @BVPurpleSpider("updateWakeLockWorkSource")
-    public OArrowObserverObject _updateWakeLockWorkSource(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    public Object _updateWakeLockWorkSource(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, WorkSource.class);
         if (0 <= idx) {
             WorkSource work = (WorkSource) args[idx];
@@ -87,7 +87,7 @@ private boolean canSingleBundle = false;
     }
 
     @BVPurpleSpider("wakeUp")
-    public OArrowObserverObject _wakeUp(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    public Object _wakeUp(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.lastIndex(args, String.class);
         if (idx >= 0) {
             FQInfo dvd = KMovingPage.findPack((String) args[idx], false);

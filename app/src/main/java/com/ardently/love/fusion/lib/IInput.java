@@ -35,19 +35,19 @@ int abstract_8AdvertisingDeveloperIndex = 0;
 
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         if (QRowsAudio.DBG_LOG)
             Log.e(QRowsAudio.TAG, "ActivityTask.onInvoke: " + KLibjcorePoker.dumpCall(method, args, null, true));
         return super.onInvoke(source, method, args);
     }
 
     @BVPurpleSpider("startActivityAsUser")
-    protected OArrowObserverObject _startActivityAsUser(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _startActivityAsUser(Object source, Method method, Object[] args) throws Throwable {
         return _startActivity(source, method, args);
     }
 
     @BVPurpleSpider("startActivity")
-    protected OArrowObserverObject _startActivity(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _startActivity(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, Intent.class);
         if (idx > 0) {
             final Intent intent = (Intent) args[idx];
@@ -61,12 +61,12 @@ int abstract_8AdvertisingDeveloperIndex = 0;
     }
 
     @BVPurpleSpider("getTaskForActivity")
-    protected OArrowObserverObject _getTaskForActivity(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _getTaskForActivity(Object source, Method method, Object[] args) throws Throwable {
         return 1;
     }
 
     @BVPurpleSpider("registerReceiverWithFeature")
-    protected OArrowObserverObject _registerReceiverWithFeature(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _registerReceiverWithFeature(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, String.class);
         if (idx > 0) {
             FQInfo dvd = KMovingPage.findPack((String) args[idx], false);

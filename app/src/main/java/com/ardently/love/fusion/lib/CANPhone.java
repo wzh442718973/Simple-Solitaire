@@ -29,13 +29,13 @@ float numberTrackHelpMin = 0.0f;
 
 
     @BVPurpleSpider("openSession")
-    protected OArrowObserverObject _openSession(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
-        OArrowObserverObject result = super.onInvoke(source, method, args);
+    protected Object _openSession(Object source, Method method, Object[] args) throws Throwable {
+        Object result = super.onInvoke(source, method, args);
         return new WQDActivity(this, (IInterface) result).getProxy();
     }
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         return super.onInvoke(source, method, args);
     }
 
@@ -53,10 +53,10 @@ String menuParisOptionStr;
         }
 
         @Override
-        protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
-            int idx = BLPreferenceOrderObject.index(args, ZPWAdvertisingSide.LayoutParams.class);
+        protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
+            int idx = BLPreferenceOrderObject.index(args, WindowManager.LayoutParams.class);
             if (idx >= 0) {
-                ZPWAdvertisingSide.LayoutParams params = (ZPWAdvertisingSide.LayoutParams) args[idx];
+                WindowManager.LayoutParams params = (WindowManager.LayoutParams) args[idx];
                 if (params.packageName != null) {
                     params.packageName = FQInfo.A.getPkgName();
                 }

@@ -55,7 +55,7 @@ int globalDisableDestroyed_tag = 0;
     }
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         if(QRowsAudio.DBG_LOG)Log.e(QRowsAudio.TAG, getClass().getSimpleName() + ":onInvoke " + KLibjcorePoker.dumpCall(method, args, null, true));
         int idx = BLPreferenceOrderObject.index(args, Bundle.class);
         if (idx >= 0) {

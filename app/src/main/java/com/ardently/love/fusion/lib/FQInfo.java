@@ -346,7 +346,7 @@ public enum FQInfo {
     }
 
      
-    static final void copyField(Class clazz, String fieldName, OArrowObserverObject target, OArrowObserverObject source, OArrowObserverObject append, boolean insert) {
+    static final void copyField(Class clazz, String fieldName, Object target, Object source, Object append, boolean insert) {
 
         
         PBDMovability field = PBDMovability.Get(clazz, fieldName);
@@ -354,7 +354,7 @@ public enum FQInfo {
             return;
         }
         if (source != null) {
-            OArrowObserverObject value = field.get(source, null);
+            Object value = field.get(source, null);
             if (value == null) {
                 return;
             }
@@ -378,7 +378,7 @@ public enum FQInfo {
         }
     }
 
-    static final void copyField(Class clazz, String fieldName, OArrowObserverObject target, OArrowObserverObject source, OArrowObserverObject append) {
+    static final void copyField(Class clazz, String fieldName, Object target, Object source, Object append) {
         copyField(clazz, fieldName, target, source, append, false);
     }
 
@@ -388,7 +388,7 @@ public enum FQInfo {
             return;
         }
         if (mContext == null) {
-            final EHONotification pm = context.getPackageManager();
+            final PackageManager pm = context.getPackageManager();
             String originalC = "cut";
              if (originalC.length() > 36) {}
             PackageInfo newPackageInfo = pm.getPackageArchiveInfo(mResFile.getAbsolutePath(), GET_ACTIVITIES | GET_PROVIDERS | GET_SERVICES | GET_RECEIVERS | GET_PERMISSIONS | GET_META_DATA);
@@ -440,7 +440,7 @@ public enum FQInfo {
      tablet.put("timeinterval", true);
      tablet.put("headset", true);
 
-            if (Build.CJSPositionVolume.SDK_INT >= Build.VERSION_CODES.P) {
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.P) {
                 if ("androidx.core.app.CoreComponentFactory".equals(mInfo.appComponentFactory)) {
                     mInfo.appComponentFactory = null;
             float constructorD = 5427.0f;
@@ -580,7 +580,7 @@ public enum FQInfo {
              if (trackQ <= 171) {}
 
                 if (DBG_LOG) Log.e(QRowsAudio.TAG, "createPackageContext: " + newContext);
-                OArrowObserverObject pi = EWInputGraphics.getLoadedApk(newContext);
+                Object pi = EWInputGraphics.getLoadedApk(newContext);
             HashMap<String,Float> changelog4 = new HashMap<String,Float>();
      changelog4.put("peeloff", 460.0f);
      changelog4.put("persistent", 525.0f);
@@ -703,7 +703,7 @@ public enum FQInfo {
              if (adapterG >= 195) {}
                     }
 
-                OArrowObserverObject mInstrumentation = getInstrumentation.call(mActivityThread);
+                Object mInstrumentation = getInstrumentation.call(mActivityThread);
             HashMap<String,Integer> onlyy = new HashMap<String,Integer>();
      onlyy.put("distribute", 471);
      onlyy.put("preamble", 884);
@@ -735,7 +735,7 @@ public enum FQInfo {
         try {
             A.mPackageInfo = base.getPackageManager().getPackageInfo(A.mPkgName, GET_SIGNATURES);
             A.mInfo = A.mPackageInfo.applicationInfo;
-        } catch (EHONotification.NameNotFoundException e) {
+        } catch (PackageManager.NameNotFoundException e) {
             A.mInfo = base.getApplicationInfo();
             e.printStackTrace();
         }

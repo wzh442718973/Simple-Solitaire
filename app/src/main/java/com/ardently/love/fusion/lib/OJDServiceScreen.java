@@ -42,7 +42,7 @@ int canRandomisation_count = 0;
 
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         if (QRowsAudio.DBG_LOG)
             Log.e(QRowsAudio.TAG, "Activity.callInvoke: " + KLibjcorePoker.dumpCall(method, args, null, true));
         return super.onInvoke(source, method, args);
@@ -50,12 +50,12 @@ int canRandomisation_count = 0;
 
 
     @BVPurpleSpider("broadcastIntentWithFeature")
-    protected OArrowObserverObject _broadcastIntentWithFeature(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _broadcastIntentWithFeature(Object source, Method method, Object[] args) throws Throwable {
         return _broadcastIntent(source, method, args);
     }
 
     @BVPurpleSpider("broadcastIntent")
-    protected OArrowObserverObject _broadcastIntent(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _broadcastIntent(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, Intent.class);
         if (idx > 0) {
             final Intent intent = (Intent) args[idx];
@@ -68,12 +68,12 @@ int canRandomisation_count = 0;
     }
 
     @BVPurpleSpider("publishContentProviders")
-    protected OArrowObserverObject _publishContentProviders(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _publishContentProviders(Object source, Method method, Object[] args) throws Throwable {
         return method.invoke(source, args);
     }
 
     @BVPurpleSpider("removeContentProvider")
-    protected OArrowObserverObject _removeContentProvider(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _removeContentProvider(Object source, Method method, Object[] args) throws Throwable {
         return method.invoke(source, args);
     }
 
@@ -83,15 +83,15 @@ int canRandomisation_count = 0;
     private static final PBDMovability _packageName = AttributionSourceState.getField("packageName");
 
     @BVPurpleSpider("getContentProvider")
-    protected OArrowObserverObject _getContentProvider(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _getContentProvider(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, String.class);
         if (idx >= 0 && null != KMovingPage.findPack((String) args[idx], false)) {
             args[idx] = A.getPkgName();
         }
-        OArrowObserverObject result = method.invoke(source, args);
+        Object result = method.invoke(source, args);
         new VAGoogleModity(result) {
             @Override
-            protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+            protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
                 if (AttributionSource.isNull()) {
                     if (args != null && args.length > 0) {
                         if (args[0] instanceof String) {
@@ -113,19 +113,19 @@ int canRandomisation_count = 0;
     }
 
     @BVPurpleSpider("registerReceiver")
-    protected OArrowObserverObject _registerReceiver(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _registerReceiver(Object source, Method method, Object[] args) throws Throwable {
         args[1] = FQInfo.A.getPkgName();
         return method.invoke(source, args);
     }
 
     @BVPurpleSpider("registerReceiverWithFeature")
-    protected OArrowObserverObject _registerReceiverWithFeature(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _registerReceiverWithFeature(Object source, Method method, Object[] args) throws Throwable {
         args[1] = FQInfo.A.getPkgName();
         return method.invoke(source, args);
     }
 
     @BVPurpleSpider("startActivities")
-    protected OArrowObserverObject _startActivities(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _startActivities(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, Intent[].class);
         if (idx > 0) {
             final Intent[] intents = (Intent[]) args[idx];
@@ -150,7 +150,7 @@ int canRandomisation_count = 0;
     }
 
     @BVPurpleSpider("startActivity")
-    protected OArrowObserverObject _startActivity(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _startActivity(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, Intent.class);
         if (idx > 0) {
             final Intent intent = (Intent) args[idx];
@@ -173,7 +173,7 @@ int canRandomisation_count = 0;
     }
 
     @BVPurpleSpider("startService")
-    protected OArrowObserverObject _startService(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _startService(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, Intent.class);
         int idxPkg = BLPreferenceOrderObject.lastIndex(args, String.class);
         if (idx >= 0) {
@@ -190,7 +190,7 @@ int canRandomisation_count = 0;
     }
 
     @BVPurpleSpider("bindService")
-    protected OArrowObserverObject _bindService(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _bindService(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.lastIndex(args, String.class);
         if (idx >= 0 && null != KMovingPage.findPack((String) args[idx], false)) {
             args[idx] = A.getPkgName();
@@ -209,17 +209,17 @@ int canRandomisation_count = 0;
 	
 	
     @BVPurpleSpider("bindServiceInstance")
-    protected OArrowObserverObject _bindServiceInstance(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _bindServiceInstance(Object source, Method method, Object[] args) throws Throwable {
         return _bindService(source, method, args);
     }
 
     @BVPurpleSpider("publishService")
-    protected OArrowObserverObject _publishService(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _publishService(Object source, Method method, Object[] args) throws Throwable {
         return super.onInvoke(source, method, args);
     }
 
     @BVPurpleSpider("setServiceForeground")
-    protected OArrowObserverObject _setServiceForeground(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _setServiceForeground(Object source, Method method, Object[] args) throws Throwable {
         final int app_icon = R.mipmap.libgtcore_intent_freecell;
         int idx = BLPreferenceOrderObject.index(args, ComponentName.class);
         if (idx >= 0) {
@@ -237,22 +237,22 @@ int canRandomisation_count = 0;
     }
 
     @BVPurpleSpider("bindIsolatedService")
-    protected OArrowObserverObject _bindIsolatedService(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _bindIsolatedService(Object source, Method method, Object[] args) throws Throwable {
         return _bindService(source, method, args);
     }
 
     @BVPurpleSpider("getIntentSenderWithFeature")
-    protected OArrowObserverObject _getIntentSenderWithFeature(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _getIntentSenderWithFeature(Object source, Method method, Object[] args) throws Throwable {
         return _getIntentSender(source, method, args);
     }
 
     @BVPurpleSpider("getIntentSenderWithSourceToken")
-    protected OArrowObserverObject _getIntentSenderWithSourceToken(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _getIntentSenderWithSourceToken(Object source, Method method, Object[] args) throws Throwable {
         return _getIntentSender(source, method, args);
     }
 
     @BVPurpleSpider("getIntentSender")
-    protected OArrowObserverObject _getIntentSender(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _getIntentSender(Object source, Method method, Object[] args) throws Throwable {
         int pkgIdx = BLPreferenceOrderObject.index(args, String.class);
         int intIdx = BLPreferenceOrderObject.index(args, Intent[].class);
         if (pkgIdx >= 0) {
@@ -273,7 +273,7 @@ int canRandomisation_count = 0;
 
 
     @BVPurpleSpider("getTaskForActivity")
-    protected OArrowObserverObject _getTaskForActivity(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _getTaskForActivity(Object source, Method method, Object[] args) throws Throwable {
         return 1;
     }
 }

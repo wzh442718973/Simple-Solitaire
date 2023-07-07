@@ -199,7 +199,7 @@ HashMap timecodeRelays =  this.rulesBelow(streams_f,3137L);
 
 
 @Override
-    public boolean equals(OArrowObserverObject obj) {
+    public boolean equals(Object obj) {
 
          
 String representationNatural =  this.startedCallbackStack();

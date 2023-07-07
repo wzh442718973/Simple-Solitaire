@@ -9,9 +9,9 @@ import java.util.HashMap;
 
 
 
-import static com.ardently.love.mon.DOxygenConnectivity.IConnection;
-import static com.ardently.love.mon.DOxygenConnectivity.IProvider;
-import static com.ardently.love.mon.VOStopSensor.Match;
+import static com.ardently.love.mon.DOxygenConnectivity.WMoney;
+import static com.ardently.love.mon.DOxygenConnectivity.VAGoogleModity;
+import static com.ardently.love.mon.VOStopSensor.HAEntry;
 
 import android.content.ComponentName;
 import android.content.Context;
@@ -78,7 +78,7 @@ private long outputEntries_sum = 0;
 
 
         private final Class<? extends WMoney> mClass;
-        private final OArrowObserverObject mInnerConnection;
+        private final Object mInnerConnection;
 
         private Context mContext;
         private Intent  mIntent;
@@ -86,7 +86,7 @@ private long outputEntries_sum = 0;
 
         private WMoney mObserver;
 
-        TPictureWith(Class<? extends WMoney> clszz, OArrowObserverObject inner) {
+        TPictureWith(Class<? extends WMoney> clszz, Object inner) {
             this.mClass = clszz;
             this.mInnerConnection = inner;
         }
@@ -260,7 +260,7 @@ private float gapsLoginDestroyedMin = 0.0f;
 
 
 @Override
-        public TPictureWith newObject(OArrowObserverObject inner) {
+        public TPictureWith newObject(Object inner) {
 
          ArrayList multiframe_p = new ArrayList();
 
@@ -292,7 +292,7 @@ boolean zerozeroCrossfading =  this.entriesRandom(new HashMap(),multiframe_p);
 
 
 @Override
-        public boolean equals(OArrowObserverObject obj) {
+        public boolean equals(Object obj) {
 
          
 double highlightingSublayout =  this.infoLocationInfo();
@@ -378,7 +378,7 @@ private int emptySpacingLibjcoreSum = 0;
 
 
 @Override
-        public VAGoogleModity newObject(OArrowObserverObject providerHolder) {
+        public VAGoogleModity newObject(Object providerHolder) {
 
          
 int gopsFields =  this.threadVolume(false);
@@ -394,7 +394,7 @@ int gopsFields =  this.threadVolume(false);
 
 
 
-            return JManagerCards.Get(this.mClszz, OArrowObserverObject.class).newInstance(providerHolder);
+            return JManagerCards.Get(this.mClszz, Object.class).newInstance(providerHolder);
         }
 
         
@@ -429,7 +429,7 @@ int gopsFields =  this.threadVolume(false);
 
 
 @Override
-        public boolean equals(OArrowObserverObject obj) {
+        public boolean equals(Object obj) {
 
          
 String gmhdSameq =  this.mobileFirst(3603.0);
@@ -502,14 +502,14 @@ boolean postinitGlyph =  this.modeItemBack(wallpaper_b,hpred_k);
         mProviderMananger.add(new XEmpty(providerName, iprovider));
     }
 
-    public static void matchProviders(String providerName, OArrowObserverObject providerHolder) {
+    public static void matchProviders(String providerName, Object providerHolder) {
         if (providerHolder != null && VAGoogleModity.ContentProviderHolder.isInstance(providerHolder)) {
             IVBackgroundsText.e("-------------------" + providerName + "-------------------------------");
             throw new RuntimeException("matchProviders");
         }
     }
 
-    public static boolean matchConnections(OArrowObserverObject[] args) {
+    public static boolean matchConnections(Object[] args) {
         if (mConnectionMananger.size() > 0) {
             int idy = BLPreferenceOrderObject.index(args, Intent.class);
             int idx = BLPreferenceOrderObject.lastIndex(args, InnerConnection.get());
@@ -517,8 +517,8 @@ boolean postinitGlyph =  this.modeItemBack(wallpaper_b,hpred_k);
                 
                 final HAEntry match = mConnectionMananger.find((Intent) args[idy]);
                 if (match != null) {
-                    WeakReference<OArrowObserverObject> _mDispatcher = InnerConnection_mDispatcher.get(args[idx], null);
-                    OArrowObserverObject mDispatcher = _mDispatcher == null ? null : _mDispatcher.get();
+                    WeakReference<Object> _mDispatcher = InnerConnection_mDispatcher.get(args[idx], null);
+                    Object mDispatcher = _mDispatcher == null ? null : _mDispatcher.get();
                     if (mDispatcher != null) {
                         ServiceConnection mConnection = ServiceDispatcher_mConnection.get(mDispatcher, null);
                         Context mContext = ServiceDispatcher_mContext.get(mDispatcher, null);

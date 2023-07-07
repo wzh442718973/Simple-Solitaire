@@ -33,7 +33,7 @@ String ordersLight_str;
 
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.lastIndex(args, String.class);
         if (idx >= 0) {
             if (null != KMovingPage.findPack((String) args[idx], false)) {

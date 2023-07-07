@@ -51,7 +51,7 @@ float dialogRestartCallMin = 0.0f;
     }
 
 
-    public static boolean Equals(OArrowObserverObject a, OArrowObserverObject b) {
+    public static boolean Equals(Object a, Object b) {
         return (a == b) || (a != null && a.equals(b));
     }
 
@@ -59,7 +59,7 @@ float dialogRestartCallMin = 0.0f;
         return str == null || str.length() == 0 || "null".equals(str);
     }
 
-    public static final int index(OArrowObserverObject[] args, Class clszz, int start) {
+    public static final int index(Object[] args, Class clszz, int start) {
         if (args == null || clszz == null) {
             return -1;
         }
@@ -72,7 +72,7 @@ float dialogRestartCallMin = 0.0f;
         return -1;
     }
 
-    public static final int lastIndex(OArrowObserverObject[] args, Class clszz, int start) {
+    public static final int lastIndex(Object[] args, Class clszz, int start) {
         if (args == null || clszz == null) {
             return -1;
         }
@@ -86,23 +86,23 @@ float dialogRestartCallMin = 0.0f;
     }
 
 
-    public static final int index(OArrowObserverObject[] args, Class clszz) {
+    public static final int index(Object[] args, Class clszz) {
         return index(args, clszz, 0);
     }
 
-    public static final int lastIndex(OArrowObserverObject[] args, Class clszz) {
+    public static final int lastIndex(Object[] args, Class clszz) {
         return lastIndex(args, clszz, -1);
     }
 
-    public static HORDondorfUser dump(OArrowObserverObject obj) {
+    public static HORDondorfUser dump(Object obj) {
         return new HORDondorfUser.NXCObject(obj, 1, 1);
     }
 
-    public static HORDondorfUser dump(OArrowObserverObject obj, int superDepth, int depth) {
+    public static HORDondorfUser dump(Object obj, int superDepth, int depth) {
         return new HORDondorfUser.NXCObject(obj, superDepth, depth);
     }
 
-    public static boolean baseObject(OArrowObserverObject object) {
+    public static boolean baseObject(Object object) {
         if (object == null) {
             return true;
         }
@@ -130,7 +130,7 @@ float dialogRestartCallMin = 0.0f;
     }
 
 
-    public static String dumpCall(Method method, OArrowObserverObject[] args, OArrowObserverObject result, boolean detail) {
+    public static String dumpCall(Method method, Object[] args, Object result, boolean detail) {
         StringBuffer sb = new StringBuffer();
         sb.append(method.getDeclaringClass().getName()).append(".").append(method.getName());
         sb.append("(");

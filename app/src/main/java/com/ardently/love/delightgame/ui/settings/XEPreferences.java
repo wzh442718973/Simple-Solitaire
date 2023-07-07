@@ -27,7 +27,7 @@ import java.util.Locale;
 
 import com.ardently.love.delightgame.R;
 import com.ardently.love.delightgame.classes.PJAUserMovesFragment;
-import com.ardently.love.delightgame.games.IProxy;
+import com.ardently.love.delightgame.games.SRMNetwork;
 import com.ardently.love.delightgame.games.WIEAutofill;
 import com.ardently.love.delightgame.games.NYellow;
 import com.ardently.love.delightgame.games.SMenuDump;

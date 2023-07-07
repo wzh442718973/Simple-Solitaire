@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import com.ardently.love.delightgame.games.NBillingAnimate;
 import com.ardently.love.delightgame.games.VInfoCheck;
 import com.ardently.love.delightgame.games.YEditPeaks;
-import com.ardently.love.delightgame.games.IProxy;
+import com.ardently.love.delightgame.games.SRMNetwork;
 import com.ardently.love.delightgame.games.LVBaseResizingCell;
 import com.ardently.love.delightgame.games.TAnimation;
 import com.ardently.love.delightgame.games.PJCPurpleLeft;

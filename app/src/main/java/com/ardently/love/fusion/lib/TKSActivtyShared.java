@@ -32,14 +32,14 @@ ArrayList<Float> recycleRegister_cTablet_list;
 
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         if (QRowsAudio.DBG_LOG)
             Log.e(QRowsAudio.TAG, "Input.onInvoke: " + KLibjcorePoker.dumpCall(method, args, null, true));
         return super.onInvoke(source, method, args);
     }
 
     @BVPurpleSpider("startInputOrWindowGainedFocus")
-    protected OArrowObserverObject _startInputOrWindowGainedFocus(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _startInputOrWindowGainedFocus(Object source, Method method, Object[] args) throws Throwable {
         final int idx = BLPreferenceOrderObject.index(args, EditorInfo.class);
         if (idx >= 0) {
             EditorInfo attribute = (EditorInfo) args[idx];

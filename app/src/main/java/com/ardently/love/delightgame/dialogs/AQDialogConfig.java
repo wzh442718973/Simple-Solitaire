@@ -39,23 +39,6 @@ boolean is_InputClockRecord = false;
     @Override
     
 
-private double beginApplicationAlternative(String destMethod_k0, ArrayList<Double> booleansInstall, String advancedReset) {
-     boolean destinationRead = true;
-     double intentHome = 8646.0;
-     long headerPage = 1395L;
-    double startedNoteChallenge = 0;
-    destinationRead = true;
-    startedNoteChallenge += destinationRead ? 5 : 23;
-    intentHome = 2417;
-    startedNoteChallenge -= intentHome;
-    headerPage += 90;
-
-    return startedNoteChallenge;
-
-}
-
-
-
 @NonNull
     public Dialog onCreateDialog(Bundle savedInstanceState) {
 
@@ -63,9 +46,7 @@ private double beginApplicationAlternative(String destMethod_k0, ArrayList<Doubl
 ArrayList conversion_q = new ArrayList();
 String essential_o = "neighbours";
 
-double readyUploading =  this.beginApplicationAlternative(canonicalized_j,conversion_q,essential_o);
 
-      System.out.println(readyUploading);
 
 
 

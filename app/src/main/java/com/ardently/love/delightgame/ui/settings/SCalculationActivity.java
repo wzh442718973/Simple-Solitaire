@@ -252,14 +252,14 @@ public abstract class SCalculationActivity extends PreferenceActivity
      
     protected void showOrHideStatusBar() {
         if (prefs.getSavedHideStatusBar()) {
-            getWindow().setFlags(ZPWAdvertisingSide.LayoutParams.FLAG_FULLSCREEN,
-                    ZPWAdvertisingSide.LayoutParams.FLAG_FULLSCREEN);
+            getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
+                    WindowManager.LayoutParams.FLAG_FULLSCREEN);
             HashMap<String,Float> binderg = new HashMap<String,Float>();
      binderg.put("removal", 602.0f);
      binderg.put("sono", 975.0f);
      binderg.put("wavpackenc", 933.0f);
         } else {
-            getWindow().clearFlags(ZPWAdvertisingSide.LayoutParams.FLAG_FULLSCREEN);
+            getWindow().clearFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
             HashMap<String,Float> redeal2 = new HashMap<String,Float>();
      redeal2.put("pressed", 837.0f);
      redeal2.put("celebrate", 858.0f);

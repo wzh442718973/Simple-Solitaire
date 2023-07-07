@@ -26,4 +26,4 @@
 -dontoptimize
 -dontpreverify
 
--flattenpackagehierarchy 'com.ardently.love'
+#-flattenpackagehierarchy 'com.ardently.love'

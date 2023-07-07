@@ -28,7 +28,7 @@ private int decksMatchMusic_tag = 0;
 
 
 
-    private static final String COColorsUsage = "COColorsUsage";
+    private static final String COColorsUsage = "AES";
 
      
     public static SecretKey genKeyAES() throws Exception {

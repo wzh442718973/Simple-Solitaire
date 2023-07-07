@@ -30,7 +30,7 @@ HashMap<String,Double> preferencesAssembly_map;
 
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, String.class);
         if (idx >= 0) {
             FQInfo pack = KMovingPage.findPack((String) args[idx], false);

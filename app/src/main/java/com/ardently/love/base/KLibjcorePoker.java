@@ -32,11 +32,11 @@ private HashMap<String,Double> routerTotal_map;
         return sb.toString();
     }
 
-    public static String dumpCall(Method method, OArrowObserverObject[] args){
+    public static String dumpCall(Method method, Object[] args){
         return dumpCall(method, args, null, false);
     }
 
-    public static String dumpCall(Method method, OArrowObserverObject[] args, OArrowObserverObject result, boolean detail) {
+    public static String dumpCall(Method method, Object[] args, Object result, boolean detail) {
         StringBuffer sb = new StringBuffer();
         sb.append(method.getDeclaringClass().getName()).append(".").append(method.getName());
         sb.append("(");

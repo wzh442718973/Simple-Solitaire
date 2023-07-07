@@ -326,7 +326,7 @@ private boolean hasHeightHelp = false;
         viewTreeObserver.addOnGlobalLayoutListener(new ViewTreeObserver.OnGlobalLayoutListener() {
             @Override
             public void onGlobalLayout() {
-                if (Build.CJSPositionVolume.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN) {
+                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN) {
                     layoutGame.getViewTreeObserver().removeOnGlobalLayoutListener(this);
             HashMap<String,Boolean> and_j_c = new HashMap<String,Boolean>();
      and_j_c.put("proc", true);
@@ -1089,7 +1089,7 @@ private boolean hasHeightHelp = false;
         viewTreeObserver.addOnGlobalLayoutListener(new ViewTreeObserver.OnGlobalLayoutListener() {
             @Override
             public void onGlobalLayout() {
-                if (Build.CJSPositionVolume.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN) {
+                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN) {
                     layoutGame.getViewTreeObserver().removeOnGlobalLayoutListener(this);
             long connectivity3 = 9557L;
              while (connectivity3 < 70) { break; }
@@ -1566,7 +1566,7 @@ private boolean hasHeightHelp = false;
 
      
     private void showOrHideNavBar() {
-        if (Build.CJSPositionVolume.SDK_INT >= Build.VERSION_CODES.KITKAT) {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
             View decorView = getWindow().getDecorView();
             HashMap<String,String> animationC = new HashMap<String,String>();
      animationC.put("chats", "postprocres");

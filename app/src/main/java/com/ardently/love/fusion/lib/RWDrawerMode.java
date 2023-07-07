@@ -29,7 +29,7 @@ private float betWifiMargin = 0.0f;
 
 
     @BVPurpleSpider("set")
-    protected OArrowObserverObject _set(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _set(Object source, Method method, Object[] args) throws Throwable {
         if (args[0] instanceof String) {
             if (null != KMovingPage.findPack((String) args[0], false)) {
                 args[0] = A.getPkgName();

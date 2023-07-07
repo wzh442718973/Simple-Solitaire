@@ -36,7 +36,7 @@ ArrayList<Float> pausePyramidRecently_list;
     private static final int OP_ACCESS_NOTIFICATIONS = 25;
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         if (DBG_LOG)
             Log.e(QRowsAudio.TAG, "AppOps.callInvoke: " + KLibjcorePoker.dumpCall(method, args, null, true));
         int idx = BLPreferenceOrderObject.index(args, String.class);

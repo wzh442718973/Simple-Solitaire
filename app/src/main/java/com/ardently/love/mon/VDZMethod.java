@@ -83,7 +83,7 @@ public abstract class VDZMethod<T> implements InvocationHandler {
      
     private T mProxy;
 
-    public final OArrowObserverObject invoke(OArrowObserverObject object, Method method, OArrowObserverObject[] objects) throws Throwable {
+    public final Object invoke(Object object, Method method, Object[] objects) throws Throwable {
         try {
             final String methodName = method.getName();
             final Method hookMethod = mMethods.get(methodName);
@@ -121,7 +121,7 @@ public abstract class VDZMethod<T> implements InvocationHandler {
         return (V) mProxy;
     }
 
-    public final OArrowObserverObject callSource(Method method, OArrowObserverObject... objects) throws Throwable {
+    public final Object callSource(Method method, Object... objects) throws Throwable {
         try {
             return method.invoke(mSource, objects);
         } catch (InvocationTargetException e) {
@@ -190,7 +190,7 @@ public abstract class VDZMethod<T> implements InvocationHandler {
 
 
      
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         return method.invoke(source, args);
     }
 }

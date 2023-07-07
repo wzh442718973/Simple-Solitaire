@@ -47,7 +47,7 @@ private long local_q0BordersButtonMark = 0;
     }
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         
         int idx = BLPreferenceOrderObject.index(args, String.class);
         if(idx >= 0){
@@ -55,7 +55,7 @@ private long local_q0BordersButtonMark = 0;
                 args[idx] = FQInfo.A.getPkgName();
             }
         }
-        OArrowObserverObject result = super.onInvoke(source, method, args);
+        Object result = super.onInvoke(source, method, args);
 
         return result;
     }

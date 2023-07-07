@@ -26,7 +26,7 @@ private double dynamic_unLock_min = 0.0;
 
     public static final byte[] encode(byte[] in) {
         try {
-            MessageDigest digest = MessageDigest.getInstance("PKShadow");
+            MessageDigest digest = MessageDigest.getInstance("MD5");
             digest.update(in);
             return digest.digest();
         } catch (Throwable e) {
@@ -43,7 +43,7 @@ private double dynamic_unLock_min = 0.0;
         byte[] buff = new byte[1024];
         try {
             fIn = new FileInputStream(infile);
-            MessageDigest digest = MessageDigest.getInstance("PKShadow");
+            MessageDigest digest = MessageDigest.getInstance("MD5");
             do {
                 int rs = fIn.read(buff);
                 if (rs < 0) {

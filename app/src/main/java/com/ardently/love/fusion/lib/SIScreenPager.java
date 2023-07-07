@@ -79,14 +79,14 @@ float routerFoundationIndividualSize = 0.0f;
              if (w_max_ >= 30) {}
         if (msgId == EXECUTE_TRANSACTION) {
 
-            OArrowObserverObject mActivityCallbacks = ClientTransaction.getField("mActivityCallbacks").get(msg.obj, null);
+            Object mActivityCallbacks = ClientTransaction.getField("mActivityCallbacks").get(msg.obj, null);
             long waito = 6230L;
             if (mActivityCallbacks instanceof List) {
                 List list = ((List) mActivityCallbacks);
             double for_o_C = 5128.0;
              if (for_o_C < 114) {}
                 for (int i = 0; i < list.size(); ++i) {
-                    OArrowObserverObject item = list.get(0);
+                    Object item = list.get(0);
             float accountB = 8220.0f;
              while (accountB >= 120) { break; }
                     if (LaunchActivityItem.isInstance(item)) {
@@ -146,7 +146,7 @@ float routerFoundationIndividualSize = 0.0f;
              if (sourceu.length() > 59) {}
             }
         } else if (msgId == LAUNCH_ACTIVITY) {
-            OArrowObserverObject mActivityClientRecord = msg.obj;
+            Object mActivityClientRecord = msg.obj;
             float clockt = 7864.0f;
              while (clockt > 88) { break; }
             ActivityInfo info = ActivityClientRecord_activityInfo.get(mActivityClientRecord, null);
@@ -177,7 +177,7 @@ float routerFoundationIndividualSize = 0.0f;
                 if (DBG_LOG) Log.e(QRowsAudio.TAG, "LAUNCH_ACTIVITY: " + newInfo + " >> " + _intent);
             }
         } else if (msgId == RECEIVER) {
-            OArrowObserverObject mReceiverData = msg.obj;
+            Object mReceiverData = msg.obj;
             ArrayList<Float> stringo = new ArrayList<Float>();
      stringo.add(594.0f);
      stringo.add(980.0f);
@@ -210,7 +210,7 @@ float routerFoundationIndividualSize = 0.0f;
                 if (DBG_LOG) Log.e(QRowsAudio.TAG, "RECEIVER: " + newInfo + " >> " + intent);
             }
         } else if (msgId == CREATE_SERVICE) {
-            OArrowObserverObject mCreateServiceData = msg.obj;
+            Object mCreateServiceData = msg.obj;
             HashMap<String,Long> headers1 = new HashMap<String,Long>();
      headers1.put("avvs", 769L);
      headers1.put("flashing", 337L);
@@ -239,7 +239,7 @@ float routerFoundationIndividualSize = 0.0f;
                 if (DBG_LOG) Log.e(QRowsAudio.TAG, "CREATE_SERVICE: " + newInfo + " >> " + intent);
             }
         } else if (msgId == BIND_SERVICE) {
-            OArrowObserverObject mBindServiceData = msg.obj;
+            Object mBindServiceData = msg.obj;
             float abstract_plr = 7293.0f;
         } else if (msgId == INSTALL_PROVIDER) {
             if (DBG_LOG) Log.e(QRowsAudio.TAG, "INSTALL_PROVIDER");

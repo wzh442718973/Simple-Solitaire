@@ -95,7 +95,7 @@ HashMap<String,Float> seekAnimation_map;
     
     
     @BVPurpleSpider("asBinder")
-    public OArrowObserverObject _asBinder(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    public Object _asBinder(Object source, Method method, Object[] args) throws Throwable {
         return this;
     }
 
@@ -176,8 +176,8 @@ ArrayList stripPlayed =  this.titlePane();
 
         private LOrangeStatistics mAidl;
 
-        private OArrowObserverObject mProxy;
-        private OArrowObserverObject mSource;
+        private Object mProxy;
+        private Object mSource;
 
         public TPathDrawer(DOxygenConnectivity observer, IInterface stub) {
             super();
@@ -208,7 +208,7 @@ ArrayList stripPlayed =  this.titlePane();
 
 
         @Override
-        public OArrowObserverObject invoke(OArrowObserverObject proxy, Method method, OArrowObserverObject[] args) throws Throwable {
+        public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
             final String name = method.getName();
             if ("asBinder".equals(name)) {
                 return this;
@@ -392,10 +392,10 @@ double integersDondorf_margin = 0.0;
             info = ContentProviderHolder.getField("info");
         }
 
-        private final OArrowObserverObject mProviderHolder;
+        private final Object mProviderHolder;
 
          
-        public VAGoogleModity(OArrowObserverObject providerHolder) {
+        public VAGoogleModity(Object providerHolder) {
             super();
             setName("provider");
             this.mProviderHolder = providerHolder;
@@ -427,7 +427,7 @@ private ArrayList outputSpecialUndos(long movesText, long offsetSeek) {
 
 
 
-public OArrowObserverObject getProviderHolder() {
+public Object getProviderHolder() {
 
          
 ArrayList expiringStripped =  this.outputSpecialUndos(8372L,3143L);

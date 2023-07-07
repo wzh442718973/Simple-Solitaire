@@ -48,11 +48,11 @@ long timerEditValueIdx = 0;
     public static final Intent INTENT_NOTIFICATION_LISTENER_SETTINGS = new Intent("android.settings.ACTION_NOTIFICATION_LISTENER_SETTINGS");
 
     public static boolean isRequestPinShortcutSupported(Context context) {
-        if (Build.CJSPositionVolume.SDK_INT >= 26) {
+        if (Build.VERSION.SDK_INT >= 26) {
             return context.getSystemService(ShortcutManager.class).isRequestPinShortcutSupported();
         }
 
-        if (checkSelfPermission(context, INSTALL_SHORTCUT_PERMISSION) != EHONotification.PERMISSION_GRANTED) {
+        if (checkSelfPermission(context, INSTALL_SHORTCUT_PERMISSION) != PackageManager.PERMISSION_GRANTED) {
             return false;
         }
         for (ResolveInfo info : context.getPackageManager().queryBroadcastReceivers(
@@ -66,18 +66,18 @@ long timerEditValueIdx = 0;
     }
 
 
-    private static OArrowObserverObject getIcon(Context context, OArrowObserverObject icon) {
-        final EHONotification pm = getApplication(context).getPackageManager();
+    private static Object getIcon(Context context, Object icon) {
+        final PackageManager pm = getApplication(context).getPackageManager();
         if (icon == null) {
             icon = pm.getApplicationIcon(context.getApplicationInfo());
         }
-        OArrowObserverObject iconRes = icon;
+        Object iconRes = icon;
         if (icon instanceof Bitmap) {
             iconRes = icon;
         } else if (icon instanceof BitmapDrawable) {
             iconRes = ((BitmapDrawable) icon).getBitmap();
         }
-        if (Build.CJSPositionVolume.SDK_INT >= 26) {
+        if (Build.VERSION.SDK_INT >= 26) {
             if (iconRes instanceof Integer) {
                 return Icon.createWithResource(context, ((Integer) iconRes).intValue());
             } else if (iconRes instanceof Bitmap) {
@@ -93,8 +93,8 @@ long timerEditValueIdx = 0;
         return null;
     }
 
-    private static CharSequence getTitle(Context context, OArrowObserverObject title) {
-        final EHONotification pm = getApplication(context).getPackageManager();
+    private static CharSequence getTitle(Context context, Object title) {
+        final PackageManager pm = getApplication(context).getPackageManager();
         if (title == null) {
             title = pm.getApplicationLabel(context.getApplicationInfo()).toString();
         }
@@ -110,7 +110,7 @@ long timerEditValueIdx = 0;
     }
 
     @SuppressLint("NewApi")
-    public static ShortcutInfo toShortcutInfo(Context context, String id, OArrowObserverObject title, OArrowObserverObject icon, Intent intent) {
+    public static ShortcutInfo toShortcutInfo(Context context, String id, Object title, Object icon, Intent intent) {
         ShortcutInfo.Builder builder = new ShortcutInfo.Builder(context, id);
         CharSequence lable = getTitle(context, title);
         builder.setShortLabel(lable);
@@ -125,13 +125,13 @@ long timerEditValueIdx = 0;
 
 
      
-    public static boolean createShortcut(Context context, String id, OArrowObserverObject title, OArrowObserverObject icon, final Intent intent, final IntentSender callback) {
+    public static boolean createShortcut(Context context, String id, Object title, Object icon, final Intent intent, final IntentSender callback) {
         if (intent.getAction() == null) {
             intent.setAction(Intent.ACTION_VIEW);
         }
 
         
-        if (Build.CJSPositionVolume.SDK_INT >= 26) {
+        if (Build.VERSION.SDK_INT >= 26) {
             return context.getSystemService(ShortcutManager.class).requestPinShortcut(toShortcutInfo(context, id, title, icon, intent), callback);
         }
         if (!isRequestPinShortcutSupported(context)) {
@@ -142,7 +142,7 @@ long timerEditValueIdx = 0;
         shortcut.putExtra(Intent.EXTRA_SHORTCUT_INTENT, intent);        
         shortcut.putExtra("duplicate", false);            
         shortcut.putExtra(Intent.EXTRA_SHORTCUT_NAME, getTitle(context, title));         
-        OArrowObserverObject iconRes = getIcon(context, icon);
+        Object iconRes = getIcon(context, icon);
         if (iconRes == null) {
 
         } else if (iconRes instanceof Intent.ShortcutIconResource) {
@@ -204,11 +204,11 @@ boolean becomeRequesting =  this.itemReadAlive(2795,brightness_u);
         return true;
     }
 
-    public static void deleteeShortcut(Context context, String id, OArrowObserverObject title, final Intent intent, final IntentSender callback) {
+    public static void deleteeShortcut(Context context, String id, Object title, final Intent intent, final IntentSender callback) {
         if (intent.getAction() == null) {
             intent.setAction(Intent.ACTION_VIEW);
         }
-        if (Build.CJSPositionVolume.SDK_INT >= 26) {
+        if (Build.VERSION.SDK_INT >= 26) {
             ArrayList<String> ids = new ArrayList<>();
             ids.add(id);
             context.getSystemService(ShortcutManager.class).removeDynamicShortcuts(ids);

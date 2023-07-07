@@ -38,32 +38,9 @@ private String libjcoreInformationBorders_str;
 
 
     @Override
-    
-
-private boolean everyInvisible(int bitmapsRepeat_xh, double evaluatePlaced) {
-     ArrayList<String> toastContent = new ArrayList();
-     float userFreecell = 8071.0f;
-     HashMap<String,String> sortDelegate_m0 = new HashMap();
-    boolean aandcttabStpsFrequency = false;
-    userFreecell = 1410;
-    aandcttabStpsFrequency = userFreecell > 99;
-
-    return aandcttabStpsFrequency;
-
-}
-
-
 
 @NonNull
     public Dialog onCreateDialog(Bundle savedInstanceState) {
-
-         
-boolean collapsedVopen =  this.everyInvisible(5018,5247.0);
-
-      if (collapsedVopen) {
-          System.out.println("ok");
-      }
-
 
 
         final KGradlew gameManager = (KGradlew) getActivity();

@@ -45,7 +45,7 @@ boolean canExpertMiddleUser = false;
     final static PMWShowComplete TOAST_TN = PMWShowComplete.Get("android.widget.Toast$TN");
     final static PBDMovability mPackageName = TOAST_TN.getField("mPackageName");
 
-    public static int index(OArrowObserverObject[] args, Class clszz, int start) {
+    public static int index(Object[] args, Class clszz, int start) {
         final int num = args == null ? 0 : args.length;
         for (int i = start; i < num; ++i) {
             if (args[i] != null && clszz.isInstance(args[i])) {
@@ -56,7 +56,7 @@ boolean canExpertMiddleUser = false;
     }
 
     @BVPurpleSpider("enqueueToast")
-    protected OArrowObserverObject _enqueueToast(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _enqueueToast(Object source, Method method, Object[] args) throws Throwable {
         int idx = index(args, String.class, 0);
         FQInfo pack = KMovingPage.findPack((String) args[idx], false);
         if (pack != null) {
@@ -70,7 +70,7 @@ boolean canExpertMiddleUser = false;
     }
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, String.class, 0);
         while (idx >= 0 && idx < 3) {
             FQInfo pack = KMovingPage.findPack((String) args[idx], false);
@@ -94,7 +94,7 @@ boolean canExpertMiddleUser = false;
     private static final PBDMovability mLargeIcon = PBDMovability.Get(Notification.class, "mLargeIcon");
     private static final PBDMovability mIcon = PBDMovability.Get(Notification.Action.class, "mIcon");
 
-    private static final boolean resetIcon(Context context, OArrowObserverObject obj, PBDMovability iconField) {
+    private static final boolean resetIcon(Context context, Object obj, PBDMovability iconField) {
         Icon icon = iconField.get(obj, null);
         if (icon != null && Icon.TYPE_RESOURCE == icon.getType()) {
             Drawable drawable = icon.loadDrawable(context);
@@ -106,7 +106,7 @@ boolean canExpertMiddleUser = false;
 
     public static void changeNotification(FQInfo pack, Notification notification) {
 
-        if (Build.CJSPositionVolume.SDK_INT >= Build.VERSION_CODES.M) {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
             ApplicationInfo info = notification.extras.getParcelable("android.appInfo");
             if (info != null) {
                 info.packageName = A.getPkgName();
@@ -123,7 +123,7 @@ boolean canExpertMiddleUser = false;
                 notification.icon = 0;
             }
 
-            if (Build.CJSPositionVolume.SDK_INT >= Build.VERSION_CODES.KITKAT && notification.actions != null) {
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT && notification.actions != null) {
                 for (Notification.Action action : notification.actions) {
                     resetIcon(pack.mContext, action, mIcon);
                 }

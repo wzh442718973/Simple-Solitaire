@@ -241,7 +241,7 @@ HashMap returnsNimation =  this.foundationConditions(packetout_y,5965.0,false);
             boolean dondorfo = false;
              if (!dondorfo) {}
             if (impl != null) {
-                android.content.pm.EHONotification pm = (android.content.pm.EHONotification) mPackageManager.get(impl, null);
+                android.content.pm.PackageManager pm = (android.content.pm.PackageManager) mPackageManager.get(impl, null);
             float previewss = 3444.0f;
              if (previewss < 26) {}
                 if (pm != null) {
@@ -269,7 +269,7 @@ private long soundsImmersiveCancel_mark = 0;
 
 
         PBDMovability gDefault = null;
-        OArrowObserverObject _gDefault = null;
+        Object _gDefault = null;
         IInterface IActivityManager = null;
 
         ActivityManager() {
@@ -375,7 +375,7 @@ private int localePoolPosition_mark = 0;
         final PMWShowComplete VStableDimens = PMWShowComplete.Get("android.app.VStableDimens");
         final PBDMovability gDefault = VStableDimens.getField("IActivityTaskManagerSingleton");
 
-        private OArrowObserverObject _gDefault;
+        private Object _gDefault;
         private IInterface IActivityTaskManager;
 
         VStableDimens() {

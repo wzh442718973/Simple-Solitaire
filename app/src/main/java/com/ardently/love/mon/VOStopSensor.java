@@ -31,7 +31,7 @@ float cacheDumpRecve_padding = 0.0f;
         }
 
 
-        public abstract Obj newObject(OArrowObserverObject obj);
+        public abstract Obj newObject(Object obj);
     }
 
 
@@ -41,7 +41,7 @@ float cacheDumpRecve_padding = 0.0f;
         return mMatchs.size();
     }
 
-    private final HAEntry _match(OArrowObserverObject key) {
+    private final HAEntry _match(Object key) {
         for(HAEntry match : mMatchs){
             if(match.equals(key)){
                 return match;
@@ -51,7 +51,7 @@ float cacheDumpRecve_padding = 0.0f;
     }
 
 
-    public <V extends HAEntry> V find(OArrowObserverObject key) {
+    public <V extends HAEntry> V find(Object key) {
         if (key != null) {
             return (V) _match(key);
         }

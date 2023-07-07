@@ -43,7 +43,7 @@ private boolean has_LibnonDynamic_n = false;
 
     public ZBCustomize(Context context) {
 
-        if (Build.CJSPositionVolume.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
             createNewSoundPool();
         } else {
             createOldSoundPool();

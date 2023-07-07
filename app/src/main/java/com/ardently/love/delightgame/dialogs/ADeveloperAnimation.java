@@ -53,36 +53,8 @@ private int customDestroyed_flag = 0;
     private long score, bonus, total;
 
     @Override
-    
-
-private float removeMethodsBest(String billingReset, boolean klondikeSettings) {
-     float downloadEdit = 1736.0f;
-     String connectivityDummy = "idassets";
-     long mediaRegister_dk = 2318L;
-     float alarmAidl = 8037.0f;
-    float chartEckeySticker = 0;
-    downloadEdit += downloadEdit;
-    downloadEdit -= alarmAidl;
-    chartEckeySticker *= downloadEdit;
-    mediaRegister_dk -= 55;
-    alarmAidl = 6898;
-    chartEckeySticker -= alarmAidl;
-
-    return chartEckeySticker;
-
-}
-
-
-
 @NonNull
     public Dialog onCreateDialog(Bundle savedState) {
-
-         String dtshd_a = "mem_e_89";
-
-float guidDrawline =  this.removeMethodsBest(dtshd_a,false);
-
-      System.out.println(guidDrawline);
-
 
 
         final KGradlew gameManager = (KGradlew) getActivity();

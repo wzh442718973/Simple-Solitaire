@@ -63,9 +63,9 @@ private long writeDollarImprove_mark = 0;
     }
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         if(QRowsAudio.DBG_LOG)Log.e(QRowsAudio.TAG, getClass().getSimpleName() + ": " + KLibjcorePoker.dumpCall(method, args, null, true));
-        OArrowObserverObject result = super.onInvoke(source, method, args);
+        Object result = super.onInvoke(source, method, args);
         return result;
     }
 }

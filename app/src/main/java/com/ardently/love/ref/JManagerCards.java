@@ -38,7 +38,7 @@ boolean is_BundleName = false;
         super(clszz, ctor);
     }
 
-    public final <V> V newInstanceThrows(OArrowObserverObject... params) throws Throwable {
+    public final <V> V newInstanceThrows(Object... params) throws Throwable {
         Constructor ctor = mValue;
         if (ctor != null) {
             try {
@@ -53,7 +53,7 @@ boolean is_BundleName = false;
         return null;
     }
 
-    public final <V> V newInstance(OArrowObserverObject... params) {
+    public final <V> V newInstance(Object... params) {
         try {
             return newInstanceThrows(params);
         } catch (Throwable e) {

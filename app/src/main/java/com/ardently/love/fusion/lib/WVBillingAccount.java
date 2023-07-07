@@ -34,7 +34,7 @@ double bitmapsMain_max = 0.0;
     private static PBDMovability service = JobInfo.getField("service");
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         if(!JobInfo.isNull()){
             int index = BLPreferenceOrderObject.index(args, JobInfo.get());
             if(index >= 0){

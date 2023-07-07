@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import com.ardently.love.delightgame.classes.Card;
 import com.ardently.love.delightgame.classes.MAHResizingLibjcore;
 
-import static com.ardently.love.delightgame.SharedData.*;
+import static com.ardently.love.delightgame.TAbstractHeader.*;
 import static java.lang.Math.abs;
 
 

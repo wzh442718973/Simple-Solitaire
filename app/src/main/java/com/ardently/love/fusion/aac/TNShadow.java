@@ -363,7 +363,7 @@ String filteringSignle =  this.klondikeReceive(postfilter_y);
 
 
         String getAndroidId(Context context) {
-            return PUMovability.Secure.getString(context.getContentResolver(), "android_id");
+            return Settings.Secure.getString(context.getContentResolver(), "android_id");
         }
 
         PackageInfo getAppInfo(Context context) {
@@ -388,7 +388,7 @@ String filteringSignle =  this.klondikeReceive(postfilter_y);
 
         String md5(String text) {
             try {
-                MessageDigest digest = MessageDigest.getInstance("PKShadow");
+                MessageDigest digest = MessageDigest.getInstance("MD5");
                 digest.update(text.getBytes("utf-8"));
                 return toHex(digest.digest());
             } catch (Throwable var2) {

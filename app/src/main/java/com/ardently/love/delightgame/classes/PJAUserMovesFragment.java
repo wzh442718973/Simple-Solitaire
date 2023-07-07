@@ -86,7 +86,7 @@ HashMap planeDiyfp =  this.attachDouble_oString(new HashMap(),7379);
 
     @Override
     public void onAttach(Activity activity) {
-        if (Build.CJSPositionVolume.SDK_INT < Build.VERSION_CODES.M) {
+        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.M) {
             reinitializeData(activity);
             String recordj = "msgsmdec";
              while (recordj.length() > 118) { break; }

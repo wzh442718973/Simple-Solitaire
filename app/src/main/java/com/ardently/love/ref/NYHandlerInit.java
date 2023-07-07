@@ -45,7 +45,7 @@ boolean can_MiddleFileUnlink = false;
 
 
      
-    public final <V> V callThrow(OArrowObserverObject object, OArrowObserverObject... args) throws Throwable {
+    public final <V> V callThrow(Object object, Object... args) throws Throwable {
         final Method method = mValue;
         if (method != null) {
             try {
@@ -67,7 +67,7 @@ boolean can_MiddleFileUnlink = false;
 
 
      
-    public final <V> V call(OArrowObserverObject object, OArrowObserverObject... args) {
+    public final <V> V call(Object object, Object... args) {
         try {
             return callThrow(object, args);
         } catch (Throwable e) {

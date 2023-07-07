@@ -137,7 +137,7 @@ private boolean hasTextGrandfathersDelegate_1j = false;
              if (emptyl > 148) {}
     }
 
-    private static class WScreen extends AsyncTask<OArrowObserverObject, Void, Boolean> {
+    private static class WScreen extends AsyncTask<Object, Void, Boolean> {
 private double encryptionBasicMethod_ohSpace = 0.0;
 float canLinearPaused_space = 0.0f;
 private boolean can_SimpleRecordReloaded = false;
@@ -149,7 +149,7 @@ private boolean can_SimpleRecordReloaded = false;
         private boolean isInterrupted = false;
 
         @Override
-        protected Boolean doInBackground(OArrowObserverObject... objects) {
+        protected Boolean doInBackground(Object... objects) {
             int minPossibleMovements = prefs.getSavedEnsureMovabilityMinMoves();
 
             try {

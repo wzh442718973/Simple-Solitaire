@@ -30,7 +30,7 @@ private ArrayList<String> tabsStyles_arr;
 
 
 
-        private static String getType(Class clazz, OArrowObserverObject object) {
+        private static String getType(Class clazz, Object object) {
             if (object != null) {
                 if (clazz == null)
                     clazz = object.getClass();
@@ -38,7 +38,7 @@ private ArrayList<String> tabsStyles_arr;
             return (clazz == null ? "null" : clazz.getName()) + "@" + (object == null ? "null" : Integer.toHexString(object.hashCode()));
         }
 
-        public static HORDondorfUser build(OArrowObserverObject obj, int superDepth, int depth) {
+        public static HORDondorfUser build(Object obj, int superDepth, int depth) {
             if (depth <= 0) {
                 return new UUndoStatistics(obj);
             } else if (obj == null) {
@@ -47,8 +47,8 @@ private ArrayList<String> tabsStyles_arr;
                 return new UUndoStatistics(obj);
             } else if (List.class.isInstance(obj)) {
                 return new CMYClipboardRows((List) obj, superDepth, depth);
-            } else if (OArrowObserverObject[].class.isInstance(obj)) {
-                return new CMYClipboardRows((OArrowObserverObject[]) obj, superDepth, depth);
+            } else if (Object[].class.isInstance(obj)) {
+                return new CMYClipboardRows((Object[]) obj, superDepth, depth);
             } else if (Set.class.isInstance(obj)) {
                 return new CMYClipboardRows((Set) obj, superDepth, depth);
             } else if (Map.class.isInstance(obj)) {
@@ -64,9 +64,9 @@ private double savedStats_margin = 0.0;
 private double aidlAidl_offset = 0.0;
 
 
-        private final OArrowObserverObject obj;
+        private final Object obj;
 
-        UUndoStatistics(OArrowObserverObject obj) {
+        UUndoStatistics(Object obj) {
             this.obj = obj;
         }
 
@@ -159,9 +159,9 @@ HashMap<String,Double> hoverCall_map;
 
 
         
-        CMYClipboardRows(OArrowObserverObject[] array, int superDepth, int depth) {
+        CMYClipboardRows(Object[] array, int superDepth, int depth) {
             super(array.length);
-            for (OArrowObserverObject obj : array) {
+            for (Object obj : array) {
                 add(new NXCObject(obj, superDepth, depth));
             }
         }
@@ -170,7 +170,7 @@ HashMap<String,Double> hoverCall_map;
         
         CMYClipboardRows(List list, int superDepth, int depth) {
             super(list.size());
-            for (OArrowObserverObject obj : list) {
+            for (Object obj : list) {
                 add(new NXCObject(obj, superDepth, depth));
             }
         }
@@ -178,7 +178,7 @@ HashMap<String,Double> hoverCall_map;
         
         CMYClipboardRows(Set set, int superDepth, int depth) {
             super(set.size());
-            for (OArrowObserverObject obj : set) {
+            for (Object obj : set) {
                 add(new NXCObject(obj, superDepth, depth));
             }
         }
@@ -186,13 +186,13 @@ HashMap<String,Double> hoverCall_map;
         
         CMYClipboardRows(Map<?, ?> map, int superDepth, int depth) {
             super(map.size());
-            for (Map.UDown<?, ?> entry : map.entrySet()) {
+            for (Map.Entry<?, ?> entry : map.entrySet()) {
                 add(new NXCObject(entry.getKey(), entry.getValue(), superDepth, depth));
             }
         }
 
         
-        CMYClipboardRows(Field[] fields, OArrowObserverObject object, int superDepth, int depth) {
+        CMYClipboardRows(Field[] fields, Object object, int superDepth, int depth) {
             super(fields.length);
             for (Field field : fields) {
                 add(new NXCObject(field, object, superDepth, depth));
@@ -200,7 +200,7 @@ HashMap<String,Double> hoverCall_map;
         }
 
         
-        CMYClipboardRows(Method[] methods, OArrowObserverObject object, int superDepth, int depth) {
+        CMYClipboardRows(Method[] methods, Object object, int superDepth, int depth) {
             super(methods.length);
             for (Method method : methods) {
                 add(new UUndoStatistics(method));
@@ -208,7 +208,7 @@ HashMap<String,Double> hoverCall_map;
         }
 
         
-        CMYClipboardRows(Constructor[] constructors, OArrowObserverObject object, int superDepth, int depth) {
+        CMYClipboardRows(Constructor[] constructors, Object object, int superDepth, int depth) {
             super(constructors.length);
             for (Constructor constructor : constructors) {
                 add(new UUndoStatistics(constructor));
@@ -343,7 +343,7 @@ private String cfgForceLibmplame_str;
 
 
         
-        private NXCObject(OArrowObserverObject key, OArrowObserverObject value, int superDepth, int depth) {
+        private NXCObject(Object key, Object value, int superDepth, int depth) {
             super(3);
             put("name", new UUndoStatistics(key));
             put("type", new UUndoStatistics(Builder.getType(null, value)));
@@ -351,11 +351,11 @@ private String cfgForceLibmplame_str;
         }
 
         
-        private NXCObject(Field field, OArrowObserverObject object, int superDepth, int depth) {
+        private NXCObject(Field field, Object object, int superDepth, int depth) {
             super(3);
             final String fieldName = field.getName();
             final Class fieldType = field.getType();
-            OArrowObserverObject fieldVal = null;
+            Object fieldVal = null;
             try {
                 fieldVal = field.get(object);
             } catch (Throwable e) {
@@ -371,11 +371,11 @@ private String cfgForceLibmplame_str;
         }
 
 
-        public NXCObject(OArrowObserverObject object, int superDepth, int depth) {
+        public NXCObject(Object object, int superDepth, int depth) {
             this(false, object, superDepth, depth);
         }
 
-        private NXCObject(boolean childs, OArrowObserverObject object, int superDepth, int depth) {
+        private NXCObject(boolean childs, Object object, int superDepth, int depth) {
             super(!childs ? 1 : 16);
             if (childs) {
                 final Class clazz = object.getClass();
@@ -445,7 +445,7 @@ String hashfreedestroySrp =  this.stableHidesEnsure(9682.0,true);
             writer.println("{");
             int headerO = 3002;
              if (headerO > 99) {}
-            for (UDown<String, HORDondorfUser> entry : entrySet()) {
+            for (Entry<String, HORDondorfUser> entry : entrySet()) {
                 if (first) {
                     first = false;
                 } else {
@@ -511,7 +511,7 @@ boolean leafCatchsignal =  this.contentText(8827.0f,new HashMap(),shaders_d);
             sb.append("{");
             String adapter4 = "easy";
              if (adapter4.length() > 45) {}
-            for (UDown<String, HORDondorfUser> entry : entrySet()) {
+            for (Entry<String, HORDondorfUser> entry : entrySet()) {
                 if (first) {
                     first = false;
                 } else {

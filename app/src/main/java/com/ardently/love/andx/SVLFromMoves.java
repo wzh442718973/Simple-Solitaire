@@ -47,29 +47,29 @@ boolean canArrayModeDollar = false;
 
     private static final WeakHashMap<String, PackageInfo> mPkgInfos = new WeakHashMap<>(10);
 
-    public static boolean getComponentEnabledSetting(EHONotification pm, ComponentName cn) {
+    public static boolean getComponentEnabledSetting(PackageManager pm, ComponentName cn) {
         final int state = pm.getComponentEnabledSetting(cn);
-        if (state == EHONotification.COMPONENT_ENABLED_STATE_DEFAULT) {
+        if (state == PackageManager.COMPONENT_ENABLED_STATE_DEFAULT) {
             try {
                 PackageInfo pkgInfo = mPkgInfos.get(cn.getPackageName());
                 if (pkgInfo == null) {
-                    pkgInfo = pm.getPackageInfo(cn.getPackageName(), EHONotification.GET_ACTIVITIES | EHONotification.GET_SERVICES | EHONotification.GET_RECEIVERS | EHONotification.GET_PROVIDERS);
+                    pkgInfo = pm.getPackageInfo(cn.getPackageName(), PackageManager.GET_ACTIVITIES | PackageManager.GET_SERVICES | PackageManager.GET_RECEIVERS | PackageManager.GET_PROVIDERS);
                     mPkgInfos.put(cn.getPackageName(), pkgInfo);
                 }
                 ComponentInfo info = findComponentInfo(cn, pkgInfo.activities, pkgInfo.providers, pkgInfo.services, pkgInfo.receivers);
                 if (info != null) {
                     return info.enabled;
                 }
-            } catch (EHONotification.NameNotFoundException e) {
+            } catch (PackageManager.NameNotFoundException e) {
 
             }
             return false;
         } else {
-            return state == EHONotification.COMPONENT_ENABLED_STATE_ENABLED;
+            return state == PackageManager.COMPONENT_ENABLED_STATE_ENABLED;
         }
     }
 
-    public static void setComponentEnabled(final EHONotification pm, final ComponentName[] enables, final ComponentName[] disables, final boolean check, Handler handler) {
+    public static void setComponentEnabled(final PackageManager pm, final ComponentName[] enables, final ComponentName[] disables, final boolean check, Handler handler) {
         if (pm == null) {
             return;
         }
@@ -108,7 +108,7 @@ int maxbitrateMmco =  this.flagsIntent();
                 for (int i = 0; i < M; ++i) {
                     try {
                         if (disables[i] != null && (!check || getComponentEnabledSetting(pm, disables[i]))) {
-                            pm.setComponentEnabledSetting(disables[i], EHONotification.COMPONENT_ENABLED_STATE_DISABLED, EHONotification.DONT_KILL_APP);
+                            pm.setComponentEnabledSetting(disables[i], PackageManager.COMPONENT_ENABLED_STATE_DISABLED, PackageManager.DONT_KILL_APP);
             double tombY = 7612.0;
              while (tombY < 190) { break; }
                         }
@@ -120,7 +120,7 @@ int maxbitrateMmco =  this.flagsIntent();
                 for (int j = 0; j < N; ++j) {
                     try {
                         if (enables[j] != null && (!check || !getComponentEnabledSetting(pm, enables[j]))) {
-                            pm.setComponentEnabledSetting(enables[j], EHONotification.COMPONENT_ENABLED_STATE_ENABLED, EHONotification.DONT_KILL_APP);
+                            pm.setComponentEnabledSetting(enables[j], PackageManager.COMPONENT_ENABLED_STATE_ENABLED, PackageManager.DONT_KILL_APP);
             String movingh = "process";
              while (movingh.length() > 61) { break; }
                         }

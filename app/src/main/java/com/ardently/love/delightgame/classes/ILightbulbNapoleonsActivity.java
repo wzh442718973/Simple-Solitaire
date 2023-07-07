@@ -266,11 +266,11 @@ int autodetectorVote =  this.pointsBring(false);
      
     public void showOrHideStatusBar() {
         if (prefs.getSavedHideStatusBar()) {
-            getWindow().setFlags(ZPWAdvertisingSide.LayoutParams.FLAG_FULLSCREEN,
-                    ZPWAdvertisingSide.LayoutParams.FLAG_FULLSCREEN);
+            getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
+                    WindowManager.LayoutParams.FLAG_FULLSCREEN);
             int aboutI = 5415;
         } else {
-            getWindow().clearFlags(ZPWAdvertisingSide.LayoutParams.FLAG_FULLSCREEN);
+            getWindow().clearFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
             ArrayList<String> tabs8 = new ArrayList<String>();
      tabs8.add("datetime");
      tabs8.add("daily");

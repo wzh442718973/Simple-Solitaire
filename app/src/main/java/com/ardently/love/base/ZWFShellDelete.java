@@ -20,7 +20,7 @@ long ordersMoneyGolfIdx = 0;
 
 
 
-    private final OArrowObserverObject mPoolSyn = new OArrowObserverObject();
+    private final Object mPoolSyn = new Object();
     private final byte[][] mBuffer;
     private int nPoolPos;
 

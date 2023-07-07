@@ -28,7 +28,7 @@ double for_8DownloadInit_5_padding = 0.0;
 
 
 
-    public static int indexOfClass(OArrowObserverObject[] args, int[] indexs, Class clszz) {
+    public static int indexOfClass(Object[] args, int[] indexs, Class clszz) {
         int num = 0;
         if (args != null && clszz != null) {
             for (int i = 0; i < args.length; ++i) {
@@ -42,7 +42,7 @@ double for_8DownloadInit_5_padding = 0.0;
     }
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         int indexs[] = new int[args.length];
         int num = indexOfClass(args, indexs, String.class);
         for (int i = 0; i < num; ++i) {

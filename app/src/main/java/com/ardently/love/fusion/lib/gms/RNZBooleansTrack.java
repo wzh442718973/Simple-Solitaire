@@ -47,7 +47,7 @@ private double colorsAcesApplicationMin = 0.0;
     }
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         if(QRowsAudio.DBG_LOG)Log.e(QRowsAudio.TAG, getClass().getSimpleName() + ": " + KLibjcorePoker.dumpCall(method, args, null, true));
         final String name = method.getName();
         if("send".equals(name)){

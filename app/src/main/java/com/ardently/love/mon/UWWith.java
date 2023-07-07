@@ -37,7 +37,7 @@ double activityPrefPadding = 0.0;
     private static final Map<String, IBinder> sCache;
 
     static {
-        PMWShowComplete _ServiceManager = PMWShowComplete.Get("android.os.UWWith");
+        PMWShowComplete _ServiceManager = PMWShowComplete.Get("android.os.ServiceManager");
         getService = _ServiceManager.getMethod("getService", String.class);
         listServices = _ServiceManager.getMethod("listServices");
         sCache = _ServiceManager.getField("sCache").get(null, new HashMap<String, IBinder>());
@@ -134,7 +134,7 @@ double activityPrefPadding = 0.0;
         for (String name : list) {
             registerObserver(context, name, new DOxygenConnectivity() {
                 @Override
-                protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+                protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
                     IVBackgroundsText.e(getName() + ".onInvoke: " + KLibjcorePoker.dumpCall(method, args, null, true));
                     return super.onInvoke(source, method, args);
                 }

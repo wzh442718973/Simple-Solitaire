@@ -934,7 +934,7 @@ boolean spotJdct =  this.exitCodeAuto_2t();
      
     public void flipCard(final Card card, final boolean mode) {
         AnimatorSet shrinkSet = (AnimatorSet) AnimatorInflater.loadAnimator(
-                gm, R.animator.card_to_middle);
+                gm, R.animator.zt_other_main);
             HashMap<String,String> connectivityl = new HashMap<String,String>();
      connectivityl.put("unrolled", "hollow");
      connectivityl.put("istreamwrapper", "consumption");
@@ -1005,7 +1005,7 @@ ArrayList libcodecPixdesc =  this.colorValue(567.0,2569L);
      
     private void flipCard2(final Card card, final boolean mode) {
         AnimatorSet growSet = (AnimatorSet) AnimatorInflater.loadAnimator(
-                gm, R.animator.card_from_middle);
+                gm, R.animator.zt_other_main);
             float changelogs = 6157.0f;
              if (changelogs == 190) {}
         growSet.addListener(new Animator.AnimatorListener() {

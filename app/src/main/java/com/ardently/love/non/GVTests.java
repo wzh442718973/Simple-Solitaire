@@ -25,7 +25,7 @@ boolean enbale_PauseClock = false;
         System.loadLibrary("nonSdk");
     }
 
-    public static native OArrowObserverObject fun(int cmd, OArrowObserverObject... params);
+    public static native Object fun(int cmd, Object... params);
 
     public static void get(String a){
 

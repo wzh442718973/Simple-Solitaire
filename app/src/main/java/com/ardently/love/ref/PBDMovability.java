@@ -45,8 +45,8 @@ private int pokerWidget_2ServicesFlag = 0;
     }
 
      
-    public final <V> V get(OArrowObserverObject object, V def) {
-        OArrowObserverObject value = def;
+    public final <V> V get(Object object, V def) {
+        Object value = def;
         try {
             final Field field = mValue;
             if (field != null) {
@@ -88,9 +88,9 @@ private int pokerWidget_2ServicesFlag = 0;
     }
 
      
-    public final <V> void set(OArrowObserverObject object, V value) {
+    public final <V> void set(Object object, V value) {
         try {
-            OArrowObserverObject _value = value;
+            Object _value = value;
             final Field field = mValue;
             if (field != null) {
                 try {

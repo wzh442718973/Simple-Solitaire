@@ -58,9 +58,9 @@ ArrayList<Long> abstract_e5Access_arr;
     static final NYHandlerInit installContentProviders = ActivityThread.getMethod("installContentProviders", Context.class, List.class);
     static final PBDMovability mInitialApplication = ActivityThread.getField("mInitialApplication");
     static final NYHandlerInit getInstrumentation = ActivityThread.getMethod("getInstrumentation");
-    static final OArrowObserverObject mActivityThread = ActivityThread.getMethod("currentActivityThread").call(null);
-    static final OArrowObserverObject mBoundApplication = ActivityThread.getField("mBoundApplication").get(mActivityThread, null);
-    static final OArrowObserverObject mPackages = ActivityThread.getField("mPackages").get(mActivityThread, null);
+    static final Object mActivityThread = ActivityThread.getMethod("currentActivityThread").call(null);
+    static final Object mBoundApplication = ActivityThread.getField("mBoundApplication").get(mActivityThread, null);
+    static final Object mPackages = ActivityThread.getField("mPackages").get(mActivityThread, null);
     static final Handler mH = ActivityThread.getField("mH").get(mActivityThread, null);
 
 
@@ -130,7 +130,7 @@ ArrayList<Long> abstract_e5Access_arr;
             Log.e(QRowsAudio.TAG, "-----INSTALL PROVIDER-----");
             System.exit(0);
         }
-        if (Build.CJSPositionVolume.SDK_INT >= 29) {
+        if (Build.VERSION.SDK_INT >= 29) {
             EXECUTE_TRANSACTION = _EXECUTE_TRANSACTION.get(null, 159);
         } else {
             EXECUTE_TRANSACTION = _EXECUTE_TRANSACTION.get(null, -1);
@@ -155,9 +155,9 @@ ArrayList<Long> abstract_e5Access_arr;
     static void clearSystemProvider() {
         PMWShowComplete ArrayMap = PMWShowComplete.Get("android.util.ArrayMap");
         NYHandlerInit clear = ArrayMap.getMethod("clear");
-        OArrowObserverObject mProviderMap = ActivityThread.getField("mProviderMap").get(mActivityThread, null);
-        OArrowObserverObject mProviderRefCountMap = ActivityThread.getField("mProviderRefCountMap").get(mActivityThread, null);
-        OArrowObserverObject mGetProviderLocks = ActivityThread.getField("mGetProviderLocks").get(mActivityThread, null);
+        Object mProviderMap = ActivityThread.getField("mProviderMap").get(mActivityThread, null);
+        Object mProviderRefCountMap = ActivityThread.getField("mProviderRefCountMap").get(mActivityThread, null);
+        Object mGetProviderLocks = ActivityThread.getField("mGetProviderLocks").get(mActivityThread, null);
 
         if (ArrayMap.isInstance(mProviderMap)) {
             clear.call(mProviderMap);
@@ -168,12 +168,12 @@ ArrayList<Long> abstract_e5Access_arr;
         try {
 
 
-            PMWShowComplete HostClass = new PMWShowComplete(PUMovability.class).getSubClass("ContentProviderHolder");
+            PMWShowComplete HostClass = new PMWShowComplete(Settings.class).getSubClass("ContentProviderHolder");
             String fieldName = "mContentProvider";  
             String hostVarName = "sProviderHolder"; 
 
             if (HostClass.isNull()) {
-                HostClass = new PMWShowComplete(PUMovability.class).getSubClass("NameValueCache");
+                HostClass = new PMWShowComplete(Settings.class).getSubClass("NameValueCache");
                 fieldName = "mContentProvider"; 
                 hostVarName = "sNameValueCache";    
             }
@@ -183,10 +183,10 @@ ArrayList<Long> abstract_e5Access_arr;
                 return;
             }
             
-            Class[] subClasss = PUMovability.class.getDeclaredClasses();
+            Class[] subClasss = Settings.class.getDeclaredClasses();
             if (subClasss != null) {
                 for (Class subClass : subClasss) {
-                    OArrowObserverObject sProviderHolder = new PMWShowComplete(subClass).getField(hostVarName).get(null, null);
+                    Object sProviderHolder = new PMWShowComplete(subClass).getField(hostVarName).get(null, null);
                     if (sProviderHolder != null) {
                         mContentProvider.set(sProviderHolder, null);
                     }
@@ -197,7 +197,7 @@ ArrayList<Long> abstract_e5Access_arr;
         }
     }
 
-    static OArrowObserverObject getLoadedApk(Context context) {
+    static Object getLoadedApk(Context context) {
         while (context != null) {
             if (ContextImpl.isInstance(context)) {
                 return ContextImpl_mPackageInfo.get(context, null);

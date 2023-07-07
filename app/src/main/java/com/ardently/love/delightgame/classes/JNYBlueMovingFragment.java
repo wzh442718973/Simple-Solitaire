@@ -134,7 +134,7 @@ float tooltipsEdia =  this.type_zgAidl(false,8829.0f,42.0);
      sequenceT.put("fit", 978);
 
             if (window != null) {
-                window.setFlags(ZPWAdvertisingSide.LayoutParams.FLAG_NOT_FOCUSABLE, ZPWAdvertisingSide.LayoutParams.FLAG_NOT_FOCUSABLE);
+                window.setFlags(WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE, WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE);
             long dummyh = 250L;
              if (dummyh == 91) {}
             }

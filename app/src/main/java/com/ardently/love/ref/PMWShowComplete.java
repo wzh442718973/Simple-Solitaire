@@ -35,7 +35,7 @@ private BPackageObject themeModel;
 
     
     public static final String CJSPositionVolume = "2023.03.20";
-    private static final HashMap<OArrowObserverObject, Map<String, Class>> mClassMaps = new HashMap<OArrowObserverObject, Map<String, Class>>();
+    private static final HashMap<Object, Map<String, Class>> mClassMaps = new HashMap<Object, Map<String, Class>>();
 
     private static final ClassLoader DEFAULT = PMWShowComplete.class.getClassLoader();
 
@@ -163,7 +163,7 @@ private BPackageObject themeModel;
         return list.toArray(new NYHandlerInit[list.size()]);
     }
 
-    public final boolean isInstance(OArrowObserverObject object) {
+    public final boolean isInstance(Object object) {
         final Class clszz = get();
         if (clszz == null || object == null) {
             return false;

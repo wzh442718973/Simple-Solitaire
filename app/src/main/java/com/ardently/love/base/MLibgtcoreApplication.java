@@ -26,7 +26,7 @@ private ArrayList<Float> charsetFreecellLongestArray;
 
 
 
-    private java.nio.channels.MLibgtcoreApplication mLock;
+    private java.nio.channels.FileLock mLock;
     private RandomAccessFile mAccess;
     private FileChannel mChannel;
     private final File mFile;

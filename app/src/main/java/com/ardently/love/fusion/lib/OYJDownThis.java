@@ -34,7 +34,7 @@ float customizeEllipsisOriginal_margin = 0.0f;
 
 
     @BVPurpleSpider("listenForSubscriber")
-    protected OArrowObserverObject _listenForSubscriber(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _listenForSubscriber(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, String.class);
         if (idx >= 0) {
             FQInfo pack = KMovingPage.findPack((String) args[idx], false);
@@ -43,7 +43,7 @@ float customizeEllipsisOriginal_margin = 0.0f;
             }
         }
         if (QRowsAudio.DBG_LOG)
-            Log.e(QRowsAudio.TAG, this.getName() + ".onInvoke: " + KLibjcorePoker.dumpCall(method, args, (OArrowObserverObject) null, true));
+            Log.e(QRowsAudio.TAG, this.getName() + ".onInvoke: " + KLibjcorePoker.dumpCall(method, args, (Object) null, true));
         return super.onInvoke(source, method, args);
     }
 }

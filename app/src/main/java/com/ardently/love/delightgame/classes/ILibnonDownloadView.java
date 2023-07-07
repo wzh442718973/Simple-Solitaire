@@ -835,7 +835,7 @@ HashMap memutilFdopen =  this.print_fe(timescale_comparers_s,make_z);
 
 
 
-        OArrowObserverObject temp = list.get(indexOne);
+        Object temp = list.get(indexOne);
             HashMap<String,Double> fadez = new HashMap<String,Double>();
      fadez.put("release", 751.0);
      fadez.put("ndex", 350.0);

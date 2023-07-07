@@ -32,13 +32,13 @@ HashMap<String,Float> greenVertical_dict;
 
 
     @BVPurpleSpider("isServiceEnabled")
-    public OArrowObserverObject _isServiceEnabled(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    public Object _isServiceEnabled(Object source, Method method, Object[] args) throws Throwable {
         args[1] = FQInfo.A.getPkgName();
         return super.onInvoke(source, method, args);
     }
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, ComponentName.class);
         if (idx >= 0) {
             ComponentName cn = (ComponentName) args[idx];

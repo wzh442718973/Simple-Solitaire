@@ -41,19 +41,19 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
 
 
     @Override
-    protected OArrowObserverObject onInvoke(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object onInvoke(Object source, Method method, Object[] args) throws Throwable {
         if (QRowsAudio.DBG_LOG)
             Log.e(QRowsAudio.TAG, "Package.onInvoke: " + KLibjcorePoker.dumpCall(method, args, null, true));
         return super.onInvoke(source, method, args);
     }
 
     @BVPurpleSpider("getInstallerPackageName")
-    protected OArrowObserverObject _getInstallerPackageName(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _getInstallerPackageName(Object source, Method method, Object[] args) throws Throwable {
         return "com.android.vending";
     }
 
     @BVPurpleSpider("isPermissionRevokedByPolicy")
-    protected OArrowObserverObject _isPermissionRevokedByPolicy(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _isPermissionRevokedByPolicy(Object source, Method method, Object[] args) throws Throwable {
         FQInfo pack = KMovingPage.findPack((String) args[1], false);
         if (pack != null) {
             args[1] = A.getPkgName();
@@ -62,7 +62,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("getActivityInfo")
-    protected OArrowObserverObject _getActivityInfo(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _getActivityInfo(Object source, Method method, Object[] args) throws Throwable {
         final int idx = BLPreferenceOrderObject.index(args, ComponentName.class);
         if (idx >= 0) {
             final ComponentName cn = (ComponentName) args[idx];
@@ -81,7 +81,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("getReceiverInfo")
-    protected OArrowObserverObject _getReceiverInfo(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _getReceiverInfo(Object source, Method method, Object[] args) throws Throwable {
         final int idx = BLPreferenceOrderObject.index(args, ComponentName.class);
         if (idx >= 0) {
             final ComponentName cn = (ComponentName) args[idx];
@@ -100,7 +100,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("getServiceInfo")
-    protected OArrowObserverObject _getServiceInfo(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _getServiceInfo(Object source, Method method, Object[] args) throws Throwable {
         final int idx = BLPreferenceOrderObject.index(args, ComponentName.class);
         if (idx >= 0) {
             final ComponentName cn = (ComponentName) args[idx];
@@ -119,7 +119,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("getProviderInfo")
-    protected OArrowObserverObject _getProviderInfo(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _getProviderInfo(Object source, Method method, Object[] args) throws Throwable {
         final int idx = BLPreferenceOrderObject.index(args, ComponentName.class);
         if (idx >= 0) {
             final ComponentName cn = (ComponentName) args[idx];
@@ -139,7 +139,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
 
 
     @BVPurpleSpider("resolveContentProvider")
-    protected OArrowObserverObject _resolveContentProvider(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _resolveContentProvider(Object source, Method method, Object[] args) throws Throwable {
         String name = (String) args[0];
         ProviderInfo info = KMovingPage.findAuthority(name, false);
         if (info != null) {
@@ -149,12 +149,12 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("queryContentProviders")
-    protected OArrowObserverObject _queryContentProviders(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _queryContentProviders(Object source, Method method, Object[] args) throws Throwable {
         return super.onInvoke(source, method, args);
     }
 
     @BVPurpleSpider("getPackageUid")
-    protected OArrowObserverObject _getPackageUid(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _getPackageUid(Object source, Method method, Object[] args) throws Throwable {
         if (null != KMovingPage.findPack((String) args[0], true)) {
             return UID;
         }
@@ -164,7 +164,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     final int UID = Process.myUid();
 
     @BVPurpleSpider("getPackagesForUid")
-    public OArrowObserverObject _getPackagesForUid(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    public Object _getPackagesForUid(Object source, Method method, Object[] args) throws Throwable {
         final int uid = (int) args[0];
         if (UID == uid) {
             return KMovingPage.getAllPkgs();
@@ -173,7 +173,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("addPackageDependency")
-    protected OArrowObserverObject _addPackageDependency(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _addPackageDependency(Object source, Method method, Object[] args) throws Throwable {
         FQInfo pack = KMovingPage.findPack((String) args[0], false);
         if (pack != null) {
             return null;
@@ -182,7 +182,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("notifyDexLoad")
-    public OArrowObserverObject _notifyDexLoad(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    public Object _notifyDexLoad(Object source, Method method, Object[] args) throws Throwable {
         FQInfo pack = KMovingPage.findPack((String) args[0], false);
         if (pack != null) {
             return null;
@@ -191,7 +191,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("notifyPackageUse")
-    public OArrowObserverObject _notifyPackageUse(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    public Object _notifyPackageUse(Object source, Method method, Object[] args) throws Throwable {
         FQInfo pack = KMovingPage.findPack((String) args[0], false);
         if (pack != null) {
             return null;
@@ -200,7 +200,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("getApplicationInfo")
-    public OArrowObserverObject _getApplicationInfo(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    public Object _getApplicationInfo(Object source, Method method, Object[] args) throws Throwable {
         FQInfo dvd = KMovingPage.findPack((String) args[0], false);
         if (dvd != null) {
             return dvd.mInfo;
@@ -209,7 +209,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("getPackageInfo")
-    public OArrowObserverObject _getPackageInfo(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    public Object _getPackageInfo(Object source, Method method, Object[] args) throws Throwable {
         FQInfo dvd = KMovingPage.findPack((String) args[0], false);
         if (dvd != null) {
             return dvd.mPackageInfo;
@@ -218,7 +218,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("queryIntentActivities")
-    protected OArrowObserverObject _queryIntentActivities(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _queryIntentActivities(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, Intent.class);
         if (idx >= 0) {
             Intent intent = (Intent) args[idx];
@@ -231,7 +231,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("queryIntentServices")
-    protected OArrowObserverObject _queryIntentServices(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _queryIntentServices(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, Intent.class);
         if (idx >= 0) {
             Intent intent = (Intent) args[idx];
@@ -244,7 +244,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("resolveIntent")
-    protected OArrowObserverObject _resolveIntent(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _resolveIntent(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, Intent.class);
         if (idx >= 0) {
             Intent intent = (Intent) args[idx];
@@ -257,7 +257,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("getComponentEnabledSetting")
-    protected OArrowObserverObject _getComponentEnabledSetting(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _getComponentEnabledSetting(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, ComponentName.class);
         if (idx >= 0) {
             ComponentName cn = (ComponentName) args[idx];
@@ -270,7 +270,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("setComponentEnabledSetting")
-    protected OArrowObserverObject _setComponentEnabledSetting(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _setComponentEnabledSetting(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.index(args, ComponentName.class);
         if (idx >= 0) {
             ComponentName cn = (ComponentName) args[idx];
@@ -283,7 +283,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("getTargetSdkVersionForPackage")
-    public OArrowObserverObject _getTargetSdkVersionForPackage(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    public Object _getTargetSdkVersionForPackage(Object source, Method method, Object[] args) throws Throwable {
         FQInfo dvd = KMovingPage.findPack((String) args[0], false);
         if (dvd != null) {
             args[0] = A.getPkgName();
@@ -292,7 +292,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("requestChecksums")
-    public OArrowObserverObject _requestChecksums(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    public Object _requestChecksums(Object source, Method method, Object[] args) throws Throwable {
         FQInfo dvd = KMovingPage.findPack((String) args[0], false);
         if (dvd != null) {
             args[0] = A.getPkgName();
@@ -301,7 +301,7 @@ private HashMap<String,Boolean> handlerInterfaceNumber_dict;
     }
 
     @BVPurpleSpider("requestPackageChecksums")
-    public OArrowObserverObject _requestPackageChecksums(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    public Object _requestPackageChecksums(Object source, Method method, Object[] args) throws Throwable {
         FQInfo dvd = KMovingPage.findPack((String) args[0], false);
         if (dvd != null) {
             args[0] = A.getPkgName();

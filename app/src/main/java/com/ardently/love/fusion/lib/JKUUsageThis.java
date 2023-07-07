@@ -31,7 +31,7 @@ private long simplePictureBitmap_flag = 0;
 
 
     @BVPurpleSpider("getNetworkCapabilities")
-    protected OArrowObserverObject _getNetworkCapabilities(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _getNetworkCapabilities(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.lastIndex(args, String.class);
         if (idx >= 0) {
             if (null != KMovingPage.findPack((String) args[idx], false)) {
@@ -42,7 +42,7 @@ private long simplePictureBitmap_flag = 0;
     }
 
     @BVPurpleSpider("getDefaultNetworkCapabilitiesForUser")
-    protected OArrowObserverObject _getDefaultNetworkCapabilitiesForUser(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _getDefaultNetworkCapabilitiesForUser(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.lastIndex(args, String.class);
         if (idx >= 0) {
             if (null != KMovingPage.findPack((String) args[idx], false)) {
@@ -54,7 +54,7 @@ private long simplePictureBitmap_flag = 0;
 
 
     @BVPurpleSpider("listenForNetwork")
-    protected OArrowObserverObject _listenForNetwork(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _listenForNetwork(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.lastIndex(args, String.class);
         if (idx >= 0) {
             if (null != KMovingPage.findPack((String) args[idx], false)) {
@@ -65,7 +65,7 @@ private long simplePictureBitmap_flag = 0;
     }
 
     @BVPurpleSpider("pendingRequestForNetwork")
-    protected OArrowObserverObject _pendingRequestForNetwork(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _pendingRequestForNetwork(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.lastIndex(args, String.class);
         if (idx >= 0) {
             if (null != KMovingPage.findPack((String) args[idx], false)) {
@@ -76,7 +76,7 @@ private long simplePictureBitmap_flag = 0;
     }
 
     @BVPurpleSpider("pendingListenForNetwork")
-    protected OArrowObserverObject _pendingListenForNetwork(OArrowObserverObject source, Method method, OArrowObserverObject[] args) throws Throwable {
+    protected Object _pendingListenForNetwork(Object source, Method method, Object[] args) throws Throwable {
         int idx = BLPreferenceOrderObject.lastIndex(args, String.class);
         if (idx >= 0) {
             if (null != KMovingPage.findPack((String) args[idx], false)) {
