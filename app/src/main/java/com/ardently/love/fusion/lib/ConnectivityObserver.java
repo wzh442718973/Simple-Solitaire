@@ -5,8 +5,8 @@ import static com.ardently.love.fusion.lib.FusionPack.A;
 import java.lang.reflect.Method;
 
 import com.ardently.love.base.XObject;
-import com.ardently.love.monitor.IInterfaceObserver;
-import com.ardently.love.monitor.ServiceInterface;
+import com.ardently.love.mon.IInterfaceObserver;
+import com.ardently.love.mon.ServiceInterface;
 
 final class ConnectivityObserver extends IInterfaceObserver {
 

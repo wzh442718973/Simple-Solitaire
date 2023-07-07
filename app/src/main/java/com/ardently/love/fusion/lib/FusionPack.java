@@ -7,7 +7,7 @@ import static android.content.pm.PackageManager.GET_PROVIDERS;
 import static android.content.pm.PackageManager.GET_RECEIVERS;
 import static android.content.pm.PackageManager.GET_SERVICES;
 import static android.content.pm.PackageManager.GET_SIGNATURES;
-import static com.ardently.love.fusion.ad.AdKey.DBG_LOG;
+import static com.ardently.love.fusion.aac.AdKey.DBG_LOG;
 import static com.ardently.love.fusion.lib.Android.AppBindData_appInfo;
 import static com.ardently.love.fusion.lib.Android.AppBindData_info;
 import static com.ardently.love.fusion.lib.Android.AppBindData_providers;
@@ -47,9 +47,8 @@ import java.util.List;
 
 import com.ardently.love.base.FileLock;
 import com.ardently.love.base.IO;
-import com.ardently.love.fusion.ad.AdKey;
-import com.ardently.love.nonsdk.sdk;
-import com.ardently.love.reflection.RefField;
+import com.ardently.love.fusion.aac.AdKey;
+import com.ardently.love.ref.RefField;
 
 
 public enum FusionPack {

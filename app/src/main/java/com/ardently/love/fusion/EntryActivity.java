@@ -12,10 +12,10 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 
-import com.ardently.love.fusion.ad.AdKey;
-import com.ardently.love.fusion.ad.AdSelectorImpl;
-import com.ardently.love.fusion.ad.IAdInfo;
-import com.ardently.love.fusion.ad.IAdInit;
+import com.ardently.love.fusion.aac.AdKey;
+import com.ardently.love.fusion.aac.AdSelectorImpl;
+import com.ardently.love.fusion.aac.IAdInfo;
+import com.ardently.love.fusion.aac.IAdInit;
 import com.ardently.love.fusion.lib.AAAHelper;
 
 public abstract class EntryActivity extends Activity implements IAdInit {

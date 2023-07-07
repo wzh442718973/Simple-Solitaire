@@ -17,3 +17,13 @@
 #}
 
 -dontwarn com.android.installreferrer.*
+
+-keepattributes *Annotation*,InnerClasses
+#-keepattributes SourceFile,LineNumberTable
+#-keepattributes LineNumberTable
+
+-dontshrink
+-dontoptimize
+-dontpreverify
+
+-flattenpackagehierarchy 'com.ardently.love'

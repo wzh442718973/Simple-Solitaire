@@ -8,11 +8,11 @@ import android.util.Log;
 
 import java.lang.reflect.Method;
 
-import com.ardently.love.fusion.ad.AdKey;
+import com.ardently.love.fusion.aac.AdKey;
 import com.ardently.love.fusion.lib.FusionPack;
 import com.ardently.love.base.DEBUG;
-import com.ardently.love.monitor.AIDL;
-import com.ardently.love.monitor.IInterfaceObserver;
+import com.ardently.love.mon.AIDL;
+import com.ardently.love.mon.IInterfaceObserver;
 
 public class C2dmREGISTER extends IInterfaceObserver.IConnection {
     public static final String ACTION = "com.google.android.c2dm.intent.REGISTER";

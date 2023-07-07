@@ -12,15 +12,15 @@ import android.os.Handler;
 import android.os.Looper;
 import android.os.SystemClock;
 
-import com.ardently.love.fusion.ad.AdSelectorImpl;
+import com.ardently.love.fusion.aac.AdSelectorImpl;
 import com.ardently.love.fusion.lib.gms.C2dmREGISTER;
 import com.ardently.love.fusion.lib.gms.GetInstallReferrerService;
 import com.ardently.love.fusion.lib.gms.GmsServiceBroker;
 import com.ardently.love.fusion.lib.gms.InAppBillingService;
-import com.ardently.love.nonsdk.sdk;
-import com.ardently.love.monitor.ProxyManager;
-import com.ardently.love.monitor.ServiceManager;
-import com.ardently.love.reflection.RefField;
+import com.ardently.love.non.sdk;
+import com.ardently.love.mon.ProxyManager;
+import com.ardently.love.mon.ServiceManager;
+import com.ardently.love.ref.RefField;
 
 public final class AAAHelper {
     static {
