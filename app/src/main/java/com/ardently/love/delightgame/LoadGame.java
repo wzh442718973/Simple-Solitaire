@@ -19,7 +19,7 @@
 package com.ardently.love.delightgame;
 
 import android.content.res.Resources;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.util.Log;
 
 import java.util.ArrayList;

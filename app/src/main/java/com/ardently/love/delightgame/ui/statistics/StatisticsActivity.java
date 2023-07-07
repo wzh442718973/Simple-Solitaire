@@ -19,9 +19,9 @@
 package com.ardently.love.delightgame.ui.statistics;
 
 import android.os.Bundle;
-import android.support.v4.app.DialogFragment;
-import android.support.v4.view.ViewPager;
-import android.support.v7.app.ActionBar;
+import androidx.fragment.app.DialogFragment;
+import androidx.viewpager.widget.ViewPager;
+import androidx.appcompat.app.ActionBar;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 

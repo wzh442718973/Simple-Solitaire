@@ -21,7 +21,7 @@ package com.ardently.love.delightgame.classes;
 import android.content.Context;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.WindowManager;
 
 import com.ardently.love.delightgame.handler.HandlerStopBackgroundMusic;
